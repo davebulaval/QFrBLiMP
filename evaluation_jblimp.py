@@ -30,6 +30,8 @@ for model_name in model_names:
     evaluation_fn = partial(evaluation, tokenizer=tokenizer, model=model, device=device)
 
     dataset = load_dataset("polm-stability/jblimp")
+    dataset = dataset.rename_column("good_sentence", "sentence_good")
+    dataset = dataset.rename_column("bad_sentence", "sentence_bad")
 
     process_dataset = dataset.map(evaluation_fn)
 

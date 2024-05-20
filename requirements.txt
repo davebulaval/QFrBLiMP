@@ -9,3 +9,4 @@ accelerate
 fugashi
 ipadic
 bitsandbytes
+unidic_lite

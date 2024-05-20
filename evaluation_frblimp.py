@@ -21,7 +21,7 @@ model_names = [
     "FacebookAI/xlm-roberta-base",
     "FacebookAI/xlm-roberta-large",
 ]
-# device = torch.device("cuda")
+device = torch.device("cuda")
 
 all_results = {}
 for model_name in model_names:
@@ -35,7 +35,7 @@ for model_name in model_names:
 
     evaluation_fn = partial(evaluation, tokenizer=tokenizer, model=model, device=device)
 
-    dataset = load_dataset("datastore/dataset")
+    dataset = load_dataset("datastore", data_files="dataset.tsv")
 
     process_dataset = dataset.map(evaluation_fn)
 

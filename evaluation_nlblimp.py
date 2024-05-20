@@ -16,10 +16,8 @@ secrets = dotenv_values(".env")
 token = secrets["huggingface_token"]
 
 model_names = [
-    "almanach/camembert-base",
-    "almanach/camembert-large",
-    "dbmdz/bert-base-french-europeana-cased",
-    "ClassCat/gpt2-base-french",
+    "GroNLP/bert-base-dutch-cased",
+    "pdelobelle/robbert-v2-dutch-base",
     "meta-llama/Llama-2-7b-hf",
     "FacebookAI/xlm-roberta-base",
     "FacebookAI/xlm-roberta-large",
@@ -34,7 +32,8 @@ for model_name in model_names:
     evaluation_fn = partial(evaluation, tokenizer=tokenizer, model=model, device=device)
 
     dataset = load_dataset(
-        os.path.join("datastore", "FrBLiMP"), data_files="dataset.tsv"
+        os.path.join("datastore", "BLiMP-NL"),
+        data_files=os.listdir(os.path.join("datastore", "BLiMP-NL")),
     )
 
     process_dataset = dataset.map(evaluation_fn)

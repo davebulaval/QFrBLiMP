@@ -32,7 +32,7 @@ for model_name in model_names:
     if "llama" in model_name:
         model = AutoModelForCausalLM.from_pretrained(
             model_name, token=token, load_in_8bit=True
-        ).to(device)
+        )
         model.eval()
         tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
     else:

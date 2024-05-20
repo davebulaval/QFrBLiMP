@@ -16,6 +16,7 @@ def model_tokenizer_factory(model_name, device, token):
         model = AutoModelForCausalLM.from_pretrained(
             model_name,
             token=token,
+            low_cpu_mem_usage=True,
             quantization_config=BitsAndBytesConfig(load_in_8bit=True),
         )
         model.eval()

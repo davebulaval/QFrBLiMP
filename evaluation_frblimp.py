@@ -36,7 +36,9 @@ for model_name in model_names:
         model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
         tokenizer = GPT2TokenizerFast.from_pretrained(model_name)
     elif "llama" in model_name:
-        model = AutoModelForCausalLM.from_pretrained(model_name, token=token).to(device)
+        model = AutoModelForCausalLM.from_pretrained(
+            model_name, token=token, load_in_8bit=True
+        ).to(device)
         model.eval()
         tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
     else:

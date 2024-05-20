@@ -3,12 +3,17 @@ from functools import partial
 
 import torch
 from datasets import load_dataset
+from dotenv import dotenv_values
 from transformers import (
     AutoModelForMaskedLM,
     AutoTokenizer,
 )
 
 from evaluation_tools import evaluation
+
+secrets = dotenv_values(".env")
+
+token = secrets["huggingface_token"]
 
 model_names = [
     "tohoku-nlp/bert-base-japanese-v3",
@@ -21,9 +26,9 @@ device = torch.device("cuda")
 
 all_results = {}
 for model_name in model_names:
-    model = AutoModelForMaskedLM.from_pretrained(model_name).to(device)
+    model = AutoModelForMaskedLM.from_pretrained(model_name, token=token).to(device)
     model.eval()
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
 
     evaluation_fn = partial(evaluation, tokenizer=tokenizer, model=model, device=device)
 

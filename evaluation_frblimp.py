@@ -13,6 +13,12 @@ from transformers import (
 
 from evaluation_tools import evaluation
 
+device = torch.device("cuda")
+
+secrets = dotenv_values(".env")
+
+token = secrets["huggingface_token"]
+
 model_names = [
     "almanach/camembert-base",
     "almanach/camembert-large",
@@ -22,19 +28,16 @@ model_names = [
     "FacebookAI/xlm-roberta-base",
     "FacebookAI/xlm-roberta-large",
 ]
-device = torch.device("cuda")
-
-secrets = dotenv_values(".env")
 
 all_results = {}
 for model_name in model_names:
     if "gpt" in model_name:
-        model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
-        tokenizer = GPT2TokenizerFast.from_pretrained(model_name)
+        model = GPT2LMHeadModel.from_pretrained(model_name, token=token).to(device)
+        tokenizer = GPT2TokenizerFast.from_pretrained(model_name, token=token)
     else:
-        model = AutoModelForMaskedLM.from_pretrained(model_name).to(device)
+        model = AutoModelForMaskedLM.from_pretrained(model_name, token=token).to(device)
         model.eval()
-        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
 
     evaluation_fn = partial(evaluation, tokenizer=tokenizer, model=model, device=device)
 

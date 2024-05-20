@@ -86,6 +86,7 @@ model_names = [
     "gpt2",
     "google-bert/bert-base-uncased",
     "google-bert/bert-large-uncased",
+    "meta-llama/Llama-2-7b-hf",
     "FacebookAI/roberta-base",
     "FacebookAI/xlm-roberta-base",
     "FacebookAI/xlm-roberta-large",

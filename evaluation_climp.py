@@ -13,6 +13,7 @@ from evaluation_tools import evaluation
 model_names = [
     "google-bert/bert-base-chinese",
     "hfl/chinese-macbert-base",
+    "meta-llama/Llama-2-7b-hf",
     "zhichen/Llama3-Chinese",
     "FacebookAI/xlm-roberta-base",
     "FacebookAI/xlm-roberta-large",

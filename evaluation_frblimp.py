@@ -3,6 +3,7 @@ from functools import partial
 
 import torch
 from datasets import load_dataset
+from dotenv import dotenv_values
 from transformers import (
     AutoModelForMaskedLM,
     AutoTokenizer,
@@ -17,11 +18,13 @@ model_names = [
     "almanach/camembert-large",
     "dbmdz/bert-base-french-europeana-cased",
     "ClassCat/gpt2-base-french",
-    "LiteLLMs/French-Alpaca-Llama3-8B-Instruct-v1.0-GGUF",
+    "meta-llama/Llama-2-7b-hf",
     "FacebookAI/xlm-roberta-base",
     "FacebookAI/xlm-roberta-large",
 ]
 device = torch.device("cuda")
+
+secrets = dotenv_values(".env")
 
 all_results = {}
 for model_name in model_names:

@@ -12,6 +12,7 @@ from evaluation_tools import evaluation
 
 model_names = [
     "tohoku-nlp/bert-base-japanese-v3",
+    "meta-llama/Llama-2-7b-hf",
     "elyza/ELYZA-japanese-Llama-2-7b-fast-instruct",
     "FacebookAI/xlm-roberta-base",
     "FacebookAI/xlm-roberta-large",

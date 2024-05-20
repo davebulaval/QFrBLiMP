@@ -7,6 +7,10 @@ from transformers import (
     BitsAndBytesConfig,
 )
 
+from transformers import logging
+
+logging.set_verbosity_warning()
+
 
 def model_tokenizer_factory(model_name, device, token):
     if "gpt" in model_name:

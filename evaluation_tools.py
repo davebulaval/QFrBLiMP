@@ -1,6 +1,9 @@
 # REF: https://huggingface.co/spaces/zoebat20/BLiMP/blob/main/app.py
 
 import torch
+from transformers import logging
+
+logging.set_verbosity_warning()
 
 
 def evaluation(row, tokenizer, model, device):

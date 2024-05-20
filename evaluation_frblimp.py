@@ -5,10 +5,12 @@ from functools import partial
 import torch
 from datasets import load_dataset
 from dotenv import dotenv_values
+from transformers import logging
 
 from evaluation_tools import evaluation
 from factory import model_tokenizer_factory
 
+logging.set_verbosity_warning()
 device = torch.device("cuda")
 
 secrets = dotenv_values(".env")

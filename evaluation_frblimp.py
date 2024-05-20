@@ -10,9 +10,11 @@ from transformers import (
     GPT2LMHeadModel,
     GPT2TokenizerFast,
     AutoModelForCausalLM,
+    BitsAndBytesConfig,
 )
 
 from evaluation_tools import evaluation
+from factory import model_tokenizer_factory
 
 device = torch.device("cuda")
 
@@ -32,19 +34,9 @@ model_names = [
 
 all_results = {}
 for model_name in model_names:
-    if "gpt" in model_name:
-        model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
-        tokenizer = GPT2TokenizerFast.from_pretrained(model_name)
-    elif "llama" in model_name:
-        model = AutoModelForCausalLM.from_pretrained(
-            model_name, token=token, load_in_8bit=True
-        )
-        model.eval()
-        tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
-    else:
-        model = AutoModelForMaskedLM.from_pretrained(model_name).to(device)
-        model.eval()
-        tokenizer = AutoTokenizer.from_pretrained(model_name)
+    model, tokenizer = model_tokenizer_factory(
+        model_name=model_name, device=device, token=token
+    )
 
     evaluation_fn = partial(evaluation, tokenizer=tokenizer, model=model, device=device)
 

@@ -7,6 +7,7 @@ from dotenv import dotenv_values
 from transformers import (
     AutoModelForMaskedLM,
     AutoTokenizer,
+    AutoModelForCausalLM,
 )
 
 from evaluation_tools import evaluation
@@ -28,9 +29,14 @@ device = torch.device("cuda")
 
 all_results = {}
 for model_name in model_names:
-    model = AutoModelForMaskedLM.from_pretrained(model_name, token=token).to(device)
-    model.eval()
-    tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
+    if "llama" in model_name:
+        model = AutoModelForCausalLM.from_pretrained(model_name, token=token).to(device)
+        model.eval()
+        tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
+    else:
+        model = AutoModelForMaskedLM.from_pretrained(model_name).to(device)
+        model.eval()
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
 
     evaluation_fn = partial(evaluation, tokenizer=tokenizer, model=model, device=device)
 

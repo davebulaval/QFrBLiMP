@@ -9,6 +9,7 @@ from transformers import (
     AutoTokenizer,
     GPT2LMHeadModel,
     GPT2TokenizerFast,
+    AutoModelForCausalLM,
 )
 
 from evaluation_tools import evaluation
@@ -32,12 +33,16 @@ model_names = [
 all_results = {}
 for model_name in model_names:
     if "gpt" in model_name:
-        model = GPT2LMHeadModel.from_pretrained(model_name, token=token).to(device)
-        tokenizer = GPT2TokenizerFast.from_pretrained(model_name, token=token)
-    else:
-        model = AutoModelForMaskedLM.from_pretrained(model_name, token=token).to(device)
+        model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
+        tokenizer = GPT2TokenizerFast.from_pretrained(model_name)
+    elif "llama" in model_name:
+        model = AutoModelForCausalLM.from_pretrained(model_name, token=token).to(device)
         model.eval()
         tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
+    else:
+        model = AutoModelForMaskedLM.from_pretrained(model_name).to(device)
+        model.eval()
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
 
     evaluation_fn = partial(evaluation, tokenizer=tokenizer, model=model, device=device)
 

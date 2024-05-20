@@ -109,9 +109,7 @@ for model_name in model_names:
     for name in names:
         dataset = load_dataset("nyu-mll/blimp", name)
 
-        process_dataset = dataset.map(
-            evaluation_fn, batched=True, batch_size=16, num_proc=2
-        )
+        process_dataset = dataset.map(evaluation_fn, batched=True, batch_size=16)
 
         minimal_pair_comparison = process_dataset["train"]["minimal_pair_comparison"]
         accuracy = round(

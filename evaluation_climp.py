@@ -30,7 +30,7 @@ for model_name in model_names:
 
     evaluation_fn = partial(evaluation, tokenizer=tokenizer, model=model, device=device)
 
-    dataset = load_dataset("suchirsalhan/CLiMP")
+    dataset = load_dataset("datastore/CLiMP", data_files=["climp.jsonl"])
 
     process_dataset = dataset.map(evaluation_fn)
 

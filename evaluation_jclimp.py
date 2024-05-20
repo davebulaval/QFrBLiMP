@@ -28,7 +28,7 @@ for model_name in model_names:
 
     dataset = load_dataset("polm-stability/jblimp")
 
-    process_dataset = dataset.map(evaluation_fn, batched=False, batch_size=16)
+    process_dataset = dataset.map(evaluation_fn)
 
     accuracy = round(sum(process_dataset) / len(process_dataset) * 100, 2)
 

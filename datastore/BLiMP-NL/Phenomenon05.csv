@@ -1,0 +1,801 @@
+Number (phenomenon),Phenomenon,Number (paradigm),Paradigm,Item,Grammaticality,Sentence,Critical word(s),Cue word(s)
+5,Passive,18,impersonal,1,Grammatical,Er wordt sowieso gehuild tijdens het afscheid.,gehuild,Er
+5,Passive,18,impersonal,1,Ungrammatical,James wordt sowieso gehuild tijdens het afscheid.,gehuild,James
+5,Passive,18,impersonal,2,Grammatical,Er wordt veel gelachen door de vriendinnen.,gelachen,Er
+5,Passive,18,impersonal,2,Ungrammatical,Yara wordt veel gelachen door de vriendinnen.,gelachen,Yara
+5,Passive,18,impersonal,3,Grammatical,Er wordt altijd gedanst op die feestjes.,gedanst,Er
+5,Passive,18,impersonal,3,Ungrammatical,Saar wordt altijd gedanst op die feestjes.,gedanst,Saar
+5,Passive,18,impersonal,4,Grammatical,Er wordt luid gegaapt tijdens het college.,gegaapt,Er
+5,Passive,18,impersonal,4,Ungrammatical,Liam wordt luid gegaapt tijdens het college.,gegaapt,Liam
+5,Passive,18,impersonal,5,Grammatical,Er wordt hard gewerkt op de boerderij.,gewerkt,Er
+5,Passive,18,impersonal,5,Ungrammatical,Luca wordt hard gewerkt op de boerderij.,gewerkt,Luca
+5,Passive,18,impersonal,6,Grammatical,Er werd snel gezwommen tijdens de wedstrijd.,gezwommen,Er
+5,Passive,18,impersonal,6,Ungrammatical,Liv werd snel gezwommen tijdens de wedstrijd.,gezwommen,Liv
+5,Passive,18,impersonal,7,Grammatical,Er werd hard gehoest in het ziekenhuis.,gehoest,Er
+5,Passive,18,impersonal,7,Ungrammatical,Milan werd hard gehoest in het ziekenhuis.,gehoest,Milan
+5,Passive,18,impersonal,8,Grammatical,Er werd veel geskied op de piste.,geskied,Er
+5,Passive,18,impersonal,8,Ungrammatical,Mees werd veel geskied op de piste.,geskied,Mees
+5,Passive,18,impersonal,9,Grammatical,Er werd vooral geslapen in het weekend.,geslapen,Er
+5,Passive,18,impersonal,9,Ungrammatical,Noor werd vooral geslapen in het weekend.,geslapen,Noor
+5,Passive,18,impersonal,10,Grammatical,Er werd veel gezweet in de sportschool,gezweet,Er
+5,Passive,18,impersonal,10,Ungrammatical,Milou werd veel gezweet in de sportschool,gezweet,Milou
+5,Passive,18,impersonal,11,Grammatical,Er wordt weinig gepraat tijdens de film.,gepraat,Er
+5,Passive,18,impersonal,11,Ungrammatical,Jason wordt weinig gepraat tijdens de film.,gepraat,Jason
+5,Passive,18,impersonal,12,Grammatical,Er wordt lang gewacht voor de stoplichten.,gewacht,Er
+5,Passive,18,impersonal,12,Ungrammatical,Maya wordt lang gewacht voor de stoplichten.,gewacht,Maya
+5,Passive,18,impersonal,13,Grammatical,Er wordt zelden gerend in het park.,gerend,Er
+5,Passive,18,impersonal,13,Ungrammatical,Oliver wordt zelden gerend in het park.,gerend,Oliver
+5,Passive,18,impersonal,14,Grammatical,Er wordt goed geluisterd naar de leraar.,geluisterd,Er
+5,Passive,18,impersonal,14,Ungrammatical,Emma wordt goed geluisterd naar de leraar.,geluisterd,Emma
+5,Passive,18,impersonal,15,Grammatical,Er wordt vroeg opgestaan op werkdagen.,opgestaan,Er
+5,Passive,18,impersonal,15,Ungrammatical,Liam wordt vroeg opgestaan op werkdagen.,opgestaan,Liam
+5,Passive,18,impersonal,16,Grammatical,Er wordt nauwelijks geklaagd over het weer.,geklaagd,Er
+5,Passive,18,impersonal,16,Ungrammatical,Sophia wordt nauwelijks geklaagd over het weer.,geklaagd,Sophia
+5,Passive,18,impersonal,17,Grammatical,Er wordt fanatiek gesport in de sportschool.,gesport,Er
+5,Passive,18,impersonal,17,Ungrammatical,Noah wordt fanatiek gesport in de sportschool.,gesport,Noah
+5,Passive,18,impersonal,18,Grammatical,Er wordt niet gerookt in het restaurant.,gerookt,Er
+5,Passive,18,impersonal,18,Ungrammatical,Ava wordt niet gerookt in het restaurant.,gerookt,Ava
+5,Passive,18,impersonal,19,Grammatical,Er wordt rustig gelezen in de bibliotheek.,gelezen,Er
+5,Passive,18,impersonal,19,Ungrammatical,Olivia wordt rustig gelezen in de bibliotheek.,gelezen,Olivia
+5,Passive,18,impersonal,20,Grammatical,Er wordt vaak gefeest in het studentenhuis.,gefeest,Er
+5,Passive,18,impersonal,20,Ungrammatical,Jackson wordt vaak gefeest in het studentenhuis.,gefeest,Jackson
+5,Passive,18,impersonal,21,Grammatical,Er wordt serieus gewerkt op kantoor.,gewerkt,Er
+5,Passive,18,impersonal,21,Ungrammatical,Aria wordt serieus gewerkt op kantoor.,gewerkt,Aria
+5,Passive,18,impersonal,22,Grammatical,Er wordt enthousiast gezongen in het koor.,gezongen,Er
+5,Passive,18,impersonal,22,Ungrammatical,Lucas wordt enthousiast gezongen in het koor.,gezongen,Lucas
+5,Passive,18,impersonal,23,Grammatical,Er wordt intensief gestudeerd voor de examens.,gestudeerd,Er
+5,Passive,18,impersonal,23,Ungrammatical,Lily wordt intensief gestudeerd voor de examens.,gestudeerd,Lily
+5,Passive,18,impersonal,24,Grammatical,Er wordt weinig gezwommen in de winter.,gezwommen,Er
+5,Passive,18,impersonal,24,Ungrammatical,Owen wordt weinig gezwommen in de winter.,gezwommen,Owen
+5,Passive,18,impersonal,25,Grammatical,Er wordt ontspannen gewandeld in het bos.,gewandeld,Er
+5,Passive,18,impersonal,25,Ungrammatical,Zoey wordt ontspannen gewandeld in het bos.,gewandeld,Zoey
+5,Passive,18,impersonal,26,Grammatical,Er wordt goed opgelet tijdens de les.,opgelet,Er
+5,Passive,18,impersonal,26,Ungrammatical,Caleb wordt goed opgelet tijdens de les.,opgelet,Caleb
+5,Passive,18,impersonal,27,Grammatical,Er wordt veel gefluisterd in de bioscoop.,gefluisterd,Er
+5,Passive,18,impersonal,27,Ungrammatical,Scarlett wordt veel gefluisterd in de bioscoop.,gefluisterd,Scarlett
+5,Passive,18,impersonal,28,Grammatical,Er wordt druk gediscussieerd tijdens de vergadering.,gediscussieerd,Er
+5,Passive,18,impersonal,28,Ungrammatical,Harper wordt druk gediscussieerd tijdens de vergadering.,gediscussieerd,Harper
+5,Passive,18,impersonal,29,Grammatical,Er wordt weinig geslapen tijdens de examenperiode.,geslapen,Er
+5,Passive,18,impersonal,29,Ungrammatical,Liam wordt weinig geslapen tijdens de examenperiode.,geslapen,Liam
+5,Passive,18,impersonal,30,Grammatical,Er wordt weinig geklaagd over de resultaten.,geklaagd,Er
+5,Passive,18,impersonal,30,Ungrammatical,Mason wordt weinig geklaagd over de resultaten.,geklaagd,Mason
+5,Passive,18,impersonal,31,Grammatical,Er wordt veel gedronken op het feest.,gedronken,Er
+5,Passive,18,impersonal,31,Ungrammatical,Stella wordt veel gedronken op het feest.,gedronken,Stella
+5,Passive,18,impersonal,32,Grammatical,Er wordt snel gereageerd op de e-mails.,gereageerd,Er
+5,Passive,18,impersonal,32,Ungrammatical,Elijah wordt snel gereageerd op de e-mails.,gereageerd,Elijah
+5,Passive,18,impersonal,33,Grammatical,Er wordt lang nagedacht over de beslissing.,nagedacht,Er
+5,Passive,18,impersonal,33,Ungrammatical,Henry wordt lang nagedacht over de beslissing.,nagedacht,Henry
+5,Passive,18,impersonal,34,Grammatical,Er wordt niet geroddeld in de vriendengroep.,geroddeld,Er
+5,Passive,18,impersonal,34,Ungrammatical,Mia wordt niet geroddeld in de vriendengroep.,geroddeld,Mia
+5,Passive,18,impersonal,35,Grammatical,Er wordt luid gelachen tijdens de comedyshow.,gelachen,Er
+5,Passive,18,impersonal,35,Ungrammatical,Sebastian wordt luid gelachen tijdens de comedyshow.,gelachen,Sebastian
+5,Passive,18,impersonal,36,Grammatical,Er wordt veel geleerd in de cursus.,geleerd,Er
+5,Passive,18,impersonal,36,Ungrammatical,Er wordt lang gezocht naar de verloren sleutels.,gezocht,Er
+5,Passive,18,impersonal,37,Grammatical,Maya wordt lang gezocht naar de verloren sleutels.,gezocht,Maya
+5,Passive,18,impersonal,37,Ungrammatical,Leo wordt ontspannen gezeten in de tuin.,gezeten,Leo
+5,Passive,18,impersonal,38,Grammatical,Er wordt weinig gesproken tijdens de vergadering.,gesproken,Er
+5,Passive,18,impersonal,38,Ungrammatical,Jason wordt weinig gesproken tijdens de vergadering.,gesproken,Jason
+5,Passive,18,impersonal,39,Grammatical,Er wordt zelden gedacht aan de consequenties.,gedacht,Er
+5,Passive,18,impersonal,39,Ungrammatical,Oliver wordt zelden gedacht aan de consequenties.,gedacht,Oliver
+5,Passive,18,impersonal,40,Grammatical,Er wordt goed opgelet in het donker.,opgelet,Er
+5,Passive,18,impersonal,40,Ungrammatical,Emma wordt goed opgelet in het donker.,opgelet,Emma
+5,Passive,18,impersonal,41,Grammatical,Er wordt vroeg begonnen met de voorbereidingen.,begonnen,Er
+5,Passive,18,impersonal,41,Ungrammatical,Liam wordt vroeg begonnen met de voorbereidingen.,begonnen,Liam
+5,Passive,18,impersonal,42,Grammatical,Er wordt nauwelijks geluisterd naar de excuses.,geluisterd,Er
+5,Passive,18,impersonal,42,Ungrammatical,Sophia wordt nauwelijks geluisterd naar de excuses.,geluisterd,Sophia
+5,Passive,18,impersonal,43,Grammatical,Er wordt fanatiek gedanst op het feest.,gedanst,Er
+5,Passive,18,impersonal,43,Ungrammatical,Noah wordt fanatiek gedanst op het feest.,gedanst,Noah
+5,Passive,18,impersonal,44,Grammatical,Er wordt rustig genoten van de zonsondergang.,genoten,Er
+5,Passive,18,impersonal,44,Ungrammatical,Olivia wordt rustig genoten van de zonsondergang.,genoten,Olivia
+5,Passive,18,impersonal,45,Grammatical,Er wordt vaak gesproken over de toekomstplannen.,gesproken,Er
+5,Passive,18,impersonal,45,Ungrammatical,Jackson wordt vaak gesproken over de toekomstplannen.,gesproken,Jackson
+5,Passive,18,impersonal,46,Grammatical,Er wordt enthousiast gereageerd op het nieuws.,gereageerd,Er
+5,Passive,18,impersonal,46,Ungrammatical,Lucas wordt enthousiast gereageerd op het nieuws.,gereageerd,Lucas
+5,Passive,18,impersonal,47,Grammatical,Er wordt zorgvuldig gepland voor de vakantie.,gepland,Er
+5,Passive,18,impersonal,47,Ungrammatical,Benjamin wordt zorgvuldig gepland voor de vakantie.,gepland,Benjamin
+5,Passive,18,impersonal,48,Grammatical,Er wordt weinig gepraat tijdens de autorit.,gepraat,Er
+5,Passive,18,impersonal,48,Ungrammatical,Owen wordt weinig gepraat tijdens de autorit.,gepraat,Owen
+5,Passive,18,impersonal,49,Grammatical,Er wordt goed samengewerkt in het team.,samengewerkt,Er
+5,Passive,18,impersonal,49,Ungrammatical,Caleb wordt goed samengewerkt in het team.,samengewerkt,Caleb
+5,Passive,18,impersonal,50,Grammatical,Er wordt druk gewerkt aan het nieuwe project.,gewerkt,Er
+5,Passive,18,impersonal,50,Ungrammatical,Harper wordt druk gewerkt aan het nieuwe project.,gewerkt,Harper
+5,Passive,18,impersonal,51,Grammatical,Er wordt weinig gedaan tegen de vervuiling.,gedaan,Er
+5,Passive,18,impersonal,51,Ungrammatical,Liam wordt weinig gedaan tegen de vervuiling.,gedaan,Liam
+5,Passive,18,impersonal,52,Grammatical,Er wordt niet gerekend op onverwachte veranderingen.,gerekend,Er
+5,Passive,18,impersonal,52,Ungrammatical,Mia wordt niet gerekend op onverwachte veranderingen.,gerekend,Mia
+5,Passive,18,impersonal,53,Grammatical,Er wordt ontspannen gelezen in de tuin.,gelezen,Er
+5,Passive,18,impersonal,53,Ungrammatical,Leo wordt ontspannen gelezen in de tuin.,gelezen,Leo
+5,Passive,18,impersonal,54,Grammatical,Er wordt intensief gestudeerd voor het examen.,gestudeerd,Er
+5,Passive,18,impersonal,54,Ungrammatical,Maya wordt intensief gestudeerd voor het examen.,gestudeerd,Maya
+5,Passive,18,impersonal,55,Grammatical,Er wordt serieus gesproken tijdens de presentatie.,gesproken,Er
+5,Passive,18,impersonal,55,Ungrammatical,Emma wordt serieus gesproken tijdens de presentatie.,gesproken,Emma
+5,Passive,18,impersonal,56,Grammatical,Er wordt druk gewinkeld tijdens de uitverkoop.,gewinkeld,Er
+5,Passive,18,impersonal,56,Ungrammatical,Liam wordt druk gewinkeld tijdens de uitverkoop.,gewinkeld,Liam
+5,Passive,18,impersonal,57,Grammatical,Er wordt niet gefluisterd in de stille ruimte.,gefluisterd,Er
+5,Passive,18,impersonal,57,Ungrammatical,Sophia wordt niet gefluisterd in de stille ruimte.,gefluisterd,Sophia
+5,Passive,18,impersonal,58,Grammatical,Er wordt rustig gefietst langs de rivier.,gefietst,Er
+5,Passive,18,impersonal,58,Ungrammatical,Noah wordt rustig gefietst langs de rivier.,gefietst,Noah
+5,Passive,18,impersonal,59,Grammatical,Er wordt nauwelijks gesnoept tijdens het dieet.,gesnoept,Er
+5,Passive,18,impersonal,59,Ungrammatical,Ethan wordt nauwelijks gesnoept tijdens het dieet.,gesnoept,Ethan
+5,Passive,18,impersonal,60,Grammatical,Er wordt intensief geoefend voor het muziekconcert.,geoefend,Er
+5,Passive,18,impersonal,60,Ungrammatical,Mason wordt intensief geoefend voor het muziekconcert.,geoefend,Mason
+5,Passive,18,impersonal,61,Grammatical,Er wordt ontspannen geluisterd naar de muziek.,geluisterd,Er
+5,Passive,18,impersonal,61,Ungrammatical,Liam wordt ontspannen geluisterd naar de muziek.,geluisterd,Liam
+5,Passive,18,impersonal,62,Grammatical,Er wordt snel gerepareerd na de schade.,gerepareerd,Er
+5,Passive,18,impersonal,62,Ungrammatical,Olivia wordt snel gerepareerd na de schade.,gerepareerd,Olivia
+5,Passive,18,impersonal,63,Grammatical,Er wordt geconcentreerd gewerkt aan de opdracht.,gewerkt,Er
+5,Passive,18,impersonal,63,Ungrammatical,Noah wordt geconcentreerd gewerkt aan de opdracht.,gewerkt,Noah
+5,Passive,18,impersonal,64,Grammatical,Er wordt serieus gedebatteerd tijdens de politieke bijeenkomst.,gedebatteerd,Er
+5,Passive,18,impersonal,64,Ungrammatical,Aiden wordt serieus gedebatteerd tijdens de politieke bijeenkomst.,gedebatteerd,Aiden
+5,Passive,18,impersonal,65,Grammatical,Er wordt behendig geschaatst op de ijsbaan.,geschaatst,Er
+5,Passive,18,impersonal,65,Ungrammatical,Mason wordt behendig geschaatst op de ijsbaan.,geschaatst,Mason
+5,Passive,18,impersonal,66,Grammatical,Er wordt nauwkeurig gemeten voor de bouw.,gemeten,Er
+5,Passive,18,impersonal,66,Ungrammatical,Penelope wordt nauwkeurig gemeten voor de bouw.,gemeten,Penelope
+5,Passive,18,impersonal,67,Grammatical,Er wordt bewonderend gekeken naar de kunst.,gekeken,Er
+5,Passive,18,impersonal,67,Ungrammatical,Noah wordt bewonderend gekeken naar de kunst.,gekeken,Noah
+5,Passive,18,impersonal,68,Grammatical,Er wordt snel gesprint tijdens de atletiekwedstrijd.,gesprint,Er
+5,Passive,18,impersonal,68,Ungrammatical,Emma wordt snel gesprint tijdens de atletiekwedstrijd.,gesprint,Emma
+5,Passive,18,impersonal,69,Grammatical,Er wordt sportief gespeeld tijdens het toernooi.,gespeeld,Er
+5,Passive,18,impersonal,69,Ungrammatical,Jackson wordt sportief gespeeld tijdens het toernooi.,gespeeld,Jackson
+5,Passive,18,impersonal,70,Grammatical,Er wordt geïnspireerd geschreven in het dagboek.,geschreven,Er
+5,Passive,18,impersonal,70,Ungrammatical,Zoey wordt geïnspireerd geschreven in het dagboek.,geschreven,Zoey
+5,Passive,18,impersonal,71,Grammatical,Er wordt vriendelijk gegroet op straat.,gegroet,Er
+5,Passive,18,impersonal,71,Ungrammatical,Aria wordt vriendelijk gegroet op straat.,gegroet,Aria
+5,Passive,18,impersonal,72,Grammatical,Er wordt behoedzaam genavigeerd op zee.,genavigeerd,Er
+5,Passive,18,impersonal,72,Ungrammatical,Scarlett wordt behoedzaam genavigeerd op zee.,genavigeerd,Scarlett
+5,Passive,18,impersonal,73,Grammatical,Er wordt feestelijk gedecoreerd voor het evenement.,gedecoreerd,Er
+5,Passive,18,impersonal,73,Ungrammatical,Mia wordt feestelijk gedecoreerd voor het evenement.,gedecoreerd,Mia
+5,Passive,18,impersonal,74,Grammatical,Er wordt stilgestaan bij de herdenking.,stilgestaan,Er
+5,Passive,18,impersonal,74,Ungrammatical,Noah wordt stilgestaan bij de herdenking.,stilgestaan,Noah
+5,Passive,18,impersonal,75,Grammatical,Er wordt liefdevol gekookt voor het romantische diner.,gekookt,Er
+5,Passive,18,impersonal,75,Ungrammatical,Ethan wordt liefdevol gekookt voor het romantische diner.,gekookt,Ethan
+5,Passive,18,impersonal,76,Grammatical,Er wordt vakkundig getuinierd in de bloementuin.,getuinierd,Er
+5,Passive,18,impersonal,76,Ungrammatical,Olivia wordt vakkundig getuinierd in de bloementuin.,getuinierd,Olivia
+5,Passive,18,impersonal,77,Grammatical,Er wordt luid gejuicht bij het sportevenement.,gejuicht,Er
+5,Passive,18,impersonal,77,Ungrammatical,Lara wordt luid gejuicht bij het sportevenement.,gejuicht,Lara
+5,Passive,18,impersonal,78,Grammatical,Er wordt kalm gevaren op het rustige meer.,gevaren,Er
+5,Passive,18,impersonal,78,Ungrammatical,Sofia wordt kalm gevaren op het rustige meer.,gevaren,Sofia
+5,Passive,18,impersonal,79,Grammatical,Er wordt uitgebreid gepicknickt in het park.,gepicknickt,Er
+5,Passive,18,impersonal,79,Ungrammatical,Oliver wordt uitgebreid gepicknickt in het park.,gepicknickt,Oliver
+5,Passive,18,impersonal,80,Grammatical,Er wordt sportief gespeeld tijdens het voetbaltoernooi.,gespeeld,Er
+5,Passive,18,impersonal,80,Ungrammatical,Sebastian wordt sportief gespeeld tijdens het voetbaltoernooi.,gespeeld,Sebastian
+5,Passive,18,impersonal,81,Grammatical,Er wordt ontspannen gepuzzeld op een regenachtige dag.,gepuzzeld,Er
+5,Passive,18,impersonal,81,Ungrammatical,Harper wordt ontspannen gepuzzeld op een regenachtige dag.,gepuzzeld,Harper
+5,Passive,18,impersonal,82,Grammatical,Er wordt voorzichtig gevlogen met de drone.,gevlogen,Er
+5,Passive,18,impersonal,82,Ungrammatical,Bram wordt voorzichtig gevlogen met de drone.,gevlogen,Bram
+5,Passive,18,impersonal,83,Grammatical,Er wordt vriendelijk gezwaaid tijdens de parade.,gezwaaid,Er
+5,Passive,18,impersonal,83,Ungrammatical,Ethan wordt vriendelijk gezwaaid tijdens de parade.,gezwaaid,Ethan
+5,Passive,18,impersonal,84,Grammatical,Er wordt zorgzaam omgegaan met de dieren in de kinderboerderij.,omgegaan,Er
+5,Passive,18,impersonal,84,Ungrammatical,Aria wordt zorgzaam omgegaan met de dieren in de kinderboerderij.,omgegaan,Aria
+5,Passive,18,impersonal,85,Grammatical,Er wordt avontuurlijk gereisd naar exotische bestemmingen.,gereisd,Er
+5,Passive,18,impersonal,85,Ungrammatical,Grace wordt avontuurlijk gereisd naar exotische bestemmingen.,gereisd,Grace
+5,Passive,18,impersonal,86,Grammatical,Er wordt romantisch gedineerd bij kaarslicht.,gedineerd,Er
+5,Passive,18,impersonal,86,Ungrammatical,Harper wordt romantisch gedineerd bij kaarslicht.,gedineerd,Harper
+5,Passive,18,impersonal,87,Grammatical,Er wordt genereus gedoneerd aan het goede doel.,gedoneerd,Er
+5,Passive,18,impersonal,87,Ungrammatical,Mason wordt genereus gedoneerd aan het goede doel.,gedoneerd,Mason
+5,Passive,18,impersonal,88,Grammatical,Er wordt nieuwsgierig gespeurd naar verborgen schatten.,gespeurd,Er
+5,Passive,18,impersonal,88,Ungrammatical,Sophia wordt nieuwsgierig gespeurd naar verborgen schatten.,gespeurd,Sophia
+5,Passive,18,impersonal,89,Grammatical,Er wordt geduldig gewacht op de speciale gast.,gewacht,Er
+5,Passive,18,impersonal,89,Ungrammatical,Penelope wordt geduldig gewacht op de speciale gast.,gewacht,Penelope
+5,Passive,18,impersonal,90,Grammatical,Er wordt verliefd geflirt tijdens de blind date.,geflirt,Er
+5,Passive,18,impersonal,90,Ungrammatical,Stella wordt verliefd geflirt tijdens de blind date.,geflirt,Stella
+5,Passive,18,impersonal,91,Grammatical,Er wordt loyaal samengewerkt in het team.,samengewerkt,Er
+5,Passive,18,impersonal,91,Ungrammatical,Ava wordt loyaal samengewerkt in het team.,samengewerkt,Ava
+5,Passive,18,impersonal,92,Grammatical,Er wordt vurig gepleit tijdens het debat.,gepleit,Er
+5,Passive,18,impersonal,92,Ungrammatical,Liam wordt vurig gepleit tijdens het debat.,gepleit,Liam
+5,Passive,18,impersonal,93,Grammatical,Er wordt waarderend geapplaudisseerd na de voorstelling.,geapplaudisseerd,Er
+5,Passive,18,impersonal,93,Ungrammatical,Zoey wordt waarderend geapplaudisseerd na de voorstelling.,geapplaudisseerd,Zoey
+5,Passive,18,impersonal,94,Grammatical,Er wordt ongeduldig gewacht op de langverwachte brief.,gewacht,Er
+5,Passive,18,impersonal,94,Ungrammatical,Ethan wordt ongeduldig gewacht op de langverwachte brief.,gewacht,Ethan
+5,Passive,18,impersonal,95,Grammatical,Er wordt speels gesurft op de hoge golven.,gesurft,Er
+5,Passive,18,impersonal,95,Ungrammatical,Olivia wordt speels gesurft op de hoge golven.,gesurft,Olivia
+5,Passive,18,impersonal,96,Grammatical,Er wordt avontuurlijk verkend in de jungle.,verkend,Er
+5,Passive,18,impersonal,96,Ungrammatical,Harper wordt avontuurlijk verkend in de jungle.,verkend,Harper
+5,Passive,18,impersonal,97,Grammatical,Er wordt energiek gerend op het sportveld.,gerend,Er
+5,Passive,18,impersonal,97,Ungrammatical,Lily wordt energiek gerend op het sportveld.,gerend,Lily
+5,Passive,18,impersonal,98,Grammatical,Er wordt meditatief yoga beoefend in het park.,beoefend,Er
+5,Passive,18,impersonal,98,Ungrammatical,Emma wordt meditatief yoga beoefend in het park.,beoefend,Emma
+5,Passive,18,impersonal,99,Grammatical,Er wordt gefascineerd gekeken naar de sterrenhemel.,gekeken,Er
+5,Passive,18,impersonal,99,Ungrammatical,Oliver wordt gefascineerd gekeken naar de sterrenhemel.,gekeken,Oliver
+5,Passive,18,impersonal,100,Grammatical,Er wordt dapper gestreden tijdens het toernooi.,gestreden,Er
+5,Passive,18,impersonal,100,Ungrammatical,Henry wordt dapper gestreden tijdens het toernooi.,gestreden,Henry
+5,Passive,19,ditransitive_1,101,Grammatical,Het boek wordt de nieuwe studenten toegestuurd voor de cursus.,toegestuurd,wordt
+5,Passive,19,ditransitive_1,101,Ungrammatical,Het boek krijgt de nieuwe studenten toegestuurd voor de cursus.,toegestuurd,krijgt
+5,Passive,19,ditransitive_1,102,Grammatical,De sleutel wordt de jonge geliefden overgedragen over drie dagen.,overgedragen,wordt
+5,Passive,19,ditransitive_1,102,Ungrammatical,De sleutel krijgt de jonge geliefden overgedragen over drie dagen.,overgedragen,krijgt
+5,Passive,19,ditransitive_1,103,Grammatical,De straf wordt de vreselijke dieven opgelegd vanwege hun gedrag.,opgelegd,wordt
+5,Passive,19,ditransitive_1,103,Ungrammatical,De straf krijgt de vreselijke dieven opgelegd vanwege hun gedrag.,opgelegd,krijgt
+5,Passive,19,ditransitive_1,104,Grammatical,De som wordt de slechtere leerlingen uitgelegd voor de toets.,uitgelegd,wordt
+5,Passive,19,ditransitive_1,104,Ungrammatical,De som krijgt de slechtere leerlingen uitgelegd voor de toets.,uitgelegd,krijgt
+5,Passive,19,ditransitive_1,105,Grammatical,Het verhaal wordt de kleine kleuters voorgelezen met gekke stemmetjes.,voorgelezen,wordt
+5,Passive,19,ditransitive_1,105,Ungrammatical,Het verhaal krijgt de kleine kleuters voorgelezen met gekke stemmetjes.,voorgelezen,krijgt
+5,Passive,19,ditransitive_1,106,Grammatical,Dit gerecht wordt de hongerige tieners voorgeschoteld bij het avondeten.,voorgeschoteld,wordt
+5,Passive,19,ditransitive_1,106,Ungrammatical,Dit gerecht krijgt de hongerige tieners voorgeschoteld bij het avondeten.,voorgeschoteld,krijgt
+5,Passive,19,ditransitive_1,107,Grammatical,Dit medicijn wordt de zieke ouderen voorgeschreven voor hun pijn.,voorgeschreven,wordt
+5,Passive,19,ditransitive_1,107,Ungrammatical,Dit medicijn krijgt de zieke ouderen voorgeschreven voor hun pijn.,voorgeschreven,krijgt
+5,Passive,19,ditransitive_1,108,Grammatical,Dit bedrag wordt de gierige verkopers geboden voor hun huis.,geboden,wordt
+5,Passive,19,ditransitive_1,108,Ungrammatical,Dit bedrag krijgt de gierige verkopers geboden voor hun huis.,geboden,krijgt
+5,Passive,19,ditransitive_1,109,Grammatical,Dit middel wordt de misselijke patiënten geadviseerd voor hun klachten.,geadviseerd,wordt
+5,Passive,19,ditransitive_1,109,Ungrammatical,Dit middel krijgt de misselijke patiënten geadviseerd voor hun klachten.,geadviseerd,krijgt
+5,Passive,19,ditransitive_1,110,Grammatical,Deze prijs wordt de lieve buren overhandigd voor hun hulp.,overhandigd,wordt
+5,Passive,19,ditransitive_1,110,Ungrammatical,Deze prijs krijgt de lieve buren overhandigd voor hun hulp.,overhandigd,krijgt
+5,Passive,19,ditransitive_1,111,Grammatical,De oplossing wordt de puzzelliefhebbers aangereikt voor het raadsel.,aangereikt,wordt
+5,Passive,19,ditransitive_1,111,Ungrammatical,De oplossing krijgt de puzzelliefhebbers aangereikt voor het raadsel.,aangereikt,krijgt
+5,Passive,19,ditransitive_1,112,Grammatical,Het nieuws wordt de geïnteresseerde lezers meegedeeld in de ochtendkrant.,meegedeeld,wordt
+5,Passive,19,ditransitive_1,112,Ungrammatical,Het nieuws krijgt de geïnteresseerde lezers meegedeeld in de ochtendkrant.,meegedeeld,krijgt
+5,Passive,19,ditransitive_1,113,Grammatical,De taak wordt de hardwerkende studenten toegewezen voor het semester.,toegewezen,wordt
+5,Passive,19,ditransitive_1,113,Ungrammatical,De taak krijgt de hardwerkende studenten toegewezen voor het semester.,toegewezen,krijgt
+5,Passive,19,ditransitive_1,114,Grammatical,De schuld wordt de ongelukkige schuldenaar kwijtgescholden na onderhandeling.,kwijtgescholden,wordt
+5,Passive,19,ditransitive_1,114,Ungrammatical,De schuld krijgt de ongelukkige schuldenaar kwijtgescholden na onderhandeling.,kwijtgescholden,krijgt
+5,Passive,19,ditransitive_1,115,Grammatical,De regels worden de nieuwe medewerkers uitgelegd tijdens de oriëntatie.,uitgelegd,worden
+5,Passive,19,ditransitive_1,115,Ungrammatical,De regels krijgen de nieuwe medewerkers uitgelegd tijdens de oriëntatie.,uitgelegd,krijgen
+5,Passive,19,ditransitive_1,116,Grammatical,Het doel wordt de ambitieuze atleten gesteld voor het seizoen.,gesteld,wordt
+5,Passive,19,ditransitive_1,116,Ungrammatical,Het doel krijgt de ambitieuze atleten gesteld voor het seizoen.,gesteld,krijgt
+5,Passive,19,ditransitive_1,117,Grammatical,De rekening wordt de tevreden klanten gepresenteerd na de maaltijd.,gepresenteerd,wordt
+5,Passive,19,ditransitive_1,117,Ungrammatical,De rekening krijgt de tevreden klanten gepresenteerd na de maaltijd.,gepresenteerd,krijgt
+5,Passive,19,ditransitive_1,118,Grammatical,Het antwoord wordt de nieuwsgierige studenten verteld tijdens de les.,verteld,wordt
+5,Passive,19,ditransitive_1,118,Ungrammatical,Het antwoord krijgt de nieuwsgierige studenten verteld tijdens de les.,verteld,krijgt
+5,Passive,19,ditransitive_1,119,Grammatical,De boete wordt de overtreders opgelegd voor het negeren van de regels.,opgelegd,wordt
+5,Passive,19,ditransitive_1,119,Ungrammatical,De boete krijgt de overtreders opgelegd voor het negeren van de regels.,opgelegd,krijgt
+5,Passive,19,ditransitive_1,120,Grammatical,De kans wordt de enthousiaste deelnemers geboden om te winnen.,geboden,wordt
+5,Passive,19,ditransitive_1,120,Ungrammatical,De kans krijgt de enthousiaste deelnemers geboden om te winnen.,geboden,krijgt
+5,Passive,19,ditransitive_1,121,Grammatical,De informatie wordt de geïnteresseerde lezers verstrekt in het artikel.,verstrekt,wordt
+5,Passive,19,ditransitive_1,121,Ungrammatical,De informatie krijgt de geïnteresseerde lezers verstrekt in het artikel.,verstrekt,krijgt
+5,Passive,19,ditransitive_1,122,Grammatical,De rol wordt de getalenteerde acteurs toegekend voor het toneelstuk.,toegekend,wordt
+5,Passive,19,ditransitive_1,122,Ungrammatical,De rol krijgt de getalenteerde acteurs toegekend voor het toneelstuk.,toegekend,krijgt
+5,Passive,19,ditransitive_1,123,Grammatical,Het bericht wordt de belangstellende abonnees gestuurd via e-mail.,gestuurd,wordt
+5,Passive,19,ditransitive_1,123,Ungrammatical,Het bericht krijgt de belangstellende abonnees gestuurd via e-mail.,gestuurd,krijgt
+5,Passive,19,ditransitive_1,124,Grammatical,De fooi wordt de attente ober gegeven voor de goede service.,gegeven,wordt
+5,Passive,19,ditransitive_1,124,Ungrammatical,De fooi krijgt de attente ober gegeven voor de goede service.,gegeven,krijgt
+5,Passive,19,ditransitive_1,125,Grammatical,Het advies wordt de bezorgde ouders gegeven tijdens het oudergesprek.,gegeven,wordt
+5,Passive,19,ditransitive_1,125,Ungrammatical,Het advies krijgt de bezorgde ouders gegeven tijdens het oudergesprek.,gegeven,krijgt
+5,Passive,19,ditransitive_1,126,Grammatical,Het compliment wordt de getalenteerde artiesten gegeven na het optreden.,gegeven,wordt
+5,Passive,19,ditransitive_1,126,Ungrammatical,Het compliment krijgt de getalenteerde artiesten gegeven na het optreden.,gegeven,krijgt
+5,Passive,19,ditransitive_1,127,Grammatical,De boodschap wordt de luisteraars duidelijk gemaakt tijdens de toespraak.,gemaakt,wordt
+5,Passive,19,ditransitive_1,127,Ungrammatical,De boodschap krijgt de luisteraars duidelijk gemaakt tijdens de toespraak.,gemaakt,krijgt
+5,Passive,19,ditransitive_1,128,Grammatical,De uitnodiging wordt de genodigde gasten gestuurd voor het feest.,gestuurd,wordt
+5,Passive,19,ditransitive_1,128,Ungrammatical,De uitnodiging krijgt de genodigde gasten gestuurd voor het feest.,gestuurd,krijgt
+5,Passive,19,ditransitive_1,129,Grammatical,De opgave wordt de leerlingen overhandigd aan het begin van de les.,overhandigd,wordt
+5,Passive,19,ditransitive_1,129,Ungrammatical,De opgave krijgt de leerlingen overhandigd aan het begin van de les.,overhandigd,krijgt
+5,Passive,19,ditransitive_1,130,Grammatical,Het compliment wordt de behulpzame buurman gegeven na de klus.,gegeven,wordt
+5,Passive,19,ditransitive_1,130,Ungrammatical,Het compliment krijgt de behulpzame buurman gegeven na de klus.,gegeven,krijgt
+5,Passive,19,ditransitive_1,131,Grammatical,Het excuus wordt de teleurgestelde klant aangeboden na het voorval.,aangeboden,wordt
+5,Passive,19,ditransitive_1,131,Ungrammatical,Het excuus krijgt de teleurgestelde klant aangeboden na het voorval.,aangeboden,krijgt
+5,Passive,19,ditransitive_1,132,Grammatical,De straf wordt de ongehoorzame kinderen opgelegd voor hun gedrag.,opgelegd,wordt
+5,Passive,19,ditransitive_1,132,Ungrammatical,De straf krijgt de ongehoorzame kinderen opgelegd voor hun gedrag.,opgelegd,krijgt
+5,Passive,19,ditransitive_1,133,Grammatical,De medaille wordt de succesvolle atleten toegekend na de wedstrijd.,toegekend,wordt
+5,Passive,19,ditransitive_1,133,Ungrammatical,De medaille krijgt de succesvolle atleten toegekend na de wedstrijd.,toegekend,krijgt
+5,Passive,19,ditransitive_1,134,Grammatical,De bevestiging wordt de klanten gestuurd na het plaatsen van de bestelling.,gestuurd,wordt
+5,Passive,19,ditransitive_1,134,Ungrammatical,De bevestiging krijgt de klanten gestuurd na het plaatsen van de bestelling.,gestuurd,krijgt
+5,Passive,19,ditransitive_1,135,Grammatical,De melding wordt de betrokken partijen gegeven na het incident.,gegeven,wordt
+5,Passive,19,ditransitive_1,135,Ungrammatical,De melding krijgt de betrokken partijen gegeven na het incident.,gegeven,krijgt
+5,Passive,19,ditransitive_1,136,Grammatical,Het cadeau wordt de jarige gegeven tijdens het verjaardagsfeest.,gegeven,wordt
+5,Passive,19,ditransitive_1,136,Ungrammatical,Het cadeau krijgt de jarige gegeven tijdens het verjaardagsfeest.,gegeven,krijgt
+5,Passive,19,ditransitive_1,137,Grammatical,Het recept wordt de enthousiaste koks gegeven voor het bereiden van het gerecht.,gegeven,wordt
+5,Passive,19,ditransitive_1,137,Ungrammatical,Het recept krijgt de enthousiaste koks gegeven voor het bereiden van het gerecht.,gegeven,krijgt
+5,Passive,19,ditransitive_1,138,Grammatical,Het geheim wordt de nieuwsgierige kinderen onthuld tijdens het spel.,onthuld,wordt
+5,Passive,19,ditransitive_1,138,Ungrammatical,Het geheim krijgt de nieuwsgierige kinderen onthuld tijdens het spel.,onthuld,krijgt
+5,Passive,19,ditransitive_1,139,Grammatical,De korting wordt de trouwe klanten aangeboden tijdens de speciale actie.,aangeboden,wordt
+5,Passive,19,ditransitive_1,139,Ungrammatical,De korting krijgt de trouwe klanten aangeboden tijdens de speciale actie.,aangeboden,krijgt
+5,Passive,19,ditransitive_1,140,Grammatical,De tip wordt de behulpzame buurman gegeven na het verhuizen.,gegeven,wordt
+5,Passive,19,ditransitive_1,140,Ungrammatical,De tip krijgt de behulpzame buurman gegeven na het verhuizen.,gegeven,krijgt
+5,Passive,19,ditransitive_1,141,Grammatical,Het advies wordt de verwarde reizigers gegeven bij de receptie.,gegeven,wordt
+5,Passive,19,ditransitive_1,141,Ungrammatical,Het advies krijgt de verwarde reizigers gegeven bij de receptie.,gegeven,krijgt
+5,Passive,19,ditransitive_1,142,Grammatical,De beoordeling wordt de hardwerkende werknemers gegeven tijdens de evaluatie.,gegeven,wordt
+5,Passive,19,ditransitive_1,142,Ungrammatical,De beoordeling krijgt de hardwerkende werknemers gegeven tijdens de evaluatie.,gegeven,krijgt
+5,Passive,19,ditransitive_1,143,Grammatical,De mededeling wordt de geïnteresseerde leden gestuurd via e-mail.,gestuurd,wordt
+5,Passive,19,ditransitive_1,143,Ungrammatical,De mededeling krijgt de geïnteresseerde leden gestuurd via e-mail.,gestuurd,krijgt
+5,Passive,19,ditransitive_1,144,Grammatical,De aanbeveling wordt de talentvolle artiesten gegeven voor het optreden.,gegeven,wordt
+5,Passive,19,ditransitive_1,144,Ungrammatical,De aanbeveling krijgt de talentvolle artiesten gegeven voor het optreden.,gegeven,krijgt
+5,Passive,19,ditransitive_1,145,Grammatical,De waarschuwing wordt de onoplettende automobilisten gegeven door de politie.,gegeven,wordt
+5,Passive,19,ditransitive_1,145,Ungrammatical,De waarschuwing krijgt de onoplettende automobilisten gegeven door de politie.,gegeven,krijgt
+5,Passive,19,ditransitive_1,146,Grammatical,De rol wordt de ervaren acteurs toegekend voor de toneelvoorstelling.,toegekend,wordt
+5,Passive,19,ditransitive_1,146,Ungrammatical,De rol krijgt de ervaren acteurs toegekend voor de toneelvoorstelling.,toegekend,krijgt
+5,Passive,19,ditransitive_1,147,Grammatical,De uitdaging wordt de avontuurlijke deelnemers voorgelegd tijdens het evenement.,voorgelegd,wordt
+5,Passive,19,ditransitive_1,147,Ungrammatical,De uitdaging krijgt de avontuurlijke deelnemers voorgelegd tijdens het evenement.,voorgelegd,krijgt
+5,Passive,19,ditransitive_1,148,Grammatical,Het nieuws wordt de geïnteresseerde kijkers verteld in het journaal.,verteld,wordt
+5,Passive,19,ditransitive_1,148,Ungrammatical,Het nieuws krijgt de geïnteresseerde kijkers verteld in het journaal.,verteld,krijgt
+5,Passive,19,ditransitive_1,149,Grammatical,Het voorstel wordt de betrokken partijen gepresenteerd tijdens de vergadering.,gepresenteerd,wordt
+5,Passive,19,ditransitive_1,149,Ungrammatical,Het voorstel krijgt de betrokken partijen gepresenteerd tijdens de vergadering,gepresenteerd,krijgt
+5,Passive,19,ditransitive_1,150,Grammatical,De informatie wordt de geïnteresseerde studenten aangeboden tijdens de voorlichting.,aangeboden,wordt
+5,Passive,19,ditransitive_1,150,Ungrammatical,De informatie krijgt de geïnteresseerde studenten aangeboden tijdens de voorlichting.,aangeboden,krijgt
+5,Passive,19,ditransitive_1,151,Grammatical,De boodschap wordt de ontvangers duidelijk gemaakt in de brief.,gemaakt,wordt
+5,Passive,19,ditransitive_1,151,Ungrammatical,De boodschap krijgt de ontvangers duidelijk gemaakt in de brief.,gemaakt,krijgt
+5,Passive,19,ditransitive_1,152,Grammatical,Het antwoord wordt de nieuwsgierige leerlingen verteld tijdens de les.,verteld,wordt
+5,Passive,19,ditransitive_1,152,Ungrammatical,Het antwoord krijgt de nieuwsgierige leerlingen verteld tijdens de les.,verteld,krijgt
+5,Passive,19,ditransitive_1,153,Grammatical,Het doel wordt de gedreven werknemers gesteld voor het kwartaal.,gesteld,wordt
+5,Passive,19,ditransitive_1,153,Ungrammatical,Het doel krijgt de gedreven werknemers gesteld voor het kwartaal.,gesteld,krijgt
+5,Passive,19,ditransitive_1,154,Grammatical,De test wordt de studenten afgenomen aan het einde van het semester.,afgenomen,wordt
+5,Passive,19,ditransitive_1,154,Ungrammatical,De test krijgt de studenten afgenomen aan het einde van het semester.,afgenomen,krijgt
+5,Passive,19,ditransitive_1,155,Grammatical,Het verslag wordt de betrokken partijen voorgeschoteld na het onderzoek.,voorgeschoteld,wordt
+5,Passive,19,ditransitive_1,155,Ungrammatical,Het verslag krijgt de betrokken partijen voorgeschoteld na het onderzoek.,voorgeschoteld,krijgt
+5,Passive,19,ditransitive_1,156,Grammatical,De vergoeding wordt de dienstverleners betaald na voltooiing van de opdracht.,betaald,wordt
+5,Passive,19,ditransitive_1,156,Ungrammatical,De vergoeding krijgt de dienstverleners betaald na voltooiing van de opdracht.,betaald,krijgt
+5,Passive,19,ditransitive_1,157,Grammatical,Het cadeau wordt de feestvierders gegeven tijdens het jubileumfeest.,gegeven,wordt
+5,Passive,19,ditransitive_1,157,Ungrammatical,Het cadeau krijgt de feestvierders gegeven tijdens het jubileumfeest.,gegeven,krijgt
+5,Passive,19,ditransitive_1,158,Grammatical,De route wordt de wandelaars getoond voor aanvang van de tocht.,getoond,wordt
+5,Passive,19,ditransitive_1,158,Ungrammatical,De route krijgt de wandelaars getoond voor aanvang van de tocht.,getoond,krijgt
+5,Passive,19,ditransitive_1,159,Grammatical,De herinnering wordt de genodigden gestuurd voor het evenement.,gestuurd,wordt
+5,Passive,19,ditransitive_1,159,Ungrammatical,De herinnering krijgt de genodigden gestuurd voor het evenement.,gestuurd,krijgt
+5,Passive,19,ditransitive_1,160,Grammatical,Het menu wordt de gasten overhandigd bij binnenkomst in het restaurant.,overhandigd,wordt
+5,Passive,19,ditransitive_1,160,Ungrammatical,Het menu krijgt de gasten overhandigd bij binnenkomst in het restaurant.,overhandigd,krijgt
+5,Passive,19,ditransitive_1,161,Grammatical,De taak wordt de getalenteerde studenten toegewezen voor het project.,toegewezen,wordt
+5,Passive,19,ditransitive_1,161,Ungrammatical,De taak krijgt de getalenteerde studenten toegewezen voor het project.,toegewezen,krijgt
+5,Passive,19,ditransitive_1,162,Grammatical,De beslissing wordt de bekwame manager toegestaan na grondige overweging.,toegestaan,wordt
+5,Passive,19,ditransitive_1,162,Ungrammatical,De beslissing krijgt de bekwame manager toegestaan na grondige overweging.,toegestaan,krijgt
+5,Passive,19,ditransitive_1,163,Grammatical,De verantwoordelijkheid wordt de betrokken medewerkers toegewezen voor de uitvoering.,toegewezen,wordt
+5,Passive,19,ditransitive_1,163,Ungrammatical,De verantwoordelijkheid krijgt de betrokken medewerkers toegewezen voor de uitvoering.,toegewezen,krijgt
+5,Passive,19,ditransitive_1,164,Grammatical,Het nieuws wordt de hele gemeenschap verteld tijdens de bijeenkomst.,verteld,wordt
+5,Passive,19,ditransitive_1,164,Ungrammatical,Het nieuws krijgt de hele gemeenschap verteld tijdens de bijeenkomst.,verteld,krijgt
+5,Passive,19,ditransitive_1,165,Grammatical,De opdracht wordt de gemotiveerde studenten gegeven voor verdere studie.,gegeven,wordt
+5,Passive,19,ditransitive_1,165,Ungrammatical,De opdracht krijgt de gemotiveerde studenten gegeven voor verdere studie.,gegeven,krijgt
+5,Passive,19,ditransitive_1,166,Grammatical,De rol wordt de ervaren acteur toegekend voor het toneelstuk.,toegekend,wordt
+5,Passive,19,ditransitive_1,166,Ungrammatical,De rol krijgt de ervaren acteur toegekend voor het toneelstuk.,toegekend,krijgt
+5,Passive,19,ditransitive_1,167,Grammatical,De kans wordt de ambitieuze ondernemers geboden om deel te nemen aan het programma.,geboden,wordt
+5,Passive,19,ditransitive_1,167,Ungrammatical,De kans krijgt de ambitieuze ondernemers geboden om deel te nemen aan het programma.,geboden,krijgt
+5,Passive,19,ditransitive_1,168,Grammatical,Het cadeau wordt de jarige vriendin gegeven tijdens het verrassingsfeest.,gegeven,wordt
+5,Passive,19,ditransitive_1,168,Ungrammatical,Het cadeau krijgt de jarige vriendin gegeven tijdens het verrassingsfeest.,gegeven,krijgt
+5,Passive,19,ditransitive_1,169,Grammatical,De instructie wordt de nauwkeurige werknemers verstrekt voor de montage.,verstrekt,wordt
+5,Passive,19,ditransitive_1,169,Ungrammatical,De instructie krijgt de nauwkeurige werknemers verstrekt voor de montage.,verstrekt,krijgt
+5,Passive,19,ditransitive_1,170,Grammatical,De gelegenheid wordt de enthousiaste vrijwilligers aangeboden om deel te nemen.,aangeboden,wordt
+5,Passive,19,ditransitive_1,170,Ungrammatical,De gelegenheid krijgt de enthousiaste vrijwilligers aangeboden om deel te nemen.,aangeboden,krijgt
+5,Passive,19,ditransitive_1,171,Grammatical,De mogelijkheid wordt de getalenteerde studenten geboden om deel te nemen aan het programma.,geboden,wordt
+5,Passive,19,ditransitive_1,171,Ungrammatical,De mogelijkheid krijgt de getalenteerde studenten geboden om deel te nemen aan het programma.,geboden,krijgt
+5,Passive,19,ditransitive_1,172,Grammatical,De leiding wordt de competente manager toegewezen voor het project.,toegewezen,wordt
+5,Passive,19,ditransitive_1,172,Ungrammatical,De leiding krijgt de competente manager toegewezen voor het project.,toegewezen,krijgt
+5,Passive,19,ditransitive_1,173,Grammatical,De eer wordt de moedige soldaten toegekend voor hun dienstbaarheid.,toegekend,wordt
+5,Passive,19,ditransitive_1,173,Ungrammatical,De eer krijgt de moedige soldaten toegekend voor hun dienstbaarheid.,toegekend,krijgt
+5,Passive,19,ditransitive_1,174,Grammatical,De prijs wordt de winnende deelnemers overhandigd tijdens de ceremonie.,overhandigd,wordt
+5,Passive,19,ditransitive_1,174,Ungrammatical,De prijs krijgt de winnende deelnemers overhandigd tijdens de ceremonie.,overhandigd,krijgt
+5,Passive,19,ditransitive_1,175,Grammatical,Het woord wordt de spreker gegeven voor zijn toespraak.,gegeven,wordt
+5,Passive,19,ditransitive_1,175,Ungrammatical,Het woord krijgt de spreker gegeven voor zijn toespraak.,gegeven,krijgt
+5,Passive,19,ditransitive_1,176,Grammatical,De schuld wordt de nalatige partij toegewezen na het onderzoek.,toegewezen,wordt
+5,Passive,19,ditransitive_1,176,Ungrammatical,De schuld krijgt de nalatige partij toegewezen na het onderzoek.,toegewezen,krijgt
+5,Passive,19,ditransitive_1,177,Grammatical,Het nieuws wordt de verslaggever verteld tijdens de persconferentie.,verteld,wordt
+5,Passive,19,ditransitive_1,177,Ungrammatical,Het nieuws krijgt de verslaggever verteld tijdens de persconferentie.,verteld,krijgt
+5,Passive,19,ditransitive_1,178,Grammatical,De uitdaging wordt de gedreven studenten gegeven voor de competitie.,gegeven,wordt
+5,Passive,19,ditransitive_1,178,Ungrammatical,De uitdaging krijgt de gedreven studenten gegeven voor de competitie.,gegeven,krijgt
+5,Passive,19,ditransitive_1,179,Grammatical,De beloning wordt de hardwerkende medewerkers toegekend voor hun inzet.,toegekend,wordt
+5,Passive,19,ditransitive_1,179,Ungrammatical,De beloning krijgt de hardwerkende medewerkers toegekend voor hun inzet.,toegekend,krijgt
+5,Passive,19,ditransitive_1,180,Grammatical,De verantwoordelijkheid wordt de bekwame manager toegewezen voor het project.,toegewezen,wordt
+5,Passive,19,ditransitive_1,180,Ungrammatical,De verantwoordelijkheid krijgt de bekwame manager toegewezen voor het project.,toegewezen,krijgt
+5,Passive,19,ditransitive_1,181,Grammatical,De uitnodiging wordt de genodigden gestuurd voor het feest.,gestuurd,wordt
+5,Passive,19,ditransitive_1,181,Ungrammatical,De uitnodiging krijgt de genodigden gestuurd voor het feest.,gestuurd,krijgt
+5,Passive,19,ditransitive_1,182,Grammatical,De boodschap wordt de ontvangers meegedeeld via e-mail.,meegedeeld,wordt
+5,Passive,19,ditransitive_1,182,Ungrammatical,De boodschap krijgt de ontvangers meegedeeld via e-mail.,meegedeeld,krijgt
+5,Passive,19,ditransitive_1,183,Grammatical,De oplossing wordt de probleemgevallen aangereikt door het team.,aangereikt,wordt
+5,Passive,19,ditransitive_1,183,Ungrammatical,De oplossing krijgt de probleemgevallen aangereikt door het team.,aangereikt,krijgt
+5,Passive,19,ditransitive_1,184,Grammatical,Het besluit wordt de betrokkenen medegedeeld na de vergadering.,medegedeeld,wordt
+5,Passive,19,ditransitive_1,184,Ungrammatical,Het besluit krijgt de betrokkenen medegedeeld na de vergadering.,medegedeeld,krijgt
+5,Passive,19,ditransitive_1,185,Grammatical,De kans wordt de deelnemers geboden om deel te nemen aan het onderzoek.,geboden,wordt
+5,Passive,19,ditransitive_1,185,Ungrammatical,De kans krijgt de deelnemers geboden om deel te nemen aan het onderzoek.,geboden,krijgt
+5,Passive,19,ditransitive_1,186,Grammatical,Het voorstel wordt de commissie gepresenteerd voor goedkeuring.,gepresenteerd,wordt
+5,Passive,19,ditransitive_1,186,Ungrammatical,Het voorstel krijgt de commissie gepresenteerd voor goedkeuring.,gepresenteerd,krijgt
+5,Passive,19,ditransitive_1,187,Grammatical,De schenking wordt de behoeftigen gegeven tijdens de liefdadigheidsactie.,gegeven,wordt
+5,Passive,19,ditransitive_1,187,Ungrammatical,De schenking krijgt de behoeftigen gegeven tijdens de liefdadigheidsactie.,gegeven,krijgt
+5,Passive,19,ditransitive_1,188,Grammatical,Het geheim wordt de vertrouwelingen toevertrouwd door de spion.,toevertrouwd,wordt
+5,Passive,19,ditransitive_1,188,Ungrammatical,Het geheim krijgt de vertrouwelingen toevertrouwd door de spion.,toevertrouwd,krijgt
+5,Passive,19,ditransitive_1,189,Grammatical,De details worden de geïnteresseerde uitgelegd tijdens de workshop.,uitgelegd,worden
+5,Passive,19,ditransitive_1,189,Ungrammatical,De details krijgen de geïnteresseerde uitgelegd tijdens de workshop.,uitgelegd,krijgen
+5,Passive,19,ditransitive_1,190,Grammatical,De bevoegdheid wordt de bekwame juristen toegekend voor het juridisch advies.,toegekend,wordt
+5,Passive,19,ditransitive_1,190,Ungrammatical,De bevoegdheid krijgt de bekwame juristen toegekend voor het juridisch advies.,toegekend,krijgt
+5,Passive,19,ditransitive_1,191,Grammatical,Het rapport wordt de belanghebbenden overhandigd na de analyse.,overhandigd,wordt
+5,Passive,19,ditransitive_1,191,Ungrammatical,Het rapport krijgt de belanghebbenden overhandigd na de analyse.,overhandigd,krijgt
+5,Passive,19,ditransitive_1,192,Grammatical,De uitkomst wordt de betrokken partijen medegedeeld na het onderzoek.,medegedeeld,wordt
+5,Passive,19,ditransitive_1,192,Ungrammatical,De uitkomst krijgt de betrokken partijen medegedeeld na het onderzoek.,medegedeeld,krijgt
+5,Passive,19,ditransitive_1,193,Grammatical,Het advies wordt de cliënten gegeven voor de financiële planning.,gegeven,wordt
+5,Passive,19,ditransitive_1,193,Ungrammatical,Het advies krijgt de cliënten gegeven voor de financiële planning.,gegeven,krijgt
+5,Passive,19,ditransitive_1,194,Grammatical,Het antwoord wordt de deelnemers gevraagd tijdens de quiz.,gevraagd,wordt
+5,Passive,19,ditransitive_1,194,Ungrammatical,Het antwoord krijgt de deelnemers gevraagd tijdens de quiz.,gevraagd,krijgt
+5,Passive,19,ditransitive_1,195,Grammatical,Het idee wordt de teamleden voorgesteld tijdens de brainstormsessie.,voorgesteld,wordt
+5,Passive,19,ditransitive_1,195,Ungrammatical,Het idee krijgt de teamleden voorgesteld tijdens de brainstormsessie.,voorgesteld,krijgt
+5,Passive,19,ditransitive_1,196,Grammatical,De boodschap wordt de ontvangers doorgegeven via de intercom.,doorgegeven,wordt
+5,Passive,19,ditransitive_1,196,Ungrammatical,De boodschap krijgt de ontvangers doorgegeven via de intercom.,doorgegeven,krijgt
+5,Passive,19,ditransitive_1,197,Grammatical,De missie wordt de teamleden toegewezen voor de uitvoering.,toegewezen,wordt
+5,Passive,19,ditransitive_1,197,Ungrammatical,De missie krijgt de teamleden toegewezen voor de uitvoering.,toegewezen,krijgt
+5,Passive,19,ditransitive_1,198,Grammatical,Het advies wordt de zoekende klanten gegeven tijdens het consult.,gegeven,wordt
+5,Passive,19,ditransitive_1,198,Ungrammatical,Het advies krijgt de zoekende klanten gegeven tijdens het consult.,gegeven,krijgt
+5,Passive,19,ditransitive_1,199,Grammatical,Het aanbod wordt de potentiële kopers gepresenteerd tijdens de verkooppresentatie.,gepresenteerd,wordt
+5,Passive,19,ditransitive_1,199,Ungrammatical,Het aanbod krijgt de potentiële kopers gepresenteerd tijdens de verkooppresentatie.,gepresenteerd,krijgt
+5,Passive,19,ditransitive_1,200,Grammatical,De steun wordt de behoeftige gezinnen geboden tijdens de crisis.,geboden,wordt
+5,Passive,19,ditransitive_1,200,Ungrammatical,De steun krijgt de behoeftige gezinnen geboden tijdens de crisis.,geboden,krijgt
+5,Passive,20,ditransitive_2,201,Grammatical,De studenten krijgen het nieuwe boek toegestuurd voor de cursus.,toegestuurd,krijgen
+5,Passive,20,ditransitive_2,201,Ungrammatical,De studenten worden het nieuwe boek toegestuurd voor de cursus.,toegestuurd,worden
+5,Passive,20,ditransitive_2,202,Grammatical,De geliefden krijgen de oude sleutel overgedragen over drie dagen.,overgedragen,krijgen
+5,Passive,20,ditransitive_2,202,Ungrammatical,De geliefden worden de oude sleutel overgedragen over drie dagen.,overgedragen,worden
+5,Passive,20,ditransitive_2,203,Grammatical,De dieven krijgen de ergste straf opgelegd vanwege hun gedrag.,opgelegd,krijgen
+5,Passive,20,ditransitive_2,203,Ungrammatical,De dieven worden de ergste straf opgelegd vanwege hun gedrag.,opgelegd,worden
+5,Passive,20,ditransitive_2,204,Grammatical,De leerlingen krijgen de moeilijke som uitgelegd voor de toets.,uitgelegd,krijgen
+5,Passive,20,ditransitive_2,204,Ungrammatical,De leerlingen worden de moeilijke som uitgelegd voor de toets.,uitgelegd,worden
+5,Passive,20,ditransitive_2,205,Grammatical,De kleuters krijgen het hele verhaal voorgelezen met gekke stemmetjes.,voorgelezen,krijgen
+5,Passive,20,ditransitive_2,205,Ungrammatical,De kleuters worden het hele verhaal voorgelezen met gekke stemmetjes.,voorgelezen,worden
+5,Passive,20,ditransitive_2,206,Grammatical,De tieners krijgen dit lekkere gerecht voorgeschoteld bij het avondeten.,voorgeschoteld,krijgen
+5,Passive,20,ditransitive_2,206,Ungrammatical,De tieners worden dit lekkere gerecht voorgeschoteld bij het avondeten.,voorgeschoteld,worden
+5,Passive,20,ditransitive_2,207,Grammatical,De ouderen krijgen dit zware medicijn voorgeschreven voor hun pijn.,voorgeschreven,krijgen
+5,Passive,20,ditransitive_2,207,Ungrammatical,De ouderen worden dit zware medicijn voorgeschreven voor hun pijn.,voorgeschreven,worden
+5,Passive,20,ditransitive_2,208,Grammatical,De verkopers krijgen dit grote bedrag geboden voor hun huis.,geboden,krijgen
+5,Passive,20,ditransitive_2,208,Ungrammatical,De verkopers worden dit grote bedrag geboden voor hun huis.,geboden,worden
+5,Passive,20,ditransitive_2,209,Grammatical,De patiënten krijgen dit kalmerende middel geadviseerd voor hun klachten.,geadviseerd,krijgen
+5,Passive,20,ditransitive_2,209,Ungrammatical,De patiënten worden dit kalmerende middel geadviseerd voor hun klachten.,geadviseerd,worden
+5,Passive,20,ditransitive_2,210,Grammatical,De buren krijgen deze mooie prijs overhandigd voor hun hulp.,overhandigd,krijgen
+5,Passive,20,ditransitive_2,210,Ungrammatical,De buren worden deze mooie prijs overhandigd voor hun hulp.,overhandigd,worden
+5,Passive,20,ditransitive_2,211,Grammatical,De werknemers krijgen een extra bonus uitbetaald voor hun prestaties.,uitbetaald,krijgen
+5,Passive,20,ditransitive_2,211,Ungrammatical,De werknemers worden een extra bonus uitbetaald voor hun prestaties.,uitbetaald,worden
+5,Passive,20,ditransitive_2,212,Grammatical,De werknemers krijgen extra vakantiedagen toegekend voor hun inzet.,toegekend,krijgen
+5,Passive,20,ditransitive_2,212,Ungrammatical,De werknemers worden extra vakantiedagen toegekend voor hun inzet.,toegekend,worden
+5,Passive,20,ditransitive_2,213,Grammatical,De patiënten krijgen de behandeling uitgelegd door de arts.,uitgelegd,krijgen
+5,Passive,20,ditransitive_2,213,Ungrammatical,De patiënten worden de behandeling uitgelegd door de arts.,uitgelegd,worden
+5,Passive,20,ditransitive_2,214,Grammatical,De klanten krijgen een gratis sample aangeboden bij hun aankoop.,aangeboden,krijgen
+5,Passive,20,ditransitive_2,214,Ungrammatical,De klanten worden een gratis sample aangeboden bij hun aankoop.,aangeboden,worden
+5,Passive,20,ditransitive_2,215,Grammatical,De deelnemers krijgen een certificaat uitgereikt na afloop van de cursus.,uitgereikt,krijgen
+5,Passive,20,ditransitive_2,215,Ungrammatical,De deelnemers worden een certificaat uitgereikt na afloop van de cursus.,uitgereikt,worden
+5,Passive,20,ditransitive_2,216,Grammatical,De patiënten krijgen een speciaal dieet voorgeschreven door de diëtist.,voorgeschreven,krijgen
+5,Passive,20,ditransitive_2,216,Ungrammatical,De patiënten worden een speciaal dieet voorgeschreven door de diëtist.,voorgeschreven,worden
+5,Passive,20,ditransitive_2,217,Grammatical,De atleten krijgen de medailles omgehangen na de wedstrijd.,omgehangen,krijgen
+5,Passive,20,ditransitive_2,217,Ungrammatical,De atleten worden de medailles omgehangen na de wedstrijd.,omgehangen,worden
+5,Passive,20,ditransitive_2,218,Grammatical,De klanten krijgen hun bestelling bezorgd binnen twee werkdagen.,bezorgd,krijgen
+5,Passive,20,ditransitive_2,218,Ungrammatical,De klanten worden hun bestelling bezorgd binnen twee werkdagen.,bezorgd,worden
+5,Passive,20,ditransitive_2,219,Grammatical,De gasten krijgen de gelegenheid geboden om vragen te stellen.,geboden,krijgen
+5,Passive,20,ditransitive_2,219,Ungrammatical,De gasten worden de gelegenheid geboden om vragen te stellen.,geboden,worden
+5,Passive,20,ditransitive_2,220,Grammatical,De deelnemers krijgen een lunch aangeboden tijdens de conferentie.,aangeboden,krijgen
+5,Passive,20,ditransitive_2,220,Ungrammatical,De deelnemers worden een lunch aangeboden tijdens de conferentie.,aangeboden,worden
+5,Passive,20,ditransitive_2,221,Grammatical,De medewerkers krijgen een training aangeboden om hun vaardigheden te verbeteren.,aangeboden,krijgen
+5,Passive,20,ditransitive_2,221,Ungrammatical,De medewerkers worden een training aangeboden om hun vaardigheden te verbeteren.,aangeboden,worden
+5,Passive,20,ditransitive_2,222,Grammatical,De gladiatoren krijgen hun wapens aangereikt door de slaven.,aangereikt,krijgen
+5,Passive,20,ditransitive_2,222,Ungrammatical,De gladiatoren worden hun wapens aangereikt door de slaven.,aangereikt,worden
+5,Passive,20,ditransitive_2,223,Grammatical,De goden krijgen offers gebracht tijdens de ceremonies.,gebracht,krijgen
+5,Passive,20,ditransitive_2,223,Ungrammatical,De goden worden offers gebracht tijdens de ceremonies.,gebracht,worden
+5,Passive,20,ditransitive_2,224,Grammatical,De Orde van de Feniks krijgt hun missies toegewezen door Albus Perkamentus.,toegewezen,krijgen
+5,Passive,20,ditransitive_2,224,Ungrammatical,De Orde van de Feniks wordt hun missies toegewezen door Albus Perkamentus.,toegewezen,worden
+5,Passive,20,ditransitive_2,225,Grammatical,De studenten krijgen hun diploma's uitgereikt na het afronden van hun studie.,uitgereikt,krijgen
+5,Passive,20,ditransitive_2,225,Ungrammatical,De studenten worden hun diploma's uitgereikt na het afronden van hun studie.,uitgereikt,worden
+5,Passive,20,ditransitive_2,226,Grammatical,De honden krijgen hun voer geserveerd door hun baasje.,geserveerd,krijgen
+5,Passive,20,ditransitive_2,226,Ungrammatical,De honden worden hun voer geserveerd door hun baasje.,geserveerd,worden
+5,Passive,20,ditransitive_2,227,Grammatical,De gasten krijgen hun drankjes geserveerd door de ober.,geserveerd,krijgen
+5,Passive,20,ditransitive_2,227,Ungrammatical,De gasten worden hun drankjes geserveerd door de ober.,geserveerd,worden
+5,Passive,20,ditransitive_2,228,Grammatical,De voetbalspelers krijgen hun posities toegewezen door de coach.,toegewezen,krijgen
+5,Passive,20,ditransitive_2,228,Ungrammatical,De voetbalspelers worden hun posities toegewezen door de coach.,toegewezen,worden
+5,Passive,20,ditransitive_2,229,Grammatical,Klanten krijgen kortingen aangeboden tijdens de uitverkoop.,aangeboden,krijgen
+5,Passive,20,ditransitive_2,229,Ungrammatical,Klanten worden kortingen aangeboden tijdens de uitverkoop.,aangeboden,worden
+5,Passive,20,ditransitive_2,230,Grammatical,Studenten krijgen hun project op tijd afgerond,afgerond,krijgen
+5,Passive,20,ditransitive_2,230,Ungrammatical,Studenten worden hun project op tijd afgerond,afgerond,worden
+5,Passive,20,ditransitive_2,231,Grammatical,Deelnemers krijgen informatie verstrekt over de nieuwe regels.,verstrekt,krijgen
+5,Passive,20,ditransitive_2,231,Ungrammatical,Deelnemers worden informatie verstrekt over de nieuwe regels.,verstrekt,worden
+5,Passive,20,ditransitive_2,232,Grammatical,Klanten krijgen een gratis proefperiode aangeboden bij het kopen van een nieuwe tv.,aangeboden,krijgen
+5,Passive,20,ditransitive_2,232,Ungrammatical,Klanten worden een gratis proefperiode aangeboden bij het kopen van een nieuwe tv.,aangeboden,worden
+5,Passive,20,ditransitive_2,233,Grammatical,Medewerkers krijgen een handleiding gemaild om het nieuwe systeem te leren.,gemaild,krijgen
+5,Passive,20,ditransitive_2,233,Ungrammatical,Medewerkers worden een handleiding gemaild om het nieuwe systeem te leren.,gemaild,worden
+5,Passive,20,ditransitive_2,234,Grammatical,Heksen krijgen pukkelcrème geadviseerd voor hun slechte huid.,geadviseerd,krijgen
+5,Passive,20,ditransitive_2,234,Ungrammatical,Heksen worden pukkelcrème geadviseerd voor hun slechte huid.,geadviseerd,worden
+5,Passive,20,ditransitive_2,235,Grammatical,James krijgt zijn nieuwe werkplek toegewezen.,toegewezen,krijgen
+5,Passive,20,ditransitive_2,235,Ungrammatical,James wordt zijn nieuwe werkplek toegewezen.,toegewezen,worden
+5,Passive,20,ditransitive_2,236,Grammatical,Pieter krijgt wiet aangeboden in Amsterdam.,aangeboden,krijgen
+5,Passive,20,ditransitive_2,236,Ungrammatical,Pieter wordt wiet aangeboden in Amsterdam.,aangeboden,worden
+5,Passive,20,ditransitive_2,237,Grammatical,De kinderen krijgen snoepjes uitgedeeld op Halloween.,uitgedeeld,krijgen
+5,Passive,20,ditransitive_2,237,Ungrammatical,De kinderen worden snoepjes uitgedeeld op Halloween.,uitgedeeld,worden
+5,Passive,20,ditransitive_2,238,Grammatical,Gebruikers krijgen een wachtwoordreset-link toegestuurd als ze hun wachtwoord vergeten zijn.,toegestuurd,krijgen
+5,Passive,20,ditransitive_2,238,Ungrammatical,Gebruikers worden een wachtwoordreset-link toegestuurd als ze hun wachtwoord vergeten zijn.,toegestuurd,worden
+5,Passive,20,ditransitive_2,239,Grammatical,Leden die elke dag trainen krijgen een speciale korting toebedeeld in de sportschool.,toebedeeld,krijgen
+5,Passive,20,ditransitive_2,239,Ungrammatical,Leden die elke dag trainen worden een speciale korting toebedeeld in de sportschool.,toebedeeld,worden
+5,Passive,20,ditransitive_2,240,Grammatical,Nieuwe leden van de PVV krijgen een lidmaatschapskaart thuisgestuurd.,thuisgestuurd,krijgen
+5,Passive,20,ditransitive_2,240,Ungrammatical,Nieuwe leden van de PVV worden een lidmaatschapskaart thuisgestuurd.,thuisgestuurd,worden
+5,Passive,20,ditransitive_2,241,Grammatical,Inwoners krijgen informatie verstrekt over de nieuwe belastingregeling.,verstrekt,krijgen
+5,Passive,20,ditransitive_2,241,Ungrammatical,Inwoners worden informatie verstrekt over de nieuwe belastingregeling.,verstrekt,worden
+5,Passive,20,ditransitive_2,242,Grammatical,De nieuwe fractievoorzitter van de VVD krijgt veel kritiek over zich uitgestort. ,uitgestort,krijgen
+5,Passive,20,ditransitive_2,242,Ungrammatical,De nieuwe fractievoorzitter van de VVD wordt veel kritiek over zich uitgestort.,uitgestort,worden
+5,Passive,20,ditransitive_2,243,Grammatical,Poetin krijgt al zijn reguliere werk gedaan terwijl hij bezig is met de wereldvrede verstoren,gedaan,krijgen
+5,Passive,20,ditransitive_2,243,Ungrammatical,Poetin wordt al zijn reguliere werk gedaan terwijl hij bezig is met de wereldvrede verstoren,gedaan,worden
+5,Passive,20,ditransitive_2,244,Grammatical,Marieke krijgt geen cadeaubonnen toegestuurd op haar verjaardag.,toegestuurd,krijgen
+5,Passive,20,ditransitive_2,244,Ungrammatical,Marieke wordt geen cadeau bonnen toegestuurd op haar verjaardag.,toegestuurd,worden
+5,Passive,20,ditransitive_2,245,Grammatical,Schrijvers krijgen vaak hun roman afgerond als ze op vakantie zijn.,afgerond,krijgen
+5,Passive,20,ditransitive_2,245,Ungrammatical,Schrijvers worden vaak hun roman afgerond als ze op vakantie zijn.,afgerond,worden
+5,Passive,20,ditransitive_2,246,Grammatical,Volksvertegenwoordigers krijgen een salarisverhoging voorgesteld door de commissie.,voorgesteld,krijgen
+5,Passive,20,ditransitive_2,246,Ungrammatical,Volksvertegenwoordigers worden een salarisverhoging voorgesteld door de commissie.,voorgesteld,worden
+5,Passive,20,ditransitive_2,247,Grammatical,Frodo krijgt door het lot de zware taak toebedeeld om de ring terug te brengen.,toebedeeld,krijgen
+5,Passive,20,ditransitive_2,247,Ungrammatical,Frodo wordt door het lot de zware taak toebedeeld om de ring terug te brengen.,toebedeeld,worden
+5,Passive,20,ditransitive_2,248,Grammatical,Kiezers krijgen een stembiljet toegestuurd voor de verkiezingen.,toegestuurd,krijgen
+5,Passive,20,ditransitive_2,248,Ungrammatical,Kiezers worden een stembiljet toegestuurd voor de verkiezingen.,toegestuurd,worden
+5,Passive,20,ditransitive_2,249,Grammatical,Geblesseerde bobsleeërs krijgen een speciale behandeling geadviseerd door de huisarts.,geadviseerd,krijgen
+5,Passive,20,ditransitive_2,249,Ungrammatical,Geblesseerde bobsleeërs worden een speciale behandeling geadviseerd door de huisarts. ,geadviseerd,worden
+5,Passive,20,ditransitive_2,250,Grammatical,Amerikanen krijgen verslavende medicijnen aangesmeerd zonder dat zij dit weten.,aangesmeerd,krijgen
+5,Passive,20,ditransitive_2,250,Ungrammatical,Amerikanen worden verslavende medicijnen aangesmeerd zonder dat zij dit weten.,aangesmeerd,worden
+5,Passive,20,ditransitive_2,251,Grammatical,Fans van Harry Potter krijgen het nieuwe boek van Carry Slee aangeraden.,aangeraden,krijgen
+5,Passive,20,ditransitive_2,251,Ungrammatical,Fans van Harry Potter worden het nieuwe boek van Carry Slee aangeraden.,aangeraden,worden
+5,Passive,20,ditransitive_2,252,Grammatical,Inwoners van alle provincies krijgen achterstalige belastingaanslagen verzonden omdat de belastingdienst heeft gefaald.,verzonden,krijgen
+5,Passive,20,ditransitive_2,252,Ungrammatical,Inwoners van alle provincies worden achterstalige belastingaanslagen verzonden omdat de belastingdienst heeft gefaald.,verzonden,worden
+5,Passive,20,ditransitive_2,253,Grammatical,Verdachten krijgen hun rechten voorgelezen voordat zij gearresteerd worden.,voorgelezen,krijgen
+5,Passive,20,ditransitive_2,253,Ungrammatical,Verdachten worden hun rechten voorgelezen voordat zij gearresteerd worden.,voorgelezen,worden
+5,Passive,20,ditransitive_2,254,Grammatical,Ridders krijgen voor hun inauguratie een zwaard geschonken.,geschonken,krijgen
+5,Passive,20,ditransitive_2,254,Ungrammatical,Ridders worden voor hun inauguratie een zwaard geschonken.,geschonken,worden
+5,Passive,20,ditransitive_2,255,Grammatical,Edelen krijgen als bewijs voor hun trouw aan de koning een kasteel toegekend.,toegekend,krijgen
+5,Passive,20,ditransitive_2,255,Ungrammatical,Edelen worden als bewijs voor hun trouw aan de koning een kasteel toegekend.,toegekend,worden
+5,Passive,20,ditransitive_2,256,Grammatical,Boeren krijgen van een edelman een stuk land toegewezen.,toegewezen,krijgen
+5,Passive,20,ditransitive_2,256,Ungrammatical,Boeren worden van een edelman een stuk land toegewezen.,toegewezen,worden
+5,Passive,20,ditransitive_2,257,Grammatical,Goede knechten krijgen hun opdracht snel volbracht.,volbracht,krijgen
+5,Passive,20,ditransitive_2,257,Ungrammatical,Goede knechten worden hun opdracht snel volbracht.,volbracht,worden
+5,Passive,20,ditransitive_2,258,Grammatical,Koninginnen krijgen een kroon opgezet tijdens staatsbezoeken.,opgezet,krijgen
+5,Passive,20,ditransitive_2,258,Ungrammatical,Koninginnen worden een kroon opgezet tijdens staatsbezoeken.,opgezet,worden
+5,Passive,20,ditransitive_2,259,Grammatical,Ambachtslieden krijgen een guildmeesterschap verleend na het voltooien van hun opleiding.,verleend,krijgen
+5,Passive,20,ditransitive_2,259,Ungrammatical,Ambachtslieden worden een guildmeesterschap verleend na het voltooien van hun opleiding.,verleend,worden
+5,Passive,20,ditransitive_2,260,Grammatical,Bedelaars krijgen als ze geluk hebben een aalmoes geschonken.,geschonken,krijgen
+5,Passive,20,ditransitive_2,260,Ungrammatical,Bedelaars worden als ze geluk hebben een aalmoes geschonken.,geschonken,worden
+5,Passive,20,ditransitive_2,261,Grammatical,Outlaws krijgen een premie op hun hoofd gezet.,gezet,krijgen
+5,Passive,20,ditransitive_2,261,Ungrammatical,Outlaws worden een premie op hun hoofd gezet.,gezet,worden
+5,Passive,20,ditransitive_2,262,Grammatical,Ranchhouders krijgen een kudde vee toegewezen zodra zij in de stad aankomen.,toegewezen,krijgen
+5,Passive,20,ditransitive_2,262,Ungrammatical,Ranchhouders worden een kudde vee toegewezen zodra zij in de stad aankomen.,toegewezen,worden
+5,Passive,20,ditransitive_2,263,Grammatical,Soldaten krijgen een dodelijke missie toegewezen.,toegewezen,krijgen
+5,Passive,20,ditransitive_2,263,Ungrammatical,Soldaten worden een dodelijke missie toegewezen.,toegewezen,worden
+5,Passive,20,ditransitive_2,264,Grammatical,Geesten krijgen hun boodschappen overgebracht door een spiegel.,overgebracht,krijgen
+5,Passive,20,ditransitive_2,264,Ungrammatical,Geesten worden hun boodschappen overgebracht door een spiegel.,overgebracht,worden
+5,Passive,20,ditransitive_2,265,Grammatical,De makkers van Odysseus krijgen de zeilen met moeite gehesen.,gehesen,krijgen
+5,Passive,20,ditransitive_2,265,Ungrammatical,De makkers van Odysseus worden de zeilen met moeite gehesen.,gehesen,worden
+5,Passive,20,ditransitive_2,266,Grammatical,De kat krijgt zijn nieuwe huis toegewezen in het asiel.,toegewezen,krijgen
+5,Passive,20,ditransitive_2,266,Ungrammatical,De kat wordt zijn nieuwe huis toe toegewezen in het asiel.,toegewezen,worden
+5,Passive,20,ditransitive_2,267,Grammatical,Sauron krijgt zijn legers zonder enige moeite gemobiliseerd. ,gemobiliseerd,krijgen
+5,Passive,20,ditransitive_2,267,Ungrammatical,Sauron wordt zijn legers zonder enige moeite gemobiliseerd. ,gemobiliseerd,worden
+5,Passive,20,ditransitive_2,268,Grammatical,Hector krijgt de verdediging van de stadsmuren niet georganiseerd.,georganiseerd,krijgen
+5,Passive,20,ditransitive_2,268,Ungrammatical,Hector wordt de verdediging van de stadsmuren niet georganiseerd.,georganiseerd,worden
+5,Passive,20,ditransitive_2,269,Grammatical,Tiana krijgt haar restaurant geopend ondanks de tegenwerkingen van Theseus.,geopend,krijgen
+5,Passive,20,ditransitive_2,269,Ungrammatical,Tiana wordt haar restaurant geopend ondanks de tegenwerkingen van Theseus.,geopend,worden
+5,Passive,20,ditransitive_2,270,Grammatical,Prinsessen krijgen hun dromen vervuld door de goede fee,vervuld,krijgen
+5,Passive,20,ditransitive_2,270,Ungrammatical,Prinsessen worden hun dromen vervuld door de goede fee,vervuld,worden
+5,Passive,20,ditransitive_2,271,Grammatical,Assepoester krijgt haar droomjurk gemaakt met behulp van muizen en vogels.,gemaakt,krijgen
+5,Passive,20,ditransitive_2,271,Ungrammatical,Assepoester wordt haar droomjurk gemaakt met behulp van muizen en vogels.,gemaakt,worden
+5,Passive,20,ditransitive_2,272,Grammatical,Ariel krijgt haar stem teruggegeven aan het eind van de film.,teruggegeven,krijgen
+5,Passive,20,ditransitive_2,272,Ungrammatical,Ariel wordt haar stem teruggegeven aan het eind van de film.,teruggegeven,worden
+5,Passive,20,ditransitive_2,273,Grammatical,Belle krijgt haar boeken voorgelezen door het beest.,voorgelezen,krijgen
+5,Passive,20,ditransitive_2,273,Ungrammatical,Belle wordt haar boeken voorgelezen door het beest.,voorgelezen,worden
+5,Passive,20,ditransitive_2,274,Grammatical,Elsa krijgt haar krachten beheerst nadat ze een mentale inzinking heeft gehad.,beheerst,krijgen
+5,Passive,20,ditransitive_2,274,Ungrammatical,Elsa wordt haar krachten beheerst nadat ze een mentale inzinking heeft gehad.,beheerst,worden
+5,Passive,20,ditransitive_2,275,Grammatical,Aladdin krijgt de geest uit de lamp bevrijd met hulp van een tapijt.,bevrijd,krijgen
+5,Passive,20,ditransitive_2,275,Ungrammatical,Aladdin wordt de geest uit de lamp bevrijd met hulp van een tapijt.,bevrijd,worden
+5,Passive,20,ditransitive_2,276,Grammatical,Ted krijgt zijn verhaal na negen seizoenen eindelijk verteld.,verteld,krijgen
+5,Passive,20,ditransitive_2,276,Ungrammatical,Ted wordt zijn verhaal na negen seizoenen eindelijk verteld.,verteld,worden
+5,Passive,20,ditransitive_2,277,Grammatical,Barney krijgt zijn legendarische daden volbracht voordat hij trouwt met Robin.,volbracht,krijgen
+5,Passive,20,ditransitive_2,277,Ungrammatical,Barney wordt zijn legendarische daden volbracht voordat hij trouwt met Robin.,volbracht,worden
+5,Passive,20,ditransitive_2,278,Grammatical,Arthur krijgt als eerste het zwaard uit de steen getrokken.,getrokken,krijgen
+5,Passive,20,ditransitive_2,278,Ungrammatical,Arthur wordt als eerste het zwaard uit de steen getrokken.,getrokken,worden
+5,Passive,20,ditransitive_2,279,Grammatical,De politie krijgt de wet met geweld gehandhaaft.,gehandhaaft,krijgen
+5,Passive,20,ditransitive_2,279,Ungrammatical,De politie wordt de wet met geweld gehandhaaft. ,gehandhaaft,worden
+5,Passive,20,ditransitive_2,280,Grammatical,Ted krijgt zijn verhalen aan zijn kinderen verteld voordat ze uit verveling zijn weggelopen.,verteld,krijgen
+5,Passive,20,ditransitive_2,280,Ungrammatical,Ted wordt zijn verhalen aan zijn kinderen verteld voordat ze uit verveling zijn weggelopen.,verteld,worden
+5,Passive,20,ditransitive_2,281,Grammatical,Vergilius krijgt zijn verzen geschreven ondanks de afleidingen.,geschreven,krijgen
+5,Passive,20,ditransitive_2,281,Ungrammatical,Vervilius wordt zijn verzen geschreven ondanks de afleidingen.,geschreven,worden
+5,Passive,20,ditransitive_2,282,Grammatical,Oekranië krijgt steun verleend van een groot aantal NAVO landen.,verleend,krijgen
+5,Passive,20,ditransitive_2,282,Ungrammatical,Oekranië wordt steun verleend van een groot aantal NAVO landen.,verleend,worden
+5,Passive,20,ditransitive_2,283,Grammatical,Lobbyisten in de alchoholindustrie krijgen hun belangen behartigd.,behartigd,krijgen
+5,Passive,20,ditransitive_2,283,Ungrammatical,Lobbyisten in de alchoholindustrie worden hun belangen behartigd.,behartigd,worden
+5,Passive,20,ditransitive_2,284,Grammatical,Kiezers krijgen hun stem uitgebracht ondanks de zware sneeuwval.,uitgebracht,krijgen
+5,Passive,20,ditransitive_2,284,Ungrammatical,Kiezers worden hun stem uitgebracht ondanks de zware sneeuwval.,uitgebracht,worden
+5,Passive,20,ditransitive_2,285,Grammatical,De democratische president krijgt zijn beleid geïmplementeerd ondanks het verbod van het hoger gerechtshof.,geïmplementeerd,krijgen
+5,Passive,20,ditransitive_2,285,Ungrammatical,De democratische president wordt zijn beleid geïmplementeerd ondanks het verbod van het hoger gerechtshof.,geïmplementeerd,worden
+5,Passive,20,ditransitive_2,286,Grammatical,Campagneleiders krijgen in zeer korte tijd hun strategieën uitgezet.,uitgezet,krijgen
+5,Passive,20,ditransitive_2,286,Ungrammatical,Campagneleiders worden in zeer korte tijd hun strategieën uitgezet.,uitgezet,worden
+5,Passive,20,ditransitive_2,287,Grammatical,De formule 1 in Zandfoort krijgt de tribunes gevuld met fans van Max Verstappen.,gevuld,krijgen
+5,Passive,20,ditransitive_2,287,Ungrammatical,De formule 1 in Zandfoort wordt de tribunes gevuld met fans van Max Verstappen.,gevuld,worden
+5,Passive,20,ditransitive_2,288,Grammatical,De komedie club krijgt zijn zalen toch gevuld tijdens de optredens van onbekende acteurs.,gevuld,krijgen
+5,Passive,20,ditransitive_2,288,Ungrammatical,De komedie club wordt zijn zalen toch gevuld tijdens de optredens van onbekende acteurs.,gevuld,worden
+5,Passive,20,ditransitive_2,289,Grammatical,Carnavalsverenigingen krijgen hun optochten georganiseerd ondanks de toenemende vergrijzing in de dorpen.,georganiseerd,krijgen
+5,Passive,20,ditransitive_2,289,Ungrammatical,Carnavalsverenigingen worden hun optochten georganiseerd ondanks de toenemende vergrijzing in de dorpen.,georganiseerd,worden
+5,Passive,20,ditransitive_2,290,Grammatical,Rembrandt krijgt zijn schilderijen pas na zijn dood verkocht.,verkocht,krijgen
+5,Passive,20,ditransitive_2,290,Ungrammatical,Rembrandt wordt zijn schilderijen pas na zijn dood verkocht.,verkocht,worden
+5,Passive,20,ditransitive_2,291,Grammatical,De Republiek der Zeven Verenigde Nederlanden krijgt haar macht uitgebreid door andere landen te onderdrukken.,uitgebreid,krijgen
+5,Passive,20,ditransitive_2,291,Ungrammatical,De Republiek der Zeven Verenigde Nederlanden wordt haar macht uitgebreid door andere landen te onderdrukken.,uitgebreid,worden
+5,Passive,20,ditransitive_2,292,Grammatical,De VOC krijgt haar schepen maar met moeite bemand. ,bemand,krijgen
+5,Passive,20,ditransitive_2,292,Ungrammatical,De VOC wordt haar schepen maar met moeite bemand.,bemand,worden
+5,Passive,20,ditransitive_2,293,Grammatical,Ski resorts krijgen hun pistes niet met sneeuw bedekt door het Europese verbod op nepsneeuw.,bedekt,krijgen
+5,Passive,20,ditransitive_2,293,Ungrammatical,Ski resorts worden hun pistes niet met sneeuw bedekt door het Europese verbod op nepsneeuw.,bedekt,worden
+5,Passive,20,ditransitive_2,294,Grammatical,Ilja Leonard Pfeijffer krijgt iedere keer weer zijn boeken gepubliceerd bij een grote uitgeverij.,gepubliceerd,krijgen
+5,Passive,20,ditransitive_2,294,Ungrammatical,Ilja Leonard Pfeijffer wordt iedere keer weer zijn boeken gepubliceerd bij een grote uitgeverij.,gepubliceerd,worden
+5,Passive,20,ditransitive_2,295,Grammatical,Apple krijgt de nieuwe Apple Vision Pro gelanceerd binnen één jaar.,gelanceerd,krijgen
+5,Passive,20,ditransitive_2,295,Ungrammatical,Apple wordt de nieuwe Apple Vision Pro gelanceerd binnen één jaar.,gelanceerd,worden
+5,Passive,20,ditransitive_2,296,Grammatical,Zonnebaders krijgen hun handdoeken uitgereikt door mensen van het hotel.,uitgereikt,krijgen
+5,Passive,20,ditransitive_2,296,Ungrammatical,Zonnebaders worden hun handdoeken uitgereikt door mensen van het hotel.,uitgereikt,worden
+5,Passive,20,ditransitive_2,297,Grammatical,Nobelprijswinnaars krijgen de nobelprijs uitgereikt door beroemde mensen.,uitgereikt,krijgen
+5,Passive,20,ditransitive_2,297,Ungrammatical,Nobelprijswinnaars worden de nobelprijs uitgereikt door beroemde mensen.,uitgereikt,worden
+5,Passive,20,ditransitive_2,298,Grammatical,De verhuizers krijgen met moeite de piano naar de derde verdieping getild.,getild,krijgen
+5,Passive,20,ditransitive_2,298,Ungrammatical,De verhuizers worden met moeite de piano naar de derde verdieping getild.,getild,worden
+5,Passive,20,ditransitive_2,299,Grammatical,Participanten krijgen de prijsvraag toegestuurd.,toegestuurd,krijgen
+5,Passive,20,ditransitive_2,299,Ungrammatical,Participanten worden de prijsvraag toegestuurd.,toegestuurd,worden
+5,Passive,20,ditransitive_2,300,Grammatical,Monica krijgt haar keuken schoongemaakt binnen afzienbare tijd.,schoongemaakt,krijgen
+5,Passive,20,ditransitive_2,300,Ungrammatical,Moncia wordt haar keuken schoongemaakt binnen afzienbare tijd.,schoongemaakt,worden
+5,Passive,21,AcI,301,Grammatical,Zij heeft de man laten dansen tijdens de bruiloft.,laten,Zij heeft
+5,Passive,21,AcI,301,Ungrammatical,Er werd de man laten dansen tijdens de bruiloft.,laten,Er werd
+5,Passive,21,AcI,302,Grammatical,Hij heeft de buurvrouw laten getuigen in de rechtszaak.,laten,Hij heeft
+5,Passive,21,AcI,302,Ungrammatical,Er werd de buurvrouw laten getuigen in de rechtszaak.,laten,Er werd
+5,Passive,21,AcI,303,Grammatical,Zij heeft het kind laten studeren in het weekend.,laten,Zij heeft
+5,Passive,21,AcI,303,Ungrammatical,Er werd het kind laten studeren in het weekend.,laten,Er werd
+5,Passive,21,AcI,304,Grammatical,Hij heeft de hond laten graven in de tuin.,laten,Hij heeft
+5,Passive,21,AcI,304,Ungrammatical,Er werd de hond laten graven in de tuin.,laten,Er werd
+5,Passive,21,AcI,305,Grammatical,Zij heeft de nieuweling laten inwerken op het kantoor.,laten,Zij heeft
+5,Passive,21,AcI,305,Ungrammatical,Er werd de nieuweling laten inwerken op het kantoor.,laten,Er werd
+5,Passive,21,AcI,306,Grammatical,Hij heeft de vrouw laten rusten tijdens de vakantie.,laten,Hij heeft
+5,Passive,21,AcI,306,Ungrammatical,Er werd de vrouw laten rusten tijdens de vakantie.,laten,Er werd
+5,Passive,21,AcI,307,Grammatical,Zij heeft de crimineel laten arresteren na die misdaad.,laten,Zij heeft
+5,Passive,21,AcI,307,Ungrammatical,Er werd de crimineel laten arresteren na die misdaad.,laten,Er werd
+5,Passive,21,AcI,308,Grammatical,Hij heeft de gast laten verwijderen uit het restaurant.,laten,Hij heeft
+5,Passive,21,AcI,308,Ungrammatical,Er werd de gast laten verwijderen uit het restaurant.,laten,Er werd
+5,Passive,21,AcI,309,Grammatical,Hij heeft de herrieschopper laten verdwijnen tijdens de show.,laten,Hij heeft
+5,Passive,21,AcI,309,Ungrammatical,Er werd de herrieschopper laten verdwijnen tijdens de show.,laten,Er werd
+5,Passive,21,AcI,310,Grammatical,Zij heeft de tiener laten rijden in het buitenland.,laten,Zij heeft
+5,Passive,21,AcI,310,Ungrammatical,Er werd de tiener laten rijden in het buitenland.,laten,Er werd
+5,Passive,21,AcI,311,Grammatical,Hij heeft de leerling laten opstaan tijdens de les.,laten,Hij heeft
+5,Passive,21,AcI,311,Ungrammatical,Er werd de leerling laten opstaan tijdens de les.,laten,Er werd
+5,Passive,21,AcI,312,Grammatical,Zij heeft de vogels laten vliegen in de tuin.,laten,Zij heeft
+5,Passive,21,AcI,312,Ungrammatical,Er werd de vogels laten vliegen in de tuin.,laten,Er werd
+5,Passive,21,AcI,313,Grammatical,Hij heeft de patiënt laten rusten na de operatie.,laten,Hij heeft
+5,Passive,21,AcI,313,Ungrammatical,Er werd de patiënt laten rusten na de operatie.,laten,Er werd
+5,Passive,21,AcI,314,Grammatical,Zij heeft de werknemer laten ontslaan na het incident.,laten,Zij heeft
+5,Passive,21,AcI,314,Ungrammatical,Er werd de werknemer laten ontslaan na het incident.,laten,Er werd
+5,Passive,21,AcI,315,Grammatical,Hij heeft de student laten presenteren voor de klas.,laten,Hij heeft
+5,Passive,21,AcI,315,Ungrammatical,Er werd de student laten presenteren voor de klas.,laten,Er werd
+5,Passive,21,AcI,316,Grammatical,Zij heeft de misdaad laten onderzoeken door de politie.,laten,Zij heeft
+5,Passive,21,AcI,316,Ungrammatical,Er werd de misdaad laten onderzoeken door de politie.,laten,Er werd
+5,Passive,21,AcI,317,Grammatical,Hij heeft de bomen laten planten in het park.,laten,Hij heeft
+5,Passive,21,AcI,317,Ungrammatical,Er werd de bomen laten planten in het park.,laten,Er werd
+5,Passive,21,AcI,318,Grammatical,Zij heeft de zieke laten verzorgen door de verpleegkundige.,laten,Zij heeft
+5,Passive,21,AcI,318,Ungrammatical,Er werd de zieke laten verzorgen door de verpleegkundige.,laten,Er werd
+5,Passive,21,AcI,319,Grammatical,Hij heeft de dief laten oppakken door de bewaker.,laten,Hij heeft
+5,Passive,21,AcI,319,Ungrammatical,Er werd de dief laten oppakken door de bewaker.,laten,Er werd
+5,Passive,21,AcI,320,Grammatical,Zij heeft de klant laten wachten voor het restaurant.,laten,Zij heeft
+5,Passive,21,AcI,320,Ungrammatical,Er werd de klant laten wachten voor het restaurant.,laten,Er werd
+5,Passive,21,AcI,321,Grammatical,Hij heeft de auto laten repareren na het ongeluk.,laten,Hij heeft
+5,Passive,21,AcI,321,Ungrammatical,Er werd de auto laten repareren na het ongeluk.,laten,Er werd
+5,Passive,21,AcI,322,Grammatical,Zij heeft de presentatie laten voorbereiden door het team.,laten,Zij heeft
+5,Passive,21,AcI,322,Ungrammatical,Er werd de presentatie laten voorbereiden door het team.,laten,Er werd
+5,Passive,21,AcI,323,Grammatical,Hij heeft de klas laten schoonmaken na de les.,laten,Hij heeft
+5,Passive,21,AcI,323,Ungrammatical,Er werd de klas laten schoonmaken na de les.,laten,Er werd
+5,Passive,21,AcI,324,Grammatical,Zij heeft de rekening laten betalen door haar vriend.,laten,Zij heeft
+5,Passive,21,AcI,324,Ungrammatical,Er werd de rekening laten betalen door haar vriend.,laten,Er werd
+5,Passive,21,AcI,325,Grammatical,Hij heeft de machine laten controleren door de monteur.,laten,Hij heeft
+5,Passive,21,AcI,325,Ungrammatical,Er werd de machine laten controleren door de monteur.,laten,Er werd
+5,Passive,21,AcI,326,Grammatical,Zij heeft de plant laten water geven tijdens haar vakantie.,laten,ZIj heeft
+5,Passive,21,AcI,326,Ungrammatical,Er werd de plant laten water geven tijdens haar vakantie.,laten,Er werd
+5,Passive,21,AcI,327,Grammatical,Hij heeft de schuldige laten vinden door de rechercheur.,laten,Hij heeft
+5,Passive,21,AcI,327,Ungrammatical,Er werd de schuldige laten vinden door de rechercheur.,laten,Er werd
+5,Passive,21,AcI,328,Grammatical,Zij heeft de kat laten behandelen door de dierenarts,laten,Zij heeft
+5,Passive,21,AcI,328,Ungrammatical,Er werd de kat laten behandelen door de dierenarts.,laten,Er werd
+5,Passive,21,AcI,329,Grammatical,Hij heeft de muziek laten spelen tijdens het feest.,laten,Hij heeft
+5,Passive,21,AcI,329,Ungrammatical,Er werd de muziek laten spelen tijdens het feest.,laten,Er werd
+5,Passive,21,AcI,330,Grammatical,Zij heeft de boeken laten terugbrengen naar de bibliotheek.,laten,Zij heeft
+5,Passive,21,AcI,330,Ungrammatical,Er werd de boeken laten terugbrengen naar de bibliotheek.,laten,Er werd
+5,Passive,21,AcI,331,Grammatical,Hij heeft de vis laten voeren door de buurman.,laten,Hij heeft
+5,Passive,21,AcI,331,Ungrammatical,Er werd de vis laten voeren door de buurman.,laten,Er werd
+5,Passive,21,AcI,332,Grammatical,Zij heeft de vergadering laten organiseren door haar assistent.,laten,Zij heeft
+5,Passive,21,AcI,332,Ungrammatical,Er werd de vergadering laten organiseren door haar assistent.,laten,Er werd
+5,Passive,21,AcI,333,Grammatical,Hij heeft de opdracht laten uitvoeren door zijn team.,laten,Hij heeft
+5,Passive,21,AcI,333,Ungrammatical,Er werd de opdracht laten uitvoeren door zijn team.,laten,Er werd
+5,Passive,21,AcI,334,Grammatical,Zij heeft de ramen laten wassen door de glazenwasser.,laten,Zij heeft
+5,Passive,21,AcI,334,Ungrammatical,Er werd de ramen laten wassen door de glazenwasser.,laten,Er werd
+5,Passive,21,AcI,335,Grammatical,Hij heeft de fout laten corrigeren door de programmeur.,laten,Hij heeft
+5,Passive,21,AcI,335,Ungrammatical,Er werd de fout laten corrigeren door de programmeur.,laten,Er werd
+5,Passive,21,AcI,336,Grammatical, Zij heeft de brug laten bouwen over de rivier.,laten,Zij heeft
+5,Passive,21,AcI,336,Ungrammatical,Er werd de brug laten bouwen over de rivier.,laten,Er werd
+5,Passive,21,AcI,337,Grammatical,Hij heeft de documenten laten controleren door de advocaat.,laten,Hij heeft
+5,Passive,21,AcI,337,Ungrammatical,Er werd de documenten laten controleren door de advocaat.,laten,Er werd
+5,Passive,21,AcI,338,Grammatical,Zij heeft de reis laten plannen door het reisbureau.,laten,Zij heeft
+5,Passive,21,AcI,338,Ungrammatical,Er werd de reis laten plannen door het reisbureau.,laten,Er werd
+5,Passive,21,AcI,339,Grammatical,Hij heeft de dief laten oppakken door de politieagent.,laten,Hij heeft
+5,Passive,21,AcI,339,Ungrammatical,Er werd de dief laten oppakken door de politieagent.,laten,Er werd
+5,Passive,21,AcI,340,Grammatical,Zij heeft de woning laten renoveren door de aannemer.,laten,Zij heeft
+5,Passive,21,AcI,340,Ungrammatical,Er werd de woning laten renoveren door de aannemer.,laten,Er werd
+5,Passive,21,AcI,341,Grammatical,Hij heeft de buurman horen zingen in de tuin,horen,Hij heeft
+5,Passive,21,AcI,341,Ungrammatical,Er werd de buurman horen zingen in de tuin,horen,Er werd
+5,Passive,21,AcI,342,Grammatical,Hij heeft de vogels horen fluiten in de ochtend.,horen,Hij heeft
+5,Passive,21,AcI,342,Ungrammatical,Er werd de vogels horen fluiten in de ochtend.,horen,Er werd
+5,Passive,21,AcI,343,Grammatical,Ze heeft de kinderen horen spelen in de achtertuin.,horen,Ze heeft
+5,Passive,21,AcI,343,Ungrammatical,Er werd de kinderen horen spelen in de achtertuin.,horen,Er werd
+5,Passive,21,AcI,344,Grammatical,Hij heeft de buren horen praten over hun vakantieplannen.,horen,Hij heeft
+5,Passive,21,AcI,344,Ungrammatical,Er werd de buren horen praten over hun vakantieplannen.,horen,Er werd
+5,Passive,21,AcI,345,Grammatical,Zij heeft de regen horen kletteren op het dak,horen,Zij heeft
+5,Passive,21,AcI,345,Ungrammatical,Er werd de regen horen kletteren op het dak,horen,Er werd
+5,Passive,21,AcI,346,Grammatical,Hij heeft de hond horen blaffen in de verte.,horen,Hij heeft
+5,Passive,21,AcI,346,Ungrammatical,Er werd de hond horen blaffen in de verte.,horen,Er werd
+5,Passive,21,AcI,347,Grammatical,Ze heeft haar telefoon horen rinkelen in de andere kamer.,horen,Ze heeft
+5,Passive,21,AcI,347,Ungrammatical,Er werd haar telefoon horen rinkelen in de andere kamer.,horen,Er werd
+5,Passive,21,AcI,348,Grammatical,Hij heeft de klok horen tikken in de stille kamer.,horen,Hij heeft
+5,Passive,21,AcI,348,Ungrammatical,Er werd de klok horen tikken in de stille kamer.,horen,Er werd
+5,Passive,21,AcI,349,Grammatical,Ze heeft de auto's horen toeteren op de drukke straat.,horen,Ze heeft
+5,Passive,21,AcI,349,Ungrammatical,Er werd de auto's horen toeteren op de drukke straat.,horen,Er werd
+5,Passive,21,AcI,350,Grammatical,Hij heeft de sirenes horen loeien in de verte.,horen,Hij heeft
+5,Passive,21,AcI,350,Ungrammatical,Er werd de sirenes horen loeien in de verte.,horen,Er werd
+5,Passive,21,AcI,351,Grammatical,Ze heeft de wind horen waaien door de bomen.,horen,Ze heeft
+5,Passive,21,AcI,351,Ungrammatical,Er werd de wind horen waaien door de bomen.,horen,Er werd
+5,Passive,21,AcI,352,Grammatical,Hij heeft de muziek horen spelen vanuit de feestzaal.,horen,Hij heeft
+5,Passive,21,AcI,352,Ungrammatical,Er werd de muziek horen spelen vanuit de feestzaal.,horen,Er werd
+5,Passive,21,AcI,353,Grammatical,Ze heeft de golven horen klotsen tegen de kust.,horen,Ze heeft
+5,Passive,21,AcI,353,Ungrammatical,Er werd de golven horen klotsen tegen de kust.,horen,Er werd
+5,Passive,21,AcI,354,Grammatical,Hij heeft de kraaien horen krassen op het dak.,horen,Hij heeft
+5,Passive,21,AcI,354,Ungrammatical,Er werd de kraaien horen krassen op het dak.,horen,Er werd
+5,Passive,21,AcI,355,Grammatical,Ze heeft de bel horen rinkelen bij de voordeur.,horen,Ze heeft
+5,Passive,21,AcI,355,Ungrammatical,Er werd de bel horen rinkelen bij de voordeur.,horen,Er werd
+5,Passive,21,AcI,356,Grammatical,Hij heeft de katten horen vechten in de steeg.,horen,Hij heeft
+5,Passive,21,AcI,356,Ungrammatical,Er werd de katten horen vechten in de steeg.,horen,Er werd
+5,Passive,21,AcI,357,Grammatical,Hij heeft de krekels horen tjirpen in de warme zomernacht.,horen,Hij heeft
+5,Passive,21,AcI,357,Ungrammatical,Er werd de krekels horen tjirpen in de warme zomernacht.,horen,Er werd
+5,Passive,21,AcI,358,Grammatical,Ze heeft de telefoon horen overgaan in de gang.,horen,Ze heeft
+5,Passive,21,AcI,358,Ungrammatical,Er werd de telefoon horen overgaan in de gang.,horen,Er werd
+5,Passive,21,AcI,359,Grammatical,Hij heeft de motoren horen ronken op de racebaan.,horen,Hij heeft
+5,Passive,21,AcI,359,Ungrammatical,Er werd de motoren horen ronken op de racebaan.,horen,Er werd
+5,Passive,21,AcI,360,Grammatical,Ze heeft de kraan horen druppelen in de badkamer.,horen,Ze heeft
+5,Passive,21,AcI,360,Ungrammatical,Er werd de kraan horen druppelen in de badkamer.,horen,Er werd
+5,Passive,21,AcI,361,Grammatical,Hij heeft de vuilniswagen horen langskomen in de vroege ochtend.,horen,Hij heeft
+5,Passive,21,AcI,361,Ungrammatical,Er werd de vuilniswagen horen langskomen in de vroege ochtend.,horen,Er werd
+5,Passive,21,AcI,362,Grammatical,Ze heeft de zwanen horen gakken bij het meer.,horen,Ze heeft
+5,Passive,21,AcI,362,Ungrammatical,Er werd de zwanen horen gakken bij het meer.,horen,Er werd
+5,Passive,21,AcI,363,Grammatical,Hij heeft de loeiende koeien horen roepen op het veld.,horen,Hij heeft
+5,Passive,21,AcI,363,Ungrammatical,Er werd de loeiende koeien horen roepen op het veld.,horen,Er werd
+5,Passive,21,AcI,364,Grammatical,Ze heeft de klokken horen luiden in de oude kerk.,horen,Ze heeft
+5,Passive,21,AcI,364,Ungrammatical,Er werd de klokken horen luiden in de oude kerk.,horen,Er werd
+5,Passive,21,AcI,365,Grammatical,Hij heeft de kraan horen lekken in de keuken.,horen,Hij heeft
+5,Passive,21,AcI,365,Ungrammatical,Er werd de kraan horen lekken in de keuken.,horen,Er werd
+5,Passive,21,AcI,366,Grammatical,Ze heeft de auto's horen claxonneren in de file.,horen,Ze heeft
+5,Passive,21,AcI,366,Ungrammatical,Er werd de auto's horen claxonneren in de file.,horen,Er werd
+5,Passive,21,AcI,367,Grammatical,Hij heeft de vogels horen tsjilpen in de vroege ochtend.,horen,Hij heeft
+5,Passive,21,AcI,367,Ungrammatical,Er werd de vogels horen tsjilpen in de vroege ochtend.,horen,Er werd
+5,Passive,21,AcI,368,Grammatical,Ze heeft de trompetten horen schallen tijdens de parade.,horen,Ze heeft
+5,Passive,21,AcI,368,Ungrammatical,Er werd de trompetten horen schallen tijdens de parade.,horen,Er werd
+5,Passive,21,AcI,369,Grammatical,Ze heeft de buren horen klagen over het lawaai.,horen,Ze heeft
+5,Passive,21,AcI,369,Ungrammatical,Er werd de buren horen klagen over het lawaai.,horen,Er werd 
+5,Passive,21,AcI,370,Grammatical,Zij hebben de boom laten omhakken.,laten,Zij hebben
+5,Passive,21,AcI,370,Ungrammatical,Er werd de boom laten omhakken.,laten,Er werd
+5,Passive,21,AcI,371,Grammatical,We hebben de kamer laten schilderen.,laten,We hebben
+5,Passive,21,AcI,371,Ungrammatical,Er werd de kamer laten schilderen.,laten,Er werd
+5,Passive,21,AcI,372,Grammatical,Zij hebben de taart laten bakken.,laten,Zij hebben
+5,Passive,21,AcI,372,Ungrammatical,Er werd de taart laten bakken.,laten,Er werd
+5,Passive,21,AcI,373,Grammatical,We hebben de problemen laten oplossen.,laten,We hebben
+5,Passive,21,AcI,373,Ungrammatical,Er werden de problemen laten oplossen.,laten,Er werden
+5,Passive,21,AcI,374,Grammatical,Hij heeft het boek laten drukken.,laten,Hij heeft
+5,Passive,21,AcI,374,Ungrammatical,Er werd het boek laten drukken.,laten,Er werd
+5,Passive,21,AcI,375,Grammatical,Ze hebben de muur laten verven.,laten,Ze hebben
+5,Passive,21,AcI,375,Ungrammatical,Er werd de muur laten verven.,laten,Er werd
+5,Passive,21,AcI,376,Grammatical,We hebben de tuin laten aanleggen door een gecertificeerde tuinman.,laten,We hebben
+5,Passive,21,AcI,376,Ungrammatical,Er werd de tuin laten aanleggen door een gecertificeerde tuinman.,laten,Er werd
+5,Passive,21,AcI,377,Grammatical,Hij heeft de brieven laten versturen naar zijn jeugdliefde,laten,Hij heeft
+5,Passive,21,AcI,377,Ungrammatical,Er werden de brieven laten versturen naar zijn jeugdliefde.,laten,Er werden
+5,Passive,21,AcI,378,Grammatical,Wij hebben de vloer laten leggen in ons nieuwe huis.,laten,Wij hebben
+5,Passive,21,AcI,378,Ungrammatical,Er werd de vloer laten leggen in ons nieuwe huis,laten,Er werd
+5,Passive,21,AcI,379,Grammatical,Ze hebben de muren laten stucen.,laten,Ze hebben
+5,Passive,21,AcI,379,Ungrammatical,Er werden de muren laten stucen.,laten,Er werden
+5,Passive,21,AcI,380,Grammatical,We hebben de ramen laten vervangen.,laten,We hebben
+5,Passive,21,AcI,380,Ungrammatical,Er werden de ramen laten vervangen,laten,Er werden
+5,Passive,21,AcI,381,Grammatical,Hij heeft de foto's laten ontwikkelen in de studio.,laten,Hij heeft
+5,Passive,21,AcI,381,Ungrammatical,Er werd de foto's laten ontwikkelen in de studio.,laten,Er werd
+5,Passive,21,AcI,382,Grammatical,Ze hebben de keuken laten renoveren.,laten,Ze hebben
+5,Passive,21,AcI,382,Ungrammatical,Er werd de keuken laten renoveren.,laten,Er werd
+5,Passive,21,AcI,383,Grammatical,Hij heeft het script laten schrijven door een toneelschrijver.,laten,Hij heeft
+5,Passive,21,AcI,383,Ungrammatical,Er werd het script laten schrijven door een toneelschrijver.,laten,Er werd
+5,Passive,21,AcI,384,Grammatical,We hebben de muziek laten componeren.,laten,We hebben
+5,Passive,21,AcI,384,Ungrammatical,Er werd de muziek laten componeren.,laten,Er werd
+5,Passive,21,AcI,385,Grammatical,Hij heeft de rekening laten betalen.,laten,Hij heeft
+5,Passive,21,AcI,385,Ungrammatical,Er werd de rekening laten betalen.,laten,Er werd
+5,Passive,21,AcI,386,Grammatical,Ze hebben de tent laten opzetten door hun kinderen.,laten,Ze hebben
+5,Passive,21,AcI,386,Ungrammatical,Er werd de tent laten opzetten door hun kinderen.,laten,Er werd
+5,Passive,21,AcI,387,Grammatical,Ze hebben de weg laten afsluiten wegens het burgerprotest.,laten,Ze hebben
+5,Passive,21,AcI,387,Ungrammatical,Er werd de weg laten afsluiten wegens het burgerprotest.,laten,Er werd
+5,Passive,21,AcI,388,Grammatical,Ze hebben de zorgen laten wegnemen.,laten,Ze hebben
+5,Passive,21,AcI,388,Ungrammatical,Er werden de zorgen laten wegnemen.,laten,Er werden
+5,Passive,21,AcI,389,Grammatical,We hebben de gasten laten verwelkomen.,laten,We hebben
+5,Passive,21,AcI,389,Ungrammatical,Er werden de gasten laten verwelkomen.,laten,Er werden
+5,Passive,21,AcI,390,Grammatical,We hebben de koning laten wachten in de gang.,laten,We hebben
+5,Passive,21,AcI,390,Ungrammatical,Er werd de koning laten wachten in de gang.,laten,Er werd
+5,Passive,21,AcI,391,Grammatical,Ze hebben de bomen laten snoeien door een professional.,laten,Ze hebben
+5,Passive,21,AcI,391,Ungrammatical,Er werden de bomen laten snoeien door een professional.,laten,Er werden
+5,Passive,21,AcI,392,Grammatical,Hij heeft de kinderen laten spelen in de tuin.,laten,Hij heeft
+5,Passive,21,AcI,392,Ungrammatical,Er werden de kinderen laten spelen in de tuin.,laten,Er werden
+5,Passive,21,AcI,393,Grammatical,Hij heeft de was laten doen in een wasserij.,laten,Hij heeft
+5,Passive,21,AcI,393,Ungrammatical,Er werd de was laten doen in een wasserij.,laten,Er werd
+5,Passive,21,AcI,394,Grammatical,Ze hebben de reis laten boeken door een reisbureau.,laten,Ze hebben
+5,Passive,21,AcI,394,Ungrammatical,Er werd de reis laten boeken door een reisbureau.,laten,Er werd
+5,Passive,21,AcI,395,Grammatical,We hebben de trouwjurk laten maken door een kleermaker.,laten,We hebben
+5,Passive,21,AcI,395,Ungrammatical,Er werd de trouwjurk laten maken door een kleermaker.,laten,Er werd
+5,Passive,21,AcI,396,Grammatical,Ze heeft haar tanden laten bleken tijdens de zomervakantie.,laten,Ze heeft
+5,Passive,21,AcI,396,Ungrammatical,Er werden haar tanden laten bleken tijdens de zomervakantie,laten,Er werden
+5,Passive,21,AcI,397,Grammatical,Hij heeft bij zijn vriendin bloemen laten bezorgen.,laten,hij heeft
+5,Passive,21,AcI,397,Ungrammatical,Er werden bij zijn vriendin bloemen laten bezorgen.,laten,Er werden
+5,Passive,21,AcI,398,Grammatical,Hij heeft de boeken laten binden door een boekbinder.,laten,Hij heeft
+5,Passive,21,AcI,398,Ungrammatical,Er werden de boeken laten binden door een boekbinder.,laten,Er werden
+5,Passive,21,AcI,399,Grammatical,Hij heeft de kinderen horen schreewen in de lunchpauze.,horen,hij heeft
+5,Passive,21,AcI,399,Ungrammatical,Er werden de kinderen horen schreewen in de lunchpauze.,horen,Er werden
+5,Passive,21,AcI,400,Grammatical,Wij hebben de afspraak laten bevestigen.,laten,Wij hebben
+5,Passive,21,AcI,400,Ungrammatical,Er werd de afspraak laten bevestigen.,laten,Er werd

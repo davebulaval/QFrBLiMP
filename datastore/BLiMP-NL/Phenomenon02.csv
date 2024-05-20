@@ -1,0 +1,401 @@
+Number (phenomenon),Phenomenon,Number (paradigm),Paradigm,Item,Grammaticality,Sentence,Critical word(s),Cue word(s)
+2,Binding (Principle A),3,c-command,1,Grammatical,Ik haatte mezelf op de middelbare school.,mezelf,Ik
+2,Binding (Principle A),3,c-command,1,Ungrammatical,Mijn moeder haatte mezelf op de middelbare school.,mezelf,Mijn moeder
+2,Binding (Principle A),3,c-command,2,Grammatical,Ik verdedigde mezelf in de heftige discussie.,mezelf,Ik
+2,Binding (Principle A),3,c-command,2,Ungrammatical,Mijn vriend verdedigde mezelf in de heftige discussie.,mezelf,Mijn vriend
+2,Binding (Principle A),3,c-command,3,Grammatical,Ik schaamde mezelf voor mijn uitgelopen mascara.,mezelf,Ik
+2,Binding (Principle A),3,c-command,3,Ungrammatical,Mijn vriendin schaamde mezelf voor mijn uitgelopen mascara.,mezelf,Mijn vriendin
+2,Binding (Principle A),3,c-command,4,Grammatical,Ik ontwikkelde mezelf tot een echte wetenschapper.,mezelf,Ik
+2,Binding (Principle A),3,c-command,4,Ungrammatical,Mijn professor ontwikkelde mezelf tot een echte wetenschapper.,mezelf,Mijn professor
+2,Binding (Principle A),3,c-command,5,Grammatical,Ik beschermde mezelf tegen de vervelende muggen.,mezelf,Ik
+2,Binding (Principle A),3,c-command,5,Ungrammatical,Mijn kind beschermde mezelf tegen de vervelende muggen.,mezelf,Mijn kind
+2,Binding (Principle A),3,c-command,6,Grammatical,Ik verkleedde mezelf voor een of ander gala.,mezelf,Ik
+2,Binding (Principle A),3,c-command,6,Ungrammatical,Mijn vrouw verkleedde mezelf voor een of ander gala.,mezelf,Mijn vrouw
+2,Binding (Principle A),3,c-command,7,Grammatical,Ik scheerde mezelf voor de blind date.,mezelf,Ik
+2,Binding (Principle A),3,c-command,7,Ungrammatical,Mijn vader scheerde mezelf voor de blind date.,mezelf,Mijn vader
+2,Binding (Principle A),3,c-command,8,Grammatical,Ik verantwoordde mezelf bij de directeur gisteren.,mezelf,Ik
+2,Binding (Principle A),3,c-command,8,Ungrammatical,Mijn leerling verantwoordde mezelf bij de directeur gisteren.,mezelf,Mijn leerling
+2,Binding (Principle A),3,c-command,9,Grammatical,Ik waste mezelf altijd in de avond.,mezelf,Ik
+2,Binding (Principle A),3,c-command,9,Ungrammatical,Mijn oma waste mezelf altijd in de avond.,mezelf,Mijn oma
+2,Binding (Principle A),3,c-command,10,Grammatical,Ik verontschuldigde mezelf tegenover mijn beide ouders.,mezelf,Ik
+2,Binding (Principle A),3,c-command,10,Ungrammatical,Mijn zus verontschuldigde mezelf tegenover mijn beide ouders.,mezelf,Mijn zus
+2,Binding (Principle A),3,c-command,11,Grammatical,Ik beheerste mezelf tijdens de presentatie.,mezelf,Ik
+2,Binding (Principle A),3,c-command,11,Ungrammatical,Mijn broer beheerste mezelf tijdens de presentatie.,mezelf,Mijn broer
+2,Binding (Principle A),3,c-command,12,Grammatical,Ik troostte mezelf na het slechte nieuws.,mezelf,Ik
+2,Binding (Principle A),3,c-command,12,Ungrammatical,Mijn buurman troostte mezelf na het slechte nieuws.,mezelf,Mijn buurman
+2,Binding (Principle A),3,c-command,13,Grammatical,Ik motiveerde mezelf voor de wedstrijd.,mezelf,Ik
+2,Binding (Principle A),3,c-command,13,Ungrammatical,Mijn coach motiveerde mezelf voor de wedstrijd.,mezelf,Mijn coach
+2,Binding (Principle A),3,c-command,14,Grammatical,Ik overtuigde mezelf om de sprong te wagen.,mezelf,Ik
+2,Binding (Principle A),3,c-command,14,Ungrammatical,Mijn leraar overtuigde mezelf om de sprong te wagen.,mezelf,Mijn leraar
+2,Binding (Principle A),3,c-command,15,Grammatical,Ik herinnerde mezelf aan de belangrijke afspraak.,mezelf,Ik
+2,Binding (Principle A),3,c-command,15,Ungrammatical,Mijn collega herinnerde mezelf aan de belangrijke afspraak.,mezelf,Mijn collega
+2,Binding (Principle A),3,c-command,16,Grammatical,Ik beloonde mezelf na het harde werken.,mezelf,Ik
+2,Binding (Principle A),3,c-command,16,Ungrammatical,Mijn baas beloonde mezelf na het harde werken.,mezelf,Mijn baas
+2,Binding (Principle A),3,c-command,17,Grammatical,Ik concentreerde mezelf op de complexe puzzel.,mezelf,Ik
+2,Binding (Principle A),3,c-command,17,Ungrammatical,Mijn vriend concentreerde mezelf op de complexe puzzel.,mezelf,Mijn vriend
+2,Binding (Principle A),3,c-command,18,Grammatical,Ik betrapte mezelf op een glimlach.,mezelf,Ik
+2,Binding (Principle A),3,c-command,18,Ungrammatical,Mijn hond betrapte mezelf op een glimlach.,mezelf,Mijn hond
+2,Binding (Principle A),3,c-command,19,Grammatical,Ik bekeek mezelf in de spiegel.,mezelf,Ik
+2,Binding (Principle A),3,c-command,19,Ungrammatical,Mijn moeder bekeek mezelf in de spiegel.,mezelf,Mijn moeder
+2,Binding (Principle A),3,c-command,20,Grammatical,Ik trok mezelf terug uit het conflict.,mezelf,Ik
+2,Binding (Principle A),3,c-command,20,Ungrammatical,Mijn vriendin trok mezelf terug uit het conflict.,mezelf,Mijn vriendin
+2,Binding (Principle A),3,c-command,21,Grammatical,Ik genoot van mezelf op het strand.,mezelf,Ik
+2,Binding (Principle A),3,c-command,21,Ungrammatical,Mijn oma genoot van mezelf op het strand.,mezelf,Mijn oma
+2,Binding (Principle A),3,c-command,22,Grammatical,Ik ergerde mezelf aan de luide muziek.,mezelf,Ik
+2,Binding (Principle A),3,c-command,22,Ungrammatical,Mijn buurman ergerde mezelf aan de luide muziek.,mezelf,Mijn buurman
+2,Binding (Principle A),3,c-command,23,Grammatical,Ik bevond mezelf in een vreemde situatie.,mezelf,Ik
+2,Binding (Principle A),3,c-command,23,Ungrammatical,Mijn maatje bevond mezelf in een vreemde situatie.,mezelf,Mijn maatje
+2,Binding (Principle A),3,c-command,24,Grammatical,Ik verwende mezelf met een lekker diner.,mezelf,Ik
+2,Binding (Principle A),3,c-command,24,Ungrammatical,Mijn chef verwende mezelf met een lekker diner.,mezelf,Mijn chef
+2,Binding (Principle A),3,c-command,25,Grammatical,Ik bevrijdde mezelf uit de benauwde ruimte.,mezelf,Ik
+2,Binding (Principle A),3,c-command,25,Ungrammatical,Mijn trainer bevrijdde mezelf uit de benauwde ruimte.,mezelf,Mijn trainer
+2,Binding (Principle A),3,c-command,26,Grammatical,Ik beklaagde mezelf na de verloren weddenschap.,mezelf,Ik
+2,Binding (Principle A),3,c-command,26,Ungrammatical,Mijn buurvrouw beklaagde mezelf na de verloren weddenschap.,mezelf,Mijn buurvrouw
+2,Binding (Principle A),3,c-command,27,Grammatical,Ik beperkte mezelf tot een klein budget.,mezelf,Ik
+2,Binding (Principle A),3,c-command,27,Ungrammatical,Mijn vriend beperkte mezelf tot een klein budget.,mezelf,Mijn vriend
+2,Binding (Principle A),3,c-command,28,Grammatical,Ik bewonderde mezelf tijdens het optreden.,mezelf,Ik
+2,Binding (Principle A),3,c-command,28,Ungrammatical,Mijn neef bewonderde mezelf tijdens het optreden.,mezelf,Mijn neef
+2,Binding (Principle A),3,c-command,29,Grammatical,Ik vertrouwde mezelf met die informatie.,mezelf,Ik
+2,Binding (Principle A),3,c-command,29,Ungrammatical,Mijn vriendin vertrouwde mezelf met die informatie.,mezelf,Mijn vriendin
+2,Binding (Principle A),3,c-command,30,Grammatical,Ik verzekerde mezelf van zijn steun.,mezelf,Ik
+2,Binding (Principle A),3,c-command,30,Ungrammatical,Mijn grootvader verzekerde mezelf van zijn steun.,mezelf,Mijn grootvader
+2,Binding (Principle A),3,c-command,31,Grammatical,Ik verraste mezelf met een onverwachte actie.,mezelf,Ik
+2,Binding (Principle A),3,c-command,31,Ungrammatical,Mijn huisdier verraste mezelf met een onverwachte actie.,mezelf,Mijn huisdier
+2,Binding (Principle A),3,c-command,32,Grammatical,Ik inspireerde mezelf om te blijven leren.,mezelf,Ik
+2,Binding (Principle A),3,c-command,32,Ungrammatical,Mijn lerares inspireerde mezelf om te blijven leren.,mezelf,Mijn lerares
+2,Binding (Principle A),3,c-command,33,Grammatical,Ik moedigde mezelf aan voor de wedstrijd.,mezelf,Ik
+2,Binding (Principle A),3,c-command,33,Ungrammatical,Mijn zusje moedigde mezelf aan voor de wedstrijd.,mezelf,Mijn zusje
+2,Binding (Principle A),3,c-command,34,Grammatical,Ik herkende mezelf in de foto.,mezelf,Ik
+2,Binding (Principle A),3,c-command,34,Ungrammatical,Mijn collega herkende mezelf in de foto.,mezelf,Mijn collega
+2,Binding (Principle A),3,c-command,35,Grammatical,Ik verraste mezelf met een feestje.,mezelf,Ik
+2,Binding (Principle A),3,c-command,35,Ungrammatical,Mijn vriend verraste mezelf met een feestje.,mezelf,Mijn vriend
+2,Binding (Principle A),3,c-command,36,Grammatical,Ik complimenteerde mezelf met een goed idee.,mezelf,Ik
+2,Binding (Principle A),3,c-command,36,Ungrammatical,Mijn partner complimenteerde mezelf met een goed idee.,mezelf,Mijn partner
+2,Binding (Principle A),3,c-command,37,Grammatical,Ik trok mezelf terug uit het conflict.,mezelf,Ik
+2,Binding (Principle A),3,c-command,37,Ungrammatical,Mijn broertje trok mezelf terug uit het conflict.,mezelf,Mijn broertje
+2,Binding (Principle A),3,c-command,38,Grammatical,Ik versierde mezelf met glitter.,mezelf,Ik
+2,Binding (Principle A),3,c-command,38,Ungrammatical,Mijn kind versierde mezelf met glitter.,mezelf,Mijn kind
+2,Binding (Principle A),3,c-command,39,Grammatical,Ik gedroeg mezelf vreemd tijdens de rit.,mezelf,Ik
+2,Binding (Principle A),3,c-command,39,Ungrammatical,Mijn auto gedroeg mezelf vreemd tijdens de rit.,mezelf,Mijn auto
+2,Binding (Principle A),3,c-command,40,Grammatical,Ik herinnerde mezelf aan de vergadering.,mezelf,Ik
+2,Binding (Principle A),3,c-command,40,Ungrammatical,Mijn computer herinnerde mezelf aan de vergadering.,mezelf,Mijn computer
+2,Binding (Principle A),3,c-command,41,Grammatical,Ik verwende mezelf met een massage.,mezelf,Ik
+2,Binding (Principle A),3,c-command,41,Ungrammatical,Mijn vriendin verwende mezelf met een massage.,mezelf,Mijn vriendin
+2,Binding (Principle A),3,c-command,42,Grammatical,Ik begroette mezelf met een glimlach.,mezelf,Ik
+2,Binding (Principle A),3,c-command,42,Ungrammatical,Mijn buren begroetten mezelf met een glimlach.,mezelf,Mijn buren
+2,Binding (Principle A),3,c-command,43,Grammatical,Ik ergerde mezelf met mijn rommel.,mezelf,Ik
+2,Binding (Principle A),3,c-command,43,Ungrammatical,Mijn zusje ergerde mezelf met haar rommel.,mezelf,Mijn zusje
+2,Binding (Principle A),3,c-command,44,Grammatical,Ik betrok mezelf bij het plan.,mezelf,Ik
+2,Binding (Principle A),3,c-command,44,Ungrammatical,Mijn vriendin betrok mezelf bij het plan.,mezelf,Mijn vriendin
+2,Binding (Principle A),3,c-command,45,Grammatical,Ik stimuleerde mezelf om te blijven studeren.,mezelf,Ik
+2,Binding (Principle A),3,c-command,45,Ungrammatical,Mijn leraar stimuleerde mezelf om te blijven studeren.,mezelf,Mijn leraar
+2,Binding (Principle A),3,c-command,46,Grammatical,Ik trok mezelf uit mijn gedachten.,mezelf,Ik
+2,Binding (Principle A),3,c-command,46,Ungrammatical,Mijn kind trok mezelf uit mijn gedachten.,mezelf,Mijn kind
+2,Binding (Principle A),3,c-command,47,Grammatical,Ik prees mezelf voor het goede werk.,mezelf,Ik
+2,Binding (Principle A),3,c-command,47,Ungrammatical,Mijn manager prees mezelf voor het goede werk.,mezelf,Mijn manager
+2,Binding (Principle A),3,c-command,48,Grammatical,Ik verraste mezelf met een cadeau.,mezelf,Ik
+2,Binding (Principle A),3,c-command,48,Ungrammatical,Mijn vader verraste mezelf met een cadeau.,mezelf,Mijn vader
+2,Binding (Principle A),3,c-command,49,Grammatical,Ik gedroeg mezelf eigenaardig.,mezelf,Ik
+2,Binding (Principle A),3,c-command,49,Ungrammatical,Mijn huisdier gedroeg mezelf eigenaardig.,mezelf,Mijn huisdier
+2,Binding (Principle A),3,c-command,50,Grammatical,Ik begreep mezelf eindelijk echt.,mezelf,Ik
+2,Binding (Principle A),3,c-command,50,Ungrammatical,Mijn buurvrouw begreep mezelf eindelijk echt.,mezelf,Mijn buurvrouw
+2,Binding (Principle A),3,c-command,51,Grammatical,Ik stoorde mezelf tijdens het lezen.,mezelf,Ik
+2,Binding (Principle A),3,c-command,51,Ungrammatical,Mijn vriend stoorde mezelf tijdens het lezen.,mezelf,Mijn vriend
+2,Binding (Principle A),3,c-command,52,Grammatical,Ik troostte mezelf na het verlies.,mezelf,Ik
+2,Binding (Principle A),3,c-command,52,Ungrammatical,Mijn broer troostte mezelf na het verlies.,mezelf,Mijn broer
+2,Binding (Principle A),3,c-command,53,Grammatical,Ik motiveerde mezelf om te sporten.,mezelf,Ik
+2,Binding (Principle A),3,c-command,53,Ungrammatical,Mijn vriendin motiveerde mezelf om te sporten.,mezelf,Mijn vriendin
+2,Binding (Principle A),3,c-command,54,Grammatical,Ik toonde mezelf in een nieuwe outfit.,mezelf,Ik
+2,Binding (Principle A),3,c-command,54,Ungrammatical,Mijn spiegel toonde mezelf in een nieuwe outfit.,mezelf,Mijn spiegel
+2,Binding (Principle A),3,c-command,55,Grammatical,Ik herkende mezelf tussen de sollicitanten.,mezelf,Ik
+2,Binding (Principle A),3,c-command,55,Ungrammatical,Mijn collega herkende mezelf tussen de sollicitanten.,mezelf,Mijn collega
+2,Binding (Principle A),3,c-command,56,Grammatical,Ik verraste mezelf met een nieuwe truc.,mezelf,Ik
+2,Binding (Principle A),3,c-command,56,Ungrammatical,Mijn hond verraste mezelf met een nieuwe truc.,mezelf,Mijn hond
+2,Binding (Principle A),3,c-command,57,Grammatical,Ik betrok mezelf bij de grap.,mezelf,Ik
+2,Binding (Principle A),3,c-command,57,Ungrammatical,Mijn vriend betrokken mezelf bij de grap.,mezelf,Mijn vriend
+2,Binding (Principle A),3,c-command,58,Grammatical,Ik stimuleerde mezelf om door te zetten.,mezelf,Ik
+2,Binding (Principle A),3,c-command,58,Ungrammatical,Mijn mentor stimuleerde mezelf om door te zetten.,mezelf,Mijn mentor
+2,Binding (Principle A),3,c-command,59,Grammatical,Ik verbaasde mezelf met mijn dansmoves.,mezelf,Ik
+2,Binding (Principle A),3,c-command,59,Ungrammatical,Mijn vriend verbaasde mezelf met zijn dansmoves.,mezelf,Mijn vriend
+2,Binding (Principle A),3,c-command,60,Grammatical,Ik trakteerde mezelf op een lekker dessert.,mezelf,Ik
+2,Binding (Principle A),3,c-command,60,Ungrammatical,Mijn zus trakteerde mezelf op een lekker dessert.,mezelf,Mijn zus
+2,Binding (Principle A),3,c-command,61,Grammatical,Ik motiveerde mezelf om vroeg op te staan.,mezelf,Ik
+2,Binding (Principle A),3,c-command,61,Ungrammatical,Mijn vader motiveerde mezelf om vroeg op te staan.,mezelf,Mijn vader
+2,Binding (Principle A),3,c-command,62,Grammatical,Ik betrapte mezelf op dagdromen.,mezelf,Ik
+2,Binding (Principle A),3,c-command,62,Ungrammatical,Mijn vriend betrapte mezelf op dagdromen.,mezelf,Mijn vriend
+2,Binding (Principle A),3,c-command,63,Grammatical,Ik bevond mezelf in een inspirerende omgeving.,mezelf,Ik
+2,Binding (Principle A),3,c-command,63,Ungrammatical,Mijn vriend bevond mezelf in een inspirerende omgeving.,mezelf,Mijn vriend
+2,Binding (Principle A),3,c-command,64,Grammatical,Ik verwende mezelf met een ontspannend bad.,mezelf,Ik
+2,Binding (Principle A),3,c-command,64,Ungrammatical,Mijn partner verwende mezelf met een ontspannend bad.,mezelf,Mijn partner
+2,Binding (Principle A),3,c-command,65,Grammatical,Ik herinnerde mezelf aan mijn doelen.,mezelf,Ik
+2,Binding (Principle A),3,c-command,65,Ungrammatical,Mijn coach herinnerde mezelf aan mijn doelen.,mezelf,Mijn coach
+2,Binding (Principle A),3,c-command,66,Grammatical,Ik troostte mezelf na een moeilijke dag.,mezelf,Ik
+2,Binding (Principle A),3,c-command,66,Ungrammatical,Mijn vriend troostte mezelf na een moeilijke dag.,mezelf,Mijn vriend
+2,Binding (Principle A),3,c-command,67,Grammatical,Ik beheerste mezelf tijdens een stressvolle situatie.,mezelf,Ik
+2,Binding (Principle A),3,c-command,67,Ungrammatical,Mijn collega beheerste mezelf tijdens een stressvolle situatie.,mezelf,Mijn collega
+2,Binding (Principle A),3,c-command,68,Grammatical,Ik concentreerde mezelf op mijn ademhaling.,mezelf,Ik
+2,Binding (Principle A),3,c-command,68,Ungrammatical,Mijn instructeur concentreerde mezelf op mijn ademhaling.,mezelf,Mijn insturcteur
+2,Binding (Principle A),3,c-command,69,Grammatical,Ik betrok mezelf bij een diepgaand gesprek.,mezelf,Ik
+2,Binding (Principle A),3,c-command,69,Ungrammatical,Mijn partner betrok mezelf bij een diepgaand gesprek.,mezelf,Mijn partner
+2,Binding (Principle A),3,c-command,70,Grammatical,Ik ergerde mezelf aan het geluid van nagels op het bord.,mezelf,Ik
+2,Binding (Principle A),3,c-command,70,Ungrammatical,Mijn vriendin ergerde mezelf aan het geluid van nagels op het bord.,mezelf,Mijn vriendin
+2,Binding (Principle A),3,c-command,71,Grammatical,Ik verraste mezelf met een zelfgemaakt cadeau.,mezelf,Ik
+2,Binding (Principle A),3,c-command,71,Ungrammatical,Mijn buurman verraste mezelf met een zelfgemaakt cadeau.,mezelf,Mijn buurman
+2,Binding (Principle A),3,c-command,72,Grammatical,Ik complimenteerde mezelf met mijn inspanningen.,mezelf,Ik
+2,Binding (Principle A),3,c-command,72,Ungrammatical,Mijn collega complimenteerde mezelf met mijn inspanningen.,mezelf,Mijn collega
+2,Binding (Principle A),3,c-command,73,Grammatical,Ik bevond mezelf in het midden van een menigte.,mezelf,Ik
+2,Binding (Principle A),3,c-command,73,Ungrammatical,Mijn baas bevond mezelf in het midden van een menigte.,mezelf,Mijn baas
+2,Binding (Principle A),3,c-command,74,Grammatical,Ik trakteerde mezelf op een weekendje weg.,mezelf,Ik
+2,Binding (Principle A),3,c-command,74,Ungrammatical,Mijn tante trakteerde mezelf op een weekendje weg.,mezelf,Mijn tante
+2,Binding (Principle A),3,c-command,75,Grammatical,Ik verwende mezelf met een nieuwe gadget.,mezelf,Ik
+2,Binding (Principle A),3,c-command,75,Ungrammatical,Mijn nichtje verwende mezelf met een nieuwe gadget.,mezelf,Mijn nichtje
+2,Binding (Principle A),3,c-command,76,Grammatical,Ik betrok mezelf bij vrijwilligerswerk.,mezelf,Ik
+2,Binding (Principle A),3,c-command,76,Ungrammatical,Mijn manager betrok mezelf bij vrijwilligerswerk.,mezelf,Mijn manager
+2,Binding (Principle A),3,c-command,77,Grammatical,Ik prees mezelf voor mijn doorzettingsvermogen.,mezelf,Ik
+2,Binding (Principle A),3,c-command,77,Ungrammatical,Mijn vriendin prees mezelf voor mijn doorzettingsvermogen.,mezelf,Mijn vriendin
+2,Binding (Principle A),3,c-command,78,Grammatical,Ik motiveerde mezelf om een nieuwe vaardigheid te leren.,mezelf,Ik
+2,Binding (Principle A),3,c-command,78,Ungrammatical,Mijn neef motiveerde mezelf om een nieuwe vaardigheid te leren.,mezelf,Mijn neef
+2,Binding (Principle A),3,c-command,79,Grammatical,Ik ergerde mezelf aan de rommelige kamer.,mezelf,Ik
+2,Binding (Principle A),3,c-command,79,Ungrammatical,Mijn vriend ergerde mezelf aan de rommelige kamer.,mezelf,Mijn vriend
+2,Binding (Principle A),3,c-command,80,Grammatical,Ik trakteerde mezelf op een filmavond.,mezelf,Ik
+2,Binding (Principle A),3,c-command,80,Ungrammatical,Mijn buurvrouw trakteerde mezelf op een filmavond.,mezelf,Mijn buurvrouw
+2,Binding (Principle A),3,c-command,81,Grammatical,Ik verraste mezelf met een creatieve oplossing.,mezelf,Ik
+2,Binding (Principle A),3,c-command,81,Ungrammatical,Mijn hond verraste mezelf met een creatieve oplossing.,mezelf,Mijn hond
+2,Binding (Principle A),3,c-command,82,Grammatical,Ik prees mezelf voor het behalen van mijn doelen.,mezelf,Ik
+2,Binding (Principle A),3,c-command,82,Ungrammatical,Mijn collega prees mezelf voor het behalen van mijn doelen.,mezelf,Mijn collega
+2,Binding (Principle A),3,c-command,83,Grammatical,Ik motiveerde mezelf om gezonder te eten.,mezelf,Ik
+2,Binding (Principle A),3,c-command,83,Ungrammatical,Mijn diëtist motiveerde mezelf om gezonder te eten.,mezelf,Mijn diëtist
+2,Binding (Principle A),3,c-command,84,Grammatical,Ik ergerde mezelf aan het lawaai van de buren.,mezelf,Ik
+2,Binding (Principle A),3,c-command,84,Ungrammatical,Mijn kat ergerde mezelf aan het lawaai van de buren.,mezelf,Mijn kat
+2,Binding (Principle A),3,c-command,85,Grammatical,Ik troostte mezelf met mijn favoriete comfortfood.,mezelf,Ik
+2,Binding (Principle A),3,c-command,85,Ungrammatical,Mijn partner troostte mezelf met mijn favoriete comfortfood.,mezelf,Mijn partner
+2,Binding (Principle A),3,c-command,86,Grammatical,Ik betrok mezelf bij een discussie over politiek.,mezelf,Ik
+2,Binding (Principle A),3,c-command,86,Ungrammatical,Mijn vriend betrok mezelf bij een discussie over politiek.,mezelf,Mijn vriend
+2,Binding (Principle A),3,c-command,87,Grammatical,Ik complimenteerde mezelf met het afronden van een project.,mezelf,Ik
+2,Binding (Principle A),3,c-command,87,Ungrammatical,Mijn manager complimenteerde mezelf met het afronden van een project.,mezelf,Mijn manager
+2,Binding (Principle A),3,c-command,88,Grammatical,Ik verraste mezelf met mijn kookvaardigheden.,mezelf,Ik
+2,Binding (Principle A),3,c-command,88,Ungrammatical,Mijn kind verraste mezelf met mijn kookvaardigheden.,mezelf,Mijn kind
+2,Binding (Principle A),3,c-command,89,Grammatical,Ik betrapte mezelf op het neuriën van een liedje.,mezelf,Ik
+2,Binding (Principle A),3,c-command,89,Ungrammatical,Mijn collega betrapte mezelf op het neuriën van een liedje.,mezelf,Mijn collega
+2,Binding (Principle A),3,c-command,90,Grammatical,Ik concentreerde mezelf op het oplossen van een puzzel.,mezelf,Ik
+2,Binding (Principle A),3,c-command,90,Ungrammatical,Mijn hoofd concentreerde mezelf op het oplossen van een puzzel.,mezelf,Mijn hoofd
+2,Binding (Principle A),3,c-command,91,Grammatical,Ik trakteerde mezelf op een kunsttentoonstelling.,mezelf,Ik
+2,Binding (Principle A),3,c-command,91,Ungrammatical,Mijn vriendin trakteerde mezelf op een kunsttentoonstelling.,mezelf,Mijn vriendin
+2,Binding (Principle A),3,c-command,92,Grammatical,Ik verraste mezelf met een spontane actie.,mezelf,Ik
+2,Binding (Principle A),3,c-command,92,Ungrammatical,Mijn kat verraste mezelf met een spontane actie.,mezelf,Mijn kat
+2,Binding (Principle A),3,c-command,93,Grammatical,Ik betrok mezelf bij een discussie over milieubewustzijn.,mezelf,Ik
+2,Binding (Principle A),3,c-command,93,Ungrammatical,Mijn buurvrouw betrok mezelf bij een discussie over milieubewustzijn.,mezelf,Mijn buurvrouw
+2,Binding (Principle A),3,c-command,94,Grammatical,Ik prees mezelf voor het tonen van empathie.,mezelf,Ik
+2,Binding (Principle A),3,c-command,94,Ungrammatical,Mijn psycholoog prees mezelf voor het tonen van empathie.,mezelf,Mijn psycholoog
+2,Binding (Principle A),3,c-command,95,Grammatical,Ik motiveerde mezelf om beter te presteren op school.,mezelf,Ik
+2,Binding (Principle A),3,c-command,95,Ungrammatical,Mijn leraar motiveerde mezelf om beter te presteren op school.,mezelf,Mijn leraar
+2,Binding (Principle A),3,c-command,96,Grammatical,Ik betrapte mezelf op het vergeten van de sleutels.,mezelf,Ik
+2,Binding (Principle A),3,c-command,96,Ungrammatical,Mijn vriend betrapte mezelf op het vergeten van de sleutels.,mezelf,Mijn vriend
+2,Binding (Principle A),3,c-command,97,Grammatical,Ik betrapte mezelf op het bekijken van grappige video's.,mezelf,Ik
+2,Binding (Principle A),3,c-command,97,Ungrammatical,Mijn baas betrapte mezelf op het bekijken van grappige video's.,mezelf,Mijn baas
+2,Binding (Principle A),3,c-command,98,Grammatical,Ik betrok mezelf bij een diepgaand filosofisch gesprek.,mezelf,Ik
+2,Binding (Principle A),3,c-command,98,Ungrammatical,Mijn oom betrok mezelf bij een diepgaand filosofisch gesprek.,mezelf,Mijn oom
+2,Binding (Principle A),3,c-command,99,Grammatical,Ik motiveerde mezelf om een nieuwe taal te leren.,mezelf,Ik
+2,Binding (Principle A),3,c-command,99,Ungrammatical,Mijn vriendin motiveerde mezelf om een nieuwe taal te leren.,mezelf,Mijn vriendin
+2,Binding (Principle A),3,c-command,100,Grammatical,Ik verbeterde mezelf in het genieten van de kleine dingen.,mezelf,Ik
+2,Binding (Principle A),3,c-command,100,Ungrammatical,Mijn vriend verbeterde mezelf in het genieten van de kleine dingen.,mezelf,Mijn vriend
+2,Binding (Principle A),4,monomorphemic,101,Grammatical,Hij sloot zich aan bij een studentenvereniging op de universiteit.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,101,Ungrammatical,Ik sloot zich aan bij een studentenvereniging op de universiteit.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,102,Grammatical,Zij legde zich neer bij de beslissingen tijdens de pandemie.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,102,Ungrammatical,Jij legde zich neer bij de beslissingen tijdens de pandemie.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,103,Grammatical,Hij mengde zich in de discussie tijdens de vergadering.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,103,Ungrammatical,Jij mengde zich in de discussie tijdens de vergadering.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,104,Grammatical,Zij liet zich in met verkeerde mensen uit de buurt.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,104,Ungrammatical,Ik liet zich in met verkeerde mensen uit de buurt.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,105,Grammatical,Hij bemoeide zich met het gevecht in de discotheek.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,105,Ungrammatical,Ik bemoeide zich met het gevecht in de discotheek.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,106,Grammatical,Zij vergiste zich in de tijd vorige week dinsdag.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,106,Ungrammatical,Jij vergiste zich in de tijd vorige week dinsdag.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,107,Grammatical,Hij verontschuldigde zich voor de overlast tegen de buren.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,107,Ungrammatical,Jij verontschuldigde zich voor de overlast tegen de buren.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,108,Grammatical,Zij verzette zich tegen het beleid tijdens de demonstratie.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,108,Ungrammatical,Ik verzette zich tegen het beleid tijdens de demonstratie.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,109,Grammatical,Hij keerde zich tegen de ouders in het gesprek.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,109,Ungrammatical,Ik keerde zich tegen de ouders in het gesprek.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,110,Grammatical,Zij schaamde zich voor het acteerwerk tijdens de voorstelling.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,110,Ungrammatical,Jij schaamde zich voor het acteerwerk tijdens de voorstelling.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,111,Grammatical,Hij stortte zich op zijn studie voor het examen.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,111,Ungrammatical,Ik stortte zich op mijn studie voor het examen.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,112,Grammatical,Zij ontwikkelde zich tot een competente leider.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,112,Ungrammatical,Jij ontwikkelde zich tot een competente leider.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,113,Grammatical,Hij gedroeg zich vreemd tijdens het feest.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,113,Ungrammatical,Jij gedroeg zich vreemd tijdens het feest.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,114,Grammatical,Zij beperkte zich tot een paar essentiële taken.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,114,Ungrammatical,Ik beperkte zich tot een paar essentiële taken.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,115,Grammatical,Hij hield zich bezig met ingewikkelde wiskundige vraagstukken.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,115,Ungrammatical,Ik hield zich bezig met ingewikkelde wiskundige vraagstukken.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,116,Grammatical,Zij concentreerde zich op haar ademhaling tijdens de yoga.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,116,Ungrammatical,Jij concentreerde zich op je ademhaling tijdens de yoga.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,117,Grammatical,Zij schaamde zich voor haar fouten in de presentatie.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,117,Ungrammatical,Jij schaamde zich voor je fouten in de presentatie.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,118,Grammatical,Hij trok zich terug uit de discussie na het meningsverschil.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,118,Ungrammatical,Ik trok zich terug uit de discussie na het meningsverschil.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,119,Grammatical,Zij richtte zich op het verbeteren van haar communicatieve vaardigheden.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,119,Ungrammatical,Ik richtte zich op het verbeteren van mijn communicatieve vaardigheden.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,120,Grammatical,Hij verloor zich in de betovering van het boek.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,120,Ungrammatical,Ik verloor zich in de betovering van het boek.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,121,Grammatical,Zij verborg zich achter de deur tijdens het verrassingsfeest.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,121,Ungrammatical,Jij verborg zich achter de deur tijdens het verrassingsfeest.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,122,Grammatical,Hij gedroeg zich ongepast tijdens de vergadering.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,122,Ungrammatical,Jij gedroeg zich ongepast tijdens de vergadering.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,123,Grammatical,Zij stelde zich open voor nieuwe ervaringen.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,123,Ungrammatical,Ik stelde zich open voor nieuwe ervaringen.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,124,Grammatical,Hij herinnerde zich plotseling het antwoord op de vraag.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,124,Ungrammatical,Ik herinnerde zich plotseling het antwoord op de vraag.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,125,Grammatical,Zij verdiepte zich in de mysteries van de natuur.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,125,Ungrammatical,Ik verdiepte zich in de mysteries van de natuur.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,126,Grammatical,Hij ergerde zich aan het lawaai van de bouwwerkzaamheden.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,126,Ungrammatical,Jij ergerde zich aan het lawaai van de bouwwerkzaamheden.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,127,Grammatical,Zij trok zich terug uit het sociale leven na het verlies.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,127,Ungrammatical,Jij trok zich terug uit het sociale leven na het verlies.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,128,Grammatical,Hij schikte zich naar de regels van het bedrijf.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,128,Ungrammatical,Jij schikte zich naar de regels van het bedrijf.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,129,Grammatical,Zij verwonderde zich over de prachtige zonsondergang.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,129,Ungrammatical,Ik verwonderde zich over de prachtige zonsondergang.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,130,Grammatical,Hij verdiepte zich in de geschiedenis van zijn familie.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,130,Ungrammatical,Ik verdiepte zich in de geschiedenis van zijn familie.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,131,Grammatical,Zij verschuilde zich achter de grote stapel boeken.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,131,Ungrammatical,Jij verschuilde zich achter de grote stapel boeken.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,132,Grammatical,Hij vergiste zich in de afstand tussen de steden.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,132,Ungrammatical,Jij vergiste zich in de afstand tussen de steden.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,133,Grammatical,Zij ontspande zich tijdens de spa-behandeling.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,133,Ungrammatical,Ik ontspande zich tijdens de spa-behandeling.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,134,Grammatical,Hij stelde zich beschikbaar voor vrijwilligerswerk.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,134,Ungrammatical,Ik stelde zich beschikbaar voor vrijwilligerswerk.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,135,Grammatical,Zij gedroeg zich als een professional tijdens de presentatie.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,135,Ungrammatical,Ik gedroeg zich als een professional tijdens de presentatie.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,136,Grammatical,Zij bekommerde zich om de behoeften van haar patiënten.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,136,Ungrammatical,Ik bekommerde zich om de behoeften van haar patiënten.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,137,Grammatical,Zij specialiseerde zich in digitale marketing.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,137,Ungrammatical,Ik specialiseerde zich in digitale marketing.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,138,Grammatical,Hij verdiepte zich in de complexe wereld van quantumfysica.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,138,Ungrammatical,Ik verdiepte zich in de complexe wereld van quantumfysica.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,139,Grammatical,Zij trok zich terug uit het politieke debat.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,139,Ungrammatical,Ik trok zich terug uit het politieke debat.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,140,Grammatical,Hij richtte zich op het verbeteren van zijn time-managementvaardigheden.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,140,Ungrammatical,Ik richtte zich op het verbeteren van zijn time-managementvaardigheden.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,141,Grammatical,Hij wijdde zich aan de studie van duurzame energie.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,141,Ungrammatical,Ik wijdde zich aan de studie van duurzame energie.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,142,Grammatical,Hij vergiste zich in de identiteit van de onbekende beller.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,142,Ungrammatical,Ik vergiste zich in de identiteit van de onbekende beller.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,143,Grammatical,Zij wijdde zich aan het redden van bedreigde diersoorten.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,143,Ungrammatical,Ik wijdde zich aan het redden van bedreigde diersoorten.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,144,Grammatical,Hij bevond zich in een lastige situatie.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,144,Ungrammatical,Ik bevond zich in een lastige situatie.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,145,Grammatical,Zij gedroeg zich volwassen tijdens de familiebijeenkomst.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,145,Ungrammatical,Ik gedroeg zich volwassen tijdens de familiebijeenkomst.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,146,Grammatical,Zij ergerde zich aan de trage internetverbinding.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,146,Ungrammatical,Ik ergerde zich aan de trage internetverbinding.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,147,Grammatical,Hij trok zich terug in zijn studeerkamer om te werken.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,147,Ungrammatical,Ik trok zich terug in zijn studeerkamer om te werken.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,148,Grammatical,Zij richtte zich op haar carrière in de journalistiek.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,148,Ungrammatical,Ik richtte zich op haar carrière in de journalistiek.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,149,Grammatical,Hij vergiste zich in de route naar het nieuwe restaurant.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,149,Ungrammatical,Ik vergiste zich in de route naar het nieuwe restaurant.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,150,Grammatical,Zij ontspande zich in het warme bubbelbad.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,150,Ungrammatical,Ik ontspande zich in het warme bubbelbad.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,151,Grammatical,Hij verdiepte zich in de mysteries van het universum.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,151,Ungrammatical,Ik verdiepte zich in de mysteries van het universum.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,152,Grammatical,Hij concentreerde zich op de cruciale details van het project.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,152,Ungrammatical,Ik concentreerde zich op de cruciale details van het project.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,153,Grammatical,Zij specialiseerde zich in het ontwerpen van duurzame architectuur.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,153,Ungrammatical,Ik specialiseerde zich in het ontwerpen van duurzame architectuur.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,154,Grammatical,Hij vergiste zich in de betekenis van het woord.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,154,Ungrammatical,Ik vergiste zich in de betekenis van het woord.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,155,Grammatical,Zij bekommerde zich om de emotionele welzijn van haar vrienden.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,155,Ungrammatical,Ik bekommerde zich om de emotionele welzijn van haar vrienden.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,156,Grammatical,Hij herstelde zich snel na de blessure.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,156,Ungrammatical,Ik herstelde zich snel na de blessure.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,157,Grammatical,Zij trok zich terug uit de hectiek van het stadsleven.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,157,Ungrammatical,Ik trok zich terug uit de hectiek van het stadsleven.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,158,Grammatical,Hij verdiepte zich in de culinaire kunsten.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,158,Ungrammatical,Ik verdiepte zich in de culinaire kunsten.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,159,Grammatical,Zij vergiste zich in de datum van de afspraak.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,159,Ungrammatical,Ik vergiste zich in de datum van de afspraak.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,160,Grammatical,Hij concentreerde zich op het schrijven van zijn scriptie.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,160,Ungrammatical,Ik concentreerde zich op het schrijven van zijn scriptie.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,161,Grammatical,Zij wijdde zich aan het onderwijzen van kansarme kinderen.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,161,Ungrammatical,Ik wijdde zich aan het onderwijzen van kansarme kinderen.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,162,Grammatical,Zij ergerde zich aan de onnodige vertraging op het vliegveld.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,162,Ungrammatical,Ik ergerde zich aan de onnodige vertraging op het vliegveld.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,163,Grammatical,Hij verdiepte zich in de wereld van kunstmatige intelligentie.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,163,Ungrammatical,Jij verdiepte zich in de wereld van kunstmatige intelligentie.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,164,Grammatical,Zij gedroeg zich voorbeeldig tijdens de diplomauitreiking.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,164,Ungrammatical,Jij gedroeg zich voorbeeldig tijdens de diplomauitreiking.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,165,Grammatical,Hij vergiste zich in de route naar het nieuwe kantoor.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,165,Ungrammatical,Jij vergiste zich in de route naar het nieuwe kantoor.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,166,Grammatical,Zij concentreerde zich op het leren van een nieuwe taal.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,166,Ungrammatical,Jij concentreerde zich op het leren van een nieuwe taal.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,167,Grammatical,Hij wijdde zich aan het verbeteren van zijn gezondheid.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,167,Ungrammatical,Jij wijdde zich aan het verbeteren van zijn gezondheid.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,168,Grammatical,Zij specialiseerde zich in het ontwerpen van duurzame kleding.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,168,Ungrammatical,Jij specialiseerde zich in het ontwerpen van duurzame kleding.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,169,Grammatical,Hij bekommerde zich om de ecologische impact van zijn levensstijl.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,169,Ungrammatical,Jij bekommerde zich om de ecologische impact van zijn levensstijl.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,170,Grammatical,Zij ergerde zich aan de politieke onrust in de wereld.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,170,Ungrammatical,Jij ergerde zich aan de politieke onrust in de wereld.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,171,Grammatical,Zij trok zich terug in haar studeerkamer om te schrijven.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,171,Ungrammatical,Jij trok zich terug in haar studeerkamer om te schrijven.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,172,Grammatical,Hij stelde zich beschikbaar als vrijwilliger voor het goede doel.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,172,Ungrammatical,Jij stelde zich beschikbaar als vrijwilliger voor het goede doel.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,173,Grammatical,Hij gedroeg zich nederig na het ontvangen van een prijs.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,173,Ungrammatical,Jij gedroeg zich nederig na het ontvangen van een prijs.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,174,Grammatical,Zij uitte zichzelf door middel van moderne dans.,zichzelf,Zij
+2,Binding (Principle A),4,monomorphemic,174,Ungrammatical,Jij uitte zichzelf door middel van moderne dans.,zichzelf,Jij
+2,Binding (Principle A),4,monomorphemic,175,Grammatical,Hij richtte zich op het ontwikkelen van innovatieve technologie.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,175,Ungrammatical,Jij richtte zich op het ontwikkelen van innovatieve technologie.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,176,Grammatical,Zij schaamde zich voor de fouten in haar presentatie.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,176,Ungrammatical,Jij schaamde zich voor de fouten in haar presentatie.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,177,Grammatical,Zij ontspande zich tijdens een rustige wandeling in de natuur.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,177,Ungrammatical,Jij ontspande zich tijdens een rustige wandeling in de natuur.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,178,Grammatical,Hij versprak zich toen hij het verhaal vertelde.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,178,Ungrammatical,Jij versprak zich toen hij het verhaal vertelde.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,179,Grammatical,Zij verslikte zich in haar drankje op het feest.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,179,Ungrammatical,Jij verslikte zich in haar drankje op het feest.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,180,Grammatical,Hij sloof zich uit om de beste van de klas te zijn.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,180,Ungrammatical,Jij sloof zich uit om de beste van de klas te zijn.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,181,Grammatical,Zij maakt zich goed uit de voeten met die stof.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,181,Ungrammatical,Jij maakt zich goed uit de voeten met die stof.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,182,Grammatical,Hij verslaapt zich elke ochtend omdat de wekker niet werkt.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,182,Ungrammatical,Jij verslaapt zich elke ochtend omdat de wekker niet werkt.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,183,Grammatical,Zij ontfermde zich over het zieke katje in de tuin.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,183,Ungrammatical,Jij ontfermde zich over het zieke katje in de tuin.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,184,Grammatical,Zij leefde zich in in de personages in het boek.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,184,Ungrammatical,Jij leefde zich in in de personages in het boek.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,185,Grammatical,Hij misrekende zich in de afstand.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,185,Ungrammatical,Jij misrekende zich in de afstand.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,186,Grammatical,Hij kon zich niet indenken hoe het zou zijn.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,186,Ungrammatical,Jij kon zich niet indenken hoe het zou zijn.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,187,Grammatical,Zij beeldde zich in dat ze superhelden zijn.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,187,Ungrammatical,Jij beeldde zich in dat ze superhelden zijn.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,188,Grammatical,Zij geneerde zich voor hun kinderlijke gedrag.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,188,Ungrammatical,Jij geneerde zich voor hun kinderlijke gedrag.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,189,Grammatical,Hij werkte zich dood om zijn doelen te bereiken.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,189,Ungrammatical,Jij werkte zich dood om zijn doelen te bereiken.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,190,Grammatical,Zij distantieerde zich van negativiteit op elke manier.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,190,Ungrammatical,Jij distantieerde zich van negativiteit op elke manier.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,191,Grammatical,Hij beijverde zich om de fouten te herstellen.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,191,Ungrammatical,Ik beijverde zich om de fouten te herstellen.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,192,Grammatical,Zij abonneerde zich op verschillende tijdschriften.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,192,Ungrammatical,Jij abonneerde zich op verschillende tijdschriften.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,193,Grammatical,Zij matigde zich met het drinken van alcoholische dranken.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,193,Ungrammatical,Ik matigde zich met het drinken van alcoholische dranken.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,194,Grammatical,Hij kantte zich aan tegen het nieuwe beleid.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,194,Ungrammatical,Jij kantte zich aan tegen het nieuwe beleid.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,195,Grammatical,Zij benaarstigde zich om het project op tijd af te krijgen.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,195,Ungrammatical,Ik benaarstigde zich om het project op tijd af te krijgen.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,196,Grammatical,Hij bezoop zich bij elke gelegenheid die er was.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,196,Ungrammatical,Ik bezoop zich bij elke gelegenheid die er was.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,197,Grammatical,Hij gaf zich bloot tijdens het openhartige gesprek.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,197,Ungrammatical,Jij gaf zich bloot tijdens het openhartige gesprek.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,198,Grammatical,Zij ontpopte zich tot een ervaren professional.,zich,Zij
+2,Binding (Principle A),4,monomorphemic,198,Ungrammatical,Jij ontpopte zich tot een ervaren professional.,zich,Jij
+2,Binding (Principle A),4,monomorphemic,199,Grammatical,Hij overat zich bij het buffet.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,199,Ungrammatical,Ik overat zich bij het buffet.,zich,Ik
+2,Binding (Principle A),4,monomorphemic,200,Grammatical,Hij erbarmde zich over de daklozen.,zich,Hij
+2,Binding (Principle A),4,monomorphemic,200,Ungrammatical,Jij erbarmde zich over de daklozen.,zich,Jij

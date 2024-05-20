@@ -1,0 +1,801 @@
+Number (phenomenon),Phenomenon,Number (paradigm),Paradigm,Item,Grammaticality,Sentence,Critical word(s),Cue word(s)
+18,Determiners,73,negative_polarity,1,Grammatical,Ik heb geen moment ook maar ergens met hem willen praten.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,1,Ungrammatical,Ik heb een moment ook maar ergens met hem willen praten.,ook maar ergens,een
+18,Determiners,73,negative_polarity,2,Grammatical,Jij hebt geen seconde ook maar ergens met haar willen dansen.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,2,Ungrammatical,Jij hebt een seconde ook maar ergens met haar willen dansen.,ook maar ergens,een
+18,Determiners,73,negative_polarity,3,Grammatical,Hij heeft geen minuut ook maar ergens met hem willen samenwerken.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,3,Ungrammatical,Hij heeft een minuut ook maar ergens met hem willen samenwerken.,ook maar ergens,een
+18,Determiners,73,negative_polarity,4,Grammatical,Ik zou geen nacht ook maar ergens met hem willen verblijven.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,4,Ungrammatical,Ik zou een nacht ook maar ergens met hem willen verblijven.,ook maar ergens,een
+18,Determiners,73,negative_polarity,5,Grammatical,Jij zou geen week ook maar ergens met haar willen kamperen.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,5,Ungrammatical,Jij zou een week ook maar ergens met haar willen kamperen.,ook maar ergens,een
+18,Determiners,73,negative_polarity,6,Grammatical,Wij hebben geen minuut ook maar iets met haar willen onderzoeken.,ook maar iets,geen
+18,Determiners,73,negative_polarity,6,Ungrammatical,Wij hebben een minuut ook maar iets met haar willen onderzoeken.,ook maar iets,een
+18,Determiners,73,negative_polarity,7,Grammatical,Jullie hebben geen moment ook maar iets met hem willen bespreken.,ook maar iets,geen
+18,Determiners,73,negative_polarity,7,Ungrammatical,Jullie hebben een moment ook maar iets met hem willen bespreken.,ook maar iets,een
+18,Determiners,73,negative_polarity,8,Grammatical,Wij zouden geen seconde ook maar iets met haar willen doen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,8,Ungrammatical,Wij zouden een seconde ook maar iets met haar willen doen.,ook maar iets,een
+18,Determiners,73,negative_polarity,9,Grammatical,Zij zou geen nacht ook maar iets met hem willen delen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,9,Ungrammatical,Zij zou een nacht ook maar iets met hem willen delen.,ook maar iets,een
+18,Determiners,73,negative_polarity,10,Grammatical,Jullie zouden geen week ook maar iets met haar willen ervaren.,ook maar iets,geen
+18,Determiners,73,negative_polarity,10,Ungrammatical,Jullie zouden een week ook maar iets met haar willen ervaren.,ook maar iets,een
+18,Determiners,73,negative_polarity,11,Grammatical,Wij hebben geen uur ook maar iets met hem willen plannen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,11,Ungrammatical,Wij hebben een uur ook maar iets met hem willen plannen.,ook maar iets,een
+18,Determiners,73,negative_polarity,12,Grammatical,Zij heeft geen dag ook maar even met haar willen doorbrengen.,ook maar even,geen
+18,Determiners,73,negative_polarity,12,Ungrammatical,Zij heeft een dag ook maar even met haar willen doorbrengen.,ook maar even,een
+18,Determiners,73,negative_polarity,13,Grammatical,Jij hebt geen maand ook maar iets met hen willen organiseren.,ook maar iets,geen
+18,Determiners,73,negative_polarity,13,Ungrammatical,Jij hebt een maand ook maar iets met hen willen organiseren.,ook maar iets,een
+18,Determiners,73,negative_polarity,14,Grammatical,Hij heeft geen jaar ook maar iets met haar willen bouwen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,14,Ungrammatical,Hij heeft een jaar ook maar iets met haar willen bouwen.,ook maar iets,een
+18,Determiners,73,negative_polarity,15,Grammatical,Ik zou geen decennium ook maar iets met hem willen coördineren.,ook maar iets,geen
+18,Determiners,73,negative_polarity,15,Ungrammatical,Ik zou een decennium ook maar iets met hem willen coördineren.,ook maar iets,een
+18,Determiners,73,negative_polarity,16,Grammatical,Jullie zouden geen eeuw ook maar iets met haar willen regelen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,16,Ungrammatical,Jullie zouden een eeuw ook maar iets met haar willen regelen.,ook maar iets,een
+18,Determiners,73,negative_polarity,17,Grammatical,Wij hebben geen millennium ook maar iets met hen willen bestuderen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,17,Ungrammatical,Wij hebben een millennium ook maar iets met hen willen bestuderen.,ook maar iets,een
+18,Determiners,73,negative_polarity,18,Grammatical,Zij zouden geen moment ook maar iets met hem willen uitvoeren.,ook maar iets,geen
+18,Determiners,73,negative_polarity,18,Ungrammatical,Zij zouden een moment ook maar iets met hem willen uitvoeren.,ook maar iets,een
+18,Determiners,73,negative_polarity,19,Grammatical,Hij zou geen seconde ook maar iets met haar willen uitwisselen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,19,Ungrammatical,Hij zou een seconde ook maar iets met haar willen uitwisselen.,ook maar iets,een
+18,Determiners,73,negative_polarity,20,Grammatical,Jullie hebben geen minuut ook maar iets met hem willen voltooien.,ook maar iets,geen
+18,Determiners,73,negative_polarity,20,Ungrammatical,Jullie hebben een minuut ook maar iets met hem willen voltooien.,ook maar iets,een
+18,Determiners,73,negative_polarity,21,Grammatical,Wij hebben geen nacht ook maar iets met haar willen overleggen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,21,Ungrammatical,Wij hebben een nacht ook maar iets met haar willen overleggen.,ook maar iets,een
+18,Determiners,73,negative_polarity,22,Grammatical,Jij hebt geen week ook maar iets met hen willen delen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,22,Ungrammatical,Jij hebt een week ook maar iets met hen willen delen.,ook maar iets,een
+18,Determiners,73,negative_polarity,23,Grammatical,Ik zou geen moment ook maar iets met haar willen ontwikkelen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,23,Ungrammatical,Ik zou een moment ook maar iets met haar willen ontwikkelen.,ook maar iets,een
+18,Determiners,73,negative_polarity,24,Grammatical,Zij hebben geen seconde ook maar iets met hem willen regisseren.,ook maar iets,geen
+18,Determiners,73,negative_polarity,24,Ungrammatical,Zij hebben een seconde ook maar iets met hem willen regisseren.,ook maar iets,een
+18,Determiners,73,negative_polarity,25,Grammatical,Zij zouden geen minuut ook maar iets met haar willen schrijven.,ook maar iets,geen
+18,Determiners,73,negative_polarity,25,Ungrammatical,Zij zouden een minuut ook maar iets met haar willen schrijven.,ook maar iets,een
+18,Determiners,73,negative_polarity,26,Grammatical,Jullie zouden geen dag ook maar iets met hem willen voorstellen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,26,Ungrammatical,Jullie zouden een dag ook maar iets met hem willen voorstellen.,ook maar iets,een
+18,Determiners,73,negative_polarity,27,Grammatical,Hij heeft geen decennium ook maar iets met hen willen beslissen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,27,Ungrammatical,Hij heeft een decennium ook maar iets met hen willen beslissen.,ook maar iets,een
+18,Determiners,73,negative_polarity,28,Grammatical,Ik zou geen moment ook maar iets met hem willen veranderen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,28,Ungrammatical,Ik zou een moment ook maar iets met hem willen veranderen.,ook maar iets,een
+18,Determiners,73,negative_polarity,29,Grammatical,Zij hebben geen eeuw ook maar iets met haar willen bereiken.,ook maar iets,geen
+18,Determiners,73,negative_polarity,29,Ungrammatical,Zij hebben een eeuw ook maar iets met haar willen bereiken.,ook maar iets,een
+18,Determiners,73,negative_polarity,30,Grammatical,Ik heb geen moment met ook maar iemand willen spreken.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,30,Ungrammatical,Ik heb een moment met ook maar iemand willen spreken.,ook maar iemand,een
+18,Determiners,73,negative_polarity,31,Grammatical,Jij hebt geen seconde ook maar iemand met hem willen ontmoeten.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,31,Ungrammatical,Jij hebt een seconde ook maar iemand met hem willen ontmoeten.,ook maar iemand,een
+18,Determiners,73,negative_polarity,32,Grammatical,Hij heeft geen minuut met ook maar iemand willen samenwerken.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,32,Ungrammatical,Hij heeft een minuut met ook maar iemand willen samenwerken.,ook maar iemand,een
+18,Determiners,73,negative_polarity,33,Grammatical,Wij zouden geen uur ook maar iemand met hen willen interviewen.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,33,Ungrammatical,Wij zouden een uur ook maar iemand met hen willen interviewen.,ook maar iemand,een
+18,Determiners,73,negative_polarity,34,Grammatical,Zij zou geen dag met ook maar iemand willen delen.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,34,Ungrammatical,Zij zou een dag met ook maar iemand willen delen.,ook maar iemand,een
+18,Determiners,73,negative_polarity,35,Grammatical,Jullie hebben geen maand met ook maar iemand willen samenleven.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,35,Ungrammatical,Jullie hebben een maand met ook maar iemand willen samenleven.,ook maar iemand,een
+18,Determiners,73,negative_polarity,36,Grammatical,Ik zou geen jaar met ook maar iemand willen reizen.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,36,Ungrammatical,Ik zou een jaar met ook maar iemand willen reizen.,ook maar iemand,een
+18,Determiners,73,negative_polarity,37,Grammatical,Zij hebben geen decennium met ook maar iemand willen feesten.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,37,Ungrammatical,Zij hebben een decennium met ook maar iemand willen feesten.,ook maar iemand,een
+18,Determiners,73,negative_polarity,38,Grammatical,Hij zou geen moment ook maar iemand met haar willen coachen.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,38,Ungrammatical,Hij zou een moment ook maar iemand met haar willen coachen.,ook maar iemand,een
+18,Determiners,73,negative_polarity,39,Grammatical,Wij hebben geen seconde met ook maar iemand willen studeren.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,39,Ungrammatical,Wij hebben geen seconde met met ook maar iemand willen studeren.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,40,Grammatical,Jij hebt geen nacht met ook maar iemand willen zingen.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,40,Ungrammatical,Jij hebt een nacht met ook maar iemand willen zingen.,ook maar iemand,een
+18,Determiners,73,negative_polarity,41,Grammatical,Jullie zouden geen week ook maar iemand met haar willen schilderen.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,41,Ungrammatical,Jullie zouden een week ook maar iemand met haar willen schilderen.,ook maar iemand,een
+18,Determiners,73,negative_polarity,42,Grammatical,Zij hebben geen minuut ook maar iemand met hem willen fotograferen.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,42,Ungrammatical,Zij hebben een minuut ook maar iemand met hem willen fotograferen.,ook maar iemand,een
+18,Determiners,73,negative_polarity,43,Grammatical,Wij zouden geen dag ook maar iemand met hen willen uitnodigen.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,43,Ungrammatical,Wij zouden een dag ook maar iemand met hen willen uitnodigen.,ook maar iemand,een
+18,Determiners,73,negative_polarity,44,Grammatical,Hij heeft geen uur met ook maar iemand willen dansen.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,44,Ungrammatical,Hij heeft een uur met ook maar iemand willen dansen.,ook maar iemand,een
+18,Determiners,73,negative_polarity,45,Grammatical,Ik heb geen uur ook maar ergens met haar willen doorbrengen.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,45,Ungrammatical,Ik heb een uur ook maar ergens met haar willen doorbrengen.,ook maar ergens,een
+18,Determiners,73,negative_polarity,46,Grammatical,Zij heeft geen dag ook maar ergens met hem willen praten.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,46,Ungrammatical,Zij heeft een dag ook maar ergens met hem willen praten.,ook maar ergens,een
+18,Determiners,73,negative_polarity,47,Grammatical,Jullie hebben geen maand ook maar ergens met haar willen samenwerken.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,47,Ungrammatical,Jullie hebben een maand ook maar ergens met haar willen samenwerken.,ook maar ergens,een
+18,Determiners,73,negative_polarity,48,Grammatical,Hij heeft geen jaar ook maar ergens met hem willen dansen.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,48,Ungrammatical,Hij heeft een jaar ook maar ergens met hem willen dansen.,ook maar ergens,een
+18,Determiners,73,negative_polarity,49,Grammatical,Jij hebt geen moment ook maar iets met hem willen onderzoeken.,ook maar iets,geen
+18,Determiners,73,negative_polarity,49,Ungrammatical,Jij hebt een moment ook maar iets met hem willen onderzoeken.,ook maar iets,een
+18,Determiners,73,negative_polarity,50,Grammatical,Zij zou geen seconde ook maar iets met haar willen bespreken.,ook maar iets,geen
+18,Determiners,73,negative_polarity,50,Ungrammatical,Zij zou een seconde ook maar iets met haar willen bespreken.,ook maar iets,een
+18,Determiners,73,negative_polarity,51,Grammatical,Jullie hebben geen nacht ook maar iets met hem willen doen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,51,Ungrammatical,Jullie hebben een nacht ook maar iets met hem willen doen.,ook maar iets,een
+18,Determiners,73,negative_polarity,52,Grammatical,Hij zou geen week ook maar iets met haar willen delen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,52,Ungrammatical,Hij zou een week ook maar iets met haar willen delen.,ook maar iets,een
+18,Determiners,73,negative_polarity,53,Grammatical,Wij hebben geen minuut ook maar iets met hem willen ervaren.,ook maar iets,geen
+18,Determiners,73,negative_polarity,53,Ungrammatical,Wij hebben een minuut ook maar iets met hem willen ervaren.,ook maar iets,een
+18,Determiners,73,negative_polarity,54,Grammatical,Ik zou geen moment ook maar ergens met haar willen verblijven.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,54,Ungrammatical,Ik zou een moment ook maar ergens met haar willen verblijven.,ook maar ergens,een
+18,Determiners,73,negative_polarity,55,Grammatical,Ik heb geen moment ook maar even met hem willen praten.,ook maar even,geen
+18,Determiners,73,negative_polarity,55,Ungrammatical,Ik heb een moment ook maar even met hem willen praten.,ook maar even,een
+18,Determiners,73,negative_polarity,56,Grammatical,Zij heeft nooit ook maar even met haar willen dansen.,ook maar even,nooit
+18,Determiners,73,negative_polarity,56,Ungrammatical,Zij heeft ooit ook maar even met haar willen dansen.,ook maar even,ooit
+18,Determiners,73,negative_polarity,57,Grammatical,Zij heeft geen uur ook maar iets met hem willen plannen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,57,Ungrammatical,Zij heeft een uur ook maar iets met hem willen plannen.,ook maar iets,een
+18,Determiners,73,negative_polarity,58,Grammatical,Wij hebben geen moment ook maar iets met hem willen regelen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,58,Ungrammatical,Wij hebben een moment ook maar iets met hem willen regelen.,ook maar iets,een
+18,Determiners,73,negative_polarity,59,Grammatical,Hij zou geen jaar ook maar iets met haar willen bouwen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,59,Ungrammatical,Hij zou een jaar ook maar iets met haar willen bouwen.,ook maar iets,een
+18,Determiners,73,negative_polarity,60,Grammatical,Jullie hebben geen seconde ook maar iets met hem willen oplossen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,60,Ungrammatical,Jullie hebben een seconde ook maar iets met hem willen oplossen.,ook maar iets,een
+18,Determiners,73,negative_polarity,61,Grammatical,Ik zou geen minuut ook maar iets met haar willen bespreken.,ook maar iets,geen
+18,Determiners,73,negative_polarity,61,Ungrammatical,Ik zou een minuut ook maar iets met haar willen bespreken.,ook maar iets,een
+18,Determiners,73,negative_polarity,62,Grammatical,Zij zouden geen nacht ook maar iets met hem willen vieren.,ook maar iets,geen
+18,Determiners,73,negative_polarity,62,Ungrammatical,Zij zouden een nacht ook maar iets met hem willen vieren.,ook maar iets,een
+18,Determiners,73,negative_polarity,63,Grammatical,Wij hebben geen week ook maar iets met haar willen uitproberen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,63,Ungrammatical,Wij hebben een week ook maar iets met haar willen uitproberen.,ook maar iets,een
+18,Determiners,73,negative_polarity,64,Grammatical,Jullie zouden geen moment ook maar iets met hem willen analyseren.,ook maar iets,geen
+18,Determiners,73,negative_polarity,64,Ungrammatical,Jullie zouden een moment ook maar iets met hem willen analyseren.,ook maar iets,een
+18,Determiners,73,negative_polarity,65,Grammatical,Hij heeft geen uur ook maar iets met haar willen plannen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,65,Ungrammatical,Hij heeft een uur ook maar iets met haar willen plannen.,ook maar iets,een
+18,Determiners,73,negative_polarity,66,Grammatical,Zij hebben geen jaar ook maar iets met haar willen organiseren.,ook maar iets,geen
+18,Determiners,73,negative_polarity,66,Ungrammatical,Zij hebben een jaar ook maar iets met haar willen organiseren.,ook maar iets,een
+18,Determiners,73,negative_polarity,67,Grammatical,Wij zouden geen dag ook maar iets met hem willen bereiken.,ook maar iets,geen
+18,Determiners,73,negative_polarity,67,Ungrammatical,Wij zouden een dag ook maar iets met hem willen bereiken.,ook maar iets,een
+18,Determiners,73,negative_polarity,68,Grammatical,Jij hebt geen moment ook maar iets met haar willen plannen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,68,Ungrammatical,Jij hebt een moment ook maar iets met haar willen plannen.,ook maar iets,een
+18,Determiners,73,negative_polarity,69,Grammatical,Hij heeft geen seconde ook maar iets met hem willen onderwijzen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,69,Ungrammatical,Hij heeft een seconde ook maar iets met hem willen onderwijzen.,ook maar iets,een
+18,Determiners,73,negative_polarity,70,Grammatical,Hij heeft geen enkele dag ook maar iets met haar willen bespreken.,ook maar iets,geen
+18,Determiners,73,negative_polarity,70,Ungrammatical,Hij heeft een enkele dag ook maar iets met haar willen bespreken.,ook maar iets,een
+18,Determiners,73,negative_polarity,71,Grammatical,Wij zouden geen seconde ook maar ergens met hem willen rondhangen.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,71,Ungrammatical,Wij zouden een seconde ook maar ergens met hem willen rondhangen.,ook maar ergens,een
+18,Determiners,73,negative_polarity,72,Grammatical,Jij hebt geen moment ook maar iemand met haar willen ontmoeten.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,72,Ungrammatical,Jij hebt een moment ook maar iemand met haar willen ontmoeten.,ook maar iemand,een
+18,Determiners,73,negative_polarity,73,Grammatical,Zij hebben geen jaar ook maar iets met hem willen regelen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,73,Ungrammatical,Zij hebben een jaar ook maar iets met hem willen regelen.,ook maar iets,een
+18,Determiners,73,negative_polarity,74,Grammatical,Ik zou geen seconde ook maar ergens met haar willen winkelen.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,74,Ungrammatical,Ik zou een seconde ook maar ergens met haar willen winkelen.,ook maar ergens,een
+18,Determiners,73,negative_polarity,75,Grammatical,Jij hebt geen moment ook maar iemand met haar willen helpen.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,75,Ungrammatical,Jij hebt een moment ook maar iemand met haar willen helpen.,ook maar iemand,een
+18,Determiners,73,negative_polarity,76,Grammatical,Ik zou geen jaar ook maar iets met hem willen delen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,76,Ungrammatical,Ik zou een jaar ook maar iets met hem willen delen.,ook maar iets,een
+18,Determiners,73,negative_polarity,77,Grammatical,Er heeft geen week ook maar iemand met hem willen samenwerken.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,77,Ungrammatical,Er heeft een week ook maar iemand met hem willen samenwerken.,ook maar iemand,een
+18,Determiners,73,negative_polarity,78,Grammatical,Ik heb geen seconde ook maar iets van haar begrepen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,78,Ungrammatical,Ik heb een seconde ook maar iets van haar begrepen.,ook maar iets,een
+18,Determiners,73,negative_polarity,79,Grammatical,We hebben geen seconde ook maar iets aan zijn uitleg gehad.,ook maar iets,geen
+18,Determiners,73,negative_polarity,79,Ungrammatical,We hebben een seconde ook maar iets aan zijn uitleg gehad.,ook maar iets,een
+18,Determiners,73,negative_polarity,80,Grammatical,Ze hebben geen moment ook maar iets aan die cursus gehad.,ook maar iets,geen
+18,Determiners,73,negative_polarity,80,Ungrammatical,Ze hebben een moment ook maar iets aan die cursus gehad.,ook maar iets,een
+18,Determiners,73,negative_polarity,81,Grammatical,Ik wil geen minuut ook maar iets met die discussie te maken hebben.,ook maar iets,geen
+18,Determiners,73,negative_polarity,81,Ungrammatical,Ik wil een minuut ook maar iets met die discussie te maken hebben.,ook maar iets,een
+18,Determiners,73,negative_polarity,82,Grammatical,We hebben geen moment ook maar iets met die regeling willen veranderen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,82,Ungrammatical,We hebben een moment ook maar iets met die regeling willen veranderen.,ook maar iets,een
+18,Determiners,73,negative_polarity,83,Grammatical,Hij heeft geen seconde ook maar iets van die taak begrepen.,ook maar iets,geen
+18,Determiners,73,negative_polarity,83,Ungrammatical,Hij heeft een seconde ook maar iets van die taak begrepen.,ook maar iets,een
+18,Determiners,73,negative_polarity,84,Grammatical,Ze hebben geen moment ook maar iets aan die vergadering gehad.,ook maar iets,geen
+18,Determiners,73,negative_polarity,84,Ungrammatical,Ze hebben een moment ook maar iets aan die vergadering gehad.,ook maar iets,een
+18,Determiners,73,negative_polarity,85,Grammatical,We willen geen seconde ook maar iets met dat voorstel te maken hebben.,ook maar iets,geen
+18,Determiners,73,negative_polarity,85,Ungrammatical,We willen een seconde ook maar iets met dat voorstel te maken hebben.,ook maar iets,een
+18,Determiners,73,negative_polarity,86,Grammatical,Ze hebben geen moment ook maar iets met die opdracht bereikt.,ook maar iets,geen
+18,Determiners,73,negative_polarity,86,Ungrammatical,Ze hebben een moment ook maar iets met die opdracht bereikt.,ook maar iets,een
+18,Determiners,73,negative_polarity,87,Grammatical,Ze willen geen seconde ook maar iets met die kritiek te maken hebben.,ook maar iets,geen
+18,Determiners,73,negative_polarity,87,Ungrammatical,Ze willen een seconde ook maar iets met die kritiek te maken hebben.,ook maar iets,een
+18,Determiners,73,negative_polarity,88,Grammatical,We hebben geen moment ook maar iets met die opmerkingen bereikt.,ook maar iets,geen
+18,Determiners,73,negative_polarity,88,Ungrammatical,We hebben een moment ook maar iets met die opmerkingen bereikt.,ook maar iets,een
+18,Determiners,73,negative_polarity,89,Grammatical,Jullie hebben geen seconde ook maar iets met die excuses te maken gehad.,ook maar iets,geen
+18,Determiners,73,negative_polarity,89,Ungrammatical,Jullie hebben een seconde ook maar iets met die excuses te maken gehad.,ook maar iets,een
+18,Determiners,73,negative_polarity,90,Grammatical,We hebben geen seconde ook maar iemand over die kwestie willen spreken.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,90,Ungrammatical,We hebben een seconde ook maar iemand over die kwestie willen spreken.,ook maar iemand,een
+18,Determiners,73,negative_polarity,91,Grammatical,Ze hebben geen moment ook maar even aan die afspraak gedacht.,ook maar even,geen
+18,Determiners,73,negative_polarity,91,Ungrammatical,Ze hebben een moment ook maar even aan die afspraak gedacht.,ook maar even,een
+18,Determiners,73,negative_polarity,92,Grammatical,Ik wil geen minuut ook maar iemand in die situatie betrekken.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,92,Ungrammatical,Ik wil een minuut ook maar iemand in die situatie betrekken.,ook maar iemand,een
+18,Determiners,73,negative_polarity,93,Grammatical,We hebben geen moment ook maar even met die regeling willen experimenteren.,ook maar even,geen
+18,Determiners,73,negative_polarity,93,Ungrammatical,We hebben een moment ook maar even met die regeling willen experimenteren.,ook maar even,een
+18,Determiners,73,negative_polarity,94,Grammatical,Ik heb geen moment ook maar iemand van die situatie willen begrijpen.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,94,Ungrammatical,Ik heb een moment ook maar iemand van die situatie willen begrijpen.,ook maar iemand,een
+18,Determiners,73,negative_polarity,95,Grammatical,We hebben geen moment ook maar iemand van die vergadering begrepen.,ook maar iemand,geen
+18,Determiners,73,negative_polarity,95,Ungrammatical,We hebben een moment ook maar iemand van die vergadering begrepen.,ook maar iemand,een
+18,Determiners,73,negative_polarity,96,Grammatical,We hebben geen seconde ook maar ergens met haar willen reizen.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,96,Ungrammatical,We hebben een seconde ook maar ergens met haar willen reizen.,ook maar ergens,een
+18,Determiners,73,negative_polarity,97,Grammatical,Hij heeft geen moment ook maar ergens met hen willen studeren.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,97,Ungrammatical,Hij heeft een moment ook maar ergens met hen willen studeren.,ook maar ergens,een
+18,Determiners,73,negative_polarity,98,Grammatical,Zij zou geen nacht ook maar ergens met hem willen dineren.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,98,Ungrammatical,Zij zou een nacht ook maar ergens met hem willen dineren.,ook maar ergens,een
+18,Determiners,73,negative_polarity,99,Grammatical,Wij zouden geen week ook maar ergens met hen willen wandelen.,ook maar ergens,geen
+18,Determiners,73,negative_polarity,99,Ungrammatical,Wij zouden een week ook maar ergens met hen willen wandelen.,ook maar ergens,een
+18,Determiners,73,negative_polarity,100,Grammatical,Zij zou geen nacht ook maar iets met hem willen creëren.,ook maar iets,geen
+18,Determiners,73,negative_polarity,100,Ungrammatical,Zij zou een nacht ook maar iets met hem willen creëren.,ook maar iets,een
+18,Determiners,74,geen_expletive,101,Grammatical,Jouw moeder dacht dat er gisteren geen melk in de koelkast stond.,geen melk,
+18,Determiners,74,geen_expletive,101,Ungrammatical,Jouw moeder dacht dat gisteren geen melk in de koelkast stond.,geen melk,
+18,Determiners,74,geen_expletive,102,Grammatical,De portier dacht dat er gisteravond geen jas aan de kapstok hing.,geen jas,
+18,Determiners,74,geen_expletive,102,Ungrammatical,De portier dacht dat gisteravond geen jas aan de kapstok hing.,geen jas,
+18,Determiners,74,geen_expletive,103,Grammatical,De jongen wist dat er vanochtend geen benzine in de auto zat.,geen benzine,
+18,Determiners,74,geen_expletive,103,Ungrammatical,De jongen wist dat vanochtend geen benzine in de auto zat.,geen benzine,
+18,Determiners,74,geen_expletive,104,Grammatical,Jouw vader dacht dat er vanochtend geen post op de deurmat lag.,geen post,
+18,Determiners,74,geen_expletive,104,Ungrammatical,Jouw vader dacht dat vanochtend geen post op de deurmat lag.,geen post,
+18,Determiners,74,geen_expletive,105,Grammatical,De badmeester wist dat er gisteren geen water in het zwembad was.,geen water,
+18,Determiners,74,geen_expletive,105,Ungrammatical,De badmeester wist dat gisteren geen water in het zwembad was.,geen water,
+18,Determiners,74,geen_expletive,106,Grammatical,Het meisje wist dat er gisteravond geen batterij in de afstandsbediening zat.,geen batterij,
+18,Determiners,74,geen_expletive,106,Ungrammatical,Het meisje wist dat gisteravond geen batterij in de afstandsbediening zat.,geen batterij,
+18,Determiners,74,geen_expletive,107,Grammatical,De schoonmaakster dacht dat er gisteren geen bloem in de vaas stond.,geen bloem,
+18,Determiners,74,geen_expletive,107,Ungrammatical,De schoonmaakster dacht dat gisteren geen bloem in de vaas stond.,geen bloem,
+18,Determiners,74,geen_expletive,108,Grammatical,Jouw broertje wist dat er vanochtend geen briefje aan de koelkast hing.,geen briefje,
+18,Determiners,74,geen_expletive,108,Ungrammatical,Jouw broertje wist dat vanochtend geen briefje aan de koelkast hing.,geen briefje,
+18,Determiners,74,geen_expletive,109,Grammatical,De directeur wist dat er gisteren geen boek op het bureau lag.,geen boek,
+18,Determiners,74,geen_expletive,109,Ungrammatical,De directeur wist dat gisteren geen boek op het bureau lag.,geen boek,
+18,Determiners,74,geen_expletive,110,Grammatical,Jouw zus dacht dat er gisteravond geen shampoo in de douche was.,geen shampoo,
+18,Determiners,74,geen_expletive,110,Ungrammatical,Jouw zus dacht dat gisteravond geen shampoo in de douche was.,geen shampoo,
+18,Determiners,74,geen_expletive,111,Grammatical,De leraar wist dat er gisteren geen huiswerk in de map zat.,geen huiswerk,
+18,Determiners,74,geen_expletive,111,Ungrammatical,De leraar wist dat gisteren geen huiswerk in de map zat.,geen huiswerk,
+18,Determiners,74,geen_expletive,112,Grammatical,Jouw oma dacht dat er vanochtend geen krant op de deurmat lag.,geen krant,
+18,Determiners,74,geen_expletive,112,Ungrammatical,Jouw oma dacht dat vanochtend geen krant op de deurmat lag.,geen krant,
+18,Determiners,74,geen_expletive,113,Grammatical,De ober wist dat er gisteravond geen bestelling in de keuken stond.,geen bestelling,
+18,Determiners,74,geen_expletive,113,Ungrammatical,De ober wist dat gisteravond geen bestelling in de keuken stond.,geen bestelling,
+18,Determiners,74,geen_expletive,114,Grammatical,Jouw buurman dacht dat er gisteren geen pakketje bij de voordeur stond.,geen pakketje,
+18,Determiners,74,geen_expletive,114,Ungrammatical,Jouw buurman dacht dat gisteren geen pakketje bij de voordeur stond.,geen pakketje,
+18,Determiners,74,geen_expletive,115,Grammatical,De bakker wist dat er vanochtend geen brood in de oven zat.,geen brood,
+18,Determiners,74,geen_expletive,115,Ungrammatical,De bakker wist dat vanochtend geen brood in de oven zat.,geen brood,
+18,Determiners,74,geen_expletive,116,Grammatical,Jouw tante dacht dat er gisteravond geen sleutels op het kastje lagen.,geen sleutels,
+18,Determiners,74,geen_expletive,116,Ungrammatical,Jouw tante dacht dat gisteravond geen sleutels op het kastje lagen.,geen sleutels,
+18,Determiners,74,geen_expletive,117,Grammatical,De student wist dat er gisteren geen pen in de etui zat.,geen pen,
+18,Determiners,74,geen_expletive,117,Ungrammatical,De student wist dat gisteren geen pen in de etui zat.,geen pen,
+18,Determiners,74,geen_expletive,118,Grammatical,Jouw vriendin dacht dat er vanochtend geen koffie in de thermoskan zat.,geen koffie,
+18,Determiners,74,geen_expletive,118,Ungrammatical,Jouw vriendin dacht dat vanochtend geen koffie in de thermoskan zat.,geen koffie,
+18,Determiners,74,geen_expletive,119,Grammatical,De automonteur wist dat er gisteravond geen olie in de motor zat.,geen olie,
+18,Determiners,74,geen_expletive,119,Ungrammatical,De automonteur wist dat gisteravond geen olie in de motor zat.,geen olie,
+18,Determiners,74,geen_expletive,120,Grammatical,Jouw opa dacht dat er gisteren geen medicijnen in het kastje stonden.,geen medicijnen,
+18,Determiners,74,geen_expletive,120,Ungrammatical,Jouw opa dacht dat gisteren geen medicijnen in het kastje stonden.,geen medicijnen,
+18,Determiners,74,geen_expletive,121,Grammatical,De serveerster wist dat er vanochtend geen bestelling in de keuken stond.,geen bestelling,
+18,Determiners,74,geen_expletive,121,Ungrammatical,De serveerster wist dat vanochtend geen bestelling in de keuken stond.,geen bestelling,
+18,Determiners,74,geen_expletive,122,Grammatical,Jouw nichtje dacht dat er gisteravond geen speelgoed in de doos lag.,geen speelgoed,
+18,Determiners,74,geen_expletive,122,Ungrammatical,Jouw nichtje dacht dat gisteravond geen speelgoed in de doos lag.,geen speelgoed,
+18,Determiners,74,geen_expletive,123,Grammatical,De secretaresse wist dat er gisteren geen documenten op het bureau lagen.,geen documenten,
+18,Determiners,74,geen_expletive,123,Ungrammatical,De secretaresse wist dat gisteren geen documenten op het bureau lagen.,geen documenten,
+18,Determiners,74,geen_expletive,124,Grammatical,Jouw vriend dacht dat er vanochtend geen tandenborstel in de beker stond.,geen tandenborstel,
+18,Determiners,74,geen_expletive,124,Ungrammatical,Jouw vriend dacht dat vanochtend geen tandenborstel in de beker stond.,geen tandenborstel,
+18,Determiners,74,geen_expletive,125,Grammatical,Jouw buurman dacht dat er gisteren geen krant op de deurmat lag.,geen krant,
+18,Determiners,74,geen_expletive,125,Ungrammatical,Jouw buurman dacht dat gisteren geen krant op de deurmat lag.,geen krant,
+18,Determiners,74,geen_expletive,126,Grammatical,Jouw neefje dacht dat er gisteren geen poppen in de doos lagen.,geen poppen,
+18,Determiners,74,geen_expletive,126,Ungrammatical,Jouw neefje dacht dat gisteren geen poppen in de doos lagen.,geen poppen,
+18,Determiners,74,geen_expletive,127,Grammatical,De receptionist wist dat er vanochtend geen sleutels aan de balie lagen.,geen sleutels,
+18,Determiners,74,geen_expletive,127,Ungrammatical,De receptionist wist dat vanochtend geen sleutels aan de balie lagen.,geen sleutels,
+18,Determiners,74,geen_expletive,128,Grammatical,Jouw oom dacht dat er gisteravond geen boek op het nachtkastje lag.,geen boek,
+18,Determiners,74,geen_expletive,128,Ungrammatical,Jouw oom dacht dat gisteravond geen boek op het nachtkastje lag.,geen boek,
+18,Determiners,74,geen_expletive,129,Grammatical,De verpleegster wist dat er gisteren geen medicijnen in de kast stonden.,geen medicijnen,
+18,Determiners,74,geen_expletive,129,Ungrammatical,De verpleegster wist dat gisteren geen medicijnen in de kast stonden.,geen medicijnen,
+18,Determiners,74,geen_expletive,130,Grammatical,Jouw klasgenoot dacht dat er vanochtend geen potloden in de etui zaten.,geen potloden,
+18,Determiners,74,geen_expletive,130,Ungrammatical,Jouw klasgenoot dacht dat vanochtend geen potloden in de etui zaten.,geen potloden,
+18,Determiners,74,geen_expletive,131,Grammatical,Jouw vriendin dacht dat er vanochtend geen koffie in de thermoskan zat.,geen koffie,
+18,Determiners,74,geen_expletive,131,Ungrammatical,Jouw vriendin dacht dat vanochtend geen koffie in de thermoskan zat.,geen koffie,
+18,Determiners,74,geen_expletive,132,Grammatical,De automonteur wist dat er gisteravond geen olie in de motor zat.,geen olie,
+18,Determiners,74,geen_expletive,132,Ungrammatical,De automonteur wist dat gisteravond geen olie in de motor zat.,geen olie,
+18,Determiners,74,geen_expletive,133,Grammatical,Jouw vriendin dacht dat er gisteren geen tandpasta in de badkamer stond.,geen tandpasta,
+18,Determiners,74,geen_expletive,133,Ungrammatical,Jouw vriendin dacht dat gisteren geen tandpasta in de badkamer stond.,geen tandpasta,
+18,Determiners,74,geen_expletive,134,Grammatical,Jouw vriend wist dat er gisteren geen blikje cola in de koelkast stond.,geen blikje cola,
+18,Determiners,74,geen_expletive,134,Ungrammatical,Jouw vriend wist dat gisteren geen blikje cola in de koelkast stond.,geen blikje cola,
+18,Determiners,74,geen_expletive,135,Grammatical,De serveerster dacht dat er vanochtend geen suiker in de pot zat.,geen suiker,
+18,Determiners,74,geen_expletive,135,Ungrammatical,De serveerster dacht dat vanochtend geen suiker in de pot zat.,geen suiker,
+18,Determiners,74,geen_expletive,136,Grammatical,De monteur wist dat er vanochtend geen gereedschap op de werkbank lag.,geen gereedschap,
+18,Determiners,74,geen_expletive,136,Ungrammatical,De monteur wist dat vanochtend geen gereedschap op de werkbank lag.,geen gereedschap,
+18,Determiners,74,geen_expletive,137,Grammatical,De caissière wist dat er vanochtend geen geld in de kassa lag.,geen geld,
+18,Determiners,74,geen_expletive,137,Ungrammatical,De caissière wist dat vanochtend geen geld in de kassa lag.,geen geld,
+18,Determiners,74,geen_expletive,138,Grammatical,Jouw opa dacht dat er gisteren geen krulspelden op de kaptafel lagen.,geen krulspelden,
+18,Determiners,74,geen_expletive,138,Ungrammatical,Jouw opa dacht dat gisteren geen krulspelden op de kaptafel lagen.,geen krulspelden,
+18,Determiners,74,geen_expletive,139,Grammatical,De conciërge wist dat er vanochtend geen bezem in de gang stond.,geen bezem,
+18,Determiners,74,geen_expletive,139,Ungrammatical,De conciërge wist dat vanochtend geen bezem in de gang stond.,geen bezem,
+18,Determiners,74,geen_expletive,140,Grammatical,Jouw nichtje dacht dat er gisteren geen tekening op de koelkast hing.,geen tekening,
+18,Determiners,74,geen_expletive,140,Ungrammatical,Jouw nichtje dacht dat gisteren geen tekening op de koelkast hing.,geen tekening,
+18,Determiners,74,geen_expletive,141,Grammatical,De chef-kok wist dat er vanochtend geen mes op het aanrecht lag.,geen mes,
+18,Determiners,74,geen_expletive,141,Ungrammatical,De chef-kok wist dat vanochtend geen mes op het aanrecht lag.,geen mes,
+18,Determiners,74,geen_expletive,142,Grammatical,Jouw vriendje wist dat er gisteren geen sleutel in de jaszak zat.,geen sleutel,
+18,Determiners,74,geen_expletive,142,Ungrammatical,Jouw vriendje wist dat gisteren geen sleutel in de jaszak zat.,geen sleutel,
+18,Determiners,74,geen_expletive,143,Grammatical,De secretaresse dacht dat er vanochtend geen pen op het bureau lag.,geen pen,
+18,Determiners,74,geen_expletive,143,Ungrammatical,De secretaresse dacht dat vanochtend geen pen op het bureau lag.,geen pen,
+18,Determiners,74,geen_expletive,144,Grammatical,Jouw nicht wist dat er gisteren geen wasknijpers in de mand lagen.,geen wasknijpers,
+18,Determiners,74,geen_expletive,144,Ungrammatical,Jouw nicht wist dat gisteren geen wasknijpers in de mand lagen.,geen wasknijpers,
+18,Determiners,74,geen_expletive,145,Grammatical,De barman wist dat er vanochtend geen glazen op de toog stonden.,geen glazen,
+18,Determiners,74,geen_expletive,145,Ungrammatical,De barman wist dat vanochtend geen glazen op de toog stonden.,geen glazen,
+18,Determiners,74,geen_expletive,146,Grammatical,Jouw buurvrouw dacht dat er gisteren geen plant op de vensterbank stond.,geen plant,
+18,Determiners,74,geen_expletive,146,Ungrammatical,Jouw buurvrouw dacht dat gisteren geen plant op de vensterbank stond.,geen plant,
+18,Determiners,74,geen_expletive,147,Grammatical,De tuinman wist dat er vanochtend geen schep in de schuur lag.,geen schep,
+18,Determiners,74,geen_expletive,147,Ungrammatical,De tuinman wist dat vanochtend geen schep in de schuur lag.,geen schep,
+18,Determiners,74,geen_expletive,148,Grammatical,Jouw collega dacht dat er gisteren geen map op het bureau lag.,geen map,
+18,Determiners,74,geen_expletive,148,Ungrammatical,Jouw collega dacht dat gisteren geen map op het bureau lag.,geen map,
+18,Determiners,74,geen_expletive,149,Grammatical,De bibliothecaris wist dat er vanochtend geen boeken op de plank lagen.,geen boeken,
+18,Determiners,74,geen_expletive,149,Ungrammatical,De bibliothecaris wist dat vanochtend geen boeken op de plank lagen.,geen boeken,
+18,Determiners,74,geen_expletive,150,Grammatical,De ober wist dat er vanochtend geen servetten op de tafel lagen.,geen servetten,
+18,Determiners,74,geen_expletive,150,Ungrammatical,De ober wist dat vanochtend geen servetten op de tafel lagen.,geen servetten,
+18,Determiners,74,geen_expletive,151,Grammatical,Jouw vriendin dacht dat er gisteren geen kussen op het bed lag.,geen kussen,
+18,Determiners,74,geen_expletive,151,Ungrammatical,Jouw vriendin dacht dat gisteren geen kussen op het bed lag.,geen kussen,
+18,Determiners,74,geen_expletive,152,Grammatical,De bakker wist dat er vanochtend geen brood in de mand lag.,geen brood,
+18,Determiners,74,geen_expletive,152,Ungrammatical,De bakker wist dat vanochtend geen brood in de mand lag.,geen brood,
+18,Determiners,74,geen_expletive,153,Grammatical,Jouw zusje dacht dat er gisteren geen schoenen in de gang stonden.,geen schoenen,
+18,Determiners,74,geen_expletive,153,Ungrammatical,Jouw zusje dacht dat gisteren geen schoenen in de gang stonden.,geen schoenen,
+18,Determiners,74,geen_expletive,154,Grammatical,De secretaresse wist dat er vanochtend geen telefoon op het bureau lag.,geen telefoon,
+18,Determiners,74,geen_expletive,154,Ungrammatical,De secretaresse wist dat vanochtend geen telefoon op het bureau lag.,geen telefoon,
+18,Determiners,74,geen_expletive,155,Grammatical,Jouw vriendin dacht dat er gisteren geen parfum in de badkamer stond.,geen parfum,
+18,Determiners,74,geen_expletive,155,Ungrammatical,Jouw vriendin dacht dat gisteren geen parfum in de badkamer stond.,geen parfum,
+18,Determiners,74,geen_expletive,156,Grammatical,De loodgieter wist dat er vanochtend geen gereedschap in de kelder lag.,geen gereedschap,
+18,Determiners,74,geen_expletive,156,Ungrammatical,De loodgieter wist dat vanochtend geen gereedschap in de kelder lag.,geen gereedschap,
+18,Determiners,74,geen_expletive,157,Grammatical,Jouw buurman dacht dat er gisteren geen fiets in de tuin stond.,geen fiets,
+18,Determiners,74,geen_expletive,157,Ungrammatical,Jouw buurman dacht dat gisteren geen fiets in de tuin stond.,geen fiets,
+18,Determiners,74,geen_expletive,158,Grammatical,De verpleegster wist dat er vanochtend geen thermometer op het nachtkastje lag.,geen thermometer,
+18,Determiners,74,geen_expletive,158,Ungrammatical,De verpleegster wist dat vanochtend geen thermometer op het nachtkastje lag.,geen thermometer,
+18,Determiners,74,geen_expletive,159,Grammatical,Jouw opa dacht dat er gisteren geen bril op de keukentafel lag.,geen bril,
+18,Determiners,74,geen_expletive,159,Ungrammatical,Jouw opa dacht dat gisteren geen bril op de keukentafel lag.,geen bril,
+18,Determiners,74,geen_expletive,160,Grammatical,Jouw broertje dacht dat er gisteren geen spelletjes op de plank lagen.,geen spelletjes,
+18,Determiners,74,geen_expletive,160,Ungrammatical,Jouw broertje dacht dat gisteren geen spelletjes op de plank lagen.,geen spelletjes,
+18,Determiners,74,geen_expletive,161,Grammatical,De schoonmaker dacht dat er vanochtend geen doekje op het aanrecht lag.,geen doekje,
+18,Determiners,74,geen_expletive,161,Ungrammatical,De schoonmaker dacht dat vanochtend geen doekje op het aanrecht lag.,geen doekje,
+18,Determiners,74,geen_expletive,162,Grammatical,Jouw tante wist dat er gisteren geen sjaal in de kast hing.,geen sjaal,
+18,Determiners,74,geen_expletive,162,Ungrammatical,Jouw tante wist dat gisteren geen sjaal in de kast hing.,geen sjaal,
+18,Determiners,74,geen_expletive,163,Grammatical,De automonteur wist dat er vanochtend geen gereedschap in de auto lag.,geen gereedschap,
+18,Determiners,74,geen_expletive,163,Ungrammatical,De automonteur wist dat vanochtend geen gereedschap in de auto lag.,geen gereedschap,
+18,Determiners,74,geen_expletive,164,Grammatical,Jouw nichtje dacht dat er gisteren geen puzzelstukjes op de tafel lagen.,geen puzzelstukjes,
+18,Determiners,74,geen_expletive,164,Ungrammatical,Jouw nichtje dacht dat gisteren geen puzzelstukjes op de tafel lagen.,geen puzzelstukjes,
+18,Determiners,74,geen_expletive,165,Grammatical,De barista wist dat er vanochtend geen koffie op de toonbank stond.,geen koffie,
+18,Determiners,74,geen_expletive,165,Ungrammatical,De barista wist dat vanochtend geen koffie op de toonbank stond.,geen koffie,
+18,Determiners,74,geen_expletive,166,Grammatical,De glazenwasser wist dat er vanochtend geen spons op de vensterbank lag.,geen spons,
+18,Determiners,74,geen_expletive,166,Ungrammatical,De glazenwasser wist dat vanochtend geen spons op de vensterbank lag.,geen spons,
+18,Determiners,74,geen_expletive,167,Grammatical,Jouw moeder dacht dat er gisteravond geen vuile vaat in de gootsteen stond.,geen vuile vaat,
+18,Determiners,74,geen_expletive,167,Ungrammatical,Jouw moeder dacht dat gisteravond geen vuile vaat in de gootsteen stond.,geen vuile vaat,
+18,Determiners,74,geen_expletive,168,Grammatical,De postbode wist dat er vanochtend geen brieven in de bus lagen.,geen brieven,
+18,Determiners,74,geen_expletive,168,Ungrammatical,De postbode wist dat vanochtend geen brieven in de bus lagen.,geen brieven,
+18,Determiners,74,geen_expletive,169,Grammatical,Jouw vriendin dacht dat er gisteren geen kleding in de wasmand lag.,geen kleding,
+18,Determiners,74,geen_expletive,169,Ungrammatical,Jouw vriendin dacht dat gisteren geen kleding in de wasmand lag.,geen kleding,
+18,Determiners,74,geen_expletive,170,Grammatical,De buschauffeur wist dat er vanochtend geen passagiers in de bus zaten.,geen passagiers,
+18,Determiners,74,geen_expletive,170,Ungrammatical,De buschauffeur wist dat vanochtend geen passagiers in de bus zaten.,geen passagiers,
+18,Determiners,74,geen_expletive,171,Grammatical,Jouw broer dacht dat er gisteravond geen muziek op de plank stond.,geen muziek,
+18,Determiners,74,geen_expletive,171,Ungrammatical,Jouw broer dacht dat gisteravond geen muziek op de plank stond.,geen muziek,
+18,Determiners,74,geen_expletive,172,Grammatical,De conducteur wist dat er vanochtend geen kaartje in de trein lag.,geen kaartje,
+18,Determiners,74,geen_expletive,172,Ungrammatical,De conducteur wist dat vanochtend geen kaartje in de trein lag.,geen kaartje,
+18,Determiners,74,geen_expletive,173,Grammatical,Jouw tante dacht dat er gisteren geen paraplu in de gang stond.,geen paraplu,
+18,Determiners,74,geen_expletive,173,Ungrammatical,Jouw tante dacht dat gisteren geen paraplu in de gang stond.,geen paraplu,
+18,Determiners,74,geen_expletive,174,Grammatical,De timmerman wist dat er vanochtend geen hamer in de werkplaats lag.,geen hamer,
+18,Determiners,74,geen_expletive,174,Ungrammatical,De timmerman wist dat vanochtend geen hamer in de werkplaats lag.,geen hamer,
+18,Determiners,74,geen_expletive,175,Grammatical,De schilder wist dat er vanochtend geen verf op het palet lag.,geen verf,
+18,Determiners,74,geen_expletive,175,Ungrammatical,De schilder wist dat vanochtend geen verf op het palet lag.,geen verf,
+18,Determiners,74,geen_expletive,176,Grammatical,Jouw vriend dacht dat er gisteren geen geld in zijn portemonnee zat.,geen geld,
+18,Determiners,74,geen_expletive,176,Ungrammatical,Jouw vriend dacht dat gisteren geen geld in zijn portemonnee zat.,geen geld,
+18,Determiners,74,geen_expletive,177,Grammatical,De taxichauffeur wist dat er vanochtend geen passagier in de auto zat.,geen passagier,
+18,Determiners,74,geen_expletive,177,Ungrammatical,De taxichauffeur wist dat vanochtend geen passagier in de auto zat.,geen passagier,
+18,Determiners,74,geen_expletive,178,Grammatical,Jouw vriendje dacht dat er gisteren geen briefje in zijn lunchbox zat.,geen briefje,
+18,Determiners,74,geen_expletive,178,Ungrammatical,Jouw vriendje dacht dat gisteren geen briefje in zijn lunchbox zat.,geen briefje,
+18,Determiners,74,geen_expletive,179,Grammatical,Jouw zusje dacht dat er gisteravond geen knuffel in haar bed lag.,geen knuffel,
+18,Determiners,74,geen_expletive,179,Ungrammatical,Jouw zusje dacht dat gisteravond geen knuffel in haar bed lag.,geen knuffel,
+18,Determiners,74,geen_expletive,180,Grammatical,De architect wist dat er vanochtend geen tekening op de tekentafel lag.,geen tekening,
+18,Determiners,74,geen_expletive,180,Ungrammatical,De architect wist dat vanochtend geen tekening op de tekentafel lag.,geen tekening,
+18,Determiners,74,geen_expletive,181,Grammatical,Jouw oom dacht dat er gisteravond geen gereedschap in de werkplaats lag.,geen gereedschap,
+18,Determiners,74,geen_expletive,181,Ungrammatical,Jouw oom dacht dat gisteravond geen gereedschap in de werkplaats lag.,geen gereedschap,
+18,Determiners,74,geen_expletive,182,Grammatical,De fotograaf wist dat er vanochtend geen camera in de studio lag.,geen camera,
+18,Determiners,74,geen_expletive,182,Ungrammatical,De fotograaf wist dat vanochtend geen camera in de studio lag.,geen camera,
+18,Determiners,74,geen_expletive,183,Grammatical,De piloot wist dat er vanochtend geen checklist in de cockpit lag.,geen checklist,
+18,Determiners,74,geen_expletive,183,Ungrammatical,De piloot wist dat vanochtend geen checklist in de cockpit lag.,geen checklist,
+18,Determiners,74,geen_expletive,184,Grammatical,De journalist wist dat er vanochtend geen pen op de redactietafel lag.,geen pen,
+18,Determiners,74,geen_expletive,184,Ungrammatical,De journalist wist dat vanochtend geen pen op de redactietafel lag.,geen pen,
+18,Determiners,74,geen_expletive,185,Grammatical,De modeontwerper wist dat er vanochtend geen stof op de snijtafel lag.,geen stof,
+18,Determiners,74,geen_expletive,185,Ungrammatical,De modeontwerper wist dat vanochtend geen stof op de snijtafel lag.,geen stof,
+18,Determiners,74,geen_expletive,186,Grammatical,Jouw broer dacht dat er gisteravond geen gitaar in de muziekkamer lag.,geen gitaar,
+18,Determiners,74,geen_expletive,186,Ungrammatical,Jouw broer dacht dat gisteravond geen gitaar in de muziekkamer lag.,geen gitaar,
+18,Determiners,74,geen_expletive,187,Grammatical,De advocaat wist dat er vanochtend geen dossier op het bureau lag.,geen dossier,
+18,Determiners,74,geen_expletive,187,Ungrammatical,De advocaat wist dat vanochtend geen dossier op het bureau lag.,geen dossier,
+18,Determiners,74,geen_expletive,188,Grammatical,Jouw zus dacht dat er gisteren geen penseel in het atelier lag.,geen penseel,
+18,Determiners,74,geen_expletive,188,Ungrammatical,Jouw zus dacht dat gisteren geen penseel in het atelier lag.,geen penseel,
+18,Determiners,74,geen_expletive,189,Grammatical,De chef de cuisine wist dat er vanochtend geen kruiden in de voorraadkast lagen.,geen kruiden,
+18,Determiners,74,geen_expletive,189,Ungrammatical,De chef de cuisine wist dat vanochtend geen kruiden in de voorraadkast lagen.,geen kruiden,
+18,Determiners,74,geen_expletive,190,Grammatical,Jouw collega dacht dat er gisteravond geen computer in het kantoor stond.,geen computer,
+18,Determiners,74,geen_expletive,190,Ungrammatical,Jouw collega dacht dat gisteravond geen computer in het kantoor stond.,geen computer,
+18,Determiners,74,geen_expletive,191,Grammatical,De bioloog wist dat er vanochtend geen preparaat op de microscoop lag.,geen preparaat,
+18,Determiners,74,geen_expletive,191,Ungrammatical,De bioloog wist dat vanochtend geen preparaat op de microscoop lag.,geen preparaat,
+18,Determiners,74,geen_expletive,192,Grammatical,De brandweerman wist dat er vanochtend geen slang in de brandweerauto lag.,geen slang,
+18,Determiners,74,geen_expletive,192,Ungrammatical,De brandweerman wist dat vanochtend geen slang in de brandweerauto lag.,geen slang,
+18,Determiners,74,geen_expletive,193,Grammatical,Jouw vriendje dacht dat er gisteren geen schroevendraaier in de gereedschapskist lag.,geen schroevendraaier,
+18,Determiners,74,geen_expletive,193,Ungrammatical,Jouw vriendje dacht dat gisteren geen schroevendraaier in de gereedschapskist lag.,geen schroevendraaier,
+18,Determiners,74,geen_expletive,194,Grammatical,De monteur wist dat er vanochtend geen moersleutel in de gereedschapskist lag.,geen moersleutel,
+18,Determiners,74,geen_expletive,194,Ungrammatical,De monteur wist dat vanochtend geen moersleutel in de gereedschapskist lag.,geen moersleutel,
+18,Determiners,74,geen_expletive,195,Grammatical,De muzikant wist dat er vanochtend geen viool in de koffer lag.,geen viool,
+18,Determiners,74,geen_expletive,195,Ungrammatical,De muzikant wist dat vanochtend geen viool in de koffer lag.,geen viool,
+18,Determiners,74,geen_expletive,196,Grammatical,De professor wist dat er vanochtend geen paper op het bureau lag.,geen paper,
+18,Determiners,74,geen_expletive,196,Ungrammatical,De professor wist dat vanochtend geen paper op het bureau lag.,geen paper,
+18,Determiners,74,geen_expletive,197,Grammatical,Jouw vriendin dacht dat er gisteren geen microfoon in de studio stond.,geen microfoon,
+18,Determiners,74,geen_expletive,197,Ungrammatical,Jouw vriendin dacht dat gisteren geen microfoon in de studio stond.,geen microfoon,
+18,Determiners,74,geen_expletive,198,Grammatical,De tuinman wist dat er vanochtend geen hark in de schuur lag.,geen hark,
+18,Determiners,74,geen_expletive,198,Ungrammatical,De tuinman wist dat vanochtend geen hark in de schuur lag.,geen hark,
+18,Determiners,74,geen_expletive,199,Grammatical,De apotheker wist dat er vanochtend geen medicijn op de plank lag.,geen medicijn,
+18,Determiners,74,geen_expletive,199,Ungrammatical,De apotheker wist dat vanochtend geen medicijn op de plank lag.,geen medicijn,
+18,Determiners,74,geen_expletive,200,Grammatical,De ingenieur wist dat er vanochtend geen blauwdruk op de tekentafel lag.,geen blauwdruk,
+18,Determiners,74,geen_expletive,200,Ungrammatical,De ingenieur wist dat vanochtend geen blauwdruk op de tekentafel lag.,geen blauwdruk,
+18,Determiners,75,geen_scrambling_1,201,Grammatical,Er stond gisteren geen melk in de koelkast.,gisteren geen melk,
+18,Determiners,75,geen_scrambling_1,201,Ungrammatical,Er stond geen melk gisteren in de koelkast.,geen melk gisteren,
+18,Determiners,75,geen_scrambling_1,202,Grammatical,Er hing gisteravond geen jas aan de kapstok.,gisteravond geen jas,
+18,Determiners,75,geen_scrambling_1,202,Ungrammatical,Er hing geen jas gisteravond aan de kapstok.,geen jas gisteravond,
+18,Determiners,75,geen_scrambling_1,203,Grammatical,Er zat vanochtend geen benzine in de auto.,vanochtend geen benzine,
+18,Determiners,75,geen_scrambling_1,203,Ungrammatical,Er zat geen benzine vanochtend in de auto.,geen benzine vanochtend,
+18,Determiners,75,geen_scrambling_1,204,Grammatical,Er lag vanochtend geen post op de deurmat.,vanochtend geen post,
+18,Determiners,75,geen_scrambling_1,204,Ungrammatical,Er lag geen post vanochtend op de deurmat.,geen post vanochtend,
+18,Determiners,75,geen_scrambling_1,205,Grammatical,Er was gisteren geen water in het zwembad.,gisteren geen water,
+18,Determiners,75,geen_scrambling_1,205,Ungrammatical,Er was geen water gisteren in het zwembad.,geen water gisteren,
+18,Determiners,75,geen_scrambling_1,206,Grammatical,Er zat gisteravond geen batterij in de afstandsbediening.,gisteravond geen batterij,
+18,Determiners,75,geen_scrambling_1,206,Ungrammatical,Er zat geen batterij gisteravond in de afstandsbediening.,geen batterij gisteravond,
+18,Determiners,75,geen_scrambling_1,207,Grammatical,Er stond gisteren geen bloem in de vaas.,gisteren geen bloem,
+18,Determiners,75,geen_scrambling_1,207,Ungrammatical,Er stond geen bloem gisteren in de vaas.,geen bloem gisteren,
+18,Determiners,75,geen_scrambling_1,208,Grammatical,Er hing vanochtend geen briefje aan de koelkast.,vanochtend geen briefje,
+18,Determiners,75,geen_scrambling_1,208,Ungrammatical,Er hing geen briefje vanochtend aan de koelkast.,geen briefje vanochtend,
+18,Determiners,75,geen_scrambling_1,209,Grammatical,Er lag gisteren geen boek op het bureau.,gisteren geen boek,
+18,Determiners,75,geen_scrambling_1,209,Ungrammatical,Er lag geen boek gisteren op het bureau.,geen boek gisteren,
+18,Determiners,75,geen_scrambling_1,210,Grammatical,Er was gisteravond geen shampoo in de douche.,gisteravond geen shampoo,
+18,Determiners,75,geen_scrambling_1,210,Ungrammatical,Er was geen shampoo gisteravond in de douche.,geen shampoo gisteravond,
+18,Determiners,75,geen_scrambling_1,211,Grammatical,Ik heb morgen geen college in de binnenstad.,morgen geen college,
+18,Determiners,75,geen_scrambling_1,211,Ungrammatical,Ik heb geen college morgen in de binnenstad. ,geen college morgen,
+18,Determiners,75,geen_scrambling_1,212,Grammatical,Zij heeft zometeen geen geld in haar portemonnee.,zometeen geen geld,
+18,Determiners,75,geen_scrambling_1,212,Ungrammatical,Zij heeft geen geld zometeen in haar portemonnee.,geen geld zometeen,
+18,Determiners,75,geen_scrambling_1,213,Grammatical,Er is vanochtend geen koffie in de keuken op mijn werk.,vanochtend geen koffie,
+18,Determiners,75,geen_scrambling_1,213,Ungrammatical,Er is geen koffie vanochtend in de keuken op mijn werk.,geen koffie vanochtend,
+18,Determiners,75,geen_scrambling_1,214,Grammatical,Er is vanavond geen uitzending op die zender.,vanavond geen uitzending,
+18,Determiners,75,geen_scrambling_1,214,Ungrammatical,Er is geen uitzending vanavond op die zender.,geen uitzending vanavond,
+18,Determiners,75,geen_scrambling_1,215,Grammatical,Er stond vanochtend geen vuilnis voor uw deur.,vanochtend geen vuilnis,
+18,Determiners,75,geen_scrambling_1,215,Ungrammatical,Er stond geen vuilnis vanochtend voor uw deur.,geen vuilnis vanochtend,
+18,Determiners,75,geen_scrambling_1,216,Grammatical,Er is binnenkort geen concert van The Who.,binnenkort geen concert,
+18,Determiners,75,geen_scrambling_1,216,Ungrammatical,Er is geen concert binnenkort van The Who.,geen concert binnenkort,
+18,Determiners,75,geen_scrambling_1,217,Grammatical,Zij had gisteren geen zin in de avondwandeling.,gisteren geen zin,
+18,Determiners,75,geen_scrambling_1,217,Ungrammatical,Zij had geen zin gisteren in de avondwandeling.,geen zin gisteren,
+18,Determiners,75,geen_scrambling_1,218,Grammatical,Het is morgen geen weer om te schaatsen.,morgen geen weer,
+18,Determiners,75,geen_scrambling_1,218,Ungrammatical,Het is geen weer morgen om te schaatsen.,geen weer morgen,
+18,Determiners,75,geen_scrambling_1,219,Grammatical,Er was dinsdag geen file op de snelweg.,dinsdag geen file,
+18,Determiners,75,geen_scrambling_1,219,Ungrammatical,Er was geen file dinsdag op de snelweg.,geen file dinsdag,
+18,Determiners,75,geen_scrambling_1,220,Grammatical,Het is zaterdag geen dag om te klussen.,zaterdag geen dag,
+18,Determiners,75,geen_scrambling_1,220,Ungrammatical,Het is geen dag zaterdag om te klussen.,geen dag zaterdag,
+18,Determiners,75,geen_scrambling_1,221,Grammatical,Paulien heeft vandaag geen zorgen over haar werk.,vandaag geen zorgen,
+18,Determiners,75,geen_scrambling_1,221,Ungrammatical,Paulien heeft geen zorgen vandaag over haar werk.,geen zorgen vandaag,
+18,Determiners,75,geen_scrambling_1,222,Grammatical,Er staat morgen geen verjaardag in mijn agenda.,morgen geen verjaardag,
+18,Determiners,75,geen_scrambling_1,222,Ungrammatical,Er staat geen verjaardag morgen in mijn agenda.,geen verjaardag morgen,
+18,Determiners,75,geen_scrambling_1,223,Grammatical,Er is vandaag geen afspraak met de dokter.,vandaag geen afspraak,
+18,Determiners,75,geen_scrambling_1,223,Ungrammatical,Er is geen afspraak vandaag met de dokter.,geen afspraak vandaag,
+18,Determiners,75,geen_scrambling_1,224,Grammatical,Eric heeft morgen geen tijd voor een telefoongesprek.,morgen geen tijd,
+18,Determiners,75,geen_scrambling_1,224,Ungrammatical,Eric heeft geen tijd morgen voor een telefoongesprek.,geen tijd morgen,
+18,Determiners,75,geen_scrambling_1,225,Grammatical,Hij draagt vandaag geen das bij zijn pak.,vandaag geen das,
+18,Determiners,75,geen_scrambling_1,225,Ungrammatical,Hij draagt geen das vandaag bij zijn pak.,geen das vandaag,
+18,Determiners,75,geen_scrambling_1,226,Grammatical,Er staat morgen geen lunch op het menu.,morgen geen lunch,
+18,Determiners,75,geen_scrambling_1,226,Ungrammatical,Er staat geen lunch morgen op het menu.,geen lunch morgen,
+18,Determiners,75,geen_scrambling_1,227,Grammatical,Er is donderdag geen les in dit klaslokaal.,donderdag geen les,
+18,Determiners,75,geen_scrambling_1,227,Ungrammatical,Er is geen les donderdag in dit klaslokaal.,geen les donderdag,
+18,Determiners,75,geen_scrambling_1,228,Grammatical,Er is vanmiddag geen tijd voor een afspraak.,vanmiddag geen tijd,
+18,Determiners,75,geen_scrambling_1,228,Ungrammatical,Er is geen tijd vanmiddag voor een afspraak.,geen tijd vanmiddag,
+18,Determiners,75,geen_scrambling_1,229,Grammatical,Ze draagt vandaag geen ketting bij haar jurk.,vandaag geen ketting,
+18,Determiners,75,geen_scrambling_1,229,Ungrammatical,Ze draagt geen ketting vandaag bij haar jurk.,geen ketting vandaag,
+18,Determiners,75,geen_scrambling_1,230,Grammatical,Er was dinsdag geen plan om te winkelen.,dinsdag geen plan,
+18,Determiners,75,geen_scrambling_1,230,Ungrammatical,Er was geen plan dinsdag om te winkelen.,geen plan dinsdag,
+18,Determiners,75,geen_scrambling_1,231,Grammatical,Ik heb vanochtend geen trek in ontbijt.,vanochtend geen trek,
+18,Determiners,75,geen_scrambling_1,231,Ungrammatical,Ik heb geen trek vanochtend in ontbijt.,geen trek vanochtend,
+18,Determiners,75,geen_scrambling_1,232,Grammatical,De student had gisteren geen stress over haar examen.,gisteren geen stress,
+18,Determiners,75,geen_scrambling_1,232,Ungrammatical,De student had geen stress gisteren over haar examen.,geen stress gisteren,
+18,Determiners,75,geen_scrambling_1,233,Grammatical,We hebben vanmiddag geen taart voor Jos over.,vanmiddag geen taart,
+18,Determiners,75,geen_scrambling_1,233,Ungrammatical,We hebben geen taart vanmiddag voor Jos over.,geen taart vanmiddag,
+18,Determiners,75,geen_scrambling_1,234,Grammatical,Brian draagt vandaag geen sjaal bij zijn jas.,vandaag geen sjaal,
+18,Determiners,75,geen_scrambling_1,234,Ungrammatical,Brian draagt geen sjaal vandaag bij zijn jas.,geen sjaal vandaag,
+18,Determiners,75,geen_scrambling_1,235,Grammatical,Er staat woensdag geen meeting in de agenda.,woensdag geen meeting,
+18,Determiners,75,geen_scrambling_1,235,Ungrammatical,Er staat geen meeting woensdag in de agenda.,geen meeting woensdag,
+18,Determiners,75,geen_scrambling_1,236,Grammatical,Sinterklaas geeft morgen geen snoep aan stoute kinderen.,morgen geen snoep,
+18,Determiners,75,geen_scrambling_1,236,Ungrammatical,Sinterklaas geeft geen snoep morgen aan stoute kinderen.,geen snoep morgen,
+18,Determiners,75,geen_scrambling_1,237,Grammatical,Ze hebben vandaag geen plan voor hun uitje in de stad.,vandaag geen plan,
+18,Determiners,75,geen_scrambling_1,237,Ungrammatical,Ze hebben geen plan vandaag voor hun uitje in de stad.,geen plan vandaag,
+18,Determiners,75,geen_scrambling_1,238,Grammatical,Er is vanmiddag geen koffiepauze op onze afdeling.,vanmiddag geen koffiepauze,
+18,Determiners,75,geen_scrambling_1,238,Ungrammatical,Er is geen koffiepauze vanmiddag op onze afdeling.,geen koffiepauze vanmiddag,
+18,Determiners,75,geen_scrambling_1,239,Grammatical,Zij heeft vanavond geen tijd voor een museumbezoek.,vanavond geen tijd,
+18,Determiners,75,geen_scrambling_1,239,Ungrammatical,Zij heeft geen tijd vanavond voor een museumbezoek.,geen tijd vanavond,
+18,Determiners,75,geen_scrambling_1,240,Grammatical,Er is vandaag geen brood in de keuken.,vandaag geen brood,
+18,Determiners,75,geen_scrambling_1,240,Ungrammatical,Er is geen brood vandaag in de keuken.,geen brood vandaag,
+18,Determiners,75,geen_scrambling_1,241,Grammatical,Er stond gisteren geen wind in het bos.,gisteren geen wind,
+18,Determiners,75,geen_scrambling_1,241,Ungrammatical,Er stond geen wind gisteren in het bos.,geen wind gisteren,
+18,Determiners,75,geen_scrambling_1,242,Grammatical,Er is vanochtend geen nieuwsbrief in mijn mailbox.,vanochtend geen nieuwsbrief,
+18,Determiners,75,geen_scrambling_1,242,Ungrammatical,Er is geen nieuwsbrief vanochtend in mijn mailbox.,geen nieuwsbrief vanochtend,
+18,Determiners,75,geen_scrambling_1,243,Grammatical,Er staat morgen geen afspraak in Rosalie's agenda.,morgen geen afspraak,
+18,Determiners,75,geen_scrambling_1,243,Ungrammatical,Er staat geen afspraak morgen in Rosalie's agenda.,geen afspraak morgen,
+18,Determiners,75,geen_scrambling_1,244,Grammatical,Er was gisteren geen tandpasta in de badkamerkast van het hotel.,gisteren geen tandpasta,
+18,Determiners,75,geen_scrambling_1,244,Ungrammatical,Er was geen tandpasta gisteren in de badkamerkast van het hotel.,geen tandpasta gisteren,
+18,Determiners,75,geen_scrambling_1,245,Grammatical,Er hing vanmiddag geen hoed aan de kapstok.,vanmiddag geen hoed,
+18,Determiners,75,geen_scrambling_1,245,Ungrammatical,Er hing geen hoed vanmiddag aan de kapstok.,geen hoed vanmiddag,
+18,Determiners,75,geen_scrambling_1,246,Grammatical,Er ligt vandaag geen post op het bureau.,vandaag geen post,
+18,Determiners,75,geen_scrambling_1,246,Ungrammatical,Er ligt geen post vandaag op het bureau.,geen post vandaag,
+18,Determiners,75,geen_scrambling_1,247,Grammatical,Sara eet vanochtend geen pindakaas op haar brood.,vanochtend geen pindakaas,
+18,Determiners,75,geen_scrambling_1,247,Ungrammatical,Sara eet geen pindakaas vanochtend op haar brood.,geen pindakaas vanochtend,
+18,Determiners,75,geen_scrambling_1,248,Grammatical,Er ligt vanmiddag geen speelgoed in de speelkamer.,vanmiddag geen speelgoed,
+18,Determiners,75,geen_scrambling_1,248,Ungrammatical,Er ligt geen speelgoed vanmiddag in de speelkamer.,geen speelgoed vanmiddag,
+18,Determiners,75,geen_scrambling_1,249,Grammatical,Ze verkopen vanavond geen alcohol in deze supermarkt.,vanavond geen alcohol,
+18,Determiners,75,geen_scrambling_1,249,Ungrammatical,Ze verkopen geen alcohol vanavond in deze supermarkt.,geen alcohol vanavond,
+18,Determiners,75,geen_scrambling_1,250,Grammatical,Ik dronk gisterochtend geen koffie met mijn ontbijt.,gisterochtend geen koffie,
+18,Determiners,75,geen_scrambling_1,250,Ungrammatical,Ik dronk geen koffie gisterochtend met mijn ontbijt.,geen koffie gisterochtend,
+18,Determiners,75,geen_scrambling_1,251,Grammatical,Er slingert vandaag geen sjaal op de vensterbank.,vandaag geen sjaal,
+18,Determiners,75,geen_scrambling_1,251,Ungrammatical,Er slingert geen sjaal vandaag op de vensterbank.,geen sjaal vandaag,
+18,Determiners,75,geen_scrambling_1,252,Grammatical,De muzikant had gisteravond geen inspiratie voor een nieuw lied.,gisteravond geen inspiratie,
+18,Determiners,75,geen_scrambling_1,252,Ungrammatical,De muzikant had geen inspiratie gisteravond voor een nieuw lied.,geen inspiratie gisteravond,
+18,Determiners,75,geen_scrambling_1,253,Grammatical,De leraar had dinsdag geen huiswerk voor de studenten.,dinsdag geen huiswerk,
+18,Determiners,75,geen_scrambling_1,253,Ungrammatical,De leraar had geen huiswerk dinsdag voor de studenten.,geen huiswerk dinsdag,
+18,Determiners,75,geen_scrambling_1,254,Grammatical,De reiziger vond eergisteren geen bagage op het vliegveld.,eergisteren geen bagage,
+18,Determiners,75,geen_scrambling_1,254,Ungrammatical,De reiziger vond geen bagage eergisteren op het vliegveld.,geen bagage eergisteren,
+18,Determiners,75,geen_scrambling_1,255,Grammatical,Het weerbericht voorspelt morgenavond geen regenval in dit gebied.,morgenavond geen regenval,
+18,Determiners,75,geen_scrambling_1,255,Ungrammatical,Het weerbericht voorspelt geen regenval morgenavond in dit gebied.,geen regenval morgenavond,
+18,Determiners,75,geen_scrambling_1,256,Grammatical,Er was vanochtend geen verkeersopstopping op de snelweg.,vanochtend geen verkeersopstopping,
+18,Determiners,75,geen_scrambling_1,256,Ungrammatical,Er was geen verkeersopstopping vanochtend op de snelweg.,geen verkeersopstopping vanochtend,
+18,Determiners,75,geen_scrambling_1,257,Grammatical,Lotte heeft morgen geen afspraak met de tandarts.,morgen geen afspraak,
+18,Determiners,75,geen_scrambling_1,257,Ungrammatical,Lotte heeft geen afspraak morgen met de tandarts.,geen afspraak morgen,
+18,Determiners,75,geen_scrambling_1,258,Grammatical,Er is dinsdag geen wedstrijd op tv.,dinsdag geen wedstrijd,
+18,Determiners,75,geen_scrambling_1,258,Ungrammatical,Er is geen wedstrijd dinsdag op tv.,geen wedstrijd dinsdag,
+18,Determiners,75,geen_scrambling_1,259,Grammatical,Er is overmorgen geen yogales in de sportschool.,overmorgen geen yogales,
+18,Determiners,75,geen_scrambling_1,259,Ungrammatical,Er is geen yogales overmorgen in de sportschool.,geen yogales overmorgen,
+18,Determiners,75,geen_scrambling_1,260,Grammatical,Er rijdt vandaag geen tram naar mijn werk.,vandaag geen tram,
+18,Determiners,75,geen_scrambling_1,260,Ungrammatical,Er rijdt geen tram vandaag naar mijn werk.,geen tram vandaag,
+18,Determiners,75,geen_scrambling_1,261,Grammatical,Lotte had vandaag geen zin om naar de bioscoop te gaan.,vandaag geen zin,
+18,Determiners,75,geen_scrambling_1,261,Ungrammatical,Lotte had geen zin vandaag om naar de bioscoop te gaan.,geen zin vandaag,
+18,Determiners,75,geen_scrambling_1,262,Grammatical,Wij zijn gisteren geen hyena's tegengekomen in de dierentuin.,gisteren geen hyena's,
+18,Determiners,75,geen_scrambling_1,262,Ungrammatical,Wij zijn geen hyena's gisteren tegengekomen in de dierentuin.,geen hyena's gisteren,
+18,Determiners,75,geen_scrambling_1,263,Grammatical,Er zijn donderdags geen vergaderingen in deze ruimte.,donderdags geen vergaderingen,
+18,Determiners,75,geen_scrambling_1,263,Ungrammatical,Er zijn geen vergaderingen donderdags in deze ruimte.,geen vergaderingen donderdags,
+18,Determiners,75,geen_scrambling_1,264,Grammatical,Er spelen zometeen geen kinderen op straat. ,zometeen geen kinderen,
+18,Determiners,75,geen_scrambling_1,264,Ungrammatical,Er spelen geen kinderen zometeen op straat.,geen kinderen zometeen,
+18,Determiners,75,geen_scrambling_1,265,Grammatical,Er gingen eergisteren geen treinen naar Eindhoven.,eergisteren geen treinen,
+18,Determiners,75,geen_scrambling_1,265,Ungrammatical,Er gingen geen treinen eergisteren naar Eindhoven.,geen treinen eergisteren,
+18,Determiners,75,geen_scrambling_1,266,Grammatical,Er rijden morgen geen bussen naar het oosten van Utrecht.,morgen geen bussen,
+18,Determiners,75,geen_scrambling_1,266,Ungrammatical,Er rijden geen bussen morgen naar het oosten van Utrecht.,geen bussen morgen,
+18,Determiners,75,geen_scrambling_1,267,Grammatical,Er staan maandag geen afspraken in mijn agenda.,maandag geen afspraken,
+18,Determiners,75,geen_scrambling_1,267,Ungrammatical,Er staan geen afspraken maandag in mijn agenda.,geen afspraken maandag,
+18,Determiners,75,geen_scrambling_1,268,Grammatical,Er staan straks geen auto's in de parkeergarage.,straks geen auto's,
+18,Determiners,75,geen_scrambling_1,268,Ungrammatical,Er staan geen auto's straks in de parkeergarage.,geen auto's straks,
+18,Determiners,75,geen_scrambling_1,269,Grammatical,Wij hebben vanavond geen plannen voor het avondeten.,vanavond geen plannen,
+18,Determiners,75,geen_scrambling_1,269,Ungrammatical,Wij hebben geen plannen vanavond voor het avondeten.,geen plannen vanavond,
+18,Determiners,75,geen_scrambling_1,270,Grammatical,Er zijn vanochtend geen activiteiten in het park.,vanochtend geen activiteiten,
+18,Determiners,75,geen_scrambling_1,270,Ungrammatical,Er zijn geen activiteiten vanochtend in het park.,geen activiteiten vanochtend,
+18,Determiners,75,geen_scrambling_1,271,Grammatical,Er waren gisteren geen problemen met de internetverbinding.,gisteren geen problemen,
+18,Determiners,75,geen_scrambling_1,271,Ungrammatical,Er waren geen problemen gisteren met de internetverbinding.,geen problemen gisteren,
+18,Determiners,75,geen_scrambling_1,272,Grammatical,We hebben donderdag geen plannen na ons uitje naar de Efteling.,donderdag geen plannen,
+18,Determiners,75,geen_scrambling_1,272,Ungrammatical,We hebben geen plannen donderdag na ons uitje naar de Efteling.,geen plannen donderdag,
+18,Determiners,75,geen_scrambling_1,273,Grammatical,Er zijn vanavond geen films in de bibliotheek.,vanavond geen films,
+18,Determiners,75,geen_scrambling_1,273,Ungrammatical,Er zijn geen films vanavond in de bibliotheek.,geen films vanavond,
+18,Determiners,75,geen_scrambling_1,274,Grammatical,Hij heeft vandaag geen zorgen over zijn presentatie.,vandaag geen zorgen,
+18,Determiners,75,geen_scrambling_1,274,Ungrammatical,Hij heeft geen zorgen vandaag over zijn presentatie.,geen zorgen vandaag,
+18,Determiners,75,geen_scrambling_1,275,Grammatical,Ik draag vandaag geen oorbellen bij mijn blauwe jurk.,vandaag geen oorbellen,
+18,Determiners,75,geen_scrambling_1,275,Ungrammatical,Ik draag geen oorbellen vandaag bij mijn blauwe jurk.,geen oorbellen vandaag,
+18,Determiners,75,geen_scrambling_1,276,Grammatical,Er waren vanmiddag geen sandwiches in de kantine.,vanmiddag geen sandwiches,
+18,Determiners,75,geen_scrambling_1,276,Ungrammatical,Er waren geen sandwiches vanmiddag in de kantine.,geen sandwiches vanmiddag,
+18,Determiners,75,geen_scrambling_1,277,Grammatical,Er waren vanavond geen afleveringen op televisie.,vanavond geen afleveringen,
+18,Determiners,75,geen_scrambling_1,277,Ungrammatical,Er waren geen afleveringen vanavond op televisie.,geen afleveringen vanavond,
+18,Determiners,75,geen_scrambling_1,278,Grammatical,Er waren zonet geen wegwerpbekers in het restaurant.,zonet geen wegwerpbekers,
+18,Determiners,75,geen_scrambling_1,278,Ungrammatical,Er waren geen wegwerpbekers zonet in het restaurant.,geen wegwerpbekers zonet,
+18,Determiners,75,geen_scrambling_1,279,Grammatical,Er waren vroeger geen boeken over dat onderwerp.,vroeger geen boeken,
+18,Determiners,75,geen_scrambling_1,279,Ungrammatical,Er waren geen boeken vroeger over dat onderwerp.,geen boeken vroeger,
+18,Determiners,75,geen_scrambling_1,280,Grammatical,Er waren vandaag geen problemen tijdens de presentatie.,vandaag geen problemen,
+18,Determiners,75,geen_scrambling_1,280,Ungrammatical,Er waren geen problemen vandaag tijdens de presentatie.,geen problemen vandaag,
+18,Determiners,75,geen_scrambling_1,281,Grammatical,Er zijn vanavond geen kaartjes bij de kassa.,vanavond geen kaartjes,
+18,Determiners,75,geen_scrambling_1,281,Ungrammatical,Er zijn geen kaartjes vanavond bij de kassa.,geen kaartjes vanavond,
+18,Determiners,75,geen_scrambling_1,282,Grammatical,Er zwommen vandaag geen eenden in de vijver achter ons huis.,vandaag geen eenden,
+18,Determiners,75,geen_scrambling_1,282,Ungrammatical,Er zwommen geen eenden vandaag in de vijver achter ons huis.,geen eenden vandaag,
+18,Determiners,75,geen_scrambling_1,283,Grammatical,Er waren vanochtend geen wolken aan de hemel.,vanochtend geen wolken,
+18,Determiners,75,geen_scrambling_1,283,Ungrammatical,Er waren geen wolken vanochtend aan de hemel.,geen wolken vanochtend,
+18,Determiners,75,geen_scrambling_1,284,Grammatical,Er zijn overmorgen geen regenbuien in het noorden.,overmorgen geen regenbuien,
+18,Determiners,75,geen_scrambling_1,284,Ungrammatical,Er zijn geen regenbuien overmorgen in het noorden.,geen regenbuien overmorgen,
+18,Determiners,75,geen_scrambling_1,285,Grammatical,Er zijn vanavond geen snacks in de voorraadkast.,vanavond geen snacks,
+18,Determiners,75,geen_scrambling_1,285,Ungrammatical,Er zijn geen snacks vanavond in de voorraadkast.,geen snacks vanavond,
+18,Determiners,75,geen_scrambling_1,286,Grammatical,Er staan vandaag geen bloemen op deze tafel.,vandaag geen bloemen,
+18,Determiners,75,geen_scrambling_1,286,Ungrammatical,Er staan geen bloemen vandaag op deze tafel.,geen bloemen vandaag,
+18,Determiners,75,geen_scrambling_1,287,Grammatical,Er staan vanavond geen glazen in de vaatwasser.,vanavond geen glazen,
+18,Determiners,75,geen_scrambling_1,287,Ungrammatical,Er staan geen glazen vanavond in de vaatwasser.,geen glazen vanavond,
+18,Determiners,75,geen_scrambling_1,288,Grammatical,Er lagen vanochtend geen sleutels op het dressoir.,vanochtend geen sleutels,
+18,Determiners,75,geen_scrambling_1,288,Ungrammatical,Er lagen geen sleutels vanochtend op het dressoir.,geen sleutels vanochtend,
+18,Determiners,75,geen_scrambling_1,289,Grammatical,De serie bevat vandaag geen onthullingen over het plot.,vandaag geen onthullingen,
+18,Determiners,75,geen_scrambling_1,289,Ungrammatical,De serie bevat geen onthullingen vandaag over het plot.,geen onthullingen vandaag,
+18,Determiners,75,geen_scrambling_1,290,Grammatical,De chef heeft vanochtend geen kruiden in de keuken.,vanochtend geen kruiden,
+18,Determiners,75,geen_scrambling_1,290,Ungrammatical,De chef heeft geen kruiden vanochtend in de keuken.,geen kruiden vanochtend,
+18,Determiners,75,geen_scrambling_1,291,Grammatical,De dokter heeft vandaag geen spoedgevallen in de wachtkamer.,vandaag geen spoedgevallen,
+18,Determiners,75,geen_scrambling_1,291,Ungrammatical,De dokter heeft geen spoedgevallen vandaag in de wachtkamer.,geen spoedgevallen vandaag,
+18,Determiners,75,geen_scrambling_1,292,Grammatical,Het theater heeft overmorgen geen voorstellingen op het programma.,overmorgen geen voorstellingen,
+18,Determiners,75,geen_scrambling_1,292,Ungrammatical,Het theater heeft geen voorstellingen overmorgen op het programma.,geen voorstellingen overmorgen,
+18,Determiners,75,geen_scrambling_1,293,Grammatical,Ze had gistermiddag geen notificaties in haar mailbox.,gistermiddag geen notificaties,
+18,Determiners,75,geen_scrambling_1,293,Ungrammatical,Ze had geen notificaties gistermiddag in haar mailbox.,geen notificaties gistermiddag,
+18,Determiners,75,geen_scrambling_1,294,Grammatical,Het museum heeft vanavond geen rondleidingen in deze vleugel.,vanavond geen rondleidingen,
+18,Determiners,75,geen_scrambling_1,294,Ungrammatical,Het museum heeft geen rondleidingen vanavond in deze vleugel.,geen rondleidingen vanavond,
+18,Determiners,75,geen_scrambling_1,295,Grammatical,Het café heeft vandaag geen aanbiedingen op het menu.,vandaag geen aanbiedingen,
+18,Determiners,75,geen_scrambling_1,295,Ungrammatical,Het café heeft geen aanbiedingen vandaag op het menu.,geen aanbiedingen vandaag,
+18,Determiners,75,geen_scrambling_1,296,Grammatical,De student had vanmiddag geen vragen over de opdracht.,vanmiddag geen vragen,
+18,Determiners,75,geen_scrambling_1,296,Ungrammatical,De student had geen vragen vanmiddag over de opdracht.,geen vragen vanmiddag,
+18,Determiners,75,geen_scrambling_1,297,Grammatical,Er zijn vanavond geen boekenclubbijeenkomsten in Deventer.,vanavond geen boekenclubbijeenkomsten,
+18,Determiners,75,geen_scrambling_1,297,Ungrammatical,Er zijn geen boekenclubbijeenkomsten vanavond in Deventer.,geen boekenclubbijeenkomsten vanavond,
+18,Determiners,75,geen_scrambling_1,298,Grammatical,Er waren eergisteren geen vertragingen op het treinstation.,eergisteren geen vertragingen,
+18,Determiners,75,geen_scrambling_1,298,Ungrammatical,Er waren geen vertragingen eergisteren op het treinstation.,geen vertragingen eergisteren,
+18,Determiners,75,geen_scrambling_1,299,Grammatical,Jurre noemde gister geen films over dit onderwerp.,gister geen films,
+18,Determiners,75,geen_scrambling_1,299,Ungrammatical,Jurre noemde geen films gister over dit onderwerp.,geen films gister,
+18,Determiners,75,geen_scrambling_1,300,Grammatical,Er zijn morgen geen bouwwerkzaamheden in de buurt.,morgen geen bouwwerkzaamheden,
+18,Determiners,75,geen_scrambling_1,300,Ungrammatical,Er zijn geen bouwwerkzaamheden morgen in de buurt.,geen bouwwerkzaamheden morgen,
+18,Determiners,76,geen_scrambling_2,301,Grammatical,Noud begrijpt waarschijnlijk geen formules op de toets.,waarschijnlijk geen formules,
+18,Determiners,76,geen_scrambling_2,301,Ungrammatical,Noud begrijpt geen formules waarschijnlijk op de toets.,geen formules waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,302,Grammatical,Isabelle beheerst waarschijnlijk geen danspassen tijdens de dansles.,waarschijnlijk geen danspassen,
+18,Determiners,76,geen_scrambling_2,302,Ungrammatical,Isabelle beheerst geen danspassen waarschijnlijk tijdens de dansles.,geen danspassen waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,303,Grammatical,Samuel verstaat misschien geen dialect tijdens het bezoek.,misschien geen dialect,
+18,Determiners,76,geen_scrambling_2,303,Ungrammatical,Samuel verstaat geen dialect misschien tijdens het bezoek.,geen dialect misschien,
+18,Determiners,76,geen_scrambling_2,304,Grammatical,Charlotte beoefent mogelijk geen yoga in de sportschool.,mogelijk geen yoga,
+18,Determiners,76,geen_scrambling_2,304,Ungrammatical,Charlotte beoefent geen yoga mogelijk in de sportschool.,geen yoga mogelijk,
+18,Determiners,76,geen_scrambling_2,305,Grammatical,Ruben hanteert vermoedelijk geen regels in de klas.,vermoedelijk geen regels,
+18,Determiners,76,geen_scrambling_2,305,Ungrammatical,Ruben hanteert geen regels vermoedelijk in de klas.,geen regels vermoedelijk,
+18,Determiners,76,geen_scrambling_2,306,Grammatical,Feline beleeft misschien geen avonturen tijdens de vakantie.,misschien geen avonturen,
+18,Determiners,76,geen_scrambling_2,306,Ungrammatical,Feline beleeft geen avonturen misschien tijdens de vakantie.,geen avonturen misschien,
+18,Determiners,76,geen_scrambling_2,307,Grammatical,Benjamin herkent mogelijk geen plantensoorten op het schoolreisje.,mogelijk geen plantensoorten,
+18,Determiners,76,geen_scrambling_2,307,Ungrammatical,Benjamin herkent geen plantensoorten mogelijk op het schoolreisje.,geen plantensoorten mogelijk,
+18,Determiners,76,geen_scrambling_2,308,Grammatical,Floor kent waarschijnlijk geen hoofdsteden tijdens de overhoring.,waarschijnlijk geen hoofdsteden,
+18,Determiners,76,geen_scrambling_2,308,Ungrammatical,Floor kent geen hoofdsteden waarschijnlijk tijdens de overhoring.,geen hoofdsteden waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,309,Grammatical,Jurre beoordeelt misschien geen studenten op de universiteit.,misschien geen studenten,
+18,Determiners,76,geen_scrambling_2,309,Ungrammatical,Jurre beoordeelt geen studenten misschien op de universiteit.,geen studenten misschien,
+18,Determiners,76,geen_scrambling_2,310,Grammatical,Chloë wint vermoedelijk geen prijs in de wedstrijd.,vermoedelijk geen prijs,
+18,Determiners,76,geen_scrambling_2,310,Ungrammatical,Chloë wint geen prijs vermoedelijk in de wedstrijd.,geen prijs vermoedelijk,
+18,Determiners,76,geen_scrambling_2,311,Grammatical,Je wint waarschijnlijk geen prijzen in de loterij.,waarschijnlijk geen prijzen,
+18,Determiners,76,geen_scrambling_2,311,Ungrammatical,Je wint geen prijzen waarschijnlijk in de loterij.,geen prijzen waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,312,Grammatical,Timo heeft misschien geen zorgen over de deadline.,misschien geen zorgen,
+18,Determiners,76,geen_scrambling_2,312,Ungrammatical,Timo heeft geen zorgen misschien over de deadline.,geen zorgen misschien,
+18,Determiners,76,geen_scrambling_2,313,Grammatical,Je krijgt mogelijk geen koekjes na al dat gezeur.,mogelijk geen koekjes,
+18,Determiners,76,geen_scrambling_2,313,Ungrammatical,Je krijgt geen koekjes mogelijk na al dat gezeur.,geen koekjes mogelijk,
+18,Determiners,76,geen_scrambling_2,314,Grammatical,De kinderen doen wellicht geen opwarmoefeningen tijdens de gymles.,wellicht geen opwarmoefeningen,
+18,Determiners,76,geen_scrambling_2,314,Ungrammatical,De kinderen doen geen opwarmoefeningen wellicht tijdens de gymles.,geen opwarmoefeningen wellicht,
+18,Determiners,76,geen_scrambling_2,315,Grammatical,Stefan hoeft waarschijnlijk geen toetjes na het eten.,waarschijnlijk geen toetjes,
+18,Determiners,76,geen_scrambling_2,315,Ungrammatical,Stefan hoeft geen toetjes waarschijnlijk na het eten.,geen toetjes waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,316,Grammatical,Peter onthoudt waarschijnlijk geen namen na de bijeenkomst.,waarschijnlijk geen namen,
+18,Determiners,76,geen_scrambling_2,316,Ungrammatical,Peter onthoudt geen namen waarschijnlijk na de bijeenkomst.,geen namen waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,317,Grammatical,De chef serveert waarschijnlijk geen broden tijdens het diner.,waarschijnlijk geen broden,
+18,Determiners,76,geen_scrambling_2,317,Ungrammatical,De chef serveert geen broden waarschijnlijk tijdens het diner.,geen broden waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,318,Grammatical,Dara herkent waarschijnlijk geen gezichten op het schoolfeest.,waarschijnlijk geen gezichten,
+18,Determiners,76,geen_scrambling_2,318,Ungrammatical,Dara herkent geen gezichten waarschijnlijk op het schoolfeest.,geen gezichten waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,319,Grammatical,Haar moeder vergeet vermoedelijk geen namen na het familiediner.,vermoedelijk geen namen,
+18,Determiners,76,geen_scrambling_2,319,Ungrammatical,Haar moeder vergeet geen namen vermoedelijk na het familiediner.,geen namen vermoedelijk,
+18,Determiners,76,geen_scrambling_2,320,Grammatical,Henk wint waarschijnlijk geen medailles in de competitie.,waarschijnlijk geen medailles,
+18,Determiners,76,geen_scrambling_2,320,Ungrammatical,Henk wint geen medailles waarschijnlijk in de competitie.,geen medailles waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,321,Grammatical,Je krijgt mogelijk geen certificaten tijdens deze online cursus.,mogelijk geen certificaten,
+18,Determiners,76,geen_scrambling_2,321,Ungrammatical,Je krijgt geen certificaten mogelijk tijdens deze online cursus.,geen certificaten mogelijk,
+18,Determiners,76,geen_scrambling_2,322,Grammatical,De jongeren doen wellicht geen groepsoefeningen tijdens de lessen.,wellicht geen groepsoefeningen,
+18,Determiners,76,geen_scrambling_2,322,Ungrammatical,De jongeren doen geen groepsoefeningen wellicht tijdens de lessen.,geen groepsoefeningen wellicht,
+18,Determiners,76,geen_scrambling_2,323,Grammatical,Het team wint waarschijnlijk geen bekers in het toernooi.,waarschijnlijk geen bekers,
+18,Determiners,76,geen_scrambling_2,323,Ungrammatical,Het team wint geen bekers waarschijnlijk in het toernooi.,geen bekers waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,324,Grammatical,Sanne kent waarschijnlijk geen noten tijdens de eerste repetitie.,waarschijnlijk geen noten,
+18,Determiners,76,geen_scrambling_2,324,Ungrammatical,Sanne kent geen noten waarschijnlijk tijdens de eerste repetitie.,geen noten waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,325,Grammatical,Deze honden doen waarschijnlijk geen trucjes tijdens de show.,waarschijnlijk geen trucjes,
+18,Determiners,76,geen_scrambling_2,325,Ungrammatical,Deze honden doen geen trucjes waarschijnlijk tijdens de show.,geen trucjes waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,326,Grammatical,De acteurs spelen vermoedelijk geen scènes tijdens hun pauze.,vermoedelijk geen scènes,
+18,Determiners,76,geen_scrambling_2,326,Ungrammatical,De acteurs spelen geen scènes vermoedelijk tijdens hun pauze.,geen scènes vermoedelijk,
+18,Determiners,76,geen_scrambling_2,327,Grammatical,Julia begrijpt mogelijk geen Franse woorden tijdens de les.,mogelijk geen Franse woorden,
+18,Determiners,76,geen_scrambling_2,327,Ungrammatical,Julia begrijpt geen Franse woorden mogelijk tijdens de les.,geen Franse woorden mogelijk,
+18,Determiners,76,geen_scrambling_2,328,Grammatical,Lars kent waarschijnlijk geen feiten over de oorlog.,waarschijnlijk geen feiten,
+18,Determiners,76,geen_scrambling_2,328,Ungrammatical,Lars kent geen feiten waarschijnlijk over de oorlog.,geen feiten waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,329,Grammatical,Sophie herinnert zich misschien geen details van het verhaal.,misschien geen details,
+18,Determiners,76,geen_scrambling_2,329,Ungrammatical,Sophie herinnert zich geen details misschien van het verhaal.,geen details misschien,
+18,Determiners,76,geen_scrambling_2,330,Grammatical,Thomas plant mogelijk geen reizen tijdens de vakantie.,mogelijk geen reizen,
+18,Determiners,76,geen_scrambling_2,330,Ungrammatical,Thomas plant geen reizen mogelijk tijdens de vakantie.,geen reizen mogelijk,
+18,Determiners,76,geen_scrambling_2,331,Grammatical,Emma eet waarschijnlijk geen groenten tijdens het diner.,waarschijnlijk geen groenten,
+18,Determiners,76,geen_scrambling_2,331,Ungrammatical,Emma eet geen groenten waarschijnlijk tijdens het diner.,geen groenten waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,332,Grammatical,Milan gebruikt vermoedelijk geen technologie op het werk.,vermoedelijk geen technologie,
+18,Determiners,76,geen_scrambling_2,332,Ungrammatical,Milan gebruikt geen technologie vermoedelijk op het werk.,geen technologie vermoedelijk,
+18,Determiners,76,geen_scrambling_2,333,Grammatical,Lisa heeft mogelijk geen interesse in sporten.,mogelijk geen interesse,
+18,Determiners,76,geen_scrambling_2,333,Ungrammatical,Lisa heeft geen interesse mogelijk in sporten.,geen interesse mogelijk,
+18,Determiners,76,geen_scrambling_2,334,Grammatical,Lucas ontvangt waarschijnlijk geen telefoontjes tijdens de vergadering.,waarschijnlijk geen telefoontjes,
+18,Determiners,76,geen_scrambling_2,334,Ungrammatical,Lucas ontvangt geen telefoontjes waarschijnlijk tijdens de vergadering.,geen telefoontjes waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,335,Grammatical,Iris leert misschien geen nieuwe vaardigheden tijdens de training.,misschien geen nieuwe vaardigheden,
+18,Determiners,76,geen_scrambling_2,335,Ungrammatical,Iris leert geen nieuwe vaardigheden misschien tijdens de training.,geen nieuwe vaardigheden misschien,
+18,Determiners,76,geen_scrambling_2,336,Grammatical,Mike begrijpt mogelijk geen ingewikkelde problemen tijdens de les.,mogelijk geen ingewikkelde problemen,
+18,Determiners,76,geen_scrambling_2,336,Ungrammatical,Mike begrijpt geen ingewikkelde problemen mogelijk tijdens de les.,geen ingewikkelde problemen mogelijk,
+18,Determiners,76,geen_scrambling_2,337,Grammatical,Emma drinkt waarschijnlijk geen koffie in de ochtend.,waarschijnlijk geen koffie,
+18,Determiners,76,geen_scrambling_2,337,Ungrammatical,Emma drinkt geen koffie waarschijnlijk in de ochtend.,geen koffie waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,338,Grammatical,Lars heeft mogelijk geen idee van de oplossing tijdens het examen.,mogelijk geen idee,
+18,Determiners,76,geen_scrambling_2,338,Ungrammatical,Lars heeft geen idee mogelijk van de oplossing tijdens het examen.,geen idee mogelijk,
+18,Determiners,76,geen_scrambling_2,339,Grammatical,Sophie maakt vermoedelijk geen fouten tijdens de presentatie.,vermoedelijk geen fouten,
+18,Determiners,76,geen_scrambling_2,339,Ungrammatical,Sophie maakt geen fouten vermoedelijk tijdens de presentatie.,geen fouten vermoedelijk,
+18,Determiners,76,geen_scrambling_2,340,Grammatical,Thomas heeft misschien geen zin in feestjes.,misschien geen zin,
+18,Determiners,76,geen_scrambling_2,340,Ungrammatical,Thomas heeft geen zin misschien in feestjes.,geen zin misschien,
+18,Determiners,76,geen_scrambling_2,341,Grammatical,Emma toont waarschijnlijk geen emoties tijdens het gesprek.,waarschijnlijk geen emoties,
+18,Determiners,76,geen_scrambling_2,341,Ungrammatical,Emma toont geen emoties waarschijnlijk tijdens het gesprek.,geen emoties waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,342,Grammatical,Milan heeft mogelijk geen kennis van wiskunde.,mogelijk geen kennis,
+18,Determiners,76,geen_scrambling_2,342,Ungrammatical,Milan heeft geen kennis mogelijk van wiskunde.,geen kennis mogelijk,
+18,Determiners,76,geen_scrambling_2,343,Grammatical,Lisa heeft waarschijnlijk geen vragen tijdens de lezing.,waarschijnlijk geen vragen,
+18,Determiners,76,geen_scrambling_2,343,Ungrammatical,Lisa heeft geen vragen waarschijnlijk tijdens de lezing.,geen vragen waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,344,Grammatical,Lucas begrijpt misschien geen complexe theorieën tijdens het college.,misschien geen complexe theorieën,
+18,Determiners,76,geen_scrambling_2,344,Ungrammatical,Lucas begrijpt geen complexe theorieën misschien tijdens het college.,geen complexe theorieën misschien,
+18,Determiners,76,geen_scrambling_2,345,Grammatical,Iris heeft mogelijk geen ervaring met programmeren.,mogelijk geen ervaring,
+18,Determiners,76,geen_scrambling_2,345,Ungrammatical,Iris heeft geen ervaring mogelijk met programmeren.,geen ervaring mogelijk,
+18,Determiners,76,geen_scrambling_2,346,Grammatical,Mike heeft waarschijnlijk geen haast tijdens de reis.,waarschijnlijk geen haast,
+18,Determiners,76,geen_scrambling_2,346,Ungrammatical,Mike heeft geen haast waarschijnlijk tijdens de reis.,geen haast waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,347,Grammatical,Julia kijkt mogelijk geen films tijdens het weekend.,mogelijk geen films,
+18,Determiners,76,geen_scrambling_2,347,Ungrammatical,Julia kijkt geen films mogelijk tijdens het weekend.,geen films mogelijk,
+18,Determiners,76,geen_scrambling_2,348,Grammatical,Lars begrijpt waarschijnlijk geen Spaanse woorden tijdens de les.,waarschijnlijk geen Spaanse woorden,
+18,Determiners,76,geen_scrambling_2,348,Ungrammatical,Lars begrijpt geen Spaanse woorden waarschijnlijk tijdens de les.,geen Spaanse woorden waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,349,Grammatical,Sophie heeft misschien geen interesse in kunst.,misschien geen interesse,
+18,Determiners,76,geen_scrambling_2,349,Ungrammatical,Sophie heeft geen interesse misschien in kunst.,geen interesse misschien,
+18,Determiners,76,geen_scrambling_2,350,Grammatical,Emma heeft waarschijnlijk geen idee van de oplossing tijdens de quiz.,waarschijnlijk geen idee,
+18,Determiners,76,geen_scrambling_2,350,Ungrammatical,Emma heeft geen idee waarschijnlijk van de oplossing tijdens de quiz.,geen idee waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,351,Grammatical,Lisa heeft mogelijk geen zorgen over de toekomst.,mogelijk geen zorgen,
+18,Determiners,76,geen_scrambling_2,351,Ungrammatical,Lisa heeft geen zorgen mogelijk over de toekomst.,geen zorgen mogelijk,
+18,Determiners,76,geen_scrambling_2,352,Grammatical,Lucas eet waarschijnlijk geen vis tijdens het diner.,waarschijnlijk geen vis,
+18,Determiners,76,geen_scrambling_2,352,Ungrammatical,Lucas eet geen vis waarschijnlijk tijdens het diner.,geen vis waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,353,Grammatical,Iris heeft misschien geen tijd voor hobby's tijdens het werk.,misschien geen tijd,
+18,Determiners,76,geen_scrambling_2,353,Ungrammatical,Iris heeft geen tijd misschien voor hobby's tijdens het werk.,geen tijd misschien,
+18,Determiners,76,geen_scrambling_2,354,Grammatical,Mike begrijpt waarschijnlijk geen ingewikkelde concepten tijdens de presentatie.,waarschijnlijk geen ingewikkelde concepten,
+18,Determiners,76,geen_scrambling_2,354,Ungrammatical,Mike begrijpt geen ingewikkelde concepten waarschijnlijk tijdens de presentatie.,geen ingewikkelde concepten waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,355,Grammatical,Emma drinkt misschien geen koffie in de ochtend.,misschien geen koffie,
+18,Determiners,76,geen_scrambling_2,355,Ungrammatical,Emma drinkt geen koffie misschien in de ochtend.,geen koffie misschien,
+18,Determiners,76,geen_scrambling_2,356,Grammatical,Lars heeft waarschijnlijk geen ervaring met zeilen.,waarschijnlijk geen ervaring,
+18,Determiners,76,geen_scrambling_2,356,Ungrammatical,Lars heeft geen ervaring waarschijnlijk met zeilen.,geen ervaring waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,357,Grammatical,Thomas heeft misschien geen zin in feestjes.,misschien geen zin,
+18,Determiners,76,geen_scrambling_2,357,Ungrammatical,Thomas heeft geen zin misschien in feestjes.,geen zin misschien,
+18,Determiners,76,geen_scrambling_2,358,Grammatical,Emma heeft waarschijnlijk geen haast tijdens de ochtendspits.,waarschijnlijk geen haast,
+18,Determiners,76,geen_scrambling_2,358,Ungrammatical,Emma heeft geen haast waarschijnlijk tijdens de ochtendspits.,geen haast waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,359,Grammatical,Milan heeft misschien geen kennis van nieuwe technologieën.,misschien geen kennis,
+18,Determiners,76,geen_scrambling_2,359,Ungrammatical,Milan heeft geen kennis misschien van nieuwe technologieën.,geen kennis misschien,
+18,Determiners,76,geen_scrambling_2,360,Grammatical,Iris gebruikt waarschijnlijk geen sociale media tijdens het werk.,waarschijnlijk geen sociale media,
+18,Determiners,76,geen_scrambling_2,360,Ungrammatical,Iris gebruikt geen sociale media waarschijnlijk tijdens het werk.,geen sociale media waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,361,Grammatical,De studenten begrijpen waarschijnlijk geen complexe theorieën tijdens de les.,waarschijnlijk geen complexe theorieën,
+18,Determiners,76,geen_scrambling_2,361,Ungrammatical,De studenten begrijpen geen complexe theorieën waarschijnlijk tijdens de les.,geen complexe theorieën waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,362,Grammatical,De chef accepteert mogelijk geen vertragingen in de keuken.,mogelijk geen vertragingen,
+18,Determiners,76,geen_scrambling_2,362,Ungrammatical,De chef accepteert geen vertragingen mogelijk in de keuken.,geen vertragingen mogelijk,
+18,Determiners,76,geen_scrambling_2,363,Grammatical,Het project zal misschien geen winst opleveren dit kwartaal.,misschien geen winst,
+18,Determiners,76,geen_scrambling_2,363,Ungrammatical,Het project zal geen winst misschien opleveren dit kwartaal.,geen winst misschien,
+18,Determiners,76,geen_scrambling_2,364,Grammatical,De klanten zullen wellicht geen bezwaren hebben tegen de nieuwe regeling.,wellicht geen bezwaren,
+18,Determiners,76,geen_scrambling_2,364,Ungrammatical,De klanten zullen geen bezwaren wellicht hebben tegen de nieuwe regeling.,geen bezwaren wellicht,
+18,Determiners,76,geen_scrambling_2,365,Grammatical,Het bedrijf implementeert vermoedelijk geen wijzigingen in het beleid.,vermoedelijk geen wijzigingen,
+18,Determiners,76,geen_scrambling_2,365,Ungrammatical,Het bedrijf implementeert geen wijzigingen vermoedelijk in het beleid.,geen wijzigingen vermoedelijk,
+18,Determiners,76,geen_scrambling_2,366,Grammatical,Jij zult misschien geen tijd hebben voor het feestje.,misschien geen tijd,
+18,Determiners,76,geen_scrambling_2,366,Ungrammatical,Jij zult geen tijd misschien hebben voor het feestje.,geen tijd misschien,
+18,Determiners,76,geen_scrambling_2,367,Grammatical,Het team heeft vermoedelijk geen invloed op de beslissingen van de coach.,vermoedelijk geen invloed,
+18,Determiners,76,geen_scrambling_2,367,Ungrammatical,Het team heeft geen invloed vermoedelijk op de beslissingen van de coach.,geen invloed vermoedelijk,
+18,Determiners,76,geen_scrambling_2,368,Grammatical,De leraar begrijpt mogelijk geen onduidelijke vragen tijdens de les.,mogelijk geen onduidelijke vragen,
+18,Determiners,76,geen_scrambling_2,368,Ungrammatical,De leraar begrijpt geen onduidelijke vragen mogelijk tijdens de les.,geen onduidelijke vragen mogelijk,
+18,Determiners,76,geen_scrambling_2,369,Grammatical,De buren maken wellicht geen lawaai tijdens de nacht.,wellicht geen lawaai,
+18,Determiners,76,geen_scrambling_2,369,Ungrammatical,De buren maken geen lawaai wellicht tijdens de nacht.,geen lawaai wellicht,
+18,Determiners,76,geen_scrambling_2,370,Grammatical,De programmeur heeft misschien geen ervaring met dit specifieke programma.,misschien geen ervaring,
+18,Determiners,76,geen_scrambling_2,370,Ungrammatical,De programmeur heeft geen ervaring misschien met dit specifieke programma.,geen ervaring misschien,
+18,Determiners,76,geen_scrambling_2,371,Grammatical,De kat zal mogelijk geen interesse tonen in het nieuwe speeltje.,mogelijk geen interesse,
+18,Determiners,76,geen_scrambling_2,371,Ungrammatical,De kat zal geen interesse mogelijk tonen in het nieuwe speeltje.,geen interesse mogelijk,
+18,Determiners,76,geen_scrambling_2,372,Grammatical,Het museum accepteert vermoedelijk geen donaties op dit moment.,vermoedelijk geen donaties,
+18,Determiners,76,geen_scrambling_2,372,Ungrammatical,Het museum accepteert geen donaties vermoedelijk op dit moment.,geen donaties vermoedelijk,
+18,Determiners,76,geen_scrambling_2,373,Grammatical,De chauffeur heeft waarschijnlijk geen kennis van alternatieve routes.,waarschijnlijk geen kennis,
+18,Determiners,76,geen_scrambling_2,373,Ungrammatical,De chauffeur heeft geen kennis waarschijnlijk van alternatieve routes.,geen kennis waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,374,Grammatical,De planten krijgen mogelijk geen voldoende zonlicht in deze hoek van de kamer.,mogelijk geen voldoende zonlicht,
+18,Determiners,76,geen_scrambling_2,374,Ungrammatical,De planten krijgen geen voldoende zonlicht mogelijk in deze hoek van de kamer.,geen voldoende zonlicht mogelijk,
+18,Determiners,76,geen_scrambling_2,375,Grammatical,Het project zal wellicht geen problemen opleveren tijdens de uitvoering.,wellicht geen problemen,
+18,Determiners,76,geen_scrambling_2,375,Ungrammatical,Het project zal geen problemen wellicht opleveren tijdens de uitvoering.,geen problemen wellicht,
+18,Determiners,76,geen_scrambling_2,376,Grammatical,De winkel verkoopt mogelijk geen vers fruit vandaag.,mogelijk geen vers fruit,
+18,Determiners,76,geen_scrambling_2,376,Ungrammatical,De winkel verkoopt geen vers fruit mogelijk vandaag.,geen vers fruit mogelijk,
+18,Determiners,76,geen_scrambling_2,377,Grammatical,De docent begrijpt vermoedelijk geen onduidelijke antwoorden tijdens het examen.,vermoedelijk geen onduidelijke antwoorden,
+18,Determiners,76,geen_scrambling_2,377,Ungrammatical,De docent begrijpt geen onduidelijke antwoorden vermoedelijk tijdens het examen.,geen onduidelijke antwoorden vermoedelijk,
+18,Determiners,76,geen_scrambling_2,378,Grammatical,De politicus zal misschien geen steun krijgen voor zijn nieuwe voorstel.,misschien geen steun,
+18,Determiners,76,geen_scrambling_2,378,Ungrammatical,De politicus zal geen steun misschien krijgen voor zijn nieuwe voorstel.,geen steun misschien,
+18,Determiners,76,geen_scrambling_2,379,Grammatical,Het theater presenteert mogelijk geen toneelstukken deze maand.,mogelijk geen toneelstukken,
+18,Determiners,76,geen_scrambling_2,379,Ungrammatical,Het theater presenteert geen toneelstukken mogelijk deze maand.,geen toneelstukken mogelijk,
+18,Determiners,76,geen_scrambling_2,380,Grammatical,De atleet heeft waarschijnlijk geen last van blessures na de wedstrijd.,waarschijnlijk geen last van blessures,
+18,Determiners,76,geen_scrambling_2,380,Ungrammatical,De atleet heeft geen last van blessures waarschijnlijk na de wedstrijd.,geen last van blessures waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,381,Grammatical,Het restaurant serveert vermoedelijk geen speciale gerechten tijdens de lunch.,vermoedelijk geen speciale gerechten,
+18,Determiners,76,geen_scrambling_2,381,Ungrammatical,Het restaurant serveert geen speciale gerechten vermoedelijk tijdens de lunch.,geen speciale gerechten vermoedelijk,
+18,Determiners,76,geen_scrambling_2,382,Grammatical,De werknemers hebben mogelijk geen toegang tot de nieuwe software.,mogelijk geen toegang,
+18,Determiners,76,geen_scrambling_2,382,Ungrammatical,De werknemers hebben geen toegang mogelijk tot de nieuwe software.,geen toegang mogelijk,
+18,Determiners,76,geen_scrambling_2,383,Grammatical,Het concert zal wellicht geen vertraging oplopen vanwege het slechte weer.,wellicht geen vertraging,
+18,Determiners,76,geen_scrambling_2,383,Ungrammatical,Het concert zal geen vertraging wellicht oplopen vanwege het slechte weer.,geen vertraging wellicht,
+18,Determiners,76,geen_scrambling_2,384,Grammatical,De kinderen krijgen misschien geen toestemming om buiten te spelen.,misschien geen toestemming,
+18,Determiners,76,geen_scrambling_2,384,Ungrammatical,De kinderen krijgen geen toestemming misschien om buiten te spelen.,geen toestemming misschien,
+18,Determiners,76,geen_scrambling_2,385,Grammatical,Het museum zal mogelijk geen rondleidingen aanbieden op feestdagen.,mogelijk geen rondleidingen,
+18,Determiners,76,geen_scrambling_2,385,Ungrammatical,Het museum zal geen rondleidingen mogelijk aanbieden op feestdagen.,geen rondleidingen mogelijk,
+18,Determiners,76,geen_scrambling_2,386,Grammatical,De medewerkers hebben vermoedelijk geen invloed op het beleid van het bedrijf.,vermoedelijk geen invloed,
+18,Determiners,76,geen_scrambling_2,386,Ungrammatical,De medewerkers hebben geen invloed vermoedelijk op het beleid van het bedrijf.,geen invloed vermoedelijk,
+18,Determiners,76,geen_scrambling_2,387,Grammatical,De presentator zal misschien geen vragen stellen aan het einde van het webinar.,misschien geen vragen,
+18,Determiners,76,geen_scrambling_2,387,Ungrammatical,De presentator zal geen vragen misschien stellen aan het einde van het webinar.,geen vragen misschien,
+18,Determiners,76,geen_scrambling_2,388,Grammatical,Het bedrijf implementeert vermoedelijk geen nieuwe procedures deze maand.,vermoedelijk geen nieuwe procedures,
+18,Determiners,76,geen_scrambling_2,388,Ungrammatical,Het bedrijf implementeert geen nieuwe procedures vermoedelijk deze maand.,geen nieuwe procedures vermoedelijk,
+18,Determiners,76,geen_scrambling_2,389,Grammatical,De deelnemers hebben waarschijnlijk geen ervaring met deze technologie.,waarschijnlijk geen ervaring,
+18,Determiners,76,geen_scrambling_2,389,Ungrammatical,De deelnemers hebben geen ervaring waarschijnlijk met deze technologie.,geen ervaring waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,390,Grammatical,De concertgangers zullen mogelijk geen toegang hebben tot de backstage.,mogelijk geen toegang,
+18,Determiners,76,geen_scrambling_2,390,Ungrammatical,De concertgangers zullen geen toegang mogelijk hebben tot de backstage.,geen toegang mogelijk,
+18,Determiners,76,geen_scrambling_2,391,Grammatical,Het team zal vermoedelijk geen compromissen sluiten tijdens de onderhandelingen.,vermoedelijk geen compromissen,
+18,Determiners,76,geen_scrambling_2,391,Ungrammatical,Het team zal geen compromissen vermoedelijk sluiten tijdens de onderhandelingen.,geen compromissen vermoedelijk,
+18,Determiners,76,geen_scrambling_2,392,Grammatical,Het nieuwsbericht zal mogelijk geen impact hebben op de aandelenkoersen.,mogelijk geen impact,
+18,Determiners,76,geen_scrambling_2,392,Ungrammatical,Het nieuwsbericht zal geen impact mogelijk hebben op de aandelenkoersen.,geen impact mogelijk,
+18,Determiners,76,geen_scrambling_2,393,Grammatical,De chef-kok zal wellicht geen nieuwe gerechten introduceren deze week.,wellicht geen nieuwe gerechten,
+18,Determiners,76,geen_scrambling_2,393,Ungrammatical,De chef-kok zal geen nieuwe gerechten wellicht introduceren deze week.,geen nieuwe gerechten wellicht,
+18,Determiners,76,geen_scrambling_2,394,Grammatical,De presentatie zal vermoedelijk geen technische problemen ondervinden.,vermoedelijk geen technische problemen,
+18,Determiners,76,geen_scrambling_2,394,Ungrammatical,De presentatie zal geen technische problemen vermoedelijk ondervinden.,geen technische problemen vermoedelijk,
+18,Determiners,76,geen_scrambling_2,395,Grammatical,Het kantoor zal mogelijk geen nieuwe medewerkers aannemen dit kwartaal.,mogelijk geen nieuwe medewerkers,
+18,Determiners,76,geen_scrambling_2,395,Ungrammatical,Het kantoor zal geen nieuwe medewerkers mogelijk aannemen dit kwartaal.,geen nieuwe medewerkers mogelijk,
+18,Determiners,76,geen_scrambling_2,396,Grammatical,De klanten zullen mogelijk geen bezwaren hebben tegen de nieuwe prijsstructuur.,mogelijk geen bezwaren,
+18,Determiners,76,geen_scrambling_2,396,Ungrammatical,De klanten zullen geen bezwaren mogelijk hebben tegen de nieuwe prijsstructuur.,geen bezwaren mogelijk,
+18,Determiners,76,geen_scrambling_2,397,Grammatical,Het theater zal vermoedelijk geen extra voorstellingen organiseren deze maand.,vermoedelijk geen extra voorstellingen,
+18,Determiners,76,geen_scrambling_2,397,Ungrammatical,Het theater zal geen extra voorstellingen vermoedelijk organiseren deze maand.,geen extra voorstellingen vermoedelijk,
+18,Determiners,76,geen_scrambling_2,398,Grammatical,De wandelaars hebben waarschijnlijk geen last van slecht weer tijdens hun tocht.,waarschijnlijk geen last van slecht weer,
+18,Determiners,76,geen_scrambling_2,398,Ungrammatical,De wandelaars hebben geen last van slecht weer waarschijnlijk tijdens hun tocht.,geen last van slecht weer waarschijnlijk,
+18,Determiners,76,geen_scrambling_2,399,Grammatical,Het gezin zal misschien geen tijd hebben voor een uitgebreid diner vanavond.,misschien geen tijd,
+18,Determiners,76,geen_scrambling_2,399,Ungrammatical,Het gezin zal geen tijd misschien hebben voor een uitgebreid diner vanavond.,geen tijd misschien,
+18,Determiners,76,geen_scrambling_2,400,Grammatical,Het museum zal vermoedelijk geen nieuwe tentoonstellingen openen deze maand.,vermoedelijk geen nieuwe tentoonstellingen,
+18,Determiners,76,geen_scrambling_2,400,Ungrammatical,Het museum zal geen nieuwe tentoonstellingen vermoedelijk openen deze maand.,geen nieuwe tentoonstellingen vermoedelijk,

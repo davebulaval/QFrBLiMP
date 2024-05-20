@@ -1,0 +1,801 @@
+Number (phenomenon),Phenomenon,Number (paradigm),Paradigm,Item,Grammaticality,Sentence,Critical word(s),Cue word(s)
+14,Topicalization,61,question_similarity_1,1,Grammatical,Fenna onthulde welke prijs haar broer had gewonnen.,haar broer,welke
+14,Topicalization,61,question_similarity_1,1,Ungrammatical,Fenna onthulde die prijs haar broer had gewonnen.,haar broer,die
+14,Topicalization,61,question_similarity_1,2,Grammatical,Nora vertelde welk hotel haar vriendin had geboekt.,haar vriendin,welk
+14,Topicalization,61,question_similarity_1,2,Ungrammatical,Nora vertelde dat hotel haar vriendin had geboekt.,haar vriendin,dat
+14,Topicalization,61,question_similarity_1,3,Grammatical,Lucy toonde welke route haar vader had gekozen.,haar vader,welke
+14,Topicalization,61,question_similarity_1,3,Ungrammatical,Lucy toonde die route haar vader had gekozen.,haar vader,die
+14,Topicalization,61,question_similarity_1,4,Grammatical,Isabel beschreef welk boek haar leraar had aanbevolen. ,haar leraar,welk
+14,Topicalization,61,question_similarity_1,4,Ungrammatical,Isabel beschreef dat boek haar leraar had aanbevolen. ,haar leraar,dat
+14,Topicalization,61,question_similarity_1,5,Grammatical,Stella benadrukte welke maaltijd haar chef had bereid.,haar chef,welke
+14,Topicalization,61,question_similarity_1,5,Ungrammatical,Stella benadrukte die maaltijd haar chef had bereid.,haar chef,die
+14,Topicalization,61,question_similarity_1,6,Grammatical,Jasmijn vertelde welke taal haar vriend had geleerd.,haar vriend,welke
+14,Topicalization,61,question_similarity_1,6,Ungrammatical,Jasmijn vertelde die taal haar vriend had geleerd.,haar vriend,die
+14,Topicalization,61,question_similarity_1,7,Grammatical,Merel onthulde welke grap haar zus had bedacht.,haar zus,welke
+14,Topicalization,61,question_similarity_1,7,Ungrammatical,Merel onthulde die grap haar zus had bedacht.,haar zus,die
+14,Topicalization,61,question_similarity_1,8,Grammatical,Lieke benoemde welk cadeau haar neef had gegeven.,haar neef,welk
+14,Topicalization,61,question_similarity_1,8,Ungrammatical,Lieke benoemde dat cadeau haar neef had gegeven.,haar neef,dat
+14,Topicalization,61,question_similarity_1,9,Grammatical,Mila bekende welke geheimen haar zusje had gedeeld.,haar zusje,welke
+14,Topicalization,61,question_similarity_1,9,Ungrammatical,Mila bekende die geheimen haar zusje had gedeeld.,haar zusje,die
+14,Topicalization,61,question_similarity_1,10,Grammatical,Maud identificeerde welk schilderij haar opa had geschilderd.,haar opa,welk
+14,Topicalization,61,question_similarity_1,10,Ungrammatical,Maud identificeerde dat schilderij haar opa had geschilderd.,haar opa,dat
+14,Topicalization,61,question_similarity_1,11,Grammatical,Lara legde uit welke film haar vriend had gekozen.,haar vriend,uit
+14,Topicalization,61,question_similarity_1,11,Ungrammatical,Lara legde uit die film haar vriend had gekozen.,haar vriend,uit
+14,Topicalization,61,question_similarity_1,12,Grammatical,Tim onthulde welk lied zijn zus had gezongen.,zijn zus,welk
+14,Topicalization,61,question_similarity_1,12,Ungrammatical,Tim onthulde dat lied zijn zus had gezongen.,zijn zus,dat
+14,Topicalization,61,question_similarity_1,13,Grammatical,Julia benadrukte welke opmerking haar collega had gemaakt.,haar collega,welke
+14,Topicalization,61,question_similarity_1,13,Ungrammatical,Julia benadrukte die opmerking haar collega had gemaakt.,haar collega,die
+14,Topicalization,61,question_similarity_1,14,Grammatical,Daan beschreef welk gerecht zijn moeder had gekookt.,zijn moeder,welk
+14,Topicalization,61,question_similarity_1,14,Ungrammatical,Daan beschreef dat gerecht zijn moeder had gekookt.,zijn moeder,dat
+14,Topicalization,61,question_similarity_1,15,Grammatical,Lars benoemde welk argument zijn leraar had aangedragen.,zijn leraar,welk
+14,Topicalization,61,question_similarity_1,15,Ungrammatical,Lars benoemde dat argument zijn leraar had aangedragen.,zijn leraar,dat
+14,Topicalization,61,question_similarity_1,16,Grammatical,Zoë identificeerde welke fout haar collega had gemaakt.,haar collega,welke
+14,Topicalization,61,question_similarity_1,16,Ungrammatical,Zoë identificeerde die fout haar collega had gemaakt.,haar collega,die
+14,Topicalization,61,question_similarity_1,17,Grammatical,Niels verklaarde welk standpunt zijn vriend had ingenomen.,zijn vriend,welk
+14,Topicalization,61,question_similarity_1,17,Ungrammatical,Niels verklaarde dat standpunt zijn vriend had ingenomen.,zijn vriend,dat
+14,Topicalization,61,question_similarity_1,18,Grammatical,Sophie onthulde welk nieuws haar broer had ontvangen.,haar broer,welk
+14,Topicalization,61,question_similarity_1,18,Ungrammatical,Sophie onthulde dat nieuws haar broer had ontvangen.,haar broer,dat
+14,Topicalization,61,question_similarity_1,19,Grammatical,Ruben benadrukte welk advies zijn mentor had gegeven.,zijn mentor,welk
+14,Topicalization,61,question_similarity_1,19,Ungrammatical,Ruben benadrukte dat advies zijn mentor had gegeven.,zijn mentor,dat
+14,Topicalization,61,question_similarity_1,20,Grammatical,Lotte beschreef welk doel haar team had bereikt.,haar team,welk
+14,Topicalization,61,question_similarity_1,20,Ungrammatical,Lotte beschreef dat doel haar team had bereikt.,haar team,dat
+14,Topicalization,61,question_similarity_1,21,Grammatical,Bram identificeerde welk experiment zijn professor had uitgevoerd.,zijn professor,welk
+14,Topicalization,61,question_similarity_1,21,Ungrammatical,Bram identificeerde dat experiment zijn professor had uitgevoerd.,zijn professor,dat
+14,Topicalization,61,question_similarity_1,22,Grammatical,Noa vertelde welke reis haar ouders hadden gepland.,haar ouders,welke
+14,Topicalization,61,question_similarity_1,22,Ungrammatical,Noa vertelde die reis haar ouders hadden gepland.,haar ouders,die
+14,Topicalization,61,question_similarity_1,23,Grammatical,Emma bekende welk geheim haar beste vriendin had onthuld.,haar beste vriendin,welk
+14,Topicalization,61,question_similarity_1,23,Ungrammatical,Emma bekende dat geheim haar beste vriendin had onthuld.,haar beste vriendin,dat
+14,Topicalization,61,question_similarity_1,24,Grammatical,Fleur onthulde welke droom haar zus had gerealiseerd.,haar zus,welke
+14,Topicalization,61,question_similarity_1,24,Ungrammatical,Fleur onthulde die droom haar zus had gerealiseerd.,haar zus,die
+14,Topicalization,61,question_similarity_1,25,Grammatical,Thijs vertelde welk boek zijn lerares had aanbevolen.,zijn lerares,welk
+14,Topicalization,61,question_similarity_1,25,Ungrammatical,Thijs vertelde dat boek zijn lerares had aanbevolen.,zijn lerares,dat
+14,Topicalization,61,question_similarity_1,26,Grammatical,Luna benadrukte welke prestatie haar team had geleverd.,haar team,welke
+14,Topicalization,61,question_similarity_1,26,Ungrammatical,Luna benadrukte die prestatie haar team had geleverd.,haar team,die
+14,Topicalization,61,question_similarity_1,27,Grammatical,Vince identificeerde welk talent zijn vriend had ontwikkeld.,zijn vriend,welk
+14,Topicalization,61,question_similarity_1,27,Ungrammatical,Vince identificeerde dat talent zijn vriend had ontwikkeld.,zijn vriend,dat
+14,Topicalization,61,question_similarity_1,28,Grammatical,Zoey onthulde welke strategie haar coach had bedacht.,haar coach,welke
+14,Topicalization,61,question_similarity_1,28,Ungrammatical,Zoey onthulde die strategie haar coach had bedacht.,haar coach,die
+14,Topicalization,61,question_similarity_1,29,Grammatical,Daan benoemde welk record zijn vriend had verbroken.,zijn vriend,welk
+14,Topicalization,61,question_similarity_1,29,Ungrammatical,Daan benoemde dat record zijn vriend had verbroken.,zijn vriend,dat
+14,Topicalization,61,question_similarity_1,30,Grammatical,Noor beschreef welke uitdaging haar broer was aangegaan.,haar broer,welke
+14,Topicalization,61,question_similarity_1,30,Ungrammatical,Noor beschreef die uitdaging haar broer was aangegaan.,haar broer,die
+14,Topicalization,61,question_similarity_1,31,Grammatical,Jesse vertelde welk doel zijn team had behaald.,zijn team,welk
+14,Topicalization,61,question_similarity_1,31,Ungrammatical,Jesse vertelde dat doel zijn team had behaald.,zijn team,dat
+14,Topicalization,61,question_similarity_1,32,Grammatical,Roos identificeerde welk project haar vriend had geleid.,haar vriend,welk
+14,Topicalization,61,question_similarity_1,32,Ungrammatical,Roos identificeerde dat project haar vriend had geleid.,haar vriend,dat
+14,Topicalization,61,question_similarity_1,33,Grammatical,Lars onthulde welke verrassing zijn vriendin had georganiseerd.,zijn vriendin,welke
+14,Topicalization,61,question_similarity_1,33,Ungrammatical,Lars onthulde die verrassing zijn vriendin had georganiseerd.,zijn vriendin,die
+14,Topicalization,61,question_similarity_1,34,Grammatical,Puck benoemde welk gevoel haar moeder had geuit.,haar moeder,welk
+14,Topicalization,61,question_similarity_1,34,Ungrammatical,Puck benoemde dat gevoel haar moeder had geuit.,haar moeder,dat
+14,Topicalization,61,question_similarity_1,35,Grammatical,Milan beschreef welk evenement zijn zus had bijgewoond.,zijn zus,welk
+14,Topicalization,61,question_similarity_1,35,Ungrammatical,Milan beschreef dat evenement zijn zus had bijgewoond.,zijn zus,dat
+14,Topicalization,61,question_similarity_1,36,Grammatical,Lars legde uit welk experiment zijn docent had uitgevoerd.,zijn docent,uit
+14,Topicalization,61,question_similarity_1,36,Ungrammatical,Lars legde uit dat experiment zijn docent had uitgevoerd.,zijn docent,uit
+14,Topicalization,61,question_similarity_1,37,Grammatical,Sanne vertelde welke stad haar zus had bezocht.,haar zus,welke
+14,Topicalization,61,question_similarity_1,37,Ungrammatical,Sanne vertelde die stad haar zus had bezocht.,haar zus,die
+14,Topicalization,61,question_similarity_1,38,Grammatical,Daan toonde welk instrument zijn broer had bespeeld.,zijn broer,welk
+14,Topicalization,61,question_similarity_1,38,Ungrammatical,Daan toonde dat instrument zijn broer had bespeeld.,zijn broer,dat
+14,Topicalization,61,question_similarity_1,39,Grammatical,Emma beschreef welk gerecht haar oma had gekookt.,haar oma,welk
+14,Topicalization,61,question_similarity_1,39,Ungrammatical,Emma beschreef dat gerecht haar oma had gekookt.,haar oma,dat
+14,Topicalization,61,question_similarity_1,40,Grammatical,Tim benadrukte welk argument zijn vriend had gegeven.,zijn vriend,welk
+14,Topicalization,61,question_similarity_1,40,Ungrammatical,Tim benadrukte dat argument zijn vriend had gegeven.,zijn vriend,dat
+14,Topicalization,61,question_similarity_1,41,Grammatical,Noor vertelde welk nieuws haar moeder had ontvangen.,haar moeder,welk
+14,Topicalization,61,question_similarity_1,41,Ungrammatical,Noor vertelde dat nieuws haar moeder had ontvangen.,haar moeder,dat
+14,Topicalization,61,question_similarity_1,42,Grammatical,Sophie onthulde welke plannen haar vriend had gemaakt.,haar vriend,welke
+14,Topicalization,61,question_similarity_1,42,Ungrammatical,Sophie onthulde die plannen haar vriend had gemaakt.,haar vriend,die
+14,Topicalization,61,question_similarity_1,43,Grammatical,Luna benoemde welke uitdaging haar vriend had aangenomen.,haar vriend,welke
+14,Topicalization,61,question_similarity_1,43,Ungrammatical,Luna benoemde die uitdaging haar vriend had aangenomen.,haar vriend,die
+14,Topicalization,61,question_similarity_1,44,Grammatical,Bram identificeerde welk argument zijn leraar had aangedragen.,zijn leraar,welk
+14,Topicalization,61,question_similarity_1,44,Ungrammatical,Bram identificeerde dat argument zijn leraar had aangedragen.,zijn leraar,dat
+14,Topicalization,61,question_similarity_1,45,Grammatical,Zoë vertelde welke film haar vriend had uitgekozen.,haar vriend,welke
+14,Topicalization,61,question_similarity_1,45,Ungrammatical,Zoë vertelde die film haar vriend had uitgekozen.,haar vriend,die
+14,Topicalization,61,question_similarity_1,46,Grammatical,Max benadrukte welk doel zijn team had bereikt.,zijn team,welk
+14,Topicalization,61,question_similarity_1,46,Ungrammatical,Max benadrukte dat doel zijn team had bereikt.,zijn team,dat
+14,Topicalization,61,question_similarity_1,47,Grammatical,Puck beschreef welke route haar ouders hadden genomen.,haar ouders,welke
+14,Topicalization,61,question_similarity_1,47,Ungrammatical,Puck beschreef die route haar ouders hadden genomen.,haar ouders,die
+14,Topicalization,61,question_similarity_1,48,Grammatical,Jesse identificeerde welk talent zijn vriendin had ontwikkeld.,zijn vriendin,welk
+14,Topicalization,61,question_similarity_1,48,Ungrammatical,Jesse identificeerde dat talent zijn vriendin had ontwikkeld.,zijn vriendin,dat
+14,Topicalization,61,question_similarity_1,49,Grammatical,Fleur onthulde welke verrassing haar vriend had voorbereid.,haar vriend,welke
+14,Topicalization,61,question_similarity_1,49,Ungrammatical,Fleur onthulde die verrassing haar vriend had voorbereid.,haar vriend,die
+14,Topicalization,61,question_similarity_1,50,Grammatical,Thijs bekende welk geheim zijn broer had bewaard.,zijn broer,welk
+14,Topicalization,61,question_similarity_1,50,Ungrammatical,Thijs bekende dat geheim zijn broer had bewaard.,zijn broer,dat
+14,Topicalization,61,question_similarity_1,51,Grammatical,Lisa benoemde welk cadeau haar vriend had gekocht.,haar vriend,welk
+14,Topicalization,61,question_similarity_1,51,Ungrammatical,Lisa benoemde dat cadeau haar vriend had gekocht.,haar vriend,dat
+14,Topicalization,61,question_similarity_1,52,Grammatical,Sem vertelde welke hobby zijn zus had ontdekt.,zijn zus,welke
+14,Topicalization,61,question_similarity_1,52,Ungrammatical,Sem vertelde die hobby zijn zus had ontdekt.,zijn zus,die
+14,Topicalization,61,question_similarity_1,53,Grammatical,Eva beschreef welk artikel haar vriend had geschreven.,haar vriend,welk
+14,Topicalization,61,question_similarity_1,53,Ungrammatical,Eva beschreef dat artikel haar vriend had geschreven.,haar vriend,dat
+14,Topicalization,61,question_similarity_1,54,Grammatical,Jasmijn benadrukte welke prestatie haar broer had geleverd.,haar broer,welke
+14,Topicalization,61,question_similarity_1,54,Ungrammatical,Jasmijn benadrukte die prestatie haar broer had geleverd.,haar broer,die
+14,Topicalization,61,question_similarity_1,55,Grammatical,Zoey onthulde welke grap haar vriend had bedacht.,haar vriend,welke
+14,Topicalization,61,question_similarity_1,55,Ungrammatical,Zoey onthulde die grap haar vriend had bedacht.,haar vriend,die
+14,Topicalization,61,question_similarity_1,56,Grammatical,Liv identificeerde welk boek haar vriend had gelezen.,haar vriend,welk
+14,Topicalization,61,question_similarity_1,56,Ungrammatical,Liv identificeerde dat boek haar vriend had gelezen.,haar vriend,dat
+14,Topicalization,61,question_similarity_1,57,Grammatical,Lars onthulde welk nieuws zijn broer had gehoord.,zijn broer,welk
+14,Topicalization,61,question_similarity_1,57,Ungrammatical,Lars onthulde dat nieuws zijn broer had gehoord.,zijn broer,dat
+14,Topicalization,61,question_similarity_1,58,Grammatical,Bram vertelde welke sport zijn broer had beoefend.,zijn broer,welke
+14,Topicalization,61,question_similarity_1,58,Ungrammatical,Bram vertelde die sport zijn broer had beoefend.,zijn broer,die
+14,Topicalization,61,question_similarity_1,59,Grammatical,Esmee toonde welk cadeau haar zus had gekocht.,haar zus,welk
+14,Topicalization,61,question_similarity_1,59,Ungrammatical,Esmee toonde dat cadeau haar zus had gekocht.,haar zus,dat
+14,Topicalization,61,question_similarity_1,60,Grammatical,Milan benadrukte welke fout zijn collega had gemaakt.,zijn collega,welke
+14,Topicalization,61,question_similarity_1,60,Ungrammatical,Milan benadrukte die fout zijn collega had gemaakt.,zijn collega,die
+14,Topicalization,61,question_similarity_1,61,Grammatical,Sem onthulde welke reis zijn ouders hadden gepland.,zijn ouders,welke
+14,Topicalization,61,question_similarity_1,61,Ungrammatical,Sem onthulde die reis zijn ouders hadden gepland.,zijn ouders,die
+14,Topicalization,61,question_similarity_1,62,Grammatical,Lisa identificeerde welk schilderij haar vriend had gemaakt.,haar vriend,welk
+14,Topicalization,61,question_similarity_1,62,Ungrammatical,Lisa identificeerde dat schilderij haar vriend had gemaakt.,haar vriend,dat
+14,Topicalization,61,question_similarity_1,63,Grammatical,Milan bekende welke fout zijn broer had begaan.,zijn broer,welke
+14,Topicalization,61,question_similarity_1,63,Ungrammatical,Milan bekende dat fout zijn broer had begaan.,zijn broer,dat
+14,Topicalization,61,question_similarity_1,64,Grammatical,Lars vertelde welk lied zijn broer had gecomponeerd.,zijn broer,welk
+14,Topicalization,61,question_similarity_1,64,Ungrammatical,Lars vertelde dat lied zijn broer had gecomponeerd.,zijn broer,dat
+14,Topicalization,61,question_similarity_1,65,Grammatical,Julia toonde welke foto haar moeder had genomen.,haar moeder,welke
+14,Topicalization,61,question_similarity_1,65,Ungrammatical,Julia toonde die foto haar moeder had genomen.,haar moeder,die
+14,Topicalization,61,question_similarity_1,66,Grammatical,Daan beschreef welk gerecht zijn zus had gekookt.,zijn zus,welk
+14,Topicalization,61,question_similarity_1,66,Ungrammatical,Daan beschreef dat gerecht zijn zus had gekookt.,zijn zus,dat
+14,Topicalization,61,question_similarity_1,67,Grammatical,Tess benadrukte welke reden haar vriend had gegeven.,haar vriend,welke
+14,Topicalization,61,question_similarity_1,67,Ungrammatical,Tess benadrukte die reden haar vriend had gegeven.,haar vriend,die
+14,Topicalization,61,question_similarity_1,68,Grammatical,Liam vertelde welk verhaal zijn grootvader had geschreven.,zijn grootvader,welk
+14,Topicalization,61,question_similarity_1,68,Ungrammatical,Liam vertelde dat verhaal zijn grootvader had geschreven.,zijn grootvader,dat
+14,Topicalization,61,question_similarity_1,69,Grammatical,Noor onthulde welk avontuur haar vriendin had beleefd.,haar vriendin,welk
+14,Topicalization,61,question_similarity_1,69,Ungrammatical,Noor onthulde dat avontuur haar vriendin had beleefd.,haar vriendin,dat
+14,Topicalization,61,question_similarity_1,70,Grammatical,Timo toonde welke truc zijn hond had geleerd.,zijn hond,welke
+14,Topicalization,61,question_similarity_1,70,Ungrammatical,Timo toonde die truc zijn hond had geleerd.,zijn hond,die
+14,Topicalization,61,question_similarity_1,71,Grammatical,Elin beschreef welk project haar collega had voltooid.,haar collega,welk
+14,Topicalization,61,question_similarity_1,71,Ungrammatical,Elin beschreef dat project haar collega had voltooid.,haar collega,dat
+14,Topicalization,61,question_similarity_1,72,Grammatical,Lucas benadrukte welke eigenschap zijn mentor waardeerde.,zijn mentor,welke
+14,Topicalization,61,question_similarity_1,72,Ungrammatical,Lucas benadrukte die eigenschap zijn mentor waardeerde.,zijn mentor,die
+14,Topicalization,61,question_similarity_1,73,Grammatical,Jasmijn vertelde welk lied haar zus had gezongen.,haar zus,welk
+14,Topicalization,61,question_similarity_1,73,Ungrammatical,Jasmijn vertelde dat lied haar zus had gezongen.,haar zus,dat
+14,Topicalization,61,question_similarity_1,74,Grammatical,Milan identificeerde welk voorstel zijn vriend had ingediend.,zijn vriend,welk
+14,Topicalization,61,question_similarity_1,74,Ungrammatical,Milan identificeerde dat voorstel zijn vriend had ingediend.,zijn vriend,dat
+14,Topicalization,61,question_similarity_1,75,Grammatical,Finn onthulde welke bestemming zijn ouders hadden gekozen.,zijn ouders,welke
+14,Topicalization,61,question_similarity_1,75,Ungrammatical,Finn onthulde die bestemming zijn ouders hadden gekozen.,zijn ouders,die
+14,Topicalization,61,question_similarity_1,76,Grammatical,Nova toonde welk kostuum haar broer had ontworpen.,haar broer,welk
+14,Topicalization,61,question_similarity_1,76,Ungrammatical,Nova toonde dat kostuum haar broer had ontworpen.,haar broer,dat
+14,Topicalization,61,question_similarity_1,77,Grammatical,Bram beschreef welke uitvinding zijn grootvader had gedaan.,zijn grootvader,welke
+14,Topicalization,61,question_similarity_1,77,Ungrammatical,Bram beschreef die uitvinding zijn grootvader had gedaan.,zijn grootvader,die
+14,Topicalization,61,question_similarity_1,78,Grammatical,Eva benadrukte welke eigenschap haar leraar bewonderde.,haar leraar,welke
+14,Topicalization,61,question_similarity_1,78,Ungrammatical,Eva benadrukte die eigenschap haar leraar bewonderde.,haar leraar,die
+14,Topicalization,61,question_similarity_1,79,Grammatical,Noa onthulde welke film haar zus had geregisseerd.,haar zus,welke
+14,Topicalization,61,question_similarity_1,79,Ungrammatical,Noa onthulde dat film haar zus had geregisseerd.,haar zus,dat
+14,Topicalization,61,question_similarity_1,80,Grammatical,Ruben toonde welke techniek zijn coach had aangeleerd.,zijn coach,welke
+14,Topicalization,61,question_similarity_1,80,Ungrammatical,Ruben toonde die techniek zijn coach had aangeleerd.,zijn coach,die
+14,Topicalization,61,question_similarity_1,81,Grammatical,Sophie beschreef welk boek haar vriend had geschreven.,haar vriend,welk
+14,Topicalization,61,question_similarity_1,81,Ungrammatical,Sophie beschreef dat boek haar vriend had geschreven.,haar vriend,dat
+14,Topicalization,61,question_similarity_1,82,Grammatical,Linde benadrukte welk advies haar moeder had gegeven.,haar moeder,welk
+14,Topicalization,61,question_similarity_1,82,Ungrammatical,Linde benadrukte dat advies haar moeder had gegeven.,haar moeder,dat
+14,Topicalization,61,question_similarity_1,83,Grammatical,Niek identificeerde welk probleem zijn collega had opgelost.,zijn collega,welk
+14,Topicalization,61,question_similarity_1,83,Ungrammatical,Niek identificeerde dat probleem zijn collega had opgelost.,zijn collega,dat
+14,Topicalization,61,question_similarity_1,84,Grammatical,Fleur vertelde welk nieuws haar broer had ontvangen.,haar broer,welk
+14,Topicalization,61,question_similarity_1,84,Ungrammatical,Fleur vertelde dat nieuws haar broer had ontvangen.,haar broer,dat
+14,Topicalization,61,question_similarity_1,85,Grammatical,Wout onthulde welke oplossing zijn vriend had bedacht.,zijn vriend,welke
+14,Topicalization,61,question_similarity_1,85,Ungrammatical,Wout onthulde die oplossing zijn vriend had bedacht.,zijn vriend,die
+14,Topicalization,61,question_similarity_1,86,Grammatical,Zoë toonde welke dans haar zus had ingestudeerd.,haar zus,welke
+14,Topicalization,61,question_similarity_1,86,Ungrammatical,Zoë toonde die dans haar zus had ingestudeerd.,haar zus,die
+14,Topicalization,61,question_similarity_1,87,Grammatical,Roos vertelde welk excursie haar klas had bezocht.,haar klas,welk
+14,Topicalization,61,question_similarity_1,87,Ungrammatical,Roos vertelde dat excursie haar klas had bezocht.,haar klas,dat
+14,Topicalization,61,question_similarity_1,88,Grammatical,Max toonde welk kunstwerk zijn vriend had gemaakt.,zijn vriend,welk
+14,Topicalization,61,question_similarity_1,88,Ungrammatical,Max toonde dat kunstwerk zijn vriend had gemaakt.,zijn vriend,dat
+14,Topicalization,61,question_similarity_1,89,Grammatical,Nina beschreef welk experiment haar buurman had uitgevoerd.,haar buurman,welk
+14,Topicalization,61,question_similarity_1,89,Ungrammatical,Nina beschreef dat experiment haar buurman had uitgevoerd.,haar buurman,dat
+14,Topicalization,61,question_similarity_1,90,Grammatical,Luuk toonde welk model zijn vriendin had gekozen.,zijn vriendin,welk
+14,Topicalization,61,question_similarity_1,90,Ungrammatical,Luuk toonde dat model zijn vriendin had gekozen.,zijn vriendin,dat
+14,Topicalization,61,question_similarity_1,91,Grammatical,Lars bekende welk gevoel zijn vriend had geuit.,zijn vriend,welk
+14,Topicalization,61,question_similarity_1,91,Ungrammatical,Lars bekende dat gevoel zijn vriend had geuit.,zijn vriend,dat
+14,Topicalization,61,question_similarity_1,92,Grammatical,Lotte identificeerde welk advies haar mentor had gegeven.,haar mentor,welk
+14,Topicalization,61,question_similarity_1,92,Ungrammatical,Lotte identificeerde dat advies haar mentor had gegeven.,haar mentor,dat
+14,Topicalization,61,question_similarity_1,93,Grammatical,Bram onthulde welk mysterie zijn broer had opgelost.,zijn broer,welk
+14,Topicalization,61,question_similarity_1,93,Ungrammatical,Bram onthulde dat mysterie zijn broer had opgelost.,zijn broer,dat
+14,Topicalization,61,question_similarity_1,94,Grammatical,Jasmijn benadrukte welk detail haar vriend had opgemerkt.,haar vriend,welk
+14,Topicalization,61,question_similarity_1,94,Ungrammatical,Jasmijn benadrukte dat detail haar vriend had opgemerkt.,haar vriend,dat
+14,Topicalization,61,question_similarity_1,95,Grammatical,Milan identificeerde welk aspect zijn vriend had benadrukt.,zijn vriend,welk
+14,Topicalization,61,question_similarity_1,95,Ungrammatical,Milan identificeerde dat aspect zijn vriend had benadrukt.,zijn vriend,dat
+14,Topicalization,61,question_similarity_1,96,Grammatical,Puck beschreef welk project haar team had afgerond.,haar team,welk
+14,Topicalization,61,question_similarity_1,96,Ungrammatical,Puck beschreef dat project haar team had afgerond.,haar team,dat
+14,Topicalization,61,question_similarity_1,97,Grammatical,Lotte benadrukte welk talent haar zus had ontdekt.,haar zus,welk
+14,Topicalization,61,question_similarity_1,97,Ungrammatical,Lotte benadrukte dat talent haar zus had ontdekt.,haar zus,dat
+14,Topicalization,61,question_similarity_1,98,Grammatical,Daan beschreef welk detail zijn vriendin had opgemerkt.,zijn vriendin,welk
+14,Topicalization,61,question_similarity_1,98,Ungrammatical,Daan beschreef dat detail zijn vriendin had opgemerkt.,zijn vriendin,dat
+14,Topicalization,61,question_similarity_1,99,Grammatical,Daan toonde welk voorstel zijn team had goedgekeurd.,zijn team,welk
+14,Topicalization,61,question_similarity_1,99,Ungrammatical,Daan toonde dat voorstel zijn team had goedgekeurd.,zijn team,dat
+14,Topicalization,61,question_similarity_1,100,Grammatical,Timo toonde welke kerstbal zijn moeder had opgehangen.,zijn moeder,welke
+14,Topicalization,61,question_similarity_1,100,Ungrammatical,Timo toonde die kerstbal zijn moeder had opgehangen.,zijn moeder,die
+14,Topicalization,62,question_similarity_2,101,Grammatical,Dit gerecht heeft de kok gemaakt voor het menu.,heeft de kok,
+14,Topicalization,62,question_similarity_2,101,Ungrammatical,Dit gerecht de kok heeft gemaakt voor het menu.,de kok heeft,
+14,Topicalization,62,question_similarity_2,102,Grammatical,Dat liedje heeft de dj gedraaid op het feestje.,heeft de dj,
+14,Topicalization,62,question_similarity_2,102,Ungrammatical,Dat liedje de dj heeft gedraaid op het feestje.,de dj heeft,
+14,Topicalization,62,question_similarity_2,103,Grammatical,Deze regels heeft de juffrouw gehanteerd in de klas.,heeft de juffrouw,
+14,Topicalization,62,question_similarity_2,103,Ungrammatical,Deze regels de juffrouw heeft gehanteerd in de klas.,de juffrouw heeft,
+14,Topicalization,62,question_similarity_2,104,Grammatical,Die ruimtes heeft de vrouw gedecoreerd voor grote bruiloften.,heeft de vrouw,
+14,Topicalization,62,question_similarity_2,104,Ungrammatical,Die ruimtes de vrouw heeft gedecoreerd voor grote bruiloften.,de vrouw heeft,
+14,Topicalization,62,question_similarity_2,105,Grammatical,Deze vriendin heeft de jongen geïntroduceerd bij de familie.,heeft de jongen,
+14,Topicalization,62,question_similarity_2,105,Ungrammatical,Deze vriendin de jongen heeft geïntroduceerd bij de familie.,de jongen heeft,
+14,Topicalization,62,question_similarity_2,106,Grammatical,Die televisie heeft de medewerker geïnstallateerd in de woonkamer.,heeft de medewerker,
+14,Topicalization,62,question_similarity_2,106,Ungrammatical,Die televisie de medewerker heeft geïnstallateerd in de woonkamer.,de medewerker heeft,
+14,Topicalization,62,question_similarity_2,107,Grammatical,Deze politicus heeft de journalist geïnterviewd voor een nieuwsbericht.,heeft de journalist,
+14,Topicalization,62,question_similarity_2,107,Ungrammatical,Deze politicus de journalist heeft geïnterviewd voor een nieuwsbericht.,de journalist heeft,
+14,Topicalization,62,question_similarity_2,108,Grammatical,Dit recept heeft de chef gedeeld op haar website.,heeft de chef,
+14,Topicalization,62,question_similarity_2,108,Ungrammatical,Dit recept de chef heeft gedeeld op haar website.,de chef heeft,
+14,Topicalization,62,question_similarity_2,109,Grammatical,Die mensen heeft de artiest gehypnotiseerd tijdens de show.,heeft de artiest,
+14,Topicalization,62,question_similarity_2,109,Ungrammatical,Die mensen de artiest heeft gehypnotiseerd tijdens de show.,de artiest heeft,
+14,Topicalization,62,question_similarity_2,110,Grammatical,Deze muffins heeft de moeder gebakken voor de bijeenkomst.,heeft de moeder,
+14,Topicalization,62,question_similarity_2,110,Ungrammatical,Deze muffins de moeder heeft gebakken voor de bijeenkomst.,de moeder heeft,
+14,Topicalization,62,question_similarity_2,111,Grammatical,Deze katten heeft de man weggejaagd.,heeft de man,
+14,Topicalization,62,question_similarity_2,111,Ungrammatical,Deze katten de man heeft weggejaagd.,de man heeft,
+14,Topicalization,62,question_similarity_2,112,Grammatical,Dit gebaar maakt de zangeres naar de piano.,maakt de zangeres,
+14,Topicalization,62,question_similarity_2,112,Ungrammatical,Dit gebaar de zangeres maakt naar de piano.,de zangeres maakt,
+14,Topicalization,62,question_similarity_2,113,Grammatical,Zo'n misser schiet de voetballer niet nog eens.,schiet de voetballer,
+14,Topicalization,62,question_similarity_2,113,Ungrammatical,Zo'n misser de voetballer schiet niet nog eens.,de voetballer schiet,
+14,Topicalization,62,question_similarity_2,114,Grammatical,Zulke aardappels kan de boer elke dag wel eten.,kan de boer,
+14,Topicalization,62,question_similarity_2,114,Ungrammatical,Zulke aardappels de boer kan elke dag wel eten.,de boer kan,
+14,Topicalization,62,question_similarity_2,115,Grammatical,Deze gebreide sokken gaf de vrouw elk jaar weg aan arme kinderen.,gaf de vrouw,
+14,Topicalization,62,question_similarity_2,115,Ungrammatical,Deze gebreide sokken de vrouw gaf elk jaar weg aan arme kinderen.,de vrouw gaf,
+14,Topicalization,62,question_similarity_2,116,Grammatical,Dat boek heeft mijn vriendin gelezen.,heeft mijn vriendin,
+14,Topicalization,62,question_similarity_2,116,Ungrammatical,Dat boek mijn vriendin heeft gelezen.,mijn vriendin heeft,
+14,Topicalization,62,question_similarity_2,117,Grammatical,Zo'n grap vertelt mijn broer altijd.,vertelt mijn broer,
+14,Topicalization,62,question_similarity_2,117,Ungrammatical,Zo'n grap mijn broer vertelt altijd.,mijn broer vertelt,
+14,Topicalization,62,question_similarity_2,118,Grammatical,Deze woorden heeft de leraar benadrukt.,heeft de leraar,
+14,Topicalization,62,question_similarity_2,118,Ungrammatical,Deze woorden de leraar heeft benadrukt.,de leraar heeft,
+14,Topicalization,62,question_similarity_2,119,Grammatical,Dit cadeau geeft mijn zus me.,geeft mijn zus,
+14,Topicalization,62,question_similarity_2,119,Ungrammatical,Dit cadeau mijn zus geeft me.,mijn zus geeft,
+14,Topicalization,62,question_similarity_2,120,Grammatical,Die film heeft mijn buurman aanbevolen.,heeft mijn buurman,
+14,Topicalization,62,question_similarity_2,120,Ungrammatical,Die film mijn buurman heeft aanbevolen.,mijn buurman heeft,
+14,Topicalization,62,question_similarity_2,121,Grammatical,Zo'n regenbui verpest mijn plannen.,verpest mijn plannen.,
+14,Topicalization,62,question_similarity_2,121,Ungrammatical,Zo'n regenbui mijn plannen verpest.,mijn plannen verpest.,
+14,Topicalization,62,question_similarity_2,122,Grammatical,Dit gerecht kookt mijn moeder.,kookt mijn moeder,
+14,Topicalization,62,question_similarity_2,122,Ungrammatical,Dit gerecht mijn moeder kookt.,mijn moeder kookt,
+14,Topicalization,62,question_similarity_2,123,Grammatical,Die opmerking heeft mijn collega gemaakt.,heeft mijn collega,
+14,Topicalization,62,question_similarity_2,123,Ungrammatical,Die opmerking mijn collega heeft gemaakt.,mijn collega heeft,
+14,Topicalization,62,question_similarity_2,124,Grammatical,Deze liedjes zingt mijn zusje.,zingt mijn zusje.,
+14,Topicalization,62,question_similarity_2,124,Ungrammatical,Deze liedjes mijn zusje zingt.,mijn zusje zingt,
+14,Topicalization,62,question_similarity_2,125,Grammatical,Dat huis heeft mijn oom gekocht.,heeft mijn oom,
+14,Topicalization,62,question_similarity_2,125,Ungrammatical,Dat huis mijn oom heeft gekocht heeft.,mijn oom heeft,
+14,Topicalization,62,question_similarity_2,126,Grammatical,Dit programma kijkt mijn vader graag.,kijkt mijn vader,
+14,Topicalization,62,question_similarity_2,126,Ungrammatical,Dit programma mijn vader kijkt graag.,mijn vader kijkt,
+14,Topicalization,62,question_similarity_2,127,Grammatical,Zo'n taak krijgen de studenten.,krijgen de studenten,
+14,Topicalization,62,question_similarity_2,127,Ungrammatical,Zo'n taak de studenten krijgen.,de studenten krijgen,
+14,Topicalization,62,question_similarity_2,128,Grammatical,Die grap vertelt mijn opa.,vertelt mijn opa,
+14,Topicalization,62,question_similarity_2,128,Ungrammatical,Die grap mijn opa vertelt.,mijn opa vertelt,
+14,Topicalization,62,question_similarity_2,129,Grammatical,Deze schilderijen waarderen mijn vrienden.,waarderen mijn vrienden,
+14,Topicalization,62,question_similarity_2,129,Ungrammatical,Deze schilderijen mijn vrienden waarderen.,mijn vrienden waarderen,
+14,Topicalization,62,question_similarity_2,130,Grammatical,Dit probleem onderschat mijn lerares. ,onderschat mijn lerares,
+14,Topicalization,62,question_similarity_2,130,Ungrammatical,Dit probleem mijn lerares onderschat.,mijn lerares onderschat,
+14,Topicalization,62,question_similarity_2,131,Grammatical,Zo'n discussie voeren mijn ouders altijd.,voeren mijn ouders,
+14,Topicalization,62,question_similarity_2,131,Ungrammatical,Zo'n discussie mijn ouders voeren altijd.,mijn ouders voeren,
+14,Topicalization,62,question_similarity_2,132,Grammatical,Die vraag stelt mijn neefje constant.,stelt mijn neefje,
+14,Topicalization,62,question_similarity_2,132,Ungrammatical,Die vraag mijn neefje stelt constant.,mijn neefje stelt,
+14,Topicalization,62,question_similarity_2,133,Grammatical,Dit gerecht bereidt mijn buurvrouw.,bereidt mijn buurvrouw,
+14,Topicalization,62,question_similarity_2,133,Ungrammatical,Dit gerecht mijn buurvrouw bereidt.,mijn buurvrouw bereidt,
+14,Topicalization,62,question_similarity_2,134,Grammatical,Zo'n grapje maakt mijn zusje.,maakt mijn zusje,
+14,Topicalization,62,question_similarity_2,134,Ungrammatical,Zo'n grapje mijn zusje maakt.,mijn zusje maakt,
+14,Topicalization,62,question_similarity_2,135,Grammatical,Deze tekening heeft mijn nichtje gemaakt.,heeft mijn nichtje,
+14,Topicalization,62,question_similarity_2,135,Ungrammatical,Deze tekening mijn nichtje gemaakt heeft.,mijn nichtje gemaakt,
+14,Topicalization,62,question_similarity_2,136,Grammatical,Dat voorstel deed mijn vriend .,deed mijn vriend,
+14,Topicalization,62,question_similarity_2,136,Ungrammatical,Dat voorstel mijn vriend deed.,mijn vriend deed,
+14,Topicalization,62,question_similarity_2,137,Grammatical,Deze trucjes kent mijn hond.,kent mijn hond,
+14,Topicalization,62,question_similarity_2,137,Ungrammatical,Deze trucjes mijn hond kent.,mijn hond kent,
+14,Topicalization,62,question_similarity_2,138,Grammatical,Dat foutje maakt mijn dochter.,maakt mijn dochter,
+14,Topicalization,62,question_similarity_2,138,Ungrammatical,Dat foutje mijn dochter maakt.,mijn dochter maakt,
+14,Topicalization,62,question_similarity_2,139,Grammatical,Deze oplossing vindt mijn leraar briljant.,vindt mijn leraar,
+14,Topicalization,62,question_similarity_2,139,Ungrammatical,Deze oplossing mijn leraar vindt briljant.,mijn leraar vindt,
+14,Topicalization,62,question_similarity_2,140,Grammatical,Dat boek heeft mijn zusje verslonden.,heeft mijn zusje,
+14,Topicalization,62,question_similarity_2,140,Ungrammatical,Dat boek mijn zusje heeft verslonden.,mijn zusje heeft,
+14,Topicalization,62,question_similarity_2,141,Grammatical,Deze stappen volgt mijn vader.,volgt mijn vader,
+14,Topicalization,62,question_similarity_2,141,Ungrammatical,Deze stappen mijn vader volgt.,mijn vader volgt,
+14,Topicalization,62,question_similarity_2,142,Grammatical,Zo'n geluid hoort mijn oma vaak.,hoort mijn oma,
+14,Topicalization,62,question_similarity_2,142,Ungrammatical,Zo'n geluid mijn oma hoort vaak.,mijn oma hoort,
+14,Topicalization,62,question_similarity_2,143,Grammatical,Dit liedje zingt mijn broertje graag.,zingt mijn broertje,
+14,Topicalization,62,question_similarity_2,143,Ungrammatical,Dit liedje mijn broertje zingt graag.,mijn broertje zingt,
+14,Topicalization,62,question_similarity_2,144,Grammatical,Die bloemen heeft de tuinman geplant.,heeft de tuinman,
+14,Topicalization,62,question_similarity_2,144,Ungrammatical,Die bloemen de tuinman heeft geplant.,de tuinman heeft,
+14,Topicalization,62,question_similarity_2,145,Grammatical,Deze film bekijkt de regisseur met interesse.,bekijkt de regisseur,
+14,Topicalization,62,question_similarity_2,145,Ungrammatical,Deze film de regisseur bekijkt met interesse.,de regisseur bekijkt,
+14,Topicalization,62,question_similarity_2,146,Grammatical,Dat boek leest de student in één dag uit.,leest de student,
+14,Topicalization,62,question_similarity_2,146,Ungrammatical,Dat boek de student leest in één dag uit.,de student leest,
+14,Topicalization,62,question_similarity_2,147,Grammatical,Zo'n grap vertelt de komiek graag op het podium.,vertelt de komiek,
+14,Topicalization,62,question_similarity_2,147,Ungrammatical,Zo'n grap de komiek vertelt graag op het podium.,de komiek vertelt,
+14,Topicalization,62,question_similarity_2,148,Grammatical,Dit schilderij bewondert de kunstliefhebber al jaren.,bewondert de kunstliefhebber,
+14,Topicalization,62,question_similarity_2,148,Ungrammatical,Dit schilderij de kunstliefhebber bewondert al jaren.,de kunstliefhebber bewondert,
+14,Topicalization,62,question_similarity_2,149,Grammatical,Die opmerking heeft de leraar goed opgepikt.,heeft de leraar,
+14,Topicalization,62,question_similarity_2,149,Ungrammatical,Die opmerking de leraar heeft goed opgepikt.,de leraar heeft,
+14,Topicalization,62,question_similarity_2,150,Grammatical,Deze techniek past de chef-kok toe bij het koken.,past de chef-kok,
+14,Topicalization,62,question_similarity_2,150,Ungrammatical,Deze techniek de chef-kok past toe bij het koken.,de chef-kok past,
+14,Topicalization,62,question_similarity_2,151,Grammatical,Zo'n beslissing neemt de manager niet lichtzinnig.,neemt de manager,
+14,Topicalization,62,question_similarity_2,151,Ungrammatical,Zo'n beslissing de manager neemt niet lichtzinnig.,de manager neemt,
+14,Topicalization,62,question_similarity_2,152,Grammatical,Dit gerecht maakt de chef-kok met passie klaar.,maakt de chef-kok,
+14,Topicalization,62,question_similarity_2,152,Ungrammatical,Dit gerecht de chef-kok maakt met passie klaar.,de chef-kok maakt,
+14,Topicalization,62,question_similarity_2,153,Grammatical,Die vraag stelt de journalist aan de politicus.,stelt de journalist,
+14,Topicalization,62,question_similarity_2,153,Ungrammatical,Die vraag de journalist stelt aan de politicus.,de journalist stelt,
+14,Topicalization,62,question_similarity_2,154,Grammatical,Zo'n uitdaging gaat de atleet graag aan.,gaat de atleet,
+14,Topicalization,62,question_similarity_2,154,Ungrammatical,Zo'n uitdaging de atleet gaat graag aan.,de atleet gaat,
+14,Topicalization,62,question_similarity_2,155,Grammatical,Dit probleem lost de ingenieur snel op.,lost de ingenieur,
+14,Topicalization,62,question_similarity_2,155,Ungrammatical,Dit probleem de ingenieur lost snel op.,de ingenieur lost,
+14,Topicalization,62,question_similarity_2,156,Grammatical,Deze melodie speelt de muzikant op zijn gitaar.,speelt de muzikant,
+14,Topicalization,62,question_similarity_2,156,Ungrammatical,Deze melodie de muzikant speelt op zijn gitaar.,de muzikant speelt,
+14,Topicalization,62,question_similarity_2,157,Grammatical,Die oplossing heeft de wetenschapper ontdekt.,heeft de wetenschapper,
+14,Topicalization,62,question_similarity_2,157,Ungrammatical,Die oplossing de wetenschapper heeft ontdekt.,de wetenschapper heeft,
+14,Topicalization,62,question_similarity_2,158,Grammatical,Dit doel bereikt de ondernemer binnen een jaar.,bereikt de ondernemer,
+14,Topicalization,62,question_similarity_2,158,Ungrammatical,Dit doel de ondernemer bereikt binnen een jaar.,de ondernemer bereikt,
+14,Topicalization,62,question_similarity_2,159,Grammatical,Zo'n verhaal vertelt de schrijver met enthousiasme.,vertelt de schrijver,
+14,Topicalization,62,question_similarity_2,159,Ungrammatical,Zo'n verhaal de schrijver vertelt met enthousiasme.,de schrijver vertelt,
+14,Topicalization,62,question_similarity_2,160,Grammatical,Deze strategie volgt het bedrijf al jarenlang.,volgt het bedrijf,
+14,Topicalization,62,question_similarity_2,160,Ungrammatical,Deze strategie het bedrijf volgt al jarenlang.,het bedrijf volgt,
+14,Topicalization,62,question_similarity_2,161,Grammatical,Dat advies geeft de coach aan zijn spelers.,geeft de coach,
+14,Topicalization,62,question_similarity_2,161,Ungrammatical,Dat advies de coach geeft aan zijn spelers.,de coach geeft,
+14,Topicalization,62,question_similarity_2,162,Grammatical,Zo'n prestatie levert de sporter niet zomaar.,levert de sporter,
+14,Topicalization,62,question_similarity_2,162,Ungrammatical,Zo'n prestatie de sporter levert niet zomaar.,de sporter levert,
+14,Topicalization,62,question_similarity_2,163,Grammatical,Deze methode hanteert de leraar bij het lesgeven.,hanteert de leraar,
+14,Topicalization,62,question_similarity_2,163,Ungrammatical,Deze methode de leraar hanteert bij het lesgeven.,de leraar hanteert,
+14,Topicalization,62,question_similarity_2,164,Grammatical,Die fout heeft de programmeur snel hersteld.,heeft de programmeur,
+14,Topicalization,62,question_similarity_2,164,Ungrammatical,Die fout de programmeur heeft snel hersteld.,de programmeur heeft,
+14,Topicalization,62,question_similarity_2,165,Grammatical,Dit lied zingt de zangeres met veel emotie.,zingt de zangeres,
+14,Topicalization,62,question_similarity_2,165,Ungrammatical,Dit lied de zangeres zingt met veel emotie.,de zangeres zingt,
+14,Topicalization,62,question_similarity_2,166,Grammatical,Zo'n reactie verwacht de acteur niet van het publiek.,verwacht de acteur,
+14,Topicalization,62,question_similarity_2,166,Ungrammatical,Zo'n reactie de acteur verwacht niet van het publiek.,de acteur verwacht,
+14,Topicalization,62,question_similarity_2,167,Grammatical,Dit voorstel doet de politicus tijdens de vergadering.,doet de politicus,
+14,Topicalization,62,question_similarity_2,167,Ungrammatical,Dit voorstel de politicus doet tijdens de vergadering.,de politicus doet,
+14,Topicalization,62,question_similarity_2,168,Grammatical,Deze route volgt de wandelaar naar de top.,volgt de wandelaar,
+14,Topicalization,62,question_similarity_2,168,Ungrammatical,Deze route de wandelaar volgt naar de top.,de wandelaar volgt,
+14,Topicalization,62,question_similarity_2,169,Grammatical,Dat concept begrijpt de student niet helemaal.,begrijpt de student,
+14,Topicalization,62,question_similarity_2,169,Ungrammatical,Dat concept de student begrijpt niet helemaal.,de student begrijpt,
+14,Topicalization,62,question_similarity_2,170,Grammatical,Zo'n argument overtuigt de jury niet.,overtuigt de jury,
+14,Topicalization,62,question_similarity_2,170,Ungrammatical,Zo'n argument de jury overtuigt niet.,de jury overtuigt,
+14,Topicalization,62,question_similarity_2,171,Grammatical,Dit instrument bespeelt de muzikant al van jongs af aan.,bespeelt de muzikant,
+14,Topicalization,62,question_similarity_2,171,Ungrammatical,Dit instrument de muzikant bespeelt al van jongs af aan.,de muzikant bespeelt,
+14,Topicalization,62,question_similarity_2,172,Grammatical,Die stelling onderbouwt de wetenschapper met feiten.,onderbouwt de wetenschapper,
+14,Topicalization,62,question_similarity_2,172,Ungrammatical,Die stelling de wetenschapper onderbouwt met feiten.,de wetenschapper onderbouwt,
+14,Topicalization,62,question_similarity_2,173,Grammatical,Die opmerking heeft de leraar beledigd.,heeft de leraar,
+14,Topicalization,62,question_similarity_2,173,Ungrammatical,Die opmerking de leraar heeft beledigd.,de leraar heeft,
+14,Topicalization,62,question_similarity_2,174,Grammatical,Dat boek leest de student voor zijn examen.,leest de student,
+14,Topicalization,62,question_similarity_2,174,Ungrammatical,Dat boek de student leest voor zijn examen.,de student leest,
+14,Topicalization,62,question_similarity_2,175,Grammatical,Zo'n drankje lest de dorst uitstekend. ,lest de dorst,
+14,Topicalization,62,question_similarity_2,175,Ungrammatical,Zo'n drankje de dorst lest uitstekend. ,de dorst lest,
+14,Topicalization,62,question_similarity_2,176,Grammatical,Dit gerecht bereidt de chef met veel zorg.,bereidt de chef,
+14,Topicalization,62,question_similarity_2,176,Ungrammatical,Dit gerecht de chef bereidt met veel zorg.,de chef bereidt,
+14,Topicalization,62,question_similarity_2,177,Grammatical,Zo'n geluid hoort de buurman 's nachts.,hoort de buurman,
+14,Topicalization,62,question_similarity_2,177,Ungrammatical,Zo'n geluid de buurman hoort 's nachts.,de buurman hoort,
+14,Topicalization,62,question_similarity_2,178,Grammatical,Zo'n verkeerde afslag nam de chauffeur.,nam de chauffeur,
+14,Topicalization,62,question_similarity_2,178,Ungrammatical,Zo'n verkeerde afslag de chauffeur nam.,de chauffeur nam,
+14,Topicalization,62,question_similarity_2,179,Grammatical,Die opmerking heeft mijn vriendin geraakt.,heeft mijn vriendin,
+14,Topicalization,62,question_similarity_2,179,Ungrammatical,Die opmerking mijn vriendin heeft geraakt.,mijn vriendin heeft,
+14,Topicalization,62,question_similarity_2,180,Grammatical,Dat cadeau gaf mijn moeder me voor mijn verjaardag.,gaf mijn moeder,
+14,Topicalization,62,question_similarity_2,180,Ungrammatical,Dat cadeau mijn moeder gaf me voor mijn verjaardag.,mijn moeder gaf,
+14,Topicalization,62,question_similarity_2,181,Grammatical,Deze regels volgt de leerling niet goed op.,volgt de leerling,
+14,Topicalization,62,question_similarity_2,181,Ungrammatical,Deze regels de leerling volgt niet goed op.,de leerling volgt,
+14,Topicalization,62,question_similarity_2,182,Grammatical,Dit liedje zingt de zanger met veel passie.,zingt de zanger,
+14,Topicalization,62,question_similarity_2,182,Ungrammatical,Dit liedje de zanger zingt met veel passie.,de zanger zingt,
+14,Topicalization,62,question_similarity_2,183,Grammatical,Zo'n slechte grap maakte mijn broer.,maakte mijn broer,
+14,Topicalization,62,question_similarity_2,183,Ungrammatical,Zo'n slechte grap mijn broer maakte.,mijn broer maakte.,
+14,Topicalization,62,question_similarity_2,184,Grammatical,Zo'n ongeluk gebeurde mijn buurman.,gebeurde mijn buurman.,
+14,Topicalization,62,question_similarity_2,184,Ungrammatical,Zo'n ongeluk mijn buurman gebeurde.,mijn buurman gebeurde,
+14,Topicalization,62,question_similarity_2,185,Grammatical,Die film heeft mijn zus bang gemaakt.,heeft mijn zus,
+14,Topicalization,62,question_similarity_2,185,Ungrammatical,Die film mijn zus heeft bang gemaakt.,mijn zus heeft,
+14,Topicalization,62,question_similarity_2,186,Grammatical,Dat huis bouwde de architect met moderne technieken.,bouwde de architect,
+14,Topicalization,62,question_similarity_2,186,Ungrammatical,Dat huis de architect bouwde met moderne technieken.,de architect bouwde,
+14,Topicalization,62,question_similarity_2,187,Grammatical,Deze taak kost de student veel tijd.,kost de student,
+14,Topicalization,62,question_similarity_2,187,Ungrammatical,Deze taak de student kost veel tijd.,de student kost,
+14,Topicalization,62,question_similarity_2,188,Grammatical,Dit probleem heeft de leraar besproken.,heeft de leraar,
+14,Topicalization,62,question_similarity_2,188,Ungrammatical,Dit probleem de leraar heeft besproken.,de leraar heeft,
+14,Topicalization,62,question_similarity_2,189,Grammatical,Zo'n lekkere geur verspreidt de bakkerij.,verspreidt de bakkerij,
+14,Topicalization,62,question_similarity_2,189,Ungrammatical,Zo'n lekkere geur de bakkerij verspreidt.,de bakkerij verspreidt,
+14,Topicalization,62,question_similarity_2,190,Grammatical,Zo'n spannend verhaal schreef de auteur.,schreef de auteur,
+14,Topicalization,62,question_similarity_2,190,Ungrammatical,Zo'n spannend verhaal de auteur schreef.,de auteur schreef,
+14,Topicalization,62,question_similarity_2,191,Grammatical,Die vraag stelde de interviewer aan de kandidaat.,stelde de interviewer,
+14,Topicalization,62,question_similarity_2,191,Ungrammatical,Die vraag de interviewer stelde aan de kandidaat.,de interviewer stelde,
+14,Topicalization,62,question_similarity_2,192,Grammatical,Dat liedje zong de zangeres met veel emotie.,zong de zangeres,
+14,Topicalization,62,question_similarity_2,192,Ungrammatical,Dat liedje de zangeres zong met veel emotie.,de zangeres zong,
+14,Topicalization,62,question_similarity_2,193,Grammatical,Deze route neemt de gids tijdens de tour.,neemt de gids,
+14,Topicalization,62,question_similarity_2,193,Ungrammatical,Deze route de gids neemt tijdens de tour.,de gids neemt,
+14,Topicalization,62,question_similarity_2,194,Grammatical,Dit schilderij heeft de kunstenaar gemaakt.,heeft de kunstenaar,
+14,Topicalization,62,question_similarity_2,194,Ungrammatical,Dit schilderij de kunstenaar heeft gemaakt.,de kunstenaar heeft,
+14,Topicalization,62,question_similarity_2,195,Grammatical,Zo'n grote fout maakte de accountant niet eerder.,maakte de accountant,
+14,Topicalization,62,question_similarity_2,195,Ungrammatical,Zo'n grote fout de accountant maakte niet eerder.,de accountant maakte,
+14,Topicalization,62,question_similarity_2,196,Grammatical,Zo'n lange reis maakten de vrienden samen.,maakten de vrienden,
+14,Topicalization,62,question_similarity_2,196,Ungrammatical,Zo'n lange reis de vrienden maakten samen.,de vrienden maakten,
+14,Topicalization,62,question_similarity_2,197,Grammatical,Die grap vertelde de comedian op het podium.,vertelde de comedian,
+14,Topicalization,62,question_similarity_2,197,Ungrammatical,Die grap de comedian vertelde op het podium.,de comedian vertelde,
+14,Topicalization,62,question_similarity_2,198,Grammatical,Dat nieuws verraste mijn collega.,verraste mijn collega,
+14,Topicalization,62,question_similarity_2,198,Ungrammatical,Dat nieuws mijn collega verraste.,mijn collega verraste,
+14,Topicalization,62,question_similarity_2,199,Grammatical,Deze techniek gebruikt de chef voor dit gerecht.,gebruikt de chef,
+14,Topicalization,62,question_similarity_2,199,Ungrammatical,Deze techniek de chef gebruikt voor dit gerecht.,de chef gebruikt,
+14,Topicalization,62,question_similarity_2,200,Grammatical,Dit voorstel besprak de manager met het team.,besprak de manager,
+14,Topicalization,62,question_similarity_2,200,Ungrammatical,Dit voorstel de manager besprak met het team.,de manager besprak,
+14,Topicalization,63,island,201,Grammatical,Deze planten begreep jij dat de tuinman had gezaaid in de tuin,had,begreep
+14,Topicalization,63,island,201,Ungrammatical,Deze planten vroeg jij of de tuinman had gezaaid in de tuin,had,vroeg
+14,Topicalization,63,island,202,Grammatical,Deze fouten wisten wij dat de directeur had gezien in het verslag.,had,wisten
+14,Topicalization,63,island,202,Ungrammatical,Deze fouten betwijfelden wij of de directeur had gezien in het verslag.,had,betwijfelden
+14,Topicalization,63,island,203,Grammatical,Deze papieren begreep hij dat de assistent had gescand voor de vergadering.,had,begreep
+14,Topicalization,63,island,203,Ungrammatical,Deze papieren vroeg hij of de assistent had gescand voor de vergadering.,had,vroeg
+14,Topicalization,63,island,204,Grammatical,Dit huis wisten zij dat de eigenaar had gerenoveerd voor de verkoop.,had,wisten
+14,Topicalization,63,island,204,Ungrammatical,Dit huis betwijfelden zij of de eigenaar had gerenoveerd voor de verkoop.,had,betwijfelden
+14,Topicalization,63,island,205,Grammatical,Deze aflevering begreep jij dat de acteur had geregisseerd voor één keer.,had,begreep
+14,Topicalization,63,island,205,Ungrammatical,Deze aflevering vroeg jij of de acteur had geregisseerd voor één keer.,had,vroeg
+14,Topicalization,63,island,206,Grammatical,Dit fruit wisten wij dat de klant had gewogen in de supermarkt.,had,wisten
+14,Topicalization,63,island,206,Ungrammatical,Dit fruit betwijfelden wij of de klant had gewogen in de supermarkt.,had,betwijfelden
+14,Topicalization,63,island,207,Grammatical,Deze bestanden wist hij dat de medestudent had samengevoegd voor de opdracht.,had,wist
+14,Topicalization,63,island,207,Ungrammatical,Deze bestanden betwijfelde hij of de medestudent had samengevoegd voor de opdracht.,had,betwijfelde
+14,Topicalization,63,island,208,Grammatical,Deze tafel begrepen zij dat de ober had gereserveerd na het belletje.,had,begrepen
+14,Topicalization,63,island,208,Ungrammatical,Deze tafel vroegen zij of de ober had gereserveerd na het belletje.,had,vroegen
+14,Topicalization,63,island,209,Grammatical,Dit toneelstuk begreep jij dat de groep had gerepeteerd in het theater.,had,begreep
+14,Topicalization,63,island,209,Ungrammatical,Dit toneelstuk vroeg jij of de groep had gerepeteerd in het theater.,had,vroeg
+14,Topicalization,63,island,210,Grammatical,Dit gedrag wist hij dat de man had gerapporteerd aan de directie.,had,wist
+14,Topicalization,63,island,210,Ungrammatical,Dit gedrag betwijfelde hij of de man had gerapporteerd aan de directie.,had,betwijfelde
+14,Topicalization,63,island,211,Grammatical,Deze schilderijen merkte zij dat de curator had opgehangen in de galerij.,had,merkte
+14,Topicalization,63,island,211,Ungrammatical,Deze schilderijen merkte zij of de curator had opgehangen in de galerij.,had,merkte
+14,Topicalization,63,island,212,Grammatical,Deze gerechten hoorde hij dat de chef-kok had bereid voor het feest.,had,hoorde
+14,Topicalization,63,island,212,Ungrammatical,Deze gerechten hoorde hij of de chef-kok had bereid voor het feest.,had,hoorde
+14,Topicalization,63,island,213,Grammatical,Dit boek oordeelden wij dat de auteur had geschreven voor de uitgever.,had,oordeelden
+14,Topicalization,63,island,213,Ungrammatical,Dit boek oordeelden wij of de auteur had geschreven voor de uitgever.,had,oordeelden
+14,Topicalization,63,island,214,Grammatical,Deze beslissing begreep jij dat de manager had genomen na overleg.,had,begreep
+14,Topicalization,63,island,214,Ungrammatical,Deze beslissing begreep jij of de manager had genomen na overleg.,had,begreep
+14,Topicalization,63,island,215,Grammatical,Deze opdrachten wist zij dat de leraar had toegewezen voor de les.,had,wist
+14,Topicalization,63,island,215,Ungrammatical,Deze opdrachten wist zij of de leraar had toegewezen voor de les.,had,wist
+14,Topicalization,63,island,216,Grammatical,Dit probleem vroegen wij dat de expert had opgelost tijdens de bijeenkomst.,had,vroegen
+14,Topicalization,63,island,216,Ungrammatical,Dit probleem vroegen wij of de expert had opgelost tijdens de bijeenkomst.,had,vroegen
+14,Topicalization,63,island,217,Grammatical,Deze vragen begrijpt hij dat de spreker had beantwoord tijdens de presentatie.,had,begrijpt
+14,Topicalization,63,island,217,Ungrammatical,Deze vragen begrijpt hij of de spreker had beantwoord tijdens de presentatie.,had,begrijpt
+14,Topicalization,63,island,218,Grammatical,Deze tentoonstellingen wisten zij dat de organisator had gepland voor het museum.,had,wisten
+14,Topicalization,63,island,218,Ungrammatical,Deze tentoonstellingen wisten zij of de organisator had gepland voor het museum.,had,wisten
+14,Topicalization,63,island,219,Grammatical,Dit experiment betwijfelden wij dat de wetenschapper had uitgevoerd in het lab.,had,betwijfelden
+14,Topicalization,63,island,219,Ungrammatical,Dit experiment betwijfelden wij of de wetenschapper had uitgevoerd in het lab.,had,betwijfelden
+14,Topicalization,63,island,220,Grammatical,Deze regels oordeelde zij dat de rechter had vastgesteld in de rechtbank.,had,oordeelde
+14,Topicalization,63,island,220,Ungrammatical,Deze regels oordeelde zij of de rechter had vastgesteld in de rechtbank.,had,oordeelde
+14,Topicalization,63,island,221,Grammatical,Deze verhalen hoorde hij dat de auteur had verteld tijdens het interview.,had,hoorde
+14,Topicalization,63,island,221,Ungrammatical,Deze verhalen hoorde hij of de auteur had verteld tijdens het interview.,had,hoorde
+14,Topicalization,63,island,222,Grammatical,Dit liedje betwijfelen wij dat de zanger had gezongen op het podium.,had,betwijfelen
+14,Topicalization,63,island,222,Ungrammatical,Dit liedje betwijfelen wij of de zanger had gezongen op het podium.,had,betwijfelen
+14,Topicalization,63,island,223,Grammatical,Deze afspraken merkte zij dat de secretaris had gemaakt voor de vergadering.,had,merkte
+14,Topicalization,63,island,223,Ungrammatical,Deze afspraken merkte zij of de secretaris had gemaakt voor de vergadering.,had,merkte
+14,Topicalization,63,island,224,Grammatical,Dit plan begreep jij dat de consultant had ontwikkeld voor het bedrijf.,had,begreep
+14,Topicalization,63,island,224,Ungrammatical,Dit plan begreep jij of de consultant had ontwikkeld voor het bedrijf.,had,begreep
+14,Topicalization,63,island,225,Grammatical,Deze instructies vroegen wij dat de trainer had gegeven voor de wedstrijd.,had,vroegen
+14,Topicalization,63,island,225,Ungrammatical,Deze instructies vroegen wij of de trainer had gegeven voor de wedstrijd.,had,vroegen
+14,Topicalization,63,island,226,Grammatical,Dit fenomeen begrepen zij dat de wetenschappers hadden onderzocht in het laboratorium.,hadden,begrepen
+14,Topicalization,63,island,226,Ungrammatical,Dit fenomeen begrepen zij of de wetenschappers hadden onderzocht in het laboratorium.,hadden,begrepen
+14,Topicalization,63,island,227,Grammatical,Deze resultaten wist zij dat de onderzoeker had geanalyseerd na het experiment.,had,wist
+14,Topicalization,63,island,227,Ungrammatical,Deze resultaten wist zij of de onderzoeker had geanalyseerd na het experiment.,had,wist
+14,Topicalization,63,island,228,Grammatical,Dit nieuws betwijfelden wij dat de journalist had gerapporteerd op televisie.,had,betwijfelden
+14,Topicalization,63,island,228,Ungrammatical,Dit nieuws betwijfelden wij of de journalist had gerapporteerd op televisie.,had,betwijfelden
+14,Topicalization,63,island,229,Grammatical,Deze trends merkte hij dat de analist had geïdentificeerd in de markt.,had,merkte
+14,Topicalization,63,island,229,Ungrammatical,Deze trends merkte hij of de analist had geïdentificeerd in de markt.,had,merkte
+14,Topicalization,63,island,230,Grammatical,Deze uitvinding begreep jij dat de ingenieur had gepatenteerd bij het bureau.,had,begreep
+14,Topicalization,63,island,230,Ungrammatical,Deze uitvinding begreep jij of de ingenieur had gepatenteerd bij het bureau.,had,begreep
+14,Topicalization,63,island,231,Grammatical,Dit advies oordeelden wij dat de adviseur had gegeven aan het bedrijf.,had,oordeelden
+14,Topicalization,63,island,231,Ungrammatical,Dit advies oordeelden wij of de adviseur had gegeven aan het bedrijf.,had,oordeelden
+14,Topicalization,63,island,232,Grammatical,Deze gegevens wist zij dat de wetenschappers hadden verzameld voor het onderzoek.,hadden,wist
+14,Topicalization,63,island,232,Ungrammatical,Deze gegevens wist zij of de wetenschappers hadden verzameld voor het onderzoek.,hadden,wist
+14,Topicalization,63,island,233,Grammatical,Deze plannen vroegen wij dat de architect had ontworpen voor het gebouw.,had,vroegen
+14,Topicalization,63,island,233,Ungrammatical,Deze plannen vroegen wij of de architect had ontworpen voor het gebouw.,had,vroegen
+14,Topicalization,63,island,234,Grammatical,Dit nieuws betwijfelden zij dat de reporter had uitgezonden op de radio.,had,betwijfelden
+14,Topicalization,63,island,234,Ungrammatical,Dit nieuws betwijfelden zij of de reporter had uitgezonden op de radio.,had,betwijfelden
+14,Topicalization,63,island,235,Grammatical,Deze projecten merkte hij dat de manager had toegewezen aan het team.,had,merkte
+14,Topicalization,63,island,235,Ungrammatical,Deze projecten merkte hij of de manager had toegewezen aan het team.,had,merkte
+14,Topicalization,63,island,236,Grammatical,Deze concepten begrepen zij dat de docent had uitgelegd tijdens de les.,had,begrepen
+14,Topicalization,63,island,236,Ungrammatical,Deze concepten begrepen zij of de docent had uitgelegd tijdens de les.,had,begrepen
+14,Topicalization,63,island,237,Grammatical,Deze plannen wisten wij dat de ontwikkelaar had opgesteld voor het project.,had,wisten
+14,Topicalization,63,island,237,Ungrammatical,Deze plannen wisten wij of de ontwikkelaar had opgesteld voor het project.,had,wisten
+14,Topicalization,63,island,238,Grammatical,Dit onderzoek betwijfelden wij dat de wetenschappers hadden uitgevoerd in het veld.,hadden,betwijfelden
+14,Topicalization,63,island,238,Ungrammatical,Dit onderzoek betwijfelden wij of de wetenschappers hadden uitgevoerd in het veld.,hadden,betwijfelden
+14,Topicalization,63,island,239,Grammatical,Dit experiment begreep jij dat de studenten hadden herhaald in het laboratorium.,hadden,begreep
+14,Topicalization,63,island,239,Ungrammatical,Dit experiment begreep jij of de studenten hadden herhaald in het laboratorium.,hadden,begreep
+14,Topicalization,63,island,240,Grammatical,Deze trends merkte zij dat de analist had waargenomen in de markt.,had,merkte
+14,Topicalization,63,island,240,Ungrammatical,Deze trends merkte zij of de analist had waargenomen in de markt.,had,merkte
+14,Topicalization,63,island,241,Grammatical,Dit doelpunt hoorden zij dat de aanvaller had gescoord in de laatste minuut.,had,hoorden
+14,Topicalization,63,island,241,Ungrammatical,Dit doelpunt merkten zij of de aanvaller had gescoord in de laatste minuut.,had,merkten
+14,Topicalization,63,island,242,Grammatical,Deze tactiek wisten wij dat de aanvoerder had toegepast tijdens de wedstrijd.,had,wisten
+14,Topicalization,63,island,242,Ungrammatical,Deze tactiek betwijfelden wij of de aanvoerder had toegepast tijdens de wedstrijd.,had,betwijfelden
+14,Topicalization,63,island,243,Grammatical,Deze strategie begreep zij dat de trainer had uitgedacht voor de tegenstanders.,had,begreep
+14,Topicalization,63,island,243,Ungrammatical,Deze strategie hoorde zij of de trainer had uitgedacht voor de tegenstanders.,had,hoorde
+14,Topicalization,63,island,244,Grammatical,Dit record zagen zij dat de atleet had verbroken tijdens de competitie.,had,zagen
+14,Topicalization,63,island,244,Ungrammatical,Dit record betwijfelden zij of de atleet had verbroken tijdens de competitie.,had,betwijfelden
+14,Topicalization,63,island,245,Grammatical,Dit team wisten wij dat de coach had samengesteld voor het toernooi.,had,wisten
+14,Topicalization,63,island,245,Ungrammatical,Dit team vroegen wij of de coach had samengesteld voor het toernooi.,had,vroegen
+14,Topicalization,63,island,246,Grammatical,Deze blessure hoorden zij dat de dokter had behandeld na de training.,had,hoorden
+14,Topicalization,63,island,246,Ungrammatical,Deze blessure merkten zij of de dokter had behandeld na de training.,had,merkten
+14,Topicalization,63,island,247,Grammatical,Deze scène betwijfelden zij dat de regisseur zou toevoegen aan de voorstelling.,zou,betwijfelden
+14,Topicalization,63,island,247,Ungrammatical,Deze scène wisten zij of de regisseur zou toevoegen aan de voorstelling.,zou,wisten
+14,Topicalization,63,island,248,Grammatical,Dit personage vroegen zij dat de acteur zou begrijpen tijdens de repetities.,zou,vroegen
+14,Topicalization,63,island,248,Ungrammatical,Dit personage wisten zij of de acteur zou begrijpen tijdens de repetities.,zou,wisten
+14,Topicalization,63,island,249,Grammatical,Deze monoloog betwijfelden zij dat de schrijver had geschreven voor het stuk.,had,betwijfelden
+14,Topicalization,63,island,249,Ungrammatical,Deze monoloog begrepen zij of de schrijver had geschreven voor het stuk.,had,begrepen
+14,Topicalization,63,island,250,Grammatical,Dit kostuum vroegen zij dat de ontwerper zou maken voor de hoofdrolspeler.,zou,vroegen
+14,Topicalization,63,island,250,Ungrammatical,Dit kostuum wisten zij of de ontwerper zou maken voor de hoofdrolspeler.,zou,wisten
+14,Topicalization,63,island,251,Grammatical,Dit decor betwijfelden zij dat de decorontwerper had ontworpen voor het toneelstuk.,had,betwijfelden
+14,Topicalization,63,island,251,Ungrammatical,Dit decor begrepen zij of de decorontwerper had ontworpen voor het toneelstuk.,had,begrepen
+14,Topicalization,63,island,252,Grammatical,Deze regieaanwijzingen vroegen zij dat de regisseur zou geven tijdens de repetities.,zou,vroegen
+14,Topicalization,63,island,252,Ungrammatical,Deze regieaanwijzingen wisten zij of de regisseur zou geven tijdens de repetities.,zou,wisten
+14,Topicalization,63,island,253,Grammatical,Dit script betwijfelden zij dat de schrijver had voltooid voor de auditie.,had,betwijfelden
+14,Topicalization,63,island,253,Ungrammatical,Dit script begrepen zij of de schrijver had voltooid voor de auditie.,had,begrepen
+14,Topicalization,63,island,254,Grammatical,Deze muziek vroegen zij dat de componist zou componeren voor de musical.,zou,vroegen
+14,Topicalization,63,island,254,Ungrammatical,Deze muziek wisten zij of de componist zou componeren voor de musical.,zou,wisten
+14,Topicalization,63,island,255,Grammatical,Deze choreografieën betwijfelden zij dat de choreograaf zou bedenken voor de dansvoorstelling.,zou,betwijfelden
+14,Topicalization,63,island,255,Ungrammatical,Deze choreografieën begrepen zij of de choreograaf zou bedenken voor de dansvoorstelling.,zou,begrepen
+14,Topicalization,63,island,256,Grammatical,Deze dialogen vroegen zij dat de toneelschrijver zou schrijven voor het drama.,zou,vroegen
+14,Topicalization,63,island,256,Ungrammatical,Deze dialogen wisten zij of de toneelschrijver zou schrijven voor het drama.,zou,wisten
+14,Topicalization,63,island,257,Grammatical,Deze feiten weten zij dat de leraar heeft onderwezen tijdens de les.,heeft,weten
+14,Topicalization,63,island,257,Ungrammatical,Deze feiten vragen zij of de leraar heeft onderwezen tijdens de les.,heeft,vragen
+14,Topicalization,63,island,258,Grammatical,Dit nieuws merkt zij dat de verslaggever heeft gemeld op televisie.,heeft,merkt
+14,Topicalization,63,island,258,Ungrammatical,Dit nieuws vraagt zij of de verslaggever heeft gemeld op televisie.,heeft,vraagt
+14,Topicalization,63,island,259,Grammatical,Dit plan betwijfelt hij dat de leider heeft voorgesteld tijdens de vergadering.,heeft,betwijfelt
+14,Topicalization,63,island,259,Ungrammatical,Dit plan vraagt hij of de leider heeft voorgesteld tijdens de vergadering.,heeft,vraagt
+14,Topicalization,63,island,260,Grammatical,Deze ontwikkeling weet hij dat de wetenschapper had waargenomen in het lab.,had,weet
+14,Topicalization,63,island,260,Ungrammatical,Deze ontwikkeling betwijfelt hij of de wetenschapper had waargenomen in het lab.,had,betwijfelt
+14,Topicalization,63,island,261,Grammatical,Dit resultaat begreep ik dat de statistieken hadden aangetoond in het onderzoek.,hadden,begreep
+14,Topicalization,63,island,261,Ungrammatical,Dit resultaat vroeg ik of de statistieken hadden aangetoond in het onderzoek.,hadden,vroeg
+14,Topicalization,63,island,262,Grammatical,Deze observatie merkte zij dat de wetenschapper had gemaakt tijdens het experiment.,had,merkte
+14,Topicalization,63,island,262,Ungrammatical,Deze observatie vroeg zij of de wetenschapper had gemaakt tijdens het experiment.,had,vroeg
+14,Topicalization,63,island,263,Grammatical,Deze verklaring weet hij dat de getuige heeft afgelegd in de rechtbank.,heeft,weet
+14,Topicalization,63,island,263,Ungrammatical,Deze verklaring betwijfelt hij of de getuige heeft afgelegd in de rechtbank.,heeft,betwijfelt
+14,Topicalization,63,island,264,Grammatical,Dit plan begreep ik dat de adviseur had voorgesteld tijdens de vergadering.,had,begreep
+14,Topicalization,63,island,264,Ungrammatical,Dit plan vroeg ik of de adviseur had voorgesteld tijdens de vergadering.,had,vroeg
+14,Topicalization,63,island,265,Grammatical,Dit nieuws merkt zij dat de journalist heeft gerapporteerd op de radio.,heeft,merkt
+14,Topicalization,63,island,265,Ungrammatical,Dit nieuws vraagt zij of de journalist heeft gerapporteerd op de radio.,heeft,vraagt
+14,Topicalization,63,island,266,Grammatical,Deze conclusie weten zij dat de expert heeft getrokken na het onderzoek.,heeft,weten
+14,Topicalization,63,island,266,Ungrammatical,Deze conclusie betwijfelen zij of de expert heeft getrokken na het onderzoek.,heeft,betwijfelen
+14,Topicalization,63,island,267,Grammatical,Dit standpunt begrijpt hij dat de spreker heeft verkondigd tijdens het debat.,heeft,begrijpt
+14,Topicalization,63,island,267,Ungrammatical,Dit standpunt vraagt hij of de spreker heeft verkondigd tijdens het debat.,heeft,vraagt
+14,Topicalization,63,island,268,Grammatical,Deze ontdekking betwijfelt zij dat de wetenschapper heeft gedaan tijdens het experiment.,heeft,betwijfelt
+14,Topicalization,63,island,268,Ungrammatical,Deze ontdekking weet zij of de wetenschapper heeft gedaan tijdens het experiment.,heeft,weet
+14,Topicalization,63,island,269,Grammatical,Dit feit betwijfelt hij dat de onderzoeker heeft vastgesteld na de analyse.,heeft,betwijfelt
+14,Topicalization,63,island,269,Ungrammatical,Dit feit vraagt hij of de onderzoeker heeft vastgesteld na de analyse.,heeft,vraagt
+14,Topicalization,63,island,270,Grammatical,Deze bevinding betwijfelt hij dat de expert heeft gedaan na het onderzoek.,heeft,betwijfelt
+14,Topicalization,63,island,270,Ungrammatical,Deze bevinding weet hij of de expert heeft gedaan na het onderzoek.,heeft,weet
+14,Topicalization,63,island,271,Grammatical,Deze interpretatie begrijp ik dat de criticus heeft gegeven na de voorstelling.,heeft,begrijp
+14,Topicalization,63,island,271,Ungrammatical,Deze interpretatie vraag ik of de criticus heeft gegeven na de voorstelling.,heeft,vraag
+14,Topicalization,63,island,272,Grammatical,Deze getuigenissen hoorde zij dat de ooggetuigen hadden afgelegd in de rechtbank.,hadden,hoorde
+14,Topicalization,63,island,272,Ungrammatical,Deze getuigenissen vroeg zij of de ooggetuigen hadden afgelegd in de rechtbank.,hadden,vroeg
+14,Topicalization,63,island,273,Grammatical,Deze vermoedens begrijp ik dat de politie heeft geuit na het onderzoek.,heeft,begrijp
+14,Topicalization,63,island,273,Ungrammatical,Deze vermoedens vraag ik of de politie heeft geuit na het onderzoek.,heeft,vraag
+14,Topicalization,63,island,274,Grammatical,Deze aannames weet hij dat de onderzoeker heeft gedaan tijdens de analyse.,heeft,weet
+14,Topicalization,63,island,274,Ungrammatical,Deze aannames betwijfelt hij of de onderzoeker heeft gedaan tijdens de analyse.,heeft,betwijfelt
+14,Topicalization,63,island,275,Grammatical,Deze verhalen wisten zij dat de helden hadden doorgegeven aan de volgende generaties.,hadden,wisten
+14,Topicalization,63,island,275,Ungrammatical,Deze verhalen betwijfelden zij of de helden hadden doorgegeven aan de volgende generaties.,hadden,betwijfelden
+14,Topicalization,63,island,276,Grammatical,Deze boodschappen oordeelden zij dat de boerin had gekocht op de markt.,had,oordeelden
+14,Topicalization,63,island,276,Ungrammatical,Deze boodschappen oordeelden zij of de boerin had gekocht op de markt.,had,oordeelden
+14,Topicalization,63,island,277,Grammatical,Dit kasteel wist hij dat de koning had veroverd tijdens de oorlog.,had,wist
+14,Topicalization,63,island,277,Ungrammatical,Dit kasteel wist hij of de koning had veroverd tijdens de oorlog.,had,wist
+14,Topicalization,63,island,278,Grammatical,Deze ridders hoorde zij dat de koning had benoemd tot beschermers van het rijk.,had,hoorde
+14,Topicalization,63,island,278,Ungrammatical,Deze ridders hoorde zij of de koning had benoemd tot beschermers van het rijk.,had,hoorde
+14,Topicalization,63,island,279,Grammatical,Deze feesten wisten wij dat de baron had georganiseerd ter ere van zijn gasten.,had,wisten
+14,Topicalization,63,island,279,Ungrammatical,Deze feesten wisten wij of de baron had georganiseerd ter ere van zijn gasten.,had,wisten
+14,Topicalization,63,island,280,Grammatical,Deze toernooien zagen jullie dat de edelen hadden georganiseerd voor vermaak.,hadden,zagen
+14,Topicalization,63,island,280,Ungrammatical,Deze toernooien zagen jullie of de edelen hadden georganiseerd voor vermaak.,hadden,zagen
+14,Topicalization,63,island,281,Grammatical,Deze kronieken betwijfelde ik dat de monnik hadden geschreven voor het nageslacht.,hadden,betwijfelde
+14,Topicalization,63,island,281,Ungrammatical,Deze kronieken betwijfelde ik of de monnik hadden geschreven voor het nageslacht.,hadden,betwijfelde
+14,Topicalization,63,island,282,Grammatical,Deze belastingen begrepen zij dat de heer had opgelegd aan het dorp.,had,begrepen
+14,Topicalization,63,island,282,Ungrammatical,Deze belastingen begrepen zij of de heer had opgelegd aan het dorp.,had,begrepen
+14,Topicalization,63,island,283,Grammatical,Deze edelen zag hij dat de koning had benoemd tot adviseurs aan zijn hof.,had,zag
+14,Topicalization,63,island,283,Ungrammatical,Deze edelen zag hij of de koning had benoemd tot adviseurs aan zijn hof.,had,zag
+14,Topicalization,63,island,284,Grammatical,Deze zegels vroeg zij dat de keizer zou gebruiken op officiële documenten.,zou,vroeg
+14,Topicalization,63,island,284,Ungrammatical,Deze zegels vroeg zij of de keizer zou gebruiken op officiële documenten.,zou,vroeg
+14,Topicalization,63,island,285,Grammatical,Deze allianties oordeelden wij dat de vorsten hadden gesloten voor vrede.,hadden,oordeelden
+14,Topicalization,63,island,285,Ungrammatical,Deze allianties oordeelden wij of de vorsten hadden gesloten voor vrede.,hadden,oordeelden
+14,Topicalization,63,island,286,Grammatical,Deze oorlogen begrepen jullie dat de landheren hadden gevoerd voor territorium.,hadden,begrepen
+14,Topicalization,63,island,286,Ungrammatical,Deze oorlogen begrepen jullie of de landheren hadden gevoerd voor territorium.,hadden,begrepen
+14,Topicalization,63,island,287,Grammatical,Deze wetten wist ik dat de koning had afgekondigd voor orde.,had,wist
+14,Topicalization,63,island,287,Ungrammatical,Deze wetten wist ik of de koning had afgekondigd voor orde.,had,wist
+14,Topicalization,63,island,288,Grammatical,Deze kruistochten betwijfelden zij dat de paus had uitgeroepen voor het geloof.,had,betwijfelden
+14,Topicalization,63,island,288,Ungrammatical,Deze kruistochten betwijfelden zij of de paus had uitgeroepen voor het geloof.,had,betwijfelden
+14,Topicalization,63,island,289,Grammatical,Deze skipassen weten wij dat onze ouders hebben gekocht voor ons allemaal.,hebben,weten
+14,Topicalization,63,island,289,Ungrammatical,Deze skipassen weten wij of onze ouders hebben gekocht voor ons allemaal.,hebben,weten
+14,Topicalization,63,island,290,Grammatical,Deze skilift zien wij dat de toeristen hebben gebruikt om naar boven te gaan.,hebben,zien
+14,Topicalization,63,island,290,Ungrammatical,Deze skilift zien wij of de toeristen hebben gebruikt om naar boven te gaan.,hebben,zien
+14,Topicalization,63,island,291,Grammatical,Deze ski's vragen zij dat ik zou lenen van mijn zus.,zou,vragen
+14,Topicalization,63,island,291,Ungrammatical,Deze ski's vragen zij of ik zou lenen van mijn zus.,zou,vragen
+14,Topicalization,63,island,292,Grammatical,Deze zeelieden wisten wij dat de kapitein had begroet bij aankomst op het eiland.,had,wisten
+14,Topicalization,63,island,292,Ungrammatical,Deze zeelieden betwijfelden wij of de kapitein had begroet bij aankomst op het eiland.,had,betwijfelden
+14,Topicalization,63,island,293,Grammatical,Deze wandelroutes hoorden zij dat de lokale gids had aanbevolen voor ons.,had,hoorden
+14,Topicalization,63,island,293,Ungrammatical,Deze wandelroutes hoorden zij of de lokale gids had aanbevolen voor ons.,had,hoorden
+14,Topicalization,63,island,294,Grammatical,Deze wandelkaart vroeg hij dat ik zou gebruiken tijdens onze tocht.,zou,vroeg
+14,Topicalization,63,island,294,Ungrammatical,Deze wandelkaart vroeg hij of ik zou gebruiken tijdens onze tocht.,zou,vroeg
+14,Topicalization,63,island,295,Grammatical,Deze zandkastelen zagen wij dat de kinderen hadden gebouwd op het strand.,hadden,zagen
+14,Topicalization,63,island,295,Ungrammatical,Deze zandkastelen zagen wij of de kinderen hadden gebouwd op het strand.,hadden,zagen
+14,Topicalization,63,island,296,Grammatical,Deze uitrusting wisten zij dat de gids had geholpen naar de top.,had,wisten
+14,Topicalization,63,island,296,Ungrammatical,Deze uitrusting betwijfelden zij of de gids had geholpen naar de top.,had,betwijfelden
+14,Topicalization,63,island,297,Grammatical,Deze golven weten wij dat de surfers hebben getrotseerd tijdens onze vakantie.,hebben,weten
+14,Topicalization,63,island,297,Ungrammatical,Deze golven weten wij of de surfers hebben getrotseerd tijdens onze vakantie.,hebben,weten
+14,Topicalization,63,island,298,Grammatical,Dit pad betwijfelen zij dat wij hebben bewandeld tijdens onze bergwandeling.,hebben,betwijfelen
+14,Topicalization,63,island,298,Ungrammatical,Dit pad betwijfelen zij of wij hebben bewandeld tijdens onze bergwandeling.,hebben,betwijfelen
+14,Topicalization,63,island,299,Grammatical,Dit uitzicht zien wij dat de fotograaf heeft vastgelegd vanaf het uitzichtpunt.,heeft,zien
+14,Topicalization,63,island,299,Ungrammatical,Dit uitzicht zien wij of de fotograaf heeft vastgelegd vanaf het uitzichtpunt.,heeft,zien
+14,Topicalization,63,island,300,Grammatical,Dit bos merken wij dat de wandelaars hebben doorkruist tijdens hun tocht.,hebben,merken
+14,Topicalization,63,island,300,Ungrammatical,Dit bos merken wij of de wandelaars hebben doorkruist tijdens hun tocht.,hebben,merken
+14,Topicalization,64,resumptive_prolepsis,301,Grammatical,Van deze planten vroeg jij of de tuinman ze had gezaaid in de tuin.,ze,
+14,Topicalization,64,resumptive_prolepsis,301,Ungrammatical,Deze planten vroeg jij of de tuinman ze had gezaaid in de tuin.,ze,
+14,Topicalization,64,resumptive_prolepsis,302,Grammatical,Van deze fouten betwijfelde jij of de directeur ze had gezien in het verslag.,ze,
+14,Topicalization,64,resumptive_prolepsis,302,Ungrammatical,Deze fouten betwijfelde jij of de directeur ze had gezien in het verslag.,ze,
+14,Topicalization,64,resumptive_prolepsis,303,Grammatical,Van deze papieren vroeg jij of de assistent ze had gescand voor de vergadering.,ze,
+14,Topicalization,64,resumptive_prolepsis,303,Ungrammatical,Deze papieren vroeg jij of de assistent ze had gescand voor de vergadering.,ze,
+14,Topicalization,64,resumptive_prolepsis,304,Grammatical,Van dit huis betwijfelde jij of de eigenaar het had gerenoveerd voor de verkoop.,het,
+14,Topicalization,64,resumptive_prolepsis,304,Ungrammatical,Dit huis betwijfelde jij of de eigenaar het had gerenoveerd voor de verkoop.,het,
+14,Topicalization,64,resumptive_prolepsis,305,Grammatical,Van deze aflevering vroeg jij of de acteur hem had geregisseerd voor één keer.,hem,
+14,Topicalization,64,resumptive_prolepsis,305,Ungrammatical,Deze aflevering vroeg jij of de acteur hem had geregisseerd voor één keer.,hem,
+14,Topicalization,64,resumptive_prolepsis,306,Grammatical,Van dit fruit betwijfelde jij of de klant het had gewogen in de supermarkt.,het,
+14,Topicalization,64,resumptive_prolepsis,306,Ungrammatical,Dit fruit betwijfelde jij of de klant het had gewogen in de supermarkt.,het,
+14,Topicalization,64,resumptive_prolepsis,307,Grammatical,Van deze bestanden betwijfelde jij of de medestudent ze had samengevoegd voor de opdracht.,ze,
+14,Topicalization,64,resumptive_prolepsis,307,Ungrammatical,Deze bestanden betwijfelde jij of de medestudent ze had samengevoegd voor de opdracht.,ze,
+14,Topicalization,64,resumptive_prolepsis,308,Grammatical,Van deze tafel vroeg jij of de ober hem had gereserveerd na het belletje.,hem,
+14,Topicalization,64,resumptive_prolepsis,308,Ungrammatical,Deze tafel vroeg jij of de ober hem had gereserveerd na het belletje.,hem,
+14,Topicalization,64,resumptive_prolepsis,309,Grammatical,Van dit toneelstuk vroeg jij of de groep het had gerepeteerd in het theater.,het,
+14,Topicalization,64,resumptive_prolepsis,309,Ungrammatical,Dit toneelstuk vroeg jij of de groep het had gerepeteerd in het theater.,het,
+14,Topicalization,64,resumptive_prolepsis,310,Grammatical,Van dit gedrag betwijfelde jij of de man het had gerapporteerd aan de directie.,het,
+14,Topicalization,64,resumptive_prolepsis,310,Ungrammatical,Dit gedrag betwijfelde jij of de man het had gerapporteerd aan de directie.,het,
+14,Topicalization,64,resumptive_prolepsis,311,Grammatical,Van deze vakken vroeg jij of de student ze had gevolgd in het eerste jaar.,ze,
+14,Topicalization,64,resumptive_prolepsis,311,Ungrammatical,Deze vakken vroeg jij of de student ze had gevolgd in het eerste jaar.,ze,
+14,Topicalization,64,resumptive_prolepsis,312,Grammatical,Van dit sprookje vroeg zij of de lerares het had voorgelezen in de les.,het,
+14,Topicalization,64,resumptive_prolepsis,312,Ungrammatical,Dit sprookje vroeg zij of de lerares het had voorgelezen in de les.,het,
+14,Topicalization,64,resumptive_prolepsis,313,Grammatical,Van deze boeken vroeg zij of de bibliothecaris ze had uitgeleend voor de vakantie.,ze,
+14,Topicalization,64,resumptive_prolepsis,313,Ungrammatical,Deze boeken vroeg zij of de bibliothecaris ze had uitgeleend voor de vakantie.,ze,
+14,Topicalization,64,resumptive_prolepsis,314,Grammatical,Van deze films betwijfelde hij of de regisseur ze had geproduceerd voor het festival.,ze,
+14,Topicalization,64,resumptive_prolepsis,314,Ungrammatical,Deze films betwijfelde hij of de regisseur ze had geproduceerd voor het festival.,ze,
+14,Topicalization,64,resumptive_prolepsis,315,Grammatical,Van deze gerechten vroeg hij of de chef-kok ze kan bereiden voor de bruiloft.,ze,
+14,Topicalization,64,resumptive_prolepsis,315,Ungrammatical,Deze gerechten vroeg hij of de chef-kok ze kan bereiden voor de bruiloft.,ze,
+14,Topicalization,64,resumptive_prolepsis,316,Grammatical,Van deze nummers betwijfelde hij of de zanger ze had geschreven voor het album.,ze,
+14,Topicalization,64,resumptive_prolepsis,316,Ungrammatical,Deze nummers betwijfelde hij of de zanger ze had geschreven voor het album.,ze,
+14,Topicalization,64,resumptive_prolepsis,317,Grammatical,Van deze slides vroeg ik of de docent ze kon uploaden op zijn website.,ze,
+14,Topicalization,64,resumptive_prolepsis,317,Ungrammatical,Deze slides vroeg ik of de docent ze kon uploaden op zijn website.,ze,
+14,Topicalization,64,resumptive_prolepsis,318,Grammatical,Van dit plaatje controleerde ik of de auteur het mocht gebruiken in zijn boek.,het,
+14,Topicalization,64,resumptive_prolepsis,318,Ungrammatical,Dit plaatje controleerde ik of de auteur het mocht gebruiken in zijn boek.,het,
+14,Topicalization,64,resumptive_prolepsis,319,Grammatical,Van deze cursus controleerde hij of de werknemer hem had gevolgd.,hem,
+14,Topicalization,64,resumptive_prolepsis,319,Ungrammatical,Deze cursus controleerde hij of de werknemer hem had gevolgd.,hem,
+14,Topicalization,64,resumptive_prolepsis,320,Grammatical,Van deze metingen controleerde jij of de onderzoeker ze had geregistreerd in het experiment.,ze,
+14,Topicalization,64,resumptive_prolepsis,320,Ungrammatical,Deze metingen controleerde jij of de onderzoeker ze had geregistreerd in het experiment.,ze,
+14,Topicalization,64,resumptive_prolepsis,321,Grammatical,Van deze conclusies betwijfelde jij of de wetenschapper ze wel had getrokken uit de bestaande gegevens.,ze,
+14,Topicalization,64,resumptive_prolepsis,321,Ungrammatical,Deze conclusies betwijfelde jij of de wetenschapper ze wel had getrokken uit de bestaande gegevens.,ze,
+14,Topicalization,64,resumptive_prolepsis,322,Grammatical,Van deze metingen betwijfelde zij of de ingenieur ze had verricht op de locatie.,ze,
+14,Topicalization,64,resumptive_prolepsis,322,Ungrammatical,Deze metingen betwijfelde zij of de ingenieur ze had verricht op de locatie.,ze,
+14,Topicalization,64,resumptive_prolepsis,323,Grammatical,Van deze grafieken vroeg hij of de analist ze had opgenomen in het rapport.,ze,
+14,Topicalization,64,resumptive_prolepsis,323,Ungrammatical,Deze grafieken vroeg hij of de analist ze had opgenomen in het rapport.,ze,
+14,Topicalization,64,resumptive_prolepsis,324,Grammatical,Van deze voorwaarden controleerde zij of de jurist ze had opgenomen in het contract.,ze,
+14,Topicalization,64,resumptive_prolepsis,324,Ungrammatical,Deze voorwaarden controleerde zij of de jurist ze had opgenomen in het contract.,ze,
+14,Topicalization,64,resumptive_prolepsis,325,Grammatical,Van deze gegevens betwijfelde ik of de minister ze had meegenomen in zijn besluit.,ze,
+14,Topicalization,64,resumptive_prolepsis,325,Ungrammatical,Deze gegevens betwijfelde ik of de minister ze had meegenomen in zijn besluit.,ze,
+14,Topicalization,64,resumptive_prolepsis,326,Grammatical,Van deze e-mails controleerde hij of de medewerker ze had verzonden naar alle klanten.,ze,
+14,Topicalization,64,resumptive_prolepsis,326,Ungrammatical,Deze e-mails controleerde hij of de medewerker ze had verzonden naar alle klanten.,ze,
+14,Topicalization,64,resumptive_prolepsis,327,Grammatical,Van deze regel controleerde jij of de kinderen hem hadden gevolgd tijdens de les.,hem,
+14,Topicalization,64,resumptive_prolepsis,327,Ungrammatical,Deze regel controleerde jij of de kinderen hem hadden gevolgd tijdens de les.,hem,
+14,Topicalization,64,resumptive_prolepsis,328,Grammatical,Van deze bestellingen vroeg hij of de leverancier ze maandag al kon leveren.,ze,
+14,Topicalization,64,resumptive_prolepsis,328,Ungrammatical,Deze bestellingen vroeg hij of de leverancier ze maandag al kon leveren.,ze,
+14,Topicalization,64,resumptive_prolepsis,329,Grammatical,Van deze taken betwijfelt zij of de werknemer ze zal voltooien voor de deadline.,ze,
+14,Topicalization,64,resumptive_prolepsis,329,Ungrammatical,Deze taken betwijfelt zij of de werknemer ze zal voltooien voor de deadline.,ze,
+14,Topicalization,64,resumptive_prolepsis,330,Grammatical,Van deze wijzigingen controleerde zij of de ontwikkelaar ze had doorgevoerd in de software.,ze,
+14,Topicalization,64,resumptive_prolepsis,330,Ungrammatical,Deze wijzigingen controleerde zij of de ontwikkelaar ze had doorgevoerd in de software.,ze,
+14,Topicalization,64,resumptive_prolepsis,331,Grammatical,Van deze concepten wist jij of de studenten ze al hadden gezien tijdens hun vooropleiding.,ze,
+14,Topicalization,64,resumptive_prolepsis,331,Ungrammatical,Deze concepten wist jij of de studenten ze al hadden gezien tijdens hun vooropleiding.,ze,
+14,Topicalization,64,resumptive_prolepsis,332,Grammatical,Van dit verhaal vroeg jij of het kind het had verzonnen.,het,
+14,Topicalization,64,resumptive_prolepsis,332,Ungrammatical,Dit verhaal vroeg jij of heet kind het had verzonnen.,het,
+14,Topicalization,64,resumptive_prolepsis,333,Grammatical,Van dit schema controleerde hij of het team het kon uitvoeren binnen de deadline.,het,
+14,Topicalization,64,resumptive_prolepsis,333,Ungrammatical,Dit schema controleerde hij of het team het kon uitvoeren binnen de deadline.,het,
+14,Topicalization,64,resumptive_prolepsis,334,Grammatical,Van deze berekeningen betwijfelde hij of de ingenieur ze accuraat had uitgevoerd.,ze,
+14,Topicalization,64,resumptive_prolepsis,334,Ungrammatical,Deze berekeningen betwijfelde hij of de ingenieur ze accuraat had uitgevoerd.,ze,
+14,Topicalization,64,resumptive_prolepsis,335,Grammatical,Van dit programma betwijfelde ik of de student het had geoptimaliseerd.,het,
+14,Topicalization,64,resumptive_prolepsis,335,Ungrammatical,Dit programma betwijfelde ik of de student het had geoptimaliseerd.,het,
+14,Topicalization,64,resumptive_prolepsis,336,Grammatical,Van deze muziek weet jij of de muzikanten het kunnen instuderen voor de zomer.,het,
+14,Topicalization,64,resumptive_prolepsis,336,Ungrammatical,Deze muziek weet jij of de muzikanten het kunnen instuderen voor de zomer.,het,
+14,Topicalization,64,resumptive_prolepsis,337,Grammatical,Van deze taken onderzocht ik of de dieren ze konden leren met de juiste feedback.,ze,
+14,Topicalization,64,resumptive_prolepsis,337,Ungrammatical,Deze taken onderzocht ik of de dieren ze konden leren met de juiste feedback.,ze,
+14,Topicalization,64,resumptive_prolepsis,338,Grammatical,Van deze keuze betwijfel ik of de artiest hem bewust heeft gemaakt.,hem,
+14,Topicalization,64,resumptive_prolepsis,338,Ungrammatical,Deze keuze betwijfel ik of de artiest hem bewust heeft gemaakt.,hem,
+14,Topicalization,64,resumptive_prolepsis,339,Grammatical,Van deze maaltijd betwijfelde ik of de kok hem volgens een vegetarisch recept bereid had.,hem,
+14,Topicalization,64,resumptive_prolepsis,339,Ungrammatical,Deze maaltijd betwijfelde ik of de kok hem volgens een vegetarisch recept bereid had.,hem,
+14,Topicalization,64,resumptive_prolepsis,340,Grammatical,Van deze vogels vroeg hij of de ornitholoog ze had geobserveerd tijdens de migratie.,ze,
+14,Topicalization,64,resumptive_prolepsis,340,Ungrammatical,Deze vogels vroeg hij of de ornitholoog ze had geobserveerd tijdens de migratie.,ze,
+14,Topicalization,64,resumptive_prolepsis,341,Grammatical,Van deze boeken vroeg hij of de assistent ze had ingevoerd in het systeem.,ze,
+14,Topicalization,64,resumptive_prolepsis,341,Ungrammatical,Deze boeken vroeg hij of de assistent ze had ingevoerd in het systeem.,ze,
+14,Topicalization,64,resumptive_prolepsis,342,Grammatical,Van dit argument betwijfelde ik of de jurist het correct had geïnterpreteerd.,het,
+14,Topicalization,64,resumptive_prolepsis,342,Ungrammatical,Dit argument betwijfelde ik of de jurist het correct had geïnterpreteerd.,het,
+14,Topicalization,64,resumptive_prolepsis,343,Grammatical,Van deze foto's betwijfelde zij of de fotograaf ze had bewerkt voor publicatie.,ze,
+14,Topicalization,64,resumptive_prolepsis,343,Ungrammatical,Deze foto's betwijfelde zij of de fotograaf ze had bewerkt voor publicatie.,ze,
+14,Topicalization,64,resumptive_prolepsis,344,Grammatical,Van deze documenten controleerde hij of de secretaresse ze had geordend in het archief.,ze,
+14,Topicalization,64,resumptive_prolepsis,344,Ungrammatical,Deze documenten controleerde hij of de secretaresse ze had geordend in het archief.,ze,
+14,Topicalization,64,resumptive_prolepsis,345,Grammatical,Van deze ontwerpen betwijfelde jij of de student ze zelf had bedacht.,ze,
+14,Topicalization,64,resumptive_prolepsis,345,Ungrammatical,Deze ontwerpen betwijfelde jij of de student ze zelf had bedacht.,ze,
+14,Topicalization,64,resumptive_prolepsis,346,Grammatical,Van deze documenten controleerde jij of de assistent ze had geanonimiseerd.,ze,
+14,Topicalization,64,resumptive_prolepsis,346,Ungrammatical,Deze documenten controleerde jij of de assistent ze had geanonimiseerd.,ze,
+14,Topicalization,64,resumptive_prolepsis,347,Grammatical,Van dit programma vroeg ik of de ontwikkelaars het beschikbaar had gemaakt op internet.,het,
+14,Topicalization,64,resumptive_prolepsis,347,Ungrammatical,Dit programma vroeg ik of de ontwikkelaars het beschikbaar had gemaakt op internet.,het,
+14,Topicalization,64,resumptive_prolepsis,348,Grammatical,Van deze meetings betwijfel ik of de computer ze heeft opgeslagen in het systeem.,ze,
+14,Topicalization,64,resumptive_prolepsis,348,Ungrammatical,Deze meetings betwijfel ik of de computer ze heeft opgeslagen in het systeem.,ze,
+14,Topicalization,64,resumptive_prolepsis,349,Grammatical,Van die medicijnen vroeg hij of de dokter ze had voorgeschreven voor de pijn.,ze,
+14,Topicalization,64,resumptive_prolepsis,349,Ungrammatical,Die medicijnen vroeg hij of de dokter ze had voorgeschreven voor de pijn.,ze,
+14,Topicalization,64,resumptive_prolepsis,350,Grammatical,Van deze kamers controleer ik of de schoonmakers ze hadden opgeruimd.,ze,
+14,Topicalization,64,resumptive_prolepsis,350,Ungrammatical,Deze kamers controleer ik of de schoonmakers ze hadden opgeruimd.,ze,
+14,Topicalization,64,resumptive_prolepsis,351,Grammatical,Van deze teksten controleerde zij of de redacteur ze had geredigeerd voor publicatie.,ze,
+14,Topicalization,64,resumptive_prolepsis,351,Ungrammatical,Deze teksten controleerde zij of de redacteur ze had geredigeerd voor publicatie.,ze,
+14,Topicalization,64,resumptive_prolepsis,352,Grammatical,Van deze boeken controleerde hij of de man ze had gecategoriseerd volgens genre.,ze,
+14,Topicalization,64,resumptive_prolepsis,352,Ungrammatical,Deze boeken controleerde hij of de man ze had gecategoriseerd volgens genre.,ze,
+14,Topicalization,64,resumptive_prolepsis,353,Grammatical,Van deze opdrachten betwijfelde jij of de leraar ze had nagekeken op fouten.,ze,
+14,Topicalization,64,resumptive_prolepsis,353,Ungrammatical,Deze opdrachten betwijfelde jij of de leraar ze had nagekeken op fouten.,ze,
+14,Topicalization,64,resumptive_prolepsis,354,Grammatical,Van deze projecten vroeg ik of de manager ze had goedgekeurd voor uitvoering.,ze,
+14,Topicalization,64,resumptive_prolepsis,354,Ungrammatical,Deze projecten vroeg ik of de manager ze had goedgekeurd voor uitvoering.,ze,
+14,Topicalization,64,resumptive_prolepsis,355,Grammatical,Van deze schilderijen betwijfelden we of de conservator ze had gerestaureerd volgens de juiste technieken.,ze,
+14,Topicalization,64,resumptive_prolepsis,355,Ungrammatical,Deze schilderijen betwijfelden we of de conservator ze had gerestaureerd volgens de juiste technieken.,ze,
+14,Topicalization,64,resumptive_prolepsis,356,Grammatical,Van deze stappen betwijfelde jij of de manager ze had gecommuniceerd naar het team.,ze,
+14,Topicalization,64,resumptive_prolepsis,356,Ungrammatical,Deze stappen betwijfelde jij of de manager ze had gecommuniceerd naar het team.,ze,
+14,Topicalization,64,resumptive_prolepsis,357,Grammatical,Van deze bestanden controleerde ik of de IT-medewerker ze had beveiligd met een sterk wachtwoord.,ze,
+14,Topicalization,64,resumptive_prolepsis,357,Ungrammatical,Deze bestanden controleerde ik of de IT-medewerker ze had beveiligd met een sterk wachtwoord.,ze,
+14,Topicalization,64,resumptive_prolepsis,358,Grammatical,Van deze brieven vroeg hij of de postbode ze had bezorgd bij het juiste adres.,ze,
+14,Topicalization,64,resumptive_prolepsis,358,Ungrammatical,Deze brieven vroeg hij of de postbode ze had bezorgd bij het juiste adres.,ze,
+14,Topicalization,64,resumptive_prolepsis,359,Grammatical,Van deze gerechten controleerden zij of de kok ze had bereid met verse ingrediënten.,ze,
+14,Topicalization,64,resumptive_prolepsis,359,Ungrammatical,Deze gerechten controleerden zij of de kok ze had bereid met verse ingrediënten.,ze,
+14,Topicalization,64,resumptive_prolepsis,360,Grammatical,Van deze oefeningen controleerde hij of de coach ze had samengesteld voor optimale training.,ze,
+14,Topicalization,64,resumptive_prolepsis,360,Ungrammatical,Deze oefeningen controleerde hij of de coach ze had samengesteld voor optimale training.,ze,
+14,Topicalization,64,resumptive_prolepsis,361,Grammatical,Van deze liedjes betwijfelde ik of de zanger ze had gekozen voor de juiste sfeer.,ze,
+14,Topicalization,64,resumptive_prolepsis,361,Ungrammatical,Deze liedjes betwijfelde ik of de zanger ze had gekozen voor de juiste sfeer.,ze,
+14,Topicalization,64,resumptive_prolepsis,362,Grammatical,Van deze bloemen vroeg zij of de kweker ze had gekweekt zonder gebruik van pesticiden.,ze,
+14,Topicalization,64,resumptive_prolepsis,362,Ungrammatical,Deze bloemen vroeg zij of de kweker ze had gekweekt zonder gebruik van pesticiden.,ze,
+14,Topicalization,64,resumptive_prolepsis,363,Grammatical,Van deze roman betwijfelde ik of de auteur het had geschreven uit eigen ervaring.,het,
+14,Topicalization,64,resumptive_prolepsis,363,Ungrammatical,Deze roman betwijfelde ik of de auteur het had geschreven uit eigen ervaring.,het,
+14,Topicalization,64,resumptive_prolepsis,364,Grammatical,Van deze tekening onderzocht hij of de kunstenaar hem had voltooid met nauwkeurige lijnen.,hem,
+14,Topicalization,64,resumptive_prolepsis,364,Ungrammatical,Deze tekening onderzocht hij of de kunstenaar hem had voltooid met nauwkeurige lijnen.,hem,
+14,Topicalization,64,resumptive_prolepsis,365,Grammatical,Van dit recept betwijfel ik of de chef-kok het heeft bereid met authentieke ingrediënten.,het,
+14,Topicalization,64,resumptive_prolepsis,365,Ungrammatical,Dit recept betwijfel ik of de chef-kok het heeft bereid met authentieke ingrediënten.,het,
+14,Topicalization,64,resumptive_prolepsis,366,Grammatical,Van dit artikel onderzocht zij of de journalist het had geschreven met objectiviteit.,het,
+14,Topicalization,64,resumptive_prolepsis,366,Ungrammatical,Dit artikel onderzocht zij of de journalist het had geschreven met objectiviteit.,het,
+14,Topicalization,64,resumptive_prolepsis,367,Grammatical,Van deze opdracht vroeg ik of de leraar hem had gekopieerd van het tentamen van vorig jaar.,hem,
+14,Topicalization,64,resumptive_prolepsis,367,Ungrammatical,Deze opdracht vroeg ik of de leraar hem had gekopieerd van het tentamen van vorig jaar.,hem,
+14,Topicalization,64,resumptive_prolepsis,368,Grammatical,Van dit probleem betwijfelde ik of de professor het had benaderd met de juiste methodologie.,het,
+14,Topicalization,64,resumptive_prolepsis,368,Ungrammatical,Dit probleem betwijfelde ik of de professor het had benaderd met de juiste methodologie.,het,
+14,Topicalization,64,resumptive_prolepsis,369,Grammatical,Van deze oplossing betwijfel ik of de ingenieur hem heeft ontworpen met duurzaamheid in gedachten.,hem,
+14,Topicalization,64,resumptive_prolepsis,369,Ungrammatical,Deze oplossing betwijfel ik of de ingenieur hem heeft ontworpen met duurzaamheid in gedachten.,hem,
+14,Topicalization,64,resumptive_prolepsis,370,Grammatical,Van deze beslissing onderzochten ze of de directeur hem had genomen met overleg.,hem,
+14,Topicalization,64,resumptive_prolepsis,370,Ungrammatical,Deze beslissing onderzochten ze of de directeur hem had genomen met overleg.,hem,
+14,Topicalization,64,resumptive_prolepsis,371,Grammatical,Van deze regeling betwijfelde ik of de jurist hem had opgesteld met duidelijke taal.,hem,
+14,Topicalization,64,resumptive_prolepsis,371,Ungrammatical,Deze regeling betwijfelde ik of de jurist hem had opgesteld met duidelijke taal.,hem,
+14,Topicalization,64,resumptive_prolepsis,372,Grammatical,Van deze methode betwijfelde hij of de leraar hem had toegepast met effectiviteit.,hem,
+14,Topicalization,64,resumptive_prolepsis,372,Ungrammatical,Deze methode betwijfelde hij of de leraar hem had toegepast met effectiviteit.,hem,
+14,Topicalization,64,resumptive_prolepsis,373,Grammatical,Van deze situatie betwijfelde zij of de therapeut hem had behandeld met empathie.,hem,
+14,Topicalization,64,resumptive_prolepsis,373,Ungrammatical,Deze situatie betwijfelde zij of de therapeut hem had behandeld met empathie.,hem,
+14,Topicalization,64,resumptive_prolepsis,374,Grammatical,Van deze procedures controleerde hij of de werknemers ze hadden gevolgd na hun training.,ze,
+14,Topicalization,64,resumptive_prolepsis,374,Ungrammatical,Deze procedures controleerde hij of de werknemers ze hadden gevolgd na hun training.,ze,
+14,Topicalization,64,resumptive_prolepsis,375,Grammatical,Van deze testresultaten controleerde zij of de onderzoeker ze had geanalyseerd volgens protocol.,ze,
+14,Topicalization,64,resumptive_prolepsis,375,Ungrammatical,Deze testresultaten controleerde zij of de onderzoeker ze had geanalyseerd volgens protocol.,ze,
+14,Topicalization,64,resumptive_prolepsis,376,Grammatical,Van deze formulieren controleert hij of de klant ze correct had ingevuld.,ze,
+14,Topicalization,64,resumptive_prolepsis,376,Ungrammatical,Deze formulieren controleert hij of de klant ze correct had ingevuld.,ze,
+14,Topicalization,64,resumptive_prolepsis,377,Grammatical,Van deze afspraken wist jij of de cliënten ze al hadden bevestigd.,ze,
+14,Topicalization,64,resumptive_prolepsis,377,Ungrammatical,Deze afspraken wist jij of de cliënten ze al hadden bevestigd.,ze,
+14,Topicalization,64,resumptive_prolepsis,378,Grammatical,Van deze schetsen onderzoeken we of de kunstenaar ze heeft gemaakt met potlood of inkt.,ze,
+14,Topicalization,64,resumptive_prolepsis,378,Ungrammatical,Deze schetsen onderzoeken we of de kunstenaar ze heeft gemaakt met potlood of inkt.,ze,
+14,Topicalization,64,resumptive_prolepsis,379,Grammatical,Van deze geluidsopnames controleerde zij of de technicus ze had opgeslagen op de server.,ze,
+14,Topicalization,64,resumptive_prolepsis,379,Ungrammatical,Deze geluidsopnames controleerde zij of de technicus ze had opgeslagen op de server.,ze,
+14,Topicalization,64,resumptive_prolepsis,380,Grammatical,Van deze technieken vroeg hij of de leerlingen ze al hadden toegepast in de praktijklessen.,ze,
+14,Topicalization,64,resumptive_prolepsis,380,Ungrammatical,Deze technieken vroeg hij of de leerlingen ze al hadden toegepast in de praktijklessen.,ze,
+14,Topicalization,64,resumptive_prolepsis,381,Grammatical,Van deze website vroeg jij of de ontwerper hem had gemaakt met HTML.,hem,
+14,Topicalization,64,resumptive_prolepsis,381,Ungrammatical,Deze website vroeg jij of de ontwerper hem had gemaakt met HTML.,hem,
+14,Topicalization,64,resumptive_prolepsis,382,Grammatical,Van deze tradities betwijfelde ik of de dorpsbewoners ze nog steeds in ere hielden tijdens de feestdagen.,ze,
+14,Topicalization,64,resumptive_prolepsis,382,Ungrammatical,Deze tradities betwijfelde ik of de dorpsbewoners ze nog steeds in ere hielden tijdens de feestdagen.,ze,
+14,Topicalization,64,resumptive_prolepsis,383,Grammatical,Van dit fenomeen onderzocht zij of haar begeleiders het al hadden verklaard in hun publicaties.,het,
+14,Topicalization,64,resumptive_prolepsis,383,Ungrammatical,Dit fenomeen onderzocht zij of haar begeleiders het al hadden verklaard in hun publicaties.,het,
+14,Topicalization,64,resumptive_prolepsis,384,Grammatical,Van deze bevindingen controleerde zij of de onderzoekers ze al hadden gerepliceerd in andere studies.,ze,
+14,Topicalization,64,resumptive_prolepsis,384,Ungrammatical,Deze bevindingen controleerde zij of de onderzoekers ze al hadden gerepliceerd in andere studies.,ze,
+14,Topicalization,64,resumptive_prolepsis,385,Grammatical,Van deze recepten vroeg zij of de bakker ze al had uitgeprobeerd in de keuken.,ze,
+14,Topicalization,64,resumptive_prolepsis,385,Ungrammatical,Deze recepten vroeg zij of de bakker ze al had uitgeprobeerd in de keuken.,ze,
+14,Topicalization,64,resumptive_prolepsis,386,Grammatical,Van deze sectie weet jij of de dirigent hem heeft ingestudeerd met het orkest.,hem,
+14,Topicalization,64,resumptive_prolepsis,386,Ungrammatical,Deze sectie weet jij of de dirigent hem heeft ingestudeerd met het orkest.,hem,
+14,Topicalization,64,resumptive_prolepsis,387,Grammatical,Van deze technieken vroeg jij of de leraar ze al had gedemonstreerd in de les.,ze,
+14,Topicalization,64,resumptive_prolepsis,387,Ungrammatical,Deze technieken vroeg jij of de leraar ze al had gedemonstreerd in de les.,ze,
+14,Topicalization,64,resumptive_prolepsis,388,Grammatical,Van deze handelingen controleerde ik of de verpleegkundige ze had uitgevoerd bij de patiënten.,ze,
+14,Topicalization,64,resumptive_prolepsis,388,Ungrammatical,Deze handelingen controleerde ik of de verpleegkundige ze had uitgevoerd bij de patiënten.,ze,
+14,Topicalization,64,resumptive_prolepsis,389,Grammatical,Van deze vragen wist hij of de presentator ze al had gesteld aan de gasten.,ze,
+14,Topicalization,64,resumptive_prolepsis,389,Ungrammatical,Deze vragen wist hij of de presentator ze al had gesteld aan de gasten.,ze,
+14,Topicalization,64,resumptive_prolepsis,390,Grammatical,Van deze projecten controleerde hij of de projectmanager ze had toegewezen aan de verschillende teamleden.,ze,
+14,Topicalization,64,resumptive_prolepsis,390,Ungrammatical,Deze projecten controleerde hij of de projectmanager ze had toegewezen aan de verschillende teamleden.,ze,
+14,Topicalization,64,resumptive_prolepsis,391,Grammatical,Van deze danspassen vroeg zij of de dansleraar ze had aangeleerd aan de leerlingen.,ze,
+14,Topicalization,64,resumptive_prolepsis,391,Ungrammatical,Deze danspassen vroeg zij of de dansleraar ze had aangeleerd aan de leerlingen.,ze,
+14,Topicalization,64,resumptive_prolepsis,392,Grammatical,Van die planten controleerde hij of de tuinman ze al had bemest voor het nieuwe seizoen.,ze,
+14,Topicalization,64,resumptive_prolepsis,392,Ungrammatical,Die planten controleerde hij of de tuinman ze al had bemest voor het nieuwe seizoen.,ze,
+14,Topicalization,64,resumptive_prolepsis,393,Grammatical,Van deze liedjes wist hij of de band ze al had ingestudeerd voor het optreden.,ze,
+14,Topicalization,64,resumptive_prolepsis,393,Ungrammatical,Deze liedjes wist hij of de band ze al had ingestudeerd voor het optreden.,ze,
+14,Topicalization,64,resumptive_prolepsis,394,Grammatical,Van deze notities controleerde zij of de secretaris ze had overgenomen in het verslag.,ze,
+14,Topicalization,64,resumptive_prolepsis,394,Ungrammatical,Deze notities controleerde zij of de secretaris ze had overgenomen in het verslag.,ze,
+14,Topicalization,64,resumptive_prolepsis,395,Grammatical,Van deze experimenten betwijfelde hij of de studenten ze correct hadden uitgevoerd in het laboratorium.,ze,
+14,Topicalization,64,resumptive_prolepsis,395,Ungrammatical,Deze experimenten betwijfelde hij of de studenten ze correct hadden uitgevoerd in het laboratorium.,ze,
+14,Topicalization,64,resumptive_prolepsis,396,Grammatical,Van deze plannen controleerde zij of de architect ze had getekend volgens de specificaties.,ze,
+14,Topicalization,64,resumptive_prolepsis,396,Ungrammatical,Deze plannen controleerde zij of de architect ze had getekend volgens de specificaties.,ze,
+14,Topicalization,64,resumptive_prolepsis,397,Grammatical,Van dit scenario betwijfelde hij of de schrijver het had bedacht voor het script.,het,
+14,Topicalization,64,resumptive_prolepsis,397,Ungrammatical,Dit scenario betwijfelde hij of de schrijver het had bedacht voor het script.,het,
+14,Topicalization,64,resumptive_prolepsis,398,Grammatical,Van deze presentatie betwijfelde zij of de spreker hem had voorbereid voor de vergadering.,hem,
+14,Topicalization,64,resumptive_prolepsis,398,Ungrammatical,Deze presentatie betwijfelde zij of de spreker hem had voorbereid voor de vergadering.,hem,
+14,Topicalization,64,resumptive_prolepsis,399,Grammatical,Van deze kunstwerken vroeg jij of de kunstenaar ze had tentoongesteld in een ander museum.,ze,
+14,Topicalization,64,resumptive_prolepsis,399,Ungrammatical,Deze kunstwerken vroeg jij of de kunstenaar ze had tentoongesteld in een ander museum.,ze,
+14,Topicalization,64,resumptive_prolepsis,400,Grammatical,Van deze zinnen controleerde ik of de modellen ze kunnen interpreteren.,ze,
+14,Topicalization,64,resumptive_prolepsis,400,Ungrammatical,Deze zinnen controleerde ik of de modellen ze kunnen interpreteren.,ze,

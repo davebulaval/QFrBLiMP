@@ -1,0 +1,601 @@
+Number (phenomenon),Phenomenon,Number (paradigm),Paradigm,Item,Grammaticality,Sentence,Critical word(s),Cue word(s)
+13,Relativization,58,pied_piping,1,Grammatical,De jongen naar wie je kijkt is mijn broer.,naar wie je,
+13,Relativization,58,pied_piping,1,Ungrammatical,De jongen wie je naar kijkt is mijn broer.,wie je naar,
+13,Relativization,58,pied_piping,2,Grammatical,Het meisje naar wie je wijst is mijn vriendin.,naar wie je,
+13,Relativization,58,pied_piping,2,Ungrammatical,Het meisje wie je naar wijst is mijn vriendin.,wie je naar,
+13,Relativization,58,pied_piping,3,Grammatical,De hond naar wie je lacht is heel speels.,naar wie je,
+13,Relativization,58,pied_piping,3,Ungrammatical,De hond wie je naar lacht is heel speels.,wie je naar,
+13,Relativization,58,pied_piping,4,Grammatical,De dame naar wie je groet is de burgemeester.,naar wie je,
+13,Relativization,58,pied_piping,4,Ungrammatical,De dame wie je naar groet is de burgemeester.,wie je naar,
+13,Relativization,58,pied_piping,5,Grammatical,De kat naar wie je roept is erg vals.,naar wie je,
+13,Relativization,58,pied_piping,5,Ungrammatical,De kat wie je naar roept is erg vals.,wie je naar,
+13,Relativization,58,pied_piping,6,Grammatical,De vogels naar wie je luistert zijn erg melodieus.,naar wie je,
+13,Relativization,58,pied_piping,6,Ungrammatical,De vogels wie je naar luistert zijn erg melodieus.,wie je naar,
+13,Relativization,58,pied_piping,7,Grammatical,De vrouw naar wie je glimlacht is mijn moeder.,naar wie je,
+13,Relativization,58,pied_piping,7,Ungrammatical,De vrouw wie je naar glimlacht is mijn moeder.,wie je naar,
+13,Relativization,58,pied_piping,8,Grammatical,De man naar wie je knikt is mijn oom.,naar wie je,
+13,Relativization,58,pied_piping,8,Ungrammatical,De man wie je naar knikt is mijn oom.,wie je naar,
+13,Relativization,58,pied_piping,9,Grammatical,De poes naar wie je schreeuwt is erg zeldzaam.,naar wie je,
+13,Relativization,58,pied_piping,9,Ungrammatical,De poes wie je naar schreeuwt is erg zeldzaam.,wie je naar,
+13,Relativization,58,pied_piping,10,Grammatical,De gast naar wie je knipoogt is mijn vriend.,naar wie je,
+13,Relativization,58,pied_piping,10,Ungrammatical,De gast wie je naar knipoogt is mijn vriend.,wie je naar,
+13,Relativization,58,pied_piping,11,Grammatical,De leraar naar wie je luistert is erg slim.,naar wie je,
+13,Relativization,58,pied_piping,11,Ungrammatical,De leraar wie je naar luistert is erg slim.,wie je naar,
+13,Relativization,58,pied_piping,12,Grammatical,De vrouw naar wie je kijkt is mijn buurvrouw.,naar wie je,
+13,Relativization,58,pied_piping,12,Ungrammatical,De vrouw wie je naar kijkt is mijn buurvrouw.,wie je naar,
+13,Relativization,58,pied_piping,13,Grammatical,De paarden naar wie je wijst zijn heel groot.,naar wie je,
+13,Relativization,58,pied_piping,13,Ungrammatical,De paarden wie je naar wijst zijn heel groot.,wie je naar,
+13,Relativization,58,pied_piping,14,Grammatical,De jongen met wie je praat is mijn neef.,met wie je,
+13,Relativization,58,pied_piping,14,Ungrammatical,De jongen wie je met praat is mijn neef.,wie je met,
+13,Relativization,58,pied_piping,15,Grammatical,De professor naar wie je vraagt is heel deskundig.,naar wie je,
+13,Relativization,58,pied_piping,15,Ungrammatical,De professor wie je naar vraagt is heel deskundig.,wie je naar,
+13,Relativization,58,pied_piping,16,Grammatical,De muzikant naar wie je luistert is heel getalenteerd.,naar wie je,
+13,Relativization,58,pied_piping,16,Ungrammatical,De muzikant wie je naar luistert is heel getalenteerd.,wie je naar,
+13,Relativization,58,pied_piping,17,Grammatical,De vrouw naar wie je zwaait is mijn tante.,naar wie je,
+13,Relativization,58,pied_piping,17,Ungrammatical,De vrouw wie je naar zwaait is mijn tante.,wie je naar,
+13,Relativization,58,pied_piping,18,Grammatical,De jongen naar wie je lacht is mijn vriend.,naar wie je,
+13,Relativization,58,pied_piping,18,Ungrammatical,De jongen wie je naar lacht is mijn vriend.,wie je naar,
+13,Relativization,58,pied_piping,19,Grammatical,De kinderen met wie je speelt zijn mijn neefjes.,met wie je,
+13,Relativization,58,pied_piping,19,Ungrammatical,De kinderen wie je met speelt zijn mijn neefjes.,wie je met,
+13,Relativization,58,pied_piping,20,Grammatical,De chef naar wie je luistert is mijn vader.,naar wie je,
+13,Relativization,58,pied_piping,20,Ungrammatical,De chef wie je naar luistert is mijn vader.,wie je naar,
+13,Relativization,58,pied_piping,21,Grammatical,De dame naar wie je om hulp roept is de dokter.,naar wie je,
+13,Relativization,58,pied_piping,21,Ungrammatical,De dame wie je naar om hulp roept is de dokter.,wie je naar,
+13,Relativization,58,pied_piping,22,Grammatical,De vriendin naar wie je belt is mijn zus.,naar wie je,
+13,Relativization,58,pied_piping,22,Ungrammatical,De vriendin wie je naar belt is mijn zus.,wie je naar,
+13,Relativization,58,pied_piping,23,Grammatical,De gasten naar wie je wijst zijn mijn vrienden.,naar wie je,
+13,Relativization,58,pied_piping,23,Ungrammatical,De gasten wie je naar wijst zijn mijn vrienden.,wie je naar,
+13,Relativization,58,pied_piping,24,Grammatical,De buren naar wie je zwaait zijn heel vriendelijk.,naar wie je,
+13,Relativization,58,pied_piping,24,Ungrammatical,De buren wie je naar zwaait zijn heel vriendelijk.,wie je naar,
+13,Relativization,58,pied_piping,25,Grammatical,De honden naar wie je roept zijn heel gehoorzaam.,naar wie je,
+13,Relativization,58,pied_piping,25,Ungrammatical,De honden wie je naar roept zijn heel gehoorzaam.,wie je naar,
+13,Relativization,58,pied_piping,26,Grammatical,De vrouw naar wie je complimenten roept is mijn tante.,naar wie je,
+13,Relativization,58,pied_piping,26,Ungrammatical,De vrouw wie je naar complimenten roept is mijn tante.,wie je naar,
+13,Relativization,58,pied_piping,27,Grammatical,De docent naar wie je vraagt is heel aardig.,naar wie je,
+13,Relativization,58,pied_piping,27,Ungrammatical,De docent wie je naar vraagt is heel aardig.,wie je naar,
+13,Relativization,58,pied_piping,28,Grammatical,De meisjes naar wie je zingt zijn heel getalenteerd.,naar wie je,
+13,Relativization,58,pied_piping,28,Ungrammatical,De meisjes wie je naar zingt zijn heel getalenteerd.,wie je naar,
+13,Relativization,58,pied_piping,29,Grammatical,De kok naar wie je applaudisseert is mijn broer.,naar wie je,
+13,Relativization,58,pied_piping,29,Ungrammatical,De kok wie je naar applaudisseert is mijn broer.,wie je naar,
+13,Relativization,58,pied_piping,30,Grammatical,De meisjes naar wie je knipoogt zijn mijn nichtjes.,naar wie je,
+13,Relativization,58,pied_piping,30,Ungrammatical,De meisjes wie je naar knipoogt zijn mijn nichtjes.,wie je naar,
+13,Relativization,58,pied_piping,31,Grammatical,De jongen naar wie je wijst is mijn beste vriend.,naar wie je,
+13,Relativization,58,pied_piping,31,Ungrammatical,De jongen wie je naar wijst is mijn beste vriend.,wie je naar,
+13,Relativization,58,pied_piping,32,Grammatical,De vrouw naar wie je groet is mijn grootmoeder.,naar wie je,
+13,Relativization,58,pied_piping,32,Ungrammatical,De vrouw wie je naar groet is mijn grootmoeder.,wie je naar,
+13,Relativization,58,pied_piping,33,Grammatical,De jongen naar wie je belt is mijn neef.,naar wie je,
+13,Relativization,58,pied_piping,33,Ungrammatical,De jongen wie je naar belt is mijn neef.,wie je naar,
+13,Relativization,58,pied_piping,34,Grammatical,De jongen naar wie je knikt is mijn vriend.,naar wie je,
+13,Relativization,58,pied_piping,34,Ungrammatical,De jongen wie je naar knikt is mijn vriend.,wie je naar,
+13,Relativization,58,pied_piping,35,Grammatical,De vrouw naar wie je lacht is mijn tante.,naar wie je,
+13,Relativization,58,pied_piping,35,Ungrammatical,De vrouw wie je naar lacht is mijn tante.,wie je naar,
+13,Relativization,58,pied_piping,36,Grammatical,De lerares naar wie je opkijkt is heel slim.,naar wie je,
+13,Relativization,58,pied_piping,36,Ungrammatical,De lerares wie je naar opkijkt is heel slim.,wie je naar,
+13,Relativization,58,pied_piping,37,Grammatical,De man naar wie je roept is mijn buurman.,naar wie je,
+13,Relativization,58,pied_piping,37,Ungrammatical,De man wie je naar roept is mijn buurman.,wie je naar,
+13,Relativization,58,pied_piping,38,Grammatical,De meisjes voor wie je zorgt zijn mijn nichtjes.,voor wie je,
+13,Relativization,58,pied_piping,38,Ungrammatical,De meisjes wie je voor zorgt zijn mijn nichtjes.,wie je voor,
+13,Relativization,58,pied_piping,39,Grammatical,De jongen naar wie je fluistert is heel geheimzinnig.,naar wie je,
+13,Relativization,58,pied_piping,39,Ungrammatical,De jongen wie je naar fluistert is heel geheimzinnig.,wie je naar,
+13,Relativization,58,pied_piping,40,Grammatical,De vrouw naar wie je fluistert is mijn vriendin.,naar wie je,
+13,Relativization,58,pied_piping,40,Ungrammatical,De vrouw wie je naar fluistert is mijn vriendin.,wie je naar,
+13,Relativization,58,pied_piping,41,Grammatical,De jongen naar wie je kijkt is mijn broertje.,naar wie je,
+13,Relativization,58,pied_piping,41,Ungrammatical,De jongen wie je naar kijkt is mijn broertje.,wie je naar,
+13,Relativization,58,pied_piping,42,Grammatical,De man naar wie je opkijkt is mijn mentor.,naar wie je,
+13,Relativization,58,pied_piping,42,Ungrammatical,De man wie je naar opkijkt is mijn mentor.,wie je naar,
+13,Relativization,58,pied_piping,43,Grammatical,De meisjes naar wie je zwaait zijn mijn nichtjes.,naar wie je,
+13,Relativization,58,pied_piping,43,Ungrammatical,De meisjes wie je naar zwaait zijn mijn nichtjes.,wie je naar,
+13,Relativization,58,pied_piping,44,Grammatical,De jongen naar wie je luistert is mijn neef.,naar wie je,
+13,Relativization,58,pied_piping,44,Ungrammatical,De jongen wie je naar luistert is mijn neef.,wie je naar,
+13,Relativization,58,pied_piping,45,Grammatical,De leraar naar wie je vraagt is heel behulpzaam.,naar wie je,
+13,Relativization,58,pied_piping,45,Ungrammatical,De leraar wie je naar vraagt is heel behulpzaam.,wie je naar,
+13,Relativization,58,pied_piping,46,Grammatical,De vrouw naar wie je zingt is mijn zus.,naar wie je,
+13,Relativization,58,pied_piping,46,Ungrammatical,De vrouw wie je naar zingt is mijn zus.,wie je naar,
+13,Relativization,58,pied_piping,47,Grammatical,De vriendin naar wie je belt is ook mijn beste vriendin.,naar wie je,
+13,Relativization,58,pied_piping,47,Ungrammatical,De vriendin wie je naar belt is ook mijn beste vriendin.,wie je naar,
+13,Relativization,58,pied_piping,48,Grammatical,De jongen naar wie je vraagt is mijn collega.,naar wie je,
+13,Relativization,58,pied_piping,48,Ungrammatical,De jongen wie je naar vraagt is mijn collega.,wie je naar,
+13,Relativization,58,pied_piping,49,Grammatical,De vrouw naar wie je knipoogt is mijn tante.,naar wie je,
+13,Relativization,58,pied_piping,49,Ungrammatical,De vrouw wie je naar knipoogt is mijn tante.,wie je naar,
+13,Relativization,58,pied_piping,50,Grammatical,De jongen naar wie je glimlacht is mijn beste vriend.,naar wie je,
+13,Relativization,58,pied_piping,50,Ungrammatical,De jongen wie je naar glimlacht is mijn beste vriend.,wie je naar,
+13,Relativization,58,pied_piping,51,Grammatical,De vrouw naar wie je wijst is mijn buurvrouw.,naar wie je,
+13,Relativization,58,pied_piping,51,Ungrammatical,De vrouw wie je naar wijst is mijn buurvrouw.,wie je naar,
+13,Relativization,58,pied_piping,52,Grammatical,De man naar wie je knipoogt is mijn oom.,naar wie je,
+13,Relativization,58,pied_piping,52,Ungrammatical,De man wie je naar knipoogt is mijn oom.,wie je naar,
+13,Relativization,58,pied_piping,53,Grammatical,De leraar voor wie je applaudisseert is heel inspirerend.,voor wie je,
+13,Relativization,58,pied_piping,53,Ungrammatical,De leraar wie je voor applaudisseert is heel inspirerend.,wie je voor,
+13,Relativization,58,pied_piping,54,Grammatical,De vrouw naar wie je vraagt is mijn moeder.,naar wie je,
+13,Relativization,58,pied_piping,54,Ungrammatical,De vrouw wie je naar vraagt is mijn moeder.,wie je naar,
+13,Relativization,58,pied_piping,55,Grammatical,De jongen naar wie je luistert is mijn neefje.,naar wie je,
+13,Relativization,58,pied_piping,55,Ungrammatical,De jongen wie je naar luistert is mijn neefje.,wie je naar,
+13,Relativization,58,pied_piping,56,Grammatical,De docent naar wie je opkijkt is heel intelligent.,naar wie je,
+13,Relativization,58,pied_piping,56,Ungrammatical,De docent wie je naar opkijkt is heel intelligent.,wie je naar,
+13,Relativization,58,pied_piping,57,Grammatical,De man naar wie je knikt is mijn buurman.,naar wie je,
+13,Relativization,58,pied_piping,57,Ungrammatical,De man wie je naar knikt is mijn buurman.,wie je naar,
+13,Relativization,58,pied_piping,58,Grammatical,De meisjes naar wie je lacht zijn mijn vriendinnen.,naar wie je,
+13,Relativization,58,pied_piping,58,Ungrammatical,De meisjes wie je naar lacht zijn mijn vriendinnen.,wie je naar,
+13,Relativization,58,pied_piping,59,Grammatical,De jongen naar wie je schreeuwt is mijn broertje.,naar wie je,
+13,Relativization,58,pied_piping,59,Ungrammatical,De jongen wie je naar schreeuwt is mijn broertje.,wie je naar,
+13,Relativization,58,pied_piping,60,Grammatical,De leraar naar wie je luistert is erg slim.,naar wie je,
+13,Relativization,58,pied_piping,60,Ungrammatical,De leraar wie je naar luistert is erg slim.,wie je naar,
+13,Relativization,58,pied_piping,61,Grammatical,De collega naar wie je glimlacht is mijn baas.,naar wie je,
+13,Relativization,58,pied_piping,61,Ungrammatical,De collega wie je naar glimlacht is mijn baas.,wie je naar,
+13,Relativization,58,pied_piping,62,Grammatical,De acteur naar wie je kijkt heeft veel prijzen gewonnen.,naar wie je,
+13,Relativization,58,pied_piping,62,Ungrammatical,De acteur wie je naar kijkt heeft veel prijzen gewonnen.,wie je naar,
+13,Relativization,58,pied_piping,63,Grammatical,De actrice naar wie je opkijkt is heel getalenteerd.,naar wie je,
+13,Relativization,58,pied_piping,63,Ungrammatical,De actrice wie je naar opkijkt is heel getalenteerd.,wie je naar,
+13,Relativization,58,pied_piping,64,Grammatical,De professor naar wie je luistert is bekend in zijn vakgebied.,naar wie je,
+13,Relativization,58,pied_piping,64,Ungrammatical,De professor wie je naar luistert is bekend in zijn vakgebied.,wie je naar,
+13,Relativization,58,pied_piping,65,Grammatical,De adviseur naar wie je luistert is heel deskundig.,naar wie je,
+13,Relativization,58,pied_piping,65,Ungrammatical,De adviseur wie je naar luistert is heel deskundig.,wie je naar,
+13,Relativization,58,pied_piping,66,Grammatical,De vriend naar wie je luistert is heel grappig.,naar wie je,
+13,Relativization,58,pied_piping,66,Ungrammatical,De vriend wie je naar luistert is heel grappig.,wie je naar,
+13,Relativization,58,pied_piping,67,Grammatical,De lerares naar wie je opkijkt geeft wiskunde.,naar wie je,
+13,Relativization,58,pied_piping,67,Ungrammatical,De lerares wie je naar opkijkt geeft wiskunde.,wie je naar,
+13,Relativization,58,pied_piping,68,Grammatical,De buurvrouw naar wie je zwaait is heel vriendelijk.,naar wie je,
+13,Relativization,58,pied_piping,68,Ungrammatical,De buurvrouw wie je naar zwaait is heel vriendelijk.,wie je naar,
+13,Relativization,58,pied_piping,69,Grammatical,De zus naar wie je belt woont in Amsterdam.,naar wie je,
+13,Relativization,58,pied_piping,69,Ungrammatical,De zus wie je naar belt woont in Amsterdam.,wie je naar,
+13,Relativization,58,pied_piping,70,Grammatical,De collega naar wie je knipoogt is mijn beste vriend.,naar wie je,
+13,Relativization,58,pied_piping,70,Ungrammatical,De collega wie je naar knipoogt is mijn beste vriend.,wie je naar,
+13,Relativization,58,pied_piping,71,Grammatical,De ober naar wie je roept brengt het menu.,naar wie je,
+13,Relativization,58,pied_piping,71,Ungrammatical,De ober wie je naar roept brengt het menu.,wie je naar,
+13,Relativization,58,pied_piping,72,Grammatical,De vriendin naar wie je glimlacht is jarig vandaag.,naar wie je,
+13,Relativization,58,pied_piping,72,Ungrammatical,De vriendin wie je naar glimlacht is jarig vandaag.,wie je naar,
+13,Relativization,58,pied_piping,73,Grammatical,De broer naar wie je wijst is een beroemde artiest.,naar wie je,
+13,Relativization,58,pied_piping,73,Ungrammatical,De broer wie je naar wijst is een beroemde artiest.,wie je naar,
+13,Relativization,58,pied_piping,74,Grammatical,De kassamedewerker naar wie je knikt kent mijn ouders.,naar wie je,
+13,Relativization,58,pied_piping,74,Ungrammatical,De kassamedewerker wie je naar knikt kent mijn ouders.,wie je naar,
+13,Relativization,58,pied_piping,75,Grammatical,De tante naar wie je zwaait heeft een nieuw huis.,naar wie je,
+13,Relativization,58,pied_piping,75,Ungrammatical,De tante wie je naar zwaait heeft een nieuw huis.,wie je naar,
+13,Relativization,58,pied_piping,76,Grammatical,De vriend naar wie je kijkt is mijn studiegenoot.,naar wie je,
+13,Relativization,58,pied_piping,76,Ungrammatical,De vriend wie je naar kijkt is mijn studiegenoot.,wie je naar,
+13,Relativization,58,pied_piping,77,Grammatical,De neef naar wie je belt is een goede fotograaf.,naar wie je,
+13,Relativization,58,pied_piping,77,Ungrammatical,De neef wie je naar belt is een goede fotograaf.,wie je naar,
+13,Relativization,58,pied_piping,78,Grammatical,De moeder naar wie je luistert geeft wijze adviezen.,naar wie je,
+13,Relativization,58,pied_piping,78,Ungrammatical,De moeder wie je naar luistert geeft wijze adviezen.,wie je naar,
+13,Relativization,58,pied_piping,79,Grammatical,De oom naar wie je opkijkt is een succesvolle ondernemer.,naar wie je,
+13,Relativization,58,pied_piping,79,Ungrammatical,De oom wie je naar opkijkt is een succesvolle ondernemer.,wie je naar,
+13,Relativization,58,pied_piping,80,Grammatical,De vriendin naar wie je lacht is mijn buurmeisje.,naar wie je,
+13,Relativization,58,pied_piping,80,Ungrammatical,De vriendin wie je naar lacht is mijn buurmeisje.,wie je naar,
+13,Relativization,58,pied_piping,81,Grammatical,De zus naar wie je wijst heeft een nieuwe baan.,naar wie je,
+13,Relativization,58,pied_piping,81,Ungrammatical,De zus wie je naar wijst heeft een nieuwe baan.,wie je naar,
+13,Relativization,58,pied_piping,82,Grammatical,De docent naar wie je vraagt is er vandaag niet.,naar wie je,
+13,Relativization,58,pied_piping,82,Ungrammatical,De docent wie je naar vraagt is er vandaag niet.,wie je naar,
+13,Relativization,58,pied_piping,83,Grammatical,De vriend naar wie je knikt heeft een mooie auto.,naar wie je,
+13,Relativization,58,pied_piping,83,Ungrammatical,De vriend wie je naar knikt heeft een mooie auto.,wie je naar,
+13,Relativization,58,pied_piping,84,Grammatical,De zus naar wie je belt organiseert een feest.,naar wie je,
+13,Relativization,58,pied_piping,84,Ungrammatical,De zus wie je naar belt organiseert een feest.,wie je naar,
+13,Relativization,58,pied_piping,85,Grammatical,De vriend naar wie je kijkt is een getalenteerde muzikant.,naar wie je,
+13,Relativization,58,pied_piping,85,Ungrammatical,De vriend wie je naar kijkt is een getalenteerde muzikant.,wie je naar,
+13,Relativization,58,pied_piping,86,Grammatical,De leraar naar wie je opkijkt is streng maar rechtvaardig.,naar wie je,
+13,Relativization,58,pied_piping,86,Ungrammatical,De leraar wie je naar opkijkt is streng maar rechtvaardig.,wie je naar,
+13,Relativization,58,pied_piping,87,Grammatical,De vriend naar wie je luistert heeft altijd goede raad.,naar wie je,
+13,Relativization,58,pied_piping,87,Ungrammatical,De vriend wie je naar luistert heeft altijd goede raad.,wie je naar,
+13,Relativization,58,pied_piping,88,Grammatical,De collega naar wie je knipoogt heeft een interessante presentatie.,naar wie je,
+13,Relativization,58,pied_piping,88,Ungrammatical,De collega wie je naar knipoogt heeft een interessante presentatie.,wie je naar,
+13,Relativization,58,pied_piping,89,Grammatical,De moeder naar wie je zwaait bakt heerlijke taarten.,naar wie je,
+13,Relativization,58,pied_piping,89,Ungrammatical,De moeder wie je naar zwaait bakt heerlijke taarten.,wie je naar,
+13,Relativization,58,pied_piping,90,Grammatical,De vriend naar wie je belt is een fervent reiziger.,naar wie je,
+13,Relativization,58,pied_piping,90,Ungrammatical,De vriend wie je naar belt is een fervent reiziger.,wie je naar,
+13,Relativization,58,pied_piping,91,Grammatical,De broer naar wie je wijst is een bekende acteur.,naar wie je,
+13,Relativization,58,pied_piping,91,Ungrammatical,De broer wie je naar wijst is een bekende acteur.,wie je naar,
+13,Relativization,58,pied_piping,92,Grammatical,De vriendin naar wie je glimlacht is mijn trouwe steun.,naar wie je,
+13,Relativization,58,pied_piping,92,Ungrammatical,De vriendin wie je naar glimlacht is mijn trouwe steun.,wie je naar,
+13,Relativization,58,pied_piping,93,Grammatical,De vriend naar wie je wijst is heel sportief.,naar wie je,
+13,Relativization,58,pied_piping,93,Ungrammatical,De vriend wie je naar wijst is heel sportief.,wie je naar,
+13,Relativization,58,pied_piping,94,Grammatical,De collega naar wie je luistert heeft veel ervaring.,naar wie je,
+13,Relativization,58,pied_piping,94,Ungrammatical,De collega wie je naar luistert heeft veel ervaring.,wie je naar,
+13,Relativization,58,pied_piping,95,Grammatical,De buurvrouw naar wie je zwaait heeft een schattige hond.,naar wie je,
+13,Relativization,58,pied_piping,95,Ungrammatical,De buurvrouw wie je naar zwaait heeft een schattige hond.,wie je naar,
+13,Relativization,58,pied_piping,96,Grammatical,De buurman naar wie je roept is een fanatieke tuinier.,naar wie je,
+13,Relativization,58,pied_piping,96,Ungrammatical,De buurman wie je naar roept is een fanatieke tuinier.,wie je naar,
+13,Relativization,58,pied_piping,97,Grammatical,De lerares naar wie je opkijkt organiseert leuke excursies.,naar wie je,
+13,Relativization,58,pied_piping,97,Ungrammatical,De lerares wie je naar opkijkt organiseert leuke excursies.,wie je naar,
+13,Relativization,58,pied_piping,98,Grammatical,De neef naar wie je belt is een ervaren programmeur.,naar wie je,
+13,Relativization,58,pied_piping,98,Ungrammatical,De neef wie je naar belt is een ervaren programmeur.,wie je naar,
+13,Relativization,58,pied_piping,99,Grammatical,De vriend naar wie je wijst heeft een opvallende tatoeage.,naar wie je,
+13,Relativization,58,pied_piping,99,Ungrammatical,De vriend wie je naar wijst heeft een opvallende tatoeage.,wie je naar,
+13,Relativization,58,pied_piping,100,Grammatical,De vriendin naar wie je wijst heeft een unieke stijl.,naar wie je,
+13,Relativization,58,pied_piping,100,Ungrammatical,De vriendin wie je naar wijst heeft een unieke stijl.,wie je naar,
+13,Relativization,59,island,101,Grammatical,Dat zijn de koekjes die jij denkt dat de bakker heeft gemaakt in de bakkerij.,heeft,denkt dat
+13,Relativization,59,island,101,Ungrammatical,Dat zijn de koekjes die jij vraagt of de bakker heeft gemaakt in de bakkerij.,heeft,vraagt of
+13,Relativization,59,island,102,Grammatical,Dit is het beeldhouwwerk dat Thom zag dat de kunstenaar had getoond in de gallerij.,had,zag dat
+13,Relativization,59,island,102,Ungrammatical,Dit is het beeldhouwwerk dat Thom betwijfelde of de kunstenaar had getoond in de gallerij.,had,betwijfelde of
+13,Relativization,59,island,103,Grammatical,Hier zijn de koffers die de man dacht dat de chauffeur had vervoerd naar het vliegveld.,had,dacht dat
+13,Relativization,59,island,103,Ungrammatical,Hier zijn de koffers die de man betwijfelde of de chauffeur had vervoerd naar het vliegveld.,had,betwijfelde of
+13,Relativization,59,island,104,Grammatical,Dat is de sport die hij hoorde dat de klasgenoot had beoefend op hoog niveau.,had,hoorde dat
+13,Relativization,59,island,104,Ungrammatical,Dat is de sport die hij vroeg of de klasgenoot had beoefend op hoog niveau.,had,vroeg of
+13,Relativization,59,island,105,Grammatical,Dit is de autobiografie die Dennis hoorde dat de president had samengesteld na zijn termijn.,had,hoorde dat
+13,Relativization,59,island,105,Ungrammatical,Dit is de autobiografie die Dennis betwijfelde of de president had samengesteld na zijn termijn.,had,betwijfelde of
+13,Relativization,59,island,106,Grammatical,Daar is het pretpark dat de ondernemer hoopt dat de toerist bezoekt tijdens de vakantie.,bezoekt,hoorde dat
+13,Relativization,59,island,106,Ungrammatical,Daar is het pretpark dat de ondernemer vraagt of de toerist bezoekt tijdens de vakantie.,bezoekt,vraagt of
+13,Relativization,59,island,107,Grammatical,Hier zijn de leidingen die zij zag dat de monteur had nagelopen op het kinderdagverblijf.,had,zag dat
+13,Relativization,59,island,107,Ungrammatical,Hier zijn de leidingen die zij vroeg of de monteur had nagelopen op het kinderdagverblijf.,had,vroeg of
+13,Relativization,59,island,108,Grammatical,Daar zijn de kleren die de leidinggevende hoopt dat de jongen heeft teruggebracht naar de winkel.,heeft,hoopt dat
+13,Relativization,59,island,108,Ungrammatical,Daar zijn de kleren die de leidinggevende betwijfelt of de jongen heeft teruggebracht naar de winkel.,heeft,betwijfelt of
+13,Relativization,59,island,109,Grammatical,Dit is het geld dat Celeste ziet dat de vrouw ontvangt iedere drie maanden.,ontvangt,ziet dat
+13,Relativization,59,island,109,Ungrammatical,Dit is het geld dat Celeste vraagt of de vrouw ontvangt iedere drie maanden.,ontvangt,vraagt of
+13,Relativization,59,island,110,Grammatical,Dat is de stof die jij hoopt dat de leerling beheerst voor de toets.,beheerst,hoopt dat
+13,Relativization,59,island,110,Ungrammatical,Dat is de stof die jij betwijfelt of de leerling beheerst voor de toets.,beheerst,betwijfelt of
+13,Relativization,59,island,111,Grammatical,Dit zijn de opgaven die hij wil dat de studenten gaan maken in het werkcollege.,gaan,wil dat
+13,Relativization,59,island,111,Ungrammatical,Dit zijn de opgaven die hij controleerde of de studenten gaan maken in het werkcollege.,gaan,controleerde of
+13,Relativization,59,island,112,Grammatical,Hier is het huis dat ik hoop dat mijn ouders zullen kopen volgend jaar.,zullen,wil dat
+13,Relativization,59,island,112,Ungrammatical,Hier is het huis dat ik betwijfel of mijn ouders zullen kopen volgend jaar.,zullen,betwijfel of
+13,Relativization,59,island,113,Grammatical,Hier zijn de schilderijen die hij hoopt dat zijn vriendin zal waarderen in het museum.,zal,hoopt dat
+13,Relativization,59,island,113,Ungrammatical,Hier zijn de schilderijen die hij betwijfelt of zijn vriendin zal waarderen in het museum.,zal,betwijfelt of
+13,Relativization,59,island,114,Grammatical,Dat is de taak die hij verwacht dat zijn collega zal voltooien voor het einde van de week.,zal,verwacht dat
+13,Relativization,59,island,114,Ungrammatical,Dat is de taak die hij betwijfelt of zijn collega zal voltooien voor het einde van de week.,zal,betwijfelt of
+13,Relativization,59,island,115,Grammatical,Daar zijn de boeken die hij hoopt dat zijn zus zal lezen tijdens de vakantie.,zal,hoopt dat
+13,Relativization,59,island,115,Ungrammatical,Daar zijn de boeken die hij betwijfelt of zijn zus zal lezen tijdens de vakantie.,zal,twijfelt of
+13,Relativization,59,island,116,Grammatical,Dit zijn de liedjes die zij wil dat haar vriend zingt op het concert vanavond.,zingt,wil dat
+13,Relativization,59,island,116,Ungrammatical,Dit zijn de liedjes die zij vraagt of haar vriend zingt op het concert vanavond.,zingt,vraagt of
+13,Relativization,59,island,117,Grammatical,Dat zijn de cadeaus die hij hoopt dat zijn vrienden zullen geven voor zijn verjaardag.,zullen,hoopt dat
+13,Relativization,59,island,117,Ungrammatical,Dat zijn de cadeaus die hij betwijfelt of zijn vrienden zullen geven voor zijn verjaardag.,zullen,betwijfelt of
+13,Relativization,59,island,118,Grammatical,Hier liggen de papieren die Julia dacht dat de vrouw had laten liggen vanmiddag.,had,dacht dat
+13,Relativization,59,island,118,Ungrammatical,Hier liggen de papieren die Julia vroeg of de vrouw had laten liggen vanmiddag.,had,vroeg of
+13,Relativization,59,island,119,Grammatical,Daar lag de sleutel die hij zag dat zijn broer heeft verloren gisteren.,heeft,gelooft dat
+13,Relativization,59,island,119,Ungrammatical,Daar lag de sleutel die hij vroeg of zijn broer heeft verloren gisteren.,heeft,onderzoekt of
+13,Relativization,59,island,120,Grammatical,Hier zijn de ingrediënten die zij dacht dat Kayleigh had gekocht voor het avondeten.,had,hoopte dat
+13,Relativization,59,island,120,Ungrammatical,Hier zijn de ingrediënten die zij betwijfelt of Kayleigh had gekocht voor het avondeten.,had,twijfelt of
+13,Relativization,59,island,121,Grammatical,Dat is de ring die Willem dacht dat zijn vriendin had gevonden op het strand.,had,dacht dat
+13,Relativization,59,island,121,Ungrammatical,Dat is de ring die Willem vraagt of zijn vriendin had gevonden op het strand.,had,vraagt of
+13,Relativization,59,island,122,Grammatical,Hier zijn de antwoorden die zij wist dat haar vriendin had opgeschreven tijdens de test.,had,dacht dat
+13,Relativization,59,island,122,Ungrammatical,Hier zijn de antwoorden die zij controleert of haar vriendin had opgeschreven tijdens de test.,had,controleert of
+13,Relativization,59,island,123,Grammatical,Dat is de hond die zij dacht dat haar buurman had uitgelaten vanochtend.,had,dacht dat
+13,Relativization,59,island,123,Ungrammatical,Dat is de hond die zij vraagt of haar buurman had uitgelaten vanochtend.,had,vraagt of
+13,Relativization,59,island,124,Grammatical,Daar staat de fiets die zij dacht dat haar zus had geleend voor de rit naar school.,had,dacht dat
+13,Relativization,59,island,124,Ungrammatical,Daar staat de fiets die zij vroeg of haar zus had geleend voor de rit naar school.,had,vroeg of
+13,Relativization,59,island,125,Grammatical,Hier is het medicijn dat de dokter hoopt dat de patiënt zal nemen.,zal,hoopt dat
+13,Relativization,59,island,125,Ungrammatical,Hier is het medicijn dat de dokter controleerde of de patiënt zal nemen.,zal,controleerde of
+13,Relativization,59,island,126,Grammatical,Hier zijn de bomen die zij dacht dat de vogels zouden bewonen in het bos.,zouden,dacht dat
+13,Relativization,59,island,126,Ungrammatical,Hier zijn de bomen die zij vraagt of de vogels zouden bewonen in het bos.,zouden,vraagt of
+13,Relativization,59,island,127,Grammatical,Hier is het bos dat zij hoopte dat de dieren zouden bevolken na de herbebossing.,zouden,hoopte dat
+13,Relativization,59,island,127,Ungrammatical,Hier is het bos dat zij betwijfelde of de dieren zouden bevolken na de herbebossing.,zouden,betwijfelde of
+13,Relativization,59,island,128,Grammatical,Dit zijn de geruchten die zij hoorde dat de buren hadden verspreid over de nieuwe bewoners.,hadden,hoorde dat
+13,Relativization,59,island,128,Ungrammatical,Dit zijn de geruchten die zij betwijfelde of de buren hadden verspreid over de nieuwe bewoners.,hadden,betwijfelde of
+13,Relativization,59,island,129,Grammatical,Dit was de film die Rick hoorde dat veel critici hadden geprezen om het boeiende verhaal.,hadden,hoorde dat
+13,Relativization,59,island,129,Ungrammatical,Dit was de film die Rick vroeg of veel critici hadden geprezen om het boeiende verhaal.,hadden,vroeg of
+13,Relativization,59,island,130,Grammatical,Dit is het schema dat ik zie dat de werknemers volgen tijdens hun ochtendshift.,volgen,zie dat
+13,Relativization,59,island,130,Ungrammatical,Dit is het schema dat ik controleer of de werknemers volgen tijdens hun ochtendshift.,volgen,controleer of
+13,Relativization,59,island,131,Grammatical,Dit waren de films die ik hoorde dat mijn vrienden hadden gekeken dit weekend.,hadden,hoorde dat
+13,Relativization,59,island,131,Ungrammatical,Dit waren de films die ik vroeg of mijn vrienden hadden gekeken dit weekend.,hadden,vroeg of
+13,Relativization,59,island,132,Grammatical,Dit was het boek dat ik hoor dat de recensenten hebben aanbevolen deze zomer.,hebben,hoorde dat
+13,Relativization,59,island,132,Ungrammatical,Dit was het boek dat ik vraag of de recensenten hebben aanbevolen deze zomer.,hebben,vroeg of
+13,Relativization,59,island,133,Grammatical,Dit was het vak dat ze hoorde dat veel studenten willen overslaan in hun derde jaar.,willen,hoorde dat
+13,Relativization,59,island,133,Ungrammatical,Dit was het vak dat ze controleerde of veel studenten willen overslaan in hun derde jaar.,willen,controleerde of
+13,Relativization,59,island,134,Grammatical,Daar is die opera die de regisseur hoopt dat het publiek bijwoont deze maand.,bijwoont,hoopt dat
+13,Relativization,59,island,134,Ungrammatical,Daar is die opera die de regisseur vraagt of het publiek bijwoont deze maand.,bijwoont,vraagt of
+13,Relativization,59,island,135,Grammatical,Hier is het strand dat ik hoorde dat de lokale bevolking bezoekt tijdens de zomer.,bezoekt,hoorde dat
+13,Relativization,59,island,135,Ungrammatical,Hier is het strand dat ik controleerde of de lokale bevolking bezoekt tijdens de zomer.,bezoekt,controleerde of
+13,Relativization,59,island,136,Grammatical,Dit zijn de activiteiten die ik weet dat mijn vrienden willen doen tijdens het weekend.,willen,weet dat
+13,Relativization,59,island,136,Ungrammatical,Dit zijn de activiteiten die ik vraag of mijn vrienden willen doen tijdens het weekend.,willen,vraag of
+13,Relativization,59,island,137,Grammatical,Hier is een museum dat hij weet dat kunstliefhebbers willen bezoeken deze maand.,willen,weet dat
+13,Relativization,59,island,137,Ungrammatical,Hier is een museum dat hij vraagt of kunstliefhebbers willen bezoeken deze maand.,willen,vraagt of
+13,Relativization,59,island,138,Grammatical,Hier zijn de bergen die ik hoorde dat de avonturiers kunnen beklimmen deze zomer.,kunnen,hoorde dat
+13,Relativization,59,island,138,Ungrammatical,Hier zijn de bergen die ik controleerde of de avonturiers kunnen beklimmen deze zomer.,kunnen,controleerde of
+13,Relativization,59,island,139,Grammatical,Dit waren de artikelen die ik hoorde dat mijn vrienden moesten lezen deze maand.,moesten,hoorde dat
+13,Relativization,59,island,139,Ungrammatical,Dit waren de artikelen die ik vroeg of mijn vrienden moesten lezen deze maand.,moesten,vroeg of
+13,Relativization,59,island,140,Grammatical,Dit is de sportwedstrijd die ik hoorde dat mijn neef gaat spelen volgende week.,gaat,hoorde dat
+13,Relativization,59,island,140,Ungrammatical,Dit is de sportwedstrijd die ik vraag of mijn neef gaat spelen volgende week.,gaat,vraag of
+13,Relativization,59,island,141,Grammatical,Dit zijn de plannen die ik hoorde dat mijn zus heeft voor haar verjaardag.,heeft,hoorde dat
+13,Relativization,59,island,141,Ungrammatical,Dit zijn de plannen die ik vroeg of mijn zus heeft voor haar verjaardag.,heeft,vroeg of
+13,Relativization,59,island,142,Grammatical,Hier is het spel dat ik denk dat mijn vrienden willen spelen op de spelletjesavond.,willen,hoorde dat
+13,Relativization,59,island,142,Ungrammatical,Hier is het spel dat ik vraag of mijn vrienden willen spelen op de spelletjesavond.,willen,vraag
+13,Relativization,59,island,143,Grammatical,Daar zijn de attracties die ik denk dat zij wil uitproberen deze zomer.,wil,denk dat
+13,Relativization,59,island,143,Ungrammatical,Daar zijn de attracties die ik vraag of zij wil uitproberen deze zomer.,wil,vraag of
+13,Relativization,59,island,144,Grammatical,Hier zijn de gerechten die ik weet dat mijn oma zal koken voor het diner.,koken,weet dat
+13,Relativization,59,island,144,Ungrammatical,Hier zijn de gerechten die ik vraag of mijn oma zal koken voor het diner.,koken,vraag of
+13,Relativization,59,island,145,Grammatical,Dit zijn de concerten die ik hoorde dat de band zal geven volgende maand.,zal,hoorde dat
+13,Relativization,59,island,145,Ungrammatical,Dit zijn de concerten die ik vraag of de band zal geven volgende maand.,zal,vraag of
+13,Relativization,59,island,146,Grammatical,Dit is de film die ik geloof dat mijn broer wil kijken dit weekend.,wil,geloof dat
+13,Relativization,59,island,146,Ungrammatical,Dit is de film die ik vraag of mijn broer wil kijken dit weekend.,wil,vraag of
+13,Relativization,59,island,147,Grammatical,Dit is de taak die ik bevestig dat mijn collega zal afmaken voor de deadline.,zal,bevestig dat
+13,Relativization,59,island,147,Ungrammatical,Dit is de taak die ik vraag of mijn collega zal afmaken voor de deadline.,zal,vraag of
+13,Relativization,59,island,148,Grammatical,Hier is de vlucht die jij denkt dat je broer zal boeken voor zijn vakantie.,zal,denkt dat
+13,Relativization,59,island,148,Ungrammatical,Hier is de vlucht die jij controleert of je broer zal boeken voor zijn vakantie.,zal,controleert of
+13,Relativization,59,island,149,Grammatical,Hier zijn de activiteiten die ik hoorde dat de kinderen willen doen op hun verjaardagsfeestje.,willen,hoorde dat
+13,Relativization,59,island,149,Ungrammatical,Hier zijn de activiteiten die ik vraag of de kinderen willen doen op hun verjaardagsfeestje.,willen,vraag of
+13,Relativization,59,island,150,Grammatical,Hier is het gerecht dat ik denk dat mijn partner zal kiezen in het restaurant.,zal,denk dat
+13,Relativization,59,island,150,Ungrammatical,Hier is het gerecht dat ik vraag of mijn partner zal kiezen in het restaurant.,zal,vraag of
+13,Relativization,59,island,151,Grammatical,Hier zijn de gereedschappen die hij wist dat de klusjesmannen moesten gebruiken voor de renovatie.,moesten,wist dat
+13,Relativization,59,island,151,Ungrammatical,Hier zijn de gereedschappen die hij vroeg of de klusjesmannen moesten gebruiken voor de renovatie.,moesten,vroeg of
+13,Relativization,59,island,152,Grammatical,Hier is het geld dat de investeerder verwacht dat het rendement zal opleveren in de komende jaren.,zal,verwacht dat
+13,Relativization,59,island,152,Ungrammatical,Hier is het geld dat de investeerder vraagt of het rendement zal opleveren in de komende jaren.,zal,vraagt of
+13,Relativization,59,island,153,Grammatical,Dit zijn de brieven die de postbode weet dat de flatbewoners hebben ontvangen vandaag.,hebben,weet dat
+13,Relativization,59,island,153,Ungrammatical,Dit zijn de brieven die de postbode vraagt of de flatbewoners hebben ontvangen vandaag.,hebben,vraagt of
+13,Relativization,59,island,154,Grammatical,Daar zijn de documenten die de advocaat denkt dat de jury ze zal bestuderen tijdens het proces.,zal,denkt dat
+13,Relativization,59,island,154,Ungrammatical,Daar zijn de documenten die de advocaat vraagt of de jury ze zal bestuderen tijdens het proces.,zal,vraagt of
+13,Relativization,59,island,155,Grammatical,Dit is de opdracht die de leraar verwacht dat de leerlingen zullen voltooien voor het einde van de week.,zullen,verwacht dat
+13,Relativization,59,island,155,Ungrammatical,Dit is de opdracht die de leraar vraagt of de leerlingen zullen voltooien voor het einde van de week.,zullen,vraagt of
+13,Relativization,59,island,156,Grammatical,Hier zijn de maaltijden die de chef-kok denkt dat de gasten zullen bestellen in het restaurant.,zullen,denkt dat
+13,Relativization,59,island,156,Ungrammatical,Hier zijn de maaltijden die de chef-kok vraagt of de gasten zullen bestellen in het restaurant.,zullen,vraagt of
+13,Relativization,59,island,157,Grammatical,Daar waren de presentaties die de spreker verwacht dat het publiek zal bijwonen in de conferentiezaal.,zal,verwacht dat
+13,Relativization,59,island,157,Ungrammatical,Daar waren de presentaties die de spreker vraagt of het publiek zal bijwonen in de conferentiezaal.,zal,vraagt of
+13,Relativization,59,island,158,Grammatical,Dit is het bedrag dat de accountant verwacht dat het bedrijf zal verdienen aan de nieuwe investering.,zal,verwacht dat
+13,Relativization,59,island,158,Ungrammatical,Dit is het bedrag waarover de accountant controleert of het bedrijf zal verdienen aan de nieuwe investering.,zal,controleert of
+13,Relativization,59,island,159,Grammatical,Daar zijn de boeken die de bibliothecaris verwachtte dat de lezers zullen lenen deze maand.,zullen,verwachtte dat
+13,Relativization,59,island,159,Ungrammatical,Daar zijn de boeken die de bibliothecaris controleerde of de lezers zullen lenen deze maand.,zullen,controleerde of
+13,Relativization,59,island,160,Grammatical,Daar lagen de cadeaus die wij geloofden dat Sinterklaas had gebracht door de schoorsteen.,had,geloofden dat
+13,Relativization,59,island,160,Ungrammatical,Daar lagen de cadeaus die wij vroegen of Sinterklaas had gebracht door de schoorsteen.,had,vroegen of
+13,Relativization,59,island,161,Grammatical,Hier is het landschap dat de fotograaf verwacht dat de toeristen zullen bewonderen tijdens de rondleiding.,zullen,verwacht dat
+13,Relativization,59,island,161,Ungrammatical,Hier is het landschap dat de fotograaf vraagt of de toeristen zullen bewonderen tijdens de rondleiding.,zullen,vraagt of
+13,Relativization,59,island,162,Grammatical,Dit is de vraag die jij denkt dat jouw medewerkers zullen bekritiseren.,zullen,denkt dat
+13,Relativization,59,island,162,Ungrammatical,Dit is de vraag die jij vraagt of jouw medewerkers zullen bekritiseren.,zullen,vraagt of
+13,Relativization,59,island,163,Grammatical,Daar was het landschap dat jij hoopte dat de fotograaf fotografeerde tijdens onze reis.,fotografeerde,hoopte dat
+13,Relativization,59,island,163,Ungrammatical,Daar was het landschap dat jij vroeg of de fotograaf fotografeerde tijdens onze reis.,fotografeerde,vroeg of
+13,Relativization,59,island,164,Grammatical,Hier zijn de activiteiten die de gidsen hopen dat de toeristen zullen waarderen tijdens de excursie.,zullen,hopen dat
+13,Relativization,59,island,164,Ungrammatical,Hier zijn de activiteiten die de gidsen vragen of de toeristen zullen waarderen tijdens de excursie.,zullen,vragen dat
+13,Relativization,59,island,165,Grammatical,Dit zijn de voorstellingen die de regisseur verwacht dat het publiek zal bezoeken.,zal,verwacht dat
+13,Relativization,59,island,165,Ungrammatical,Dit zijn de voorstellingen waarover de regisseur vraagt of het publiek zal bezoeken.,zal,vraagt of
+13,Relativization,59,island,166,Grammatical,Hier zijn de muzieknummers die de dj denkt dat het publiek zal waarderen op het feest.,zal,denkt dat
+13,Relativization,59,island,166,Ungrammatical,Hier zijn de muzieknummers die de dj vraagt of het publiek zal waarderen op het feest.,zal,vraagt of
+13,Relativization,59,island,167,Grammatical,Dit zijn de vragen die jij hoopt dat de interviewer vraagt tijdens het sollicitatiegesprek.,vraagt,hoopt dat
+13,Relativization,59,island,167,Ungrammatical,Dit zijn de vragen die jij weet of de interviewer vraagt tijdens het sollicitatiegesprek.,vraagt,weet of
+13,Relativization,59,island,168,Grammatical,Dit is de aanpak die de mentor hoopt dat Stijn zal leren tijdens zijn stage.,zal,hoopt dat
+13,Relativization,59,island,168,Ungrammatical,Dit is de aanpak die de mentor controleert of Stijn zal leren tijdens zijn stage.,zal,controleert of
+13,Relativization,59,island,169,Grammatical,Dat zijn de kwesties die de advocaat hoopt dat de rechter gaat behandelen tijdens de rechtszaak.,gaat,hoopt dat
+13,Relativization,59,island,169,Ungrammatical,Dat zijn de kwesties die de advocaat vraagt of de rechter gaat behandelen tijdens de rechtszaak.,gaat,vraagt of
+13,Relativization,59,island,170,Grammatical,Dat zijn de plannen die de ontwikkelaars weten dat het team zal implementeren voor het project.,zal,weten dat
+13,Relativization,59,island,170,Ungrammatical,Dat zijn de plannen die de ontwikkelaars vragen of het team zal implementeren voor het project.,zal,vragen of
+13,Relativization,59,island,171,Grammatical,Dit zijn de punten die de presentator verwacht dat je benadrukt tijdens de presentatie.,benadrukt,verwacht dat
+13,Relativization,59,island,171,Ungrammatical,Dit zijn de punten die de presentator controleert of je benadrukt tijdens de presentatie.,benadrukt,controleert of
+13,Relativization,59,island,172,Grammatical,Dit zijn de ideeën die de ondernemer hoopt dat de investeerders zullen overwegen voor de financiering.,zullen,hoopt dat
+13,Relativization,59,island,172,Ungrammatical,Dit zijn de ideeën die de ondernemer vraagt of de investeerders zullen overwegen voor de financiering.,zullen,vraagt of
+13,Relativization,59,island,173,Grammatical,Dit was de strategie die de coach verwachtte dat het team zal toepassen tijdens de wedstrijd.,zal,verwachtte dat
+13,Relativization,59,island,173,Ungrammatical,Dit was de strategie die de coach vroeg of het team zal toepassen tijdens de wedstrijd.,zal,vroeg of
+13,Relativization,59,island,174,Grammatical,Hier zijn de plannen die de architect verwacht dat de klant zal goedkeuren voor het ontwerp.,zal,verwacht dat
+13,Relativization,59,island,174,Ungrammatical,Hier zijn de plannen die de architect vraagt of de klant zal goedkeuren voor het ontwerp.,zal,vraagt of
+13,Relativization,59,island,175,Grammatical,Hier is de taak die ik vreesde dat mijn teamleden zouden vergeten voor de deadline.,zouden,vreesde dat
+13,Relativization,59,island,175,Ungrammatical,Hier is de taak die ik afwachtte of mijn teamleden zouden vergeten voor de deadline.,zouden,afwachtte of
+13,Relativization,59,island,176,Grammatical,Dit zijn de prestaties die zij geloofde dat haar baas zou appreciëren.,zou,geloofde dat
+13,Relativization,59,island,176,Ungrammatical,Dit zijn de prestaties die zij betwijfelde of haar baas zou appreciëren.,zou,betwijfelde of
+13,Relativization,59,island,177,Grammatical,Hier zijn de details die zij vreesde dat haar teamleden zouden verwaarlozen.,zouden,vreesde dat
+13,Relativization,59,island,177,Ungrammatical,Hier zijn de details die zij betwijfelde of haar teamleden zouden verwaarlozen.,zouden,controleerde of
+13,Relativization,59,island,178,Grammatical,Hier is het rapport dat ik vreesde dat mijn docent streng zou beoordelen.,zou,vreesde dat
+13,Relativization,59,island,178,Ungrammatical,Hier is het rapport dat ik betwijfelde of mijn docent streng zou beoordelen.,zou,betwijfelde of
+13,Relativization,59,island,179,Grammatical,Dit zijn de resultaten die ik bevestidge dat de onderzoekers zouden gebruiken in hun paper.,zouden,bevestigde dat
+13,Relativization,59,island,179,Ungrammatical,Dit zijn de resultaten die ik controleerde of de onderzoekers zouden gebruiken in hun paper.,zouden,controleerde of
+13,Relativization,59,island,180,Grammatical,Dit zijn de medicijnen die ik hoopte dat de dokter zou voorschrijven voor mijn depressie.,zou,hoopte dat
+13,Relativization,59,island,180,Ungrammatical,Dit zijn de medicijnen die ik betwijfelde of de dokter zou voorschrijven voor mijn depressie.,zou,betwijfelde of
+13,Relativization,59,island,181,Grammatical,Hier zijn de hotels die ik dacht dat we konden boeken voor onze vakantie.,konden,dacht dat
+13,Relativization,59,island,181,Ungrammatical,Hier zijn de hotels die ik controleerde of we konden boeken voor onze vakantie.,konden,controleerde of
+13,Relativization,59,island,182,Grammatical,Dit zijn de formulieren die ik dacht dat mijn familie moest invullen voor mijn inschrijving.,moest,dacht dat
+13,Relativization,59,island,182,Ungrammatical,Dit zijn de formulieren die ik controleerde of mijn familie moest invullen voor mijn inschrijving.,moest,controleerde of
+13,Relativization,59,island,183,Grammatical,Dit zijn de kinderen die jij dacht dat de docent had gestraft zonder goede reden.,had,dacht dat
+13,Relativization,59,island,183,Ungrammatical,Dit zijn de kinderen die jij vroeg of de docent had gestraft zonder goede reden.,had,vroeg of
+13,Relativization,59,island,184,Grammatical,Dit was de software die opa dacht dat de programmeurs zouden gebruiken voor de opdracht.,zouden,dacht dat
+13,Relativization,59,island,184,Ungrammatical,Dit was de software die opa vroeg of de programmeurs zouden gebruiken voor de opdracht.,zouden,vroeg of
+13,Relativization,59,island,185,Grammatical,Dit is de man die zij bevestigt dat de politieman heeft geslagen tijdens het protest.,heeft,bevestigt dat
+13,Relativization,59,island,185,Ungrammatical,Dit is de man die zij vraagt of de politieman heeft geslagen tijdens het protest.,heeft,vraagt of
+13,Relativization,59,island,186,Grammatical,Daar staan de fietsen die hij zag dat de concertgangers hadden geplaatst voor de noodtuitgang.,hadden,zag dat 
+13,Relativization,59,island,186,Ungrammatical,Daar staan de fietsen die wist of de concertgangers hadden geplaatst voor de noodtuitgang.,hadden,wist of
+13,Relativization,59,island,187,Grammatical,Dit is het systeem dat Eric bevestigt dat de medewerkers gaan gebruiken voor deze projecten.,gaan,bevestigt dat
+13,Relativization,59,island,187,Ungrammatical,Dit is het systeem dat Eric vraagt of de medewerkers gaan gebruiken voor deze projecten.,gaan,vraagt of
+13,Relativization,59,island,188,Grammatical,Hier stonden de bomen die ik vreesde dat de gemeente zou omhakken vorige maand.,zou,vreesde dat
+13,Relativization,59,island,188,Ungrammatical,Hier stonden de bomen die ik vroeg of de gemeente zou omhakken vorige maand.,zou,vroeg of
+13,Relativization,59,island,189,Grammatical,Daar lagen de schoenen die jij vreesde dat de actrice had achtergelaten na het optreden.,had,vreesde dat
+13,Relativization,59,island,189,Ungrammatical,Daar lagen de schoenen die jij vroeg of de actrice had achtergelaten na het optreden.,had,vroeg of
+13,Relativization,59,island,190,Grammatical,Dit zijn de muziekstukken die we hoopten dat de dirigent zou uitkiezen voor het zomerprogramma.,zou,hoopten dat
+13,Relativization,59,island,190,Ungrammatical,Dit zijn de muziekstukken die we betwijfelden of de dirigent zou uitkiezen voor het zomerprogramma.,zou,betwijfelden of
+13,Relativization,59,island,191,Grammatical,Dit zijn de koffiebonen die ik hoopte dat mijn vriend zou meenemen van zijn vakantie naar Colombia.,zou,hoopte dat
+13,Relativization,59,island,191,Ungrammatical,Dit zijn de koffiebonen die ik vroeg of mijn vriend zou meenemen van zijn vakantie naar Colombia.,zou,vroeg of
+13,Relativization,59,island,192,Grammatical,Hier zijn de cursussen die zij hoopt dat haar klasgenoten gaan volgen na de zomer.,gaan,hoopt dat
+13,Relativization,59,island,192,Ungrammatical,Hier zijn de cursussen die zij vraagt of haar klasgenoten gaan volgen na de zomer.,gaan,vraagt of
+13,Relativization,59,island,193,Grammatical,Dit is het verhaal dat Jacob hoopt dat zijn moeder zal geloven. ,zal,hoopt dat
+13,Relativization,59,island,193,Ungrammatical,Dit is het verhaal dat Jacob betwijfelt of zijn moeder zal geloven. ,zal,betwijfelt of
+13,Relativization,59,island,194,Grammatical,Dat was de traditie die jij verwachtte dat dit land zal eren in deze tijd.,zal,verwachtte dat 
+13,Relativization,59,island,194,Ungrammatical,Dat was de traditie die jij betwijfelde of dit land zal eren in deze tijd.,zal,betwijfelde of
+13,Relativization,59,island,195,Grammatical,Dit zijn de bussen die hij dacht dat het gezelschap zou nemen naar het uitje.,zou,dacht dat
+13,Relativization,59,island,195,Ungrammatical,Dit zijn de bussen die hij vroeg of het gezelschap zou nemen naar het uitje.,zou,vroeg of
+13,Relativization,59,island,196,Grammatical,Dit is het voedsel dat ik dacht dat de kinderen zouden lusten.,zouden,dacht dat
+13,Relativization,59,island,196,Ungrammatical,Dit is het voedsel dat ik betwijfelde of de kinderen zouden lusten.,zouden,betwijfelde of
+13,Relativization,59,island,197,Grammatical,Dit zijn de hoofdstukken die ik bevestigde dat de proeflezers mochten lezen.,mochten,bevestigde dat
+13,Relativization,59,island,197,Ungrammatical,Dit zijn de hoofdstukken die ik vroeg of de proeflezers mochten lezen.,mochten,vroeg of
+13,Relativization,59,island,198,Grammatical,Dat zijn de video's die ik geloofde dat de leerlingen wilden kijken tijdens de pauze.,wilden,geloofde dat
+13,Relativization,59,island,198,Ungrammatical,Dat zijn de video's die ik vroeg of de leerlingen wilden kijken tijdens de pauze.,wilden,vroeg of
+13,Relativization,59,island,199,Grammatical,Dit zijn de oplossingen die wij geloven dat de klant zal prefereren voor dit probleem.,zal,geloven dat
+13,Relativization,59,island,199,Ungrammatical,Dit zijn de oplossingen die wij betwijfelen of de klant zal prefereren voor dit probleem.,zal,betwijfelen of
+13,Relativization,59,island,200,Grammatical,Hier staan de verplichtingen die Job hoorde dat de figuranten zullen hebben tijdens de opera. ,zullen,hoorde dat
+13,Relativization,59,island,200,Ungrammatical,Hier staan de verplichtingen die Job wist of de figuranten zullen hebben tijdens de opera. ,zullen,wist of
+13,Relativization,60,resumptive_prolepsis,201,Grammatical,Dit is het cadeau waarvan Sophie teleurgesteld is als haar vader het heeft gekocht.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,201,Ungrammatical,Dit is het cadeau dat Sophie teleurgesteld is als haar vader het heeft gekocht.,het,dat
+13,Relativization,60,resumptive_prolepsis,202,Grammatical,Hier is het document waarvan Elsa zich zorgen maakt als de advocaat het heeft achtergelaten.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,202,Ungrammatical,Hier is het document dat Elsa zich zorgen maakt als de advocaat het heeft achtergelaten.,het,dat
+13,Relativization,60,resumptive_prolepsis,203,Grammatical,Daar is het portret waarvan Luuk onder de indruk is als de kunstenaar het schildert.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,203,Ungrammatical,Daar is het portret dat Luuk onder de indruk is als de kunstenaar het schildert.,het,dat
+13,Relativization,60,resumptive_prolepsis,204,Grammatical,Dat is de traditie waarvan Max teleurgesteld is als het bruidspaar hem heeft overgeslagen.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,204,Ungrammatical,Dat is de traditie die Max teleurgesteld is als het bruidspaar hem heeft overgeslagen.,hem,die
+13,Relativization,60,resumptive_prolepsis,205,Grammatical,Hier is de kleurplaat waarvan Roos onder de indruk is als de leerling hem inkleurt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,205,Ungrammatical,Hier is de kleurplaat die Roos onder de indruk is als de leerling hem inkleurt.,hem,die
+13,Relativization,60,resumptive_prolepsis,206,Grammatical,Dit is het college waarvan Jelle blij is als de student het bijwoont.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,206,Ungrammatical,Dit is het college dat Jelle blij is als de student het bijwoont.,het,dat
+13,Relativization,60,resumptive_prolepsis,207,Grammatical,Daar is het beeldhouwwerk waarvan Saskia boos is als de toeristen het beschadigen.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,207,Ungrammatical,Daar is het beeldhouwwerk dat Saskia boos is als de toeristen het beschadigen.,het,dat
+13,Relativization,60,resumptive_prolepsis,208,Grammatical,Dat zijn de uitwerkingen waarvan Gert opgelucht is als de docent ze deelt.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,208,Ungrammatical,Dat zijn de uitwerkingen die Gert opgelucht is als de docent ze deelt.,ze,die
+13,Relativization,60,resumptive_prolepsis,209,Grammatical,Dit is de scène waarvan Michelle opgelucht is als de acteur hem onthoudt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,209,Ungrammatical,Dit is de scène die Michelle opgelucht is als de acteur hem onthoudt.,hem,die
+13,Relativization,60,resumptive_prolepsis,210,Grammatical,Dat is de afspraak waarvan Jan zich zorgen maakt als de baas hem is vergeten.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,210,Ungrammatical,Dat is de afspraak die Jan zich zorgen maakt als de baas hem is vergeten.,hem,die
+13,Relativization,60,resumptive_prolepsis,211,Grammatical,Hier is de melodie waarvan Lisa onder de indruk is als de muzikant hem speelt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,211,Ungrammatical,Hier is de melodie die Lisa onder de indruk is als de muzikant hem speelt.,hem,die
+13,Relativization,60,resumptive_prolepsis,212,Grammatical,Dat is het gedicht waarvan Thomas geraakt is als de dichter het voordraagt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,212,Ungrammatical,Dat is het gedicht dat Thomas geraakt is als de dichter het voordraagt.,het,dat
+13,Relativization,60,resumptive_prolepsis,213,Grammatical,Dit is de prestatie waarvan Kim trots is als haar team het heeft bereikt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,213,Ungrammatical,Dit is de prestatie die Kim trots is als haar team het heeft bereikt.,het,die
+13,Relativization,60,resumptive_prolepsis,214,Grammatical,Daar is het manuscript waarvan Peter enthousiast is als de auteur het voltooit.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,214,Ungrammatical,Daar is het manuscript dat Peter enthousiast is als de auteur het voltooit.,het,dat
+13,Relativization,60,resumptive_prolepsis,215,Grammatical,Dat zijn de resultaten waarvan Anouk afhankelijk is als de onderzoeker ze publiceert.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,215,Ungrammatical,Dat zijn de resultaten die Anouk afhankelijk is als de onderzoeker ze publiceert.,ze,die
+13,Relativization,60,resumptive_prolepsis,216,Grammatical,Hier is de brief waarvan Marco onder de indruk is als de schrijver hem heeft geschreven.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,216,Ungrammatical,Hier is de brief die Marco onder de indruk is als de schrijver hem heeft geschreven.,hem,die
+13,Relativization,60,resumptive_prolepsis,217,Grammatical,Dit is het project waarvan Emma blij is als het team het succesvol afrondt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,217,Ungrammatical,Dit is het project dat Emma blij is als het team het succesvol afrondt.,het,dat
+13,Relativization,60,resumptive_prolepsis,218,Grammatical,Daar is de technologie waarvan Kevin onder de indruk is als het bedrijf het introduceert.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,218,Ungrammatical,Daar is de technologie die Kevin onder de indruk is als het bedrijf het introduceert.,het,die
+13,Relativization,60,resumptive_prolepsis,219,Grammatical,Dat is het landschap waarvan Laura geniet als ze het ziet als ze door de natuur wandelt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,219,Ungrammatical,Dat is het landschap dat Laura geniet als ze het ziet als ze door de natuur wandelt.,het,dat
+13,Relativization,60,resumptive_prolepsis,220,Grammatical,Hier zijn de ingrediënten waarvan Michiel houdt als de chef-kok ze gebruikt.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,220,Ungrammatical,Hier zijn de ingrediënten die Michiel houdt als de chef-kok ze gebruikt.,ze,die
+13,Relativization,60,resumptive_prolepsis,221,Grammatical,Dat is de stad waarvan Lucas droomt als hij hem heeft gezien.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,221,Ungrammatical,Dat is de stad die Lucas droomt als hij hem heeft gezien.,hem,die
+13,Relativization,60,resumptive_prolepsis,222,Grammatical,Hier is het scenario waarvan Eva onder de indruk is als de schrijver het bedenkt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,222,Ungrammatical,Hier is het scenario dat Eva onder de indruk is als de schrijver het bedenkt.,het,dat
+13,Relativization,60,resumptive_prolepsis,223,Grammatical,Dit is de gebeurtenis waarvan Timo geschokt is als de journalist het verslaat.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,223,Ungrammatical,Dit is de gebeurtenis die Timo geschokt is als de journalist het verslaat.,het,die
+13,Relativization,60,resumptive_prolepsis,224,Grammatical,Daar is de machine waarvan Anja trots is als de ingenieur het ontwerpt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,224,Ungrammatical,Daar is de machine die Anja trots is als de ingenieur het ontwerpt.,het,die
+13,Relativization,60,resumptive_prolepsis,225,Grammatical,Hier zijn de woorden waarvan Jonas blij is als de spreker ze uitspreekt.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,225,Ungrammatical,Hier zijn de woorden die Jonas blij is als de spreker ze uitspreekt.,ze,die
+13,Relativization,60,resumptive_prolepsis,226,Grammatical,Dat is de reden waarvan Emma overtuigd is als de docent het uitlegt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,226,Ungrammatical,Dat is de reden die Emma overtuigd is als de docent het uitlegt.,het,dat
+13,Relativization,60,resumptive_prolepsis,227,Grammatical,Dit is het voedsel waarvan Lisa geniet als de chef-kok het bereidt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,227,Ungrammatical,Dit is het voedsel dat Lisa geniet als de chef-kok het bereidt.,het,dat
+13,Relativization,60,resumptive_prolepsis,228,Grammatical,Hier is het concert waarvan Martijn onder de indruk is als het orkest het speelt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,228,Ungrammatical,Hier is het concert dat Martijn onder de indruk is als het orkest het speelt.,het,dat
+13,Relativization,60,resumptive_prolepsis,229,Grammatical,Dat is de beslissing waarvan Sanne spijt heeft als de manager hem neemt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,229,Ungrammatical,Dat is de beslissing die Sanne spijt heeft als de manager hem neemt.,hem,die
+13,Relativization,60,resumptive_prolepsis,230,Grammatical,Daar is de show waarvan Dennis geniet als de artiest het opvoert.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,230,Ungrammatical,Daar is de show die Dennis geniet als de artiest het opvoert.,het,die
+13,Relativization,60,resumptive_prolepsis,231,Grammatical,Hier zijn de resultaten waarvan Maya afhankelijk is als de wetenschapper ze publiceert.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,231,Ungrammatical,Hier zijn de resultaten die Maya afhankelijk is als de wetenschapper ze publiceert.,ze,die
+13,Relativization,60,resumptive_prolepsis,232,Grammatical,Dat is het gebouw waarvan Arjan trots is als de architect het ontwerpt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,232,Ungrammatical,Dat is het gebouw dat Arjan trots is als de architect het ontwerpt.,het,dat
+13,Relativization,60,resumptive_prolepsis,233,Grammatical,Dit is het nieuws waarvan Femke geschrokken is als de verslaggever het meldt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,233,Ungrammatical,Dit is het nieuws dat Femke geschrokken is als de verslaggever het meldt.,het,dat
+13,Relativization,60,resumptive_prolepsis,234,Grammatical,Daar is het kunstwerk waarvan Niels onder de indruk is als de kunstenaar het creëert.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,234,Ungrammatical,Daar is het kunstwerk dat Niels onder de indruk is als de kunstenaar het creëert.,het,dat
+13,Relativization,60,resumptive_prolepsis,235,Grammatical,Hier zijn de plannen waarvan Julia enthousiast is als de ontwerper ze presenteert.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,235,Ungrammatical,Hier zijn de plannen die Julia enthousiast is als de ontwerper ze presenteert.,ze,die
+13,Relativization,60,resumptive_prolepsis,236,Grammatical,Dat is het programma waarvan Lars houdt als de presentator het presenteert.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,236,Ungrammatical,Dat is het programma dat Lars houdt als de presentator het presenteert.,het,dat
+13,Relativization,60,resumptive_prolepsis,237,Grammatical,Dit is het huis waarvan Lisa droomt als de makelaar het laat zien.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,237,Ungrammatical,Dit is het huis dat Lisa droomt als de makelaar het laat zien.,het,dat
+13,Relativization,60,resumptive_prolepsis,238,Grammatical,Hier is de strategie waarvan Mark overtuigd is als de consultant het voorstelt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,238,Ungrammatical,Hier is de strategie die Mark overtuigd is als de consultant het voorstelt.,het,die
+13,Relativization,60,resumptive_prolepsis,239,Grammatical,Dat is de beslissing waarvan Ilse spijt heeft als de leidinggevende hem neemt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,239,Ungrammatical,Dat is de beslissing die Ilse spijt heeft als de leidinggevende hem neemt.,hem,die
+13,Relativization,60,resumptive_prolepsis,240,Grammatical,Hier is de oplossing waarvan Johan overtuigd is als de ingenieur het bedenkt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,240,Ungrammatical,Hier is de oplossing die Johan overtuigd is als de ingenieur het bedenkt.,het,die
+13,Relativization,60,resumptive_prolepsis,241,Grammatical,Dit is de uitspraak waarvan Martine geschrokken is als de politicus hem doet.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,241,Ungrammatical,Dit is de uitspraak die Martine geschrokken is als de politicus hem doet.,hem,die
+13,Relativization,60,resumptive_prolepsis,242,Grammatical,Daar is de foto waarvan Kevin enthousiast is als de fotograaf hem neemt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,242,Ungrammatical,Daar is de foto die Kevin enthousiast is als de fotograaf hem neemt.,hem,die
+13,Relativization,60,resumptive_prolepsis,243,Grammatical,Dat is het experiment waarvan Bas afhankelijk is als de wetenschapper het uitvoert.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,243,Ungrammatical,Dat is het experiment dat Bas afhankelijk is als de wetenschapper het uitvoert.,het,dat
+13,Relativization,60,resumptive_prolepsis,244,Grammatical,Dit is de situatie waarvan Anouk begrijpt als de leraar het uitlegt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,244,Ungrammatical,Dit is de situatie die Anouk begrijpt als de leraar het uitlegt.,het,die
+13,Relativization,60,resumptive_prolepsis,245,Grammatical,Hier is de presentatie waarvan Sander onder de indruk is als de spreker hem geeft.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,245,Ungrammatical,Hier is de presentatie die Sander onder de indruk is als de spreker hem geeft.,hem,die
+13,Relativization,60,resumptive_prolepsis,246,Grammatical,Dat is het gesprek waarvan Eva blij is als de vriendin het voert.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,246,Ungrammatical,Dat is het gesprek die Eva blij is als de vriendin het voert.,het,die
+13,Relativization,60,resumptive_prolepsis,247,Grammatical,Daar is de opgave waarvan Thijs trots is als de student hem oplost.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,247,Ungrammatical,Daar is de opgave die Thijs trots is als de student hem oplost.,hem,die
+13,Relativization,60,resumptive_prolepsis,248,Grammatical,Dit is de gelegenheid waarvan Sarah geniet als de vrienden hem organiseren.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,248,Ungrammatical,Dit is de gelegenheid die Sarah geniet als de vrienden hem organiseren.,hem,die
+13,Relativization,60,resumptive_prolepsis,249,Grammatical,Dat zijn de woorden waarvan Lars begrijpt als de leraar ze uitlegt.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,249,Ungrammatical,Dat zijn de woorden die Lars begrijpt als de leraar ze uitlegt.,ze,die
+13,Relativization,60,resumptive_prolepsis,250,Grammatical,Dit is het resultaat waarvan Janneke enthousiast is als de teamleider het deelt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,250,Ungrammatical,Dit is het resultaat die Janneke enthousiast is als de teamleider het deelt.,het,die
+13,Relativization,60,resumptive_prolepsis,251,Grammatical,Hier zijn de instructies waarvan Laura blij is als de chef-kok ze geeft.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,251,Ungrammatical,Hier zijn de instructies die Laura blij is als de chef-kok ze geeft.,ze,die
+13,Relativization,60,resumptive_prolepsis,252,Grammatical,Dat is het geheim waarvan Tim geschrokken is als de vriend het vertelt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,252,Ungrammatical,Dat is het geheim dat Tim geschrokken is als de vriend het vertelt.,het,dat
+13,Relativization,60,resumptive_prolepsis,253,Grammatical,Dit is de taak waarvan Sanne trots is als de manager het toewijst.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,253,Ungrammatical,Dit is de taak die Sanne trots is als de manager het toewijst.,het,die
+13,Relativization,60,resumptive_prolepsis,254,Grammatical,Daar is de regel waarvan Daan afhankelijk is als de coach het uitlegt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,254,Ungrammatical,Daar is de regel die Daan afhankelijk is als de coach het uitlegt.,het,die
+13,Relativization,60,resumptive_prolepsis,255,Grammatical,Hier is het boek waarvan Lisa onder de indruk is als de schrijver het publiceert.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,255,Ungrammatical,Hier is het boek die Lisa onder de indruk is als de schrijver het publiceert.,het,die
+13,Relativization,60,resumptive_prolepsis,256,Grammatical,Dat is de regel waarvan Tom afhankelijk is als de scheidsrechter hem toepast.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,256,Ungrammatical,Dat is de regel die Tom afhankelijk is als de scheidsrechter hem toepast.,hem,die
+13,Relativization,60,resumptive_prolepsis,257,Grammatical,Dit is de overeenkomst waarvan Julia blij is als de cliënt het ondertekent.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,257,Ungrammatical,Dit is de overeenkomst die Julia blij is als de cliënt het ondertekent.,het,die
+13,Relativization,60,resumptive_prolepsis,258,Grammatical,Hier is de route waarvan Emma enthousiast is als de gids hem beschrijft.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,258,Ungrammatical,Hier is de route die Emma enthousiast is als de gids hem beschrijft.,hem,die
+13,Relativization,60,resumptive_prolepsis,259,Grammatical,Dat is het evenement waarvan Timo geschrokken is als de organisator het aankondigt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,259,Ungrammatical,Dat is het evenement die Timo geschrokken is als de organisator het aankondigt.,het,die
+13,Relativization,60,resumptive_prolepsis,260,Grammatical,Dit is het moment waarvan Kim geniet als de zanger het creëert.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,260,Ungrammatical,Dit is het moment die Kim geniet als de zanger het creëert.,het,die
+13,Relativization,60,resumptive_prolepsis,261,Grammatical,Hier is de dienst waarvan Erik tevreden is als de leverancier hem uitvoert.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,261,Ungrammatical,Hier is de dienst die Erik tevreden is als de leverancier hem uitvoert.,hem,die
+13,Relativization,60,resumptive_prolepsis,262,Grammatical,Dat zijn de gegevens waarvan Sanne afhankelijk is als de analist ze analyseert.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,262,Ungrammatical,Dat zijn de gegevens die Sanne afhankelijk is als de analist ze analyseert.,ze,die
+13,Relativization,60,resumptive_prolepsis,263,Grammatical,Hier is de oplossing waarvan Lars overtuigd is als de consultant hem voorstelt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,263,Ungrammatical,Hier is de oplossing die Lars overtuigd is als de consultant hem voorstelt.,hem,die
+13,Relativization,60,resumptive_prolepsis,264,Grammatical,Dit is de afspraak waarvan Marco geschrokken is als de collega hem vergeten is.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,264,Ungrammatical,Dit is de afspraak die Marco geschrokken is als de collega hem vergeten is.,hem,die
+13,Relativization,60,resumptive_prolepsis,265,Grammatical,Daar is de strategie waarvan Linda enthousiast is als de directeur hem voorstelt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,265,Ungrammatical,Daar is de strategie die Linda enthousiast is als de directeur hem voorstelt.,hem,die
+13,Relativization,60,resumptive_prolepsis,266,Grammatical,Dat is het doel waarvan Femke trots is als de teamleider het bereikt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,266,Ungrammatical,Dat is het doel die Femke trots is als de teamleider het bereikt.,het,die
+13,Relativization,60,resumptive_prolepsis,267,Grammatical,Dit is het gesprek waarvan Bram het begrijpt als de mentor het voert.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,267,Ungrammatical,Dit is het gesprek dat Bram het begrijpt als de mentor het voert.,het,dat
+13,Relativization,60,resumptive_prolepsis,268,Grammatical,Hier is de uitleg waarvan Mira blij is als de docent hem geeft.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,268,Ungrammatical,Hier is de uitleg die Mira blij is als de docent hem geeft.,hem,die
+13,Relativization,60,resumptive_prolepsis,269,Grammatical,Dat zijn de resultaten waarvan Daan onder de indruk is als de analist ze presenteert.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,269,Ungrammatical,Dat zijn de resultaten die Daan onder de indruk is als de analist ze presenteert.,ze,die
+13,Relativization,60,resumptive_prolepsis,270,Grammatical,Hier is de situatie waarvan Lisa geschokt is als de journalist hem verkeerd rapporteert.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,270,Ungrammatical,Hier is de situatie die Lisa geschokt is als de journalist hem verkeerd rapporteert.,hem,die
+13,Relativization,60,resumptive_prolepsis,271,Grammatical,Daar is de brief waarvan Tim blij is als de klant hem begrijpt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,271,Ungrammatical,Daar is de brief die Tim blij is als de klant hem begrijpt.,hem,die
+13,Relativization,60,resumptive_prolepsis,272,Grammatical,Dat is de opdracht waarvan Anouk trots is als de leraar hem waardeert.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,272,Ungrammatical,Dat is de opdracht die Anouk trots is als de leraar hem waardeert.,hem,die
+13,Relativization,60,resumptive_prolepsis,273,Grammatical,Dit is het voorstel waarvan Lars enthousiast is als de manager het goedkeurt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,273,Ungrammatical,Dit is het voorstel dat Lars enthousiast is als de manager het goedkeurt.,het,dat
+13,Relativization,60,resumptive_prolepsis,274,Grammatical,Hier is het verslag waarvan Kim tevreden is als de supervisor het complimenteert.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,274,Ungrammatical,Hier is het verslag dat Kim tevreden is als de supervisor het complimenteert.,het,dat
+13,Relativization,60,resumptive_prolepsis,275,Grammatical,Daar is de oplossing waarvan David opgelucht is als de klant hem accepteert.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,275,Ungrammatical,Daar is de oplossing die David opgelucht is als de klant hem accepteert.,hem,die
+13,Relativization,60,resumptive_prolepsis,276,Grammatical,Dat is de regel waarvan Sofie geschrokken is als de leraar hem benadrukt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,276,Ungrammatical,Dat is de regel die Sofie geschrokken is als de leraar hem benadrukt.,hem,die
+13,Relativization,60,resumptive_prolepsis,277,Grammatical,Daar zijn de resultaten waarvan Mark tevreden is als de jury ze waardeert.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,277,Ungrammatical,Daar zijn de resultaten die Mark tevreden is als de jury ze waardeert.,ze,die
+13,Relativization,60,resumptive_prolepsis,278,Grammatical,Dat zijn de plannen waarvan Julia enthousiast is als de klant ze goedkeurt.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,278,Ungrammatical,Dat zijn de plannen die Julia enthousiast is als de klant ze goedkeurt.,ze,die
+13,Relativization,60,resumptive_prolepsis,279,Grammatical,Dit is de verklaring waarvan Lucas overtuigd is als de getuige hem bevestigt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,279,Ungrammatical,Dit is de verklaring die Lucas overtuigd is als de getuige hem bevestigt.,hem,die
+13,Relativization,60,resumptive_prolepsis,280,Grammatical,Hier is de film waarvan Lisa onder hoopt dat de recensent hem prijst.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,280,Ungrammatical,Hier is de film die Lisa onder hoopt dat de recensent hem prijst.,hem,die
+13,Relativization,60,resumptive_prolepsis,281,Grammatical,Dat is de grap waarvan Anouk moet lachen als de komiek hem vertelt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,281,Ungrammatical,Dat is de grap die Anouk moet lachen als de komiek hem vertelt.,hem,die
+13,Relativization,60,resumptive_prolepsis,282,Grammatical,Dit is het artikel waarvan Lars onder de indruk is als de journalist het publiceert.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,282,Ungrammatical,Dit is het artikel dat Lars onder de indruk is als de journalist het publiceert.,het,dat
+13,Relativization,60,resumptive_prolepsis,283,Grammatical,Hier is de melodie waarvan Kim ontroerd is als de musicus hem speelt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,283,Ungrammatical,Hier is de melodie die Kim ontroerd is als de musicus hem speelt.,hem,die
+13,Relativization,60,resumptive_prolepsis,284,Grammatical,Dat is de situatie waarvan Sofie opgelucht is als de vriendin hem begrijpt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,284,Ungrammatical,Dat is de situatie die Sofie opgelucht is als de vriendin hem begrijpt.,hem,die
+13,Relativization,60,resumptive_prolepsis,285,Grammatical,Dit is het moment waarvan Peter geniet als de fotograaf het vastlegt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,285,Ungrammatical,Dit is het moment dat Peter geniet als de fotograaf het vastlegt.,het,dat
+13,Relativization,60,resumptive_prolepsis,286,Grammatical,Hier is de scène waarvan Laura geschokt is als de acteur hem dramatiseert.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,286,Ungrammatical,Hier is de scène die Laura geschokt is als de acteur hem dramatiseert.,hem,die
+13,Relativization,60,resumptive_prolepsis,287,Grammatical,Daar is de lezing waarvan Mark geïnspireerd is als de spreker hem houdt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,287,Ungrammatical,Daar is de lezing die Mark geïnspireerd is als de spreker hem houdt.,hem,die
+13,Relativization,60,resumptive_prolepsis,288,Grammatical,Dat is het verhaal waarvan Julia geniet als de auteur het schrijft.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,288,Ungrammatical,Dat is het verhaal dat Julia geniet als de auteur het schrijft.,het,dat
+13,Relativization,60,resumptive_prolepsis,289,Grammatical,Dit is de opmerking waarvan Lucas onder de indruk is als de professor hem maakt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,289,Ungrammatical,Dit is de opmerking die Lucas onder de indruk is als de professor hem maakt.,hem,die
+13,Relativization,60,resumptive_prolepsis,290,Grammatical,Hier zijn de ideeën waarvan Lisa enthousiast is als de teamleden ze waarderen.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,290,Ungrammatical,Hier zijn de ideeën die Lisa enthousiast is als de teamleden ze waarderen.,ze,die
+13,Relativization,60,resumptive_prolepsis,291,Grammatical,Daar zijn de instructies waarvan Tim afhankelijk is als de chef ze geeft.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,291,Ungrammatical,Daar zijn de instructies die Tim afhankelijk is als de chef ze geeft.,ze,die
+13,Relativization,60,resumptive_prolepsis,292,Grammatical,Dat zijn de woorden waarvan Anouk ontroerd is als de vriend ze uitspreekt.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,292,Ungrammatical,Dat zijn de woorden die Anouk ontroerd is als de vriend ze uitspreekt.,ze,die
+13,Relativization,60,resumptive_prolepsis,293,Grammatical,Daar is de ontmoeting waarvan David blij is als de vriend hem regelt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,293,Ungrammatical,Daar is de ontmoeting die David blij is als de vriend hem regelt.,hem,die
+13,Relativization,60,resumptive_prolepsis,294,Grammatical,Dat is het gesprek waarvan Sofie geniet als de gesprekspartner het voert.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,294,Ungrammatical,Dat is het gesprek dat Sofie geniet als de gesprekspartner het voert.,het,dat
+13,Relativization,60,resumptive_prolepsis,295,Grammatical,Dat is de anekdote waarvan Eva moet lachen als de vriend hem vertelt.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,295,Ungrammatical,Dat is de anekdote die Eva moet lachen als de vriend hem vertelt.,hem,die
+13,Relativization,60,resumptive_prolepsis,296,Grammatical,Dit is het lied waarvan Tim ontroerd is als de zangeres het zingt.,het,waarvan
+13,Relativization,60,resumptive_prolepsis,296,Ungrammatical,Dit is het lied dat Tim ontroerd is als de zangeres het zingt.,het,dat
+13,Relativization,60,resumptive_prolepsis,297,Grammatical,Daar zijn de regels waarvan Max geschrokken is als de leraar ze benadrukt.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,297,Ungrammatical,Daar zijn de regels die Max geschrokken is als de leraar ze benadrukt.,ze,die
+13,Relativization,60,resumptive_prolepsis,298,Grammatical,Dat zijn de voorwaarden waarvan Eline afhankelijk is als de klant ze bevestigt.,ze,waarvan
+13,Relativization,60,resumptive_prolepsis,298,Ungrammatical,Dat zijn de voorwaarden die Eline afhankelijk is als de klant ze bevestigt.,ze,die
+13,Relativization,60,resumptive_prolepsis,299,Grammatical,Hier is de brief waarvan Lisa ontroerd is als de vriendin hem schrijft.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,299,Ungrammatical,Hier is de brief die Lisa ontroerd is als de vriendin hem schrijft.,hem,die
+13,Relativization,60,resumptive_prolepsis,300,Grammatical,Dat is de traditie waarvan Emma teleurgesteld is als het gezin hem overslaat.,hem,waarvan
+13,Relativization,60,resumptive_prolepsis,300,Ungrammatical,Dat is de traditie die Emma teleurgesteld is als het gezin hem overslaat.,hem,die

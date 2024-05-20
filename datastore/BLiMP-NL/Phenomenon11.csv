@@ -1,0 +1,1201 @@
+Number (phenomenon),Phenomenon,Number (paradigm),Paradigm,Item,Grammaticality,Sentence,Critical word(s),Cue word(s)
+11,Wh-Movement,46,question_formation,1,Grammatical,Wie moet waar zitten tijdens de bijeenkomst?,moet waar,
+11,Wh-Movement,46,question_formation,1,Ungrammatical,Wie waar moet zitten tijdens de bijeenkomst?,waar moet,
+11,Wh-Movement,46,question_formation,2,Grammatical,Wie wil waar wassen voor het voetbalteam?,wil waar,
+11,Wh-Movement,46,question_formation,2,Ungrammatical,Wie waar wil wassen voor het voetbalteam?,waar wil,
+11,Wh-Movement,46,question_formation,3,Grammatical,Wie kan wat veranderen in het programma?,kan wat,
+11,Wh-Movement,46,question_formation,3,Ungrammatical,Wie wat kan veranderen in het programma?,wat kan,
+11,Wh-Movement,46,question_formation,4,Grammatical,Wie moet wat testen in het laboratorium?,moet wat,
+11,Wh-Movement,46,question_formation,4,Ungrammatical,Wie wat moet testen in het laboratorium?,wat moet,
+11,Wh-Movement,46,question_formation,5,Grammatical,Wie heeft waar getraind tijdens de wintermaanden?,heeft waar,
+11,Wh-Movement,46,question_formation,5,Ungrammatical,Wie waar heeft getraind tijdens de wintermaanden?,waar heeft,
+11,Wh-Movement,46,question_formation,6,Grammatical,Wie zal waar trakteren voor de verjaardag?,zal waar,
+11,Wh-Movement,46,question_formation,6,Ungrammatical,Wie waar zal trakteren voor de verjaardag?,waar zal,
+11,Wh-Movement,46,question_formation,7,Grammatical,Wie heeft wat gezien in de lucht?,heeft wat,
+11,Wh-Movement,46,question_formation,7,Ungrammatical,Wie wat heeft gezien in de lucht?,wat heeft,
+11,Wh-Movement,46,question_formation,8,Grammatical,Wie wil waar zagen in de tuin?,wil waar,
+11,Wh-Movement,46,question_formation,8,Ungrammatical,Wie waar wil zagen in de tuin?,waar wil,
+11,Wh-Movement,46,question_formation,9,Grammatical,Wie zal wat zingen op het festival?,zal wat,
+11,Wh-Movement,46,question_formation,9,Ungrammatical,Wie wat zal zingen op het festival?,wat zal,
+11,Wh-Movement,46,question_formation,10,Grammatical,Wie kan wat verbeteren aan het verslag?,kan wat,
+11,Wh-Movement,46,question_formation,10,Ungrammatical,Wie wat kan verbeteren aan het verslag?,wat kan,
+11,Wh-Movement,46,question_formation,11,Grammatical,Wie moet waar parkeren voor het evenement?,moet waar,
+11,Wh-Movement,46,question_formation,11,Ungrammatical,Wie waar moet parkeren voor het evenement?,waar moet,
+11,Wh-Movement,46,question_formation,12,Grammatical,Wie wil wat bestellen voor het diner?,wil wat,
+11,Wh-Movement,46,question_formation,12,Ungrammatical,Wie wat wil bestellen voor het diner?,wat wil,
+11,Wh-Movement,46,question_formation,13,Grammatical,Wie kan waar studeren voor de examens?,kan waar,
+11,Wh-Movement,46,question_formation,13,Ungrammatical,Wie waar kan studeren voor de examens?,waar kan,
+11,Wh-Movement,46,question_formation,14,Grammatical,Wie heeft wat geleerd tijdens de training?,heeft wat,
+11,Wh-Movement,46,question_formation,14,Ungrammatical,Wie wat heeft geleerd tijdens de training?,wat heeft,
+11,Wh-Movement,46,question_formation,15,Grammatical,Wie zal waar presenteren tijdens de vergadering?,zal waar,
+11,Wh-Movement,46,question_formation,15,Ungrammatical,Wie waar zal presenteren tijdens de vergadering?,waar zal,
+11,Wh-Movement,46,question_formation,16,Grammatical,Wie moet wat brengen naar het feest?,moet wat,
+11,Wh-Movement,46,question_formation,16,Ungrammatical,Wie wat moet brengen naar het feest?,wat moet,
+11,Wh-Movement,46,question_formation,17,Grammatical,Wie wil waar wandelen in het park?,wil waar,
+11,Wh-Movement,46,question_formation,17,Ungrammatical,Wie waar wil wandelen in het park?,waar wil,
+11,Wh-Movement,46,question_formation,18,Grammatical,Wie kan wat repareren in de keuken?,kan wat,
+11,Wh-Movement,46,question_formation,18,Ungrammatical,Wie wat kan repareren in de keuken?,wat kan,
+11,Wh-Movement,46,question_formation,19,Grammatical,Wie heeft waar geslapen tijdens de reis?,heeft waar,
+11,Wh-Movement,46,question_formation,19,Ungrammatical,Wie waar heeft geslapen tijdens de reis?,waar heeft,
+11,Wh-Movement,46,question_formation,20,Grammatical,Wie zal wat voorbereiden voor het ontbijt?,zal wat,
+11,Wh-Movement,46,question_formation,20,Ungrammatical,Wie wat zal voorbereiden voor het ontbijt?,wat zal,
+11,Wh-Movement,46,question_formation,21,Grammatical,Wie moet waar kijken tijdens de film?,moet waar,
+11,Wh-Movement,46,question_formation,21,Ungrammatical,Wie waar moet kijken tijdens de film?,waar moet,
+11,Wh-Movement,46,question_formation,22,Grammatical,Wie wil wat ontwerpen voor het nieuwe project?,wil wat,
+11,Wh-Movement,46,question_formation,22,Ungrammatical,Wie wat wil ontwerpen voor het nieuwe project?,wat wil,
+11,Wh-Movement,46,question_formation,23,Grammatical,Wie kan waar rennen voor de finish?,kan waar,
+11,Wh-Movement,46,question_formation,23,Ungrammatical,Wie waar kan rennen voor de finish?,waar kan,
+11,Wh-Movement,46,question_formation,24,Grammatical,Wie heeft wat ontdekt in de wetenschap?,heeft wat,
+11,Wh-Movement,46,question_formation,24,Ungrammatical,Wie wat heeft ontdekt in de wetenschap?,wat heeft,
+11,Wh-Movement,46,question_formation,25,Grammatical,Wie zal waar exposeren tijdens de tentoonstelling?,zal waar,
+11,Wh-Movement,46,question_formation,25,Ungrammatical,Wie waar zal exposeren tijdens de tentoonstelling?,waar zal,
+11,Wh-Movement,46,question_formation,26,Grammatical,Wie moet wat organiseren voor het evenement?,moet wat,
+11,Wh-Movement,46,question_formation,26,Ungrammatical,Wie wat moet organiseren voor het evenement?,wat moet,
+11,Wh-Movement,46,question_formation,27,Grammatical,Wie wil waar zwemmen in de zomer?,wil waar,
+11,Wh-Movement,46,question_formation,27,Ungrammatical,Wie waar wil zwemmen in de zomer?,waar wil,
+11,Wh-Movement,46,question_formation,28,Grammatical,Wie kan wat oplossen in de computer?,kan wat,
+11,Wh-Movement,46,question_formation,28,Ungrammatical,Wie wat kan oplossen in de computer?,wat kan,
+11,Wh-Movement,46,question_formation,29,Grammatical,Wie heeft waar gespeeld tijdens de wedstrijd?,heeft waar,
+11,Wh-Movement,46,question_formation,29,Ungrammatical,Wie waar heeft gespeeld tijdens de wedstrijd?,waar heeft,
+11,Wh-Movement,46,question_formation,30,Grammatical,Wie zal wat onderwijzen tijdens de workshop?,zal wat,
+11,Wh-Movement,46,question_formation,30,Ungrammatical,Wie wat zal onderwijzen tijdens de workshop?,wat zal,
+11,Wh-Movement,46,question_formation,31,Grammatical,Wie moet waar onderhandelen voor het contract?,moet waar,
+11,Wh-Movement,46,question_formation,31,Ungrammatical,Wie waar moet onderhandelen voor het contract?,waar moet,
+11,Wh-Movement,46,question_formation,32,Grammatical,Wie wil wat fotograferen voor het album?,wil wat,
+11,Wh-Movement,46,question_formation,32,Ungrammatical,Wie wat wil fotograferen voor het album?,wat wil,
+11,Wh-Movement,46,question_formation,33,Grammatical,Wie kan waar mediteren voor ontspanning?,kan waar,
+11,Wh-Movement,46,question_formation,33,Ungrammatical,Wie waar kan mediteren voor ontspanning?,waar kan,
+11,Wh-Movement,46,question_formation,34,Grammatical,Wie heeft wat verzameld tijdens de reis?,heeft wat,
+11,Wh-Movement,46,question_formation,34,Ungrammatical,Wie wat heeft verzameld tijdens de reis?,wat heeft,
+11,Wh-Movement,46,question_formation,35,Grammatical,Wie moet wat onderzoeken in de bibliotheek?,moet wat,
+11,Wh-Movement,46,question_formation,35,Ungrammatical,Wie wat moet onderzoeken in de bibliotheek?,wat moet,
+11,Wh-Movement,46,question_formation,36,Grammatical,Wie wil waar winkelen voor de vakantie?,wil waar,
+11,Wh-Movement,46,question_formation,36,Ungrammatical,Wie waar wil winkelen voor de vakantie?,waar wil,
+11,Wh-Movement,46,question_formation,37,Grammatical,Wie kan wat ontwikkelen in de software?,kan wat,
+11,Wh-Movement,46,question_formation,37,Ungrammatical,Wie wat kan ontwikkelen in de software?,wat kan,
+11,Wh-Movement,46,question_formation,38,Grammatical,Wie heeft wat gewonnen tijdens de competitie?,heeft wat,
+11,Wh-Movement,46,question_formation,38,Ungrammatical,Wie wat heeft gewonnen tijdens de competitie?,wat heeft,
+11,Wh-Movement,46,question_formation,39,Grammatical,Wie zal wat demonstreren tijdens de presentatie?,zal wat,
+11,Wh-Movement,46,question_formation,39,Ungrammatical,Wie wat zal demonstreren tijdens de presentatie?,wat zal,
+11,Wh-Movement,46,question_formation,40,Grammatical,Wie moet waar zitten tijdens de vergadering?,moet waar,
+11,Wh-Movement,46,question_formation,40,Ungrammatical,Wie waar moet zitten tijdens de vergadering?,waar moet,
+11,Wh-Movement,46,question_formation,41,Grammatical,Wie wil wat koken voor het familiediner?,wil wat,
+11,Wh-Movement,46,question_formation,41,Ungrammatical,Wie wat wil koken voor het familiediner?,wat wil,
+11,Wh-Movement,46,question_formation,42,Grammatical,Wie kan waar helpen bij de organisatie van het evenement?,kan waar,
+11,Wh-Movement,46,question_formation,42,Ungrammatical,Wie waar kan helpen bij de organisatie van het evenement?,waar kan,
+11,Wh-Movement,46,question_formation,43,Grammatical,Wie moet wat analyseren in de dataset?,moet wat,
+11,Wh-Movement,46,question_formation,43,Ungrammatical,Wie wat moet analyseren in de dataset?,wat moet,
+11,Wh-Movement,46,question_formation,44,Grammatical,Wie heeft waar gereisd tijdens de vakantieperiode?,heeft waar,
+11,Wh-Movement,46,question_formation,44,Ungrammatical,Wie waar heeft gereisd tijdens de vakantieperiode?,waar heeft,
+11,Wh-Movement,46,question_formation,45,Grammatical,Wie zal waar optreden tijdens het concert?,zal waar,
+11,Wh-Movement,46,question_formation,45,Ungrammatical,Wie waar zal optreden tijdens het concert?,waar zal,
+11,Wh-Movement,46,question_formation,46,Grammatical,Wie heeft wat ontdekt in de wetenschap?,heeft wat,
+11,Wh-Movement,46,question_formation,46,Ungrammatical,Wie wat heeft ontdekt in de wetenschap?,wat heeft,
+11,Wh-Movement,46,question_formation,47,Grammatical,Wie wil waar klussen in het huis?,wil waar,
+11,Wh-Movement,46,question_formation,47,Ungrammatical,Wie waar wil klussen in het huis?,waar wil,
+11,Wh-Movement,46,question_formation,48,Grammatical,Wie zal wat presenteren op de conferentie?,zal wat,
+11,Wh-Movement,46,question_formation,48,Ungrammatical,Wie wat zal presenteren op de conferentie?,wat zal,
+11,Wh-Movement,46,question_formation,49,Grammatical,Wie kan waar bijdragen aan het project?,kan waar,
+11,Wh-Movement,46,question_formation,49,Ungrammatical,Wie waar kan bijdragen aan het project?,waar kan,
+11,Wh-Movement,46,question_formation,50,Grammatical,Wie moet waar controleren op fouten in de tekst?,moet waar,
+11,Wh-Movement,46,question_formation,50,Ungrammatical,Wie waar moet controleren op fouten in de tekst?,waar moet,
+11,Wh-Movement,46,question_formation,51,Grammatical,Wie wil wat planten in de tuin?,wil wat,
+11,Wh-Movement,46,question_formation,51,Ungrammatical,Wie wat wil planten in de tuin?,wat wil,
+11,Wh-Movement,46,question_formation,52,Grammatical,Wie heeft wat gewonnen tijdens de competitie?,heeft wat,
+11,Wh-Movement,46,question_formation,52,Ungrammatical,Wie wat heeft gewonnen tijdens de competitie?,wat heeft,
+11,Wh-Movement,46,question_formation,53,Grammatical,Wie zal waar spreken tijdens de ceremonie?,zal waar,
+11,Wh-Movement,46,question_formation,53,Ungrammatical,Wie waar zal spreken tijdens de ceremonie?,waar zal,
+11,Wh-Movement,46,question_formation,54,Grammatical,Wie moet wat repareren in de auto?,moet wat,
+11,Wh-Movement,46,question_formation,54,Ungrammatical,Wie wat moet repareren in de auto?,wat moet,
+11,Wh-Movement,46,question_formation,55,Grammatical,Wie wil waar ontspannen na het werk?,wil waar,
+11,Wh-Movement,46,question_formation,55,Ungrammatical,Wie waar wil ontspannen na het werk?,waar wil,
+11,Wh-Movement,46,question_formation,56,Grammatical,Wie kan waar assisteren bij het onderzoek?,kan waar,
+11,Wh-Movement,46,question_formation,56,Ungrammatical,Wie waar kan assisteren bij het onderzoek?,waar kan,
+11,Wh-Movement,46,question_formation,57,Grammatical,Wie heeft waar geïnvesteerd in het bedrijf?,heeft waar,
+11,Wh-Movement,46,question_formation,57,Ungrammatical,Wie waar heeft geïnvesteerd in het bedrijf?,waar heeft,
+11,Wh-Movement,46,question_formation,58,Grammatical,Wie zal wat demonstreren tijdens de training?,zal wat,
+11,Wh-Movement,46,question_formation,58,Ungrammatical,Wie wat zal demonstreren tijdens de training?,wat zal,
+11,Wh-Movement,46,question_formation,59,Grammatical,Wie moet waar nadenken over de strategie?,moet waar,
+11,Wh-Movement,46,question_formation,59,Ungrammatical,Wie waar moet nadenken over de strategie?,waar moet,
+11,Wh-Movement,46,question_formation,60,Grammatical,Wie wil wat fotograferen tijdens de reis?,wil wat,
+11,Wh-Movement,46,question_formation,60,Ungrammatical,Wie wat wil fotograferen tijdens de reis?,wat wil,
+11,Wh-Movement,46,question_formation,61,Grammatical,Wie kan waar innoveren in het bedrijfsproces?,kan waar,
+11,Wh-Movement,46,question_formation,61,Ungrammatical,Wie waar kan innoveren in het bedrijfsproces?,waar kan,
+11,Wh-Movement,46,question_formation,62,Grammatical,Wie heeft wat bereikt in de sportwereld?,heeft wat,
+11,Wh-Movement,46,question_formation,62,Ungrammatical,Wie wat heeft bereikt in de sportwereld?,wat heeft,
+11,Wh-Movement,46,question_formation,63,Grammatical,Wie heeft waar gezocht naar oplossingen?,heeft waar,
+11,Wh-Movement,46,question_formation,63,Ungrammatical,Wie waar heeft gezocht naar oplossingen?,waar heeft,
+11,Wh-Movement,46,question_formation,64,Grammatical,Wie moet waar zorg dragen voor de logistiek?,moet waar,
+11,Wh-Movement,46,question_formation,64,Ungrammatical,Wie waar moet zorg dragen voor de logistiek?,waar moet,
+11,Wh-Movement,46,question_formation,65,Grammatical,Wie kan waar assisteren bij het medisch onderzoek?,kan waar,
+11,Wh-Movement,46,question_formation,65,Ungrammatical,Wie waar kan assisteren bij het medisch onderzoek?,waar kan,
+11,Wh-Movement,46,question_formation,66,Grammatical,Wie wil wat renoveren in het huis?,wil wat,
+11,Wh-Movement,46,question_formation,66,Ungrammatical,Wie wat wil renoveren in het huis?,wat wil,
+11,Wh-Movement,46,question_formation,67,Grammatical,Wie kan waar inspiratie opdoen voor het project?,kan waar,
+11,Wh-Movement,46,question_formation,67,Ungrammatical,Wie waar kan inspiratie opdoen voor het project?,waar kan,
+11,Wh-Movement,46,question_formation,68,Grammatical,Wie heeft waar geïnformeerd over de wijzigingen?,heeft waar,
+11,Wh-Movement,46,question_formation,68,Ungrammatical,Wie waar heeft geïnformeerd over de wijzigingen?,waar heeft,
+11,Wh-Movement,46,question_formation,69,Grammatical,Wie zal wat introduceren tijdens de presentatie?,zal wat,
+11,Wh-Movement,46,question_formation,69,Ungrammatical,Wie wat zal introduceren tijdens de presentatie?,wat zal,
+11,Wh-Movement,46,question_formation,70,Grammatical,Wie moet waar communiceren met het team?,moet waar,
+11,Wh-Movement,46,question_formation,70,Ungrammatical,Wie waar moet communiceren met het team?,waar moet,
+11,Wh-Movement,46,question_formation,71,Grammatical,Wie kan waar inspiratie vinden voor het schrijven?,kan waar,
+11,Wh-Movement,46,question_formation,71,Ungrammatical,Wie waar kan inspiratie vinden voor het schrijven?,waar kan,
+11,Wh-Movement,46,question_formation,72,Grammatical,Wie heeft wat geleerd tijdens de cursus?,heeft wat,
+11,Wh-Movement,46,question_formation,72,Ungrammatical,Wie wat heeft geleerd tijdens de cursus?,wat heeft,
+11,Wh-Movement,46,question_formation,73,Grammatical,Wie kan wat toevoegen aan het ontwerp?,kan wat,
+11,Wh-Movement,46,question_formation,73,Ungrammatical,Wie wat kan toevoegen aan het ontwerp?,wat kan,
+11,Wh-Movement,46,question_formation,74,Grammatical,Wie moet waar verschijnen voor het interview?,moet waar,
+11,Wh-Movement,46,question_formation,74,Ungrammatical,Wie waar moet verschijnen voor het interview?,waar moet,
+11,Wh-Movement,46,question_formation,75,Grammatical,Wie wil wat bakken voor het schoolfeest?,wil wat,
+11,Wh-Movement,46,question_formation,75,Ungrammatical,Wie wat wil bakken voor het schoolfeest?,wat wil,
+11,Wh-Movement,46,question_formation,76,Grammatical,Wie kan waar bijdragen aan het onderzoek?,kan waar,
+11,Wh-Movement,46,question_formation,76,Ungrammatical,Wie waar kan bijdragen aan het onderzoek?,waar kan,
+11,Wh-Movement,46,question_formation,77,Grammatical,Wie moet wat repareren in de keuken?,moet wat,
+11,Wh-Movement,46,question_formation,77,Ungrammatical,Wie wat moet repareren in de keuken?,wat moet,
+11,Wh-Movement,46,question_formation,78,Grammatical,Wie heeft waar gestudeerd tijdens de zomer?,heeft waar,
+11,Wh-Movement,46,question_formation,78,Ungrammatical,Wie waar heeft gestudeerd tijdens de zomer?,waar heeft,
+11,Wh-Movement,46,question_formation,79,Grammatical,Wie heeft wat ontdekt in de geschiedenis?,heeft wat,
+11,Wh-Movement,46,question_formation,79,Ungrammatical,Wie wat heeft ontdekt in de geschiedenis?,wat heeft,
+11,Wh-Movement,46,question_formation,80,Grammatical,Wie wil waar schilderen in het atelier?,wil waar,
+11,Wh-Movement,46,question_formation,80,Ungrammatical,Wie waar wil schilderen in het atelier?,waar wil,
+11,Wh-Movement,46,question_formation,81,Grammatical,Wie kan wat leren van de ervaring?,kan wat,
+11,Wh-Movement,46,question_formation,81,Ungrammatical,Wie wat kan leren van de ervaring?,wat kan,
+11,Wh-Movement,46,question_formation,82,Grammatical,Wie heeft wat geleerd tijdens de workshop?,heeft wat,
+11,Wh-Movement,46,question_formation,82,Ungrammatical,Wie wat heeft geleerd tijdens de workshop?,wat heeft,
+11,Wh-Movement,46,question_formation,83,Grammatical,Wie zal waar exposeren tijdens de expositie?,zal waar,
+11,Wh-Movement,46,question_formation,83,Ungrammatical,Wie waar zal exposeren tijdens de expositie?,waar zal,
+11,Wh-Movement,46,question_formation,84,Grammatical,Wie moet waar controleren op fouten in het document?,moet waar,
+11,Wh-Movement,46,question_formation,84,Ungrammatical,Wie waar moet controleren op fouten in het document?,waar moet,
+11,Wh-Movement,46,question_formation,85,Grammatical,Wie wil wat filmen voor de documentaire?,wil wat,
+11,Wh-Movement,46,question_formation,85,Ungrammatical,Wie wat wil filmen voor de documentaire?,wat wil,
+11,Wh-Movement,46,question_formation,86,Grammatical,Wie kan waar adviseren over het project?,kan waar,
+11,Wh-Movement,46,question_formation,86,Ungrammatical,Wie waar kan adviseren over het project?,waar kan,
+11,Wh-Movement,46,question_formation,87,Grammatical,Wie zal wat ontwikkelen in de app?,zal wat,
+11,Wh-Movement,46,question_formation,87,Ungrammatical,Wie wat zal ontwikkelen in de app?,wat zal,
+11,Wh-Movement,46,question_formation,88,Grammatical,Wie wil waar deelnemen aan het experiment?,wil waar,
+11,Wh-Movement,46,question_formation,88,Ungrammatical,Wie waar wil deelnemen aan het experiment?,waar wil,
+11,Wh-Movement,46,question_formation,89,Grammatical,Wie moet wat oplossen in de vergadering?,moet wat,
+11,Wh-Movement,46,question_formation,89,Ungrammatical,Wie wat moet oplossen in de vergadering?,wat moet,
+11,Wh-Movement,46,question_formation,90,Grammatical,Wie kan waar onderhandelen over de voorwaarden?,kan waar,
+11,Wh-Movement,46,question_formation,90,Ungrammatical,Wie waar kan onderhandelen over de voorwaarden?,waar kan,
+11,Wh-Movement,46,question_formation,91,Grammatical,Wie kan wat leren van het experiment?,kan wat,
+11,Wh-Movement,46,question_formation,91,Ungrammatical,Wie wat kan leren van het experiment?,wat kan,
+11,Wh-Movement,46,question_formation,92,Grammatical,Wie heeft wat ontdekt in het universum?,heeft wat,
+11,Wh-Movement,46,question_formation,92,Ungrammatical,Wie wat heeft ontdekt in het universum?,wat heeft,
+11,Wh-Movement,46,question_formation,93,Grammatical,Wie moet waar rapporteren over de resultaten?,moet waar,
+11,Wh-Movement,46,question_formation,93,Ungrammatical,Wie waar moet rapporteren over de resultaten?,waar moet,
+11,Wh-Movement,46,question_formation,94,Grammatical,Wie moet wat aanpassen in de presentatie?,moet wat,
+11,Wh-Movement,46,question_formation,94,Ungrammatical,Wie wat moet aanpassen in de presentatie?,wat moet,
+11,Wh-Movement,46,question_formation,95,Grammatical,Wie heeft waar gezocht naar informatie?,heeft waar,
+11,Wh-Movement,46,question_formation,95,Ungrammatical,Wie waar heeft gezocht naar informatie?,waar heeft,
+11,Wh-Movement,46,question_formation,96,Grammatical,Wie kan waar excelleren in het team?,kan waar,
+11,Wh-Movement,46,question_formation,96,Ungrammatical,Wie waar kan excelleren in het team?,waar kan,
+11,Wh-Movement,46,question_formation,97,Grammatical,Wie moet wat regelen voor de reis?,moet wat,
+11,Wh-Movement,46,question_formation,97,Ungrammatical,Wie wat moet regelen voor de reis?,wat moet,
+11,Wh-Movement,46,question_formation,98,Grammatical,Wie heeft waar deelgenomen aan de workshop?,heeft waar,
+11,Wh-Movement,46,question_formation,98,Ungrammatical,Wie waar heeft deelgenomen aan de workshop?,waar heeft,
+11,Wh-Movement,46,question_formation,99,Grammatical,Wie moet waar anticiperen op de veranderingen?,moet waar,
+11,Wh-Movement,46,question_formation,99,Ungrammatical,Wie waar moet anticiperen op de veranderingen?,waar moet,
+11,Wh-Movement,46,question_formation,100,Grammatical,Wie heeft waar gestreefd naar verbetering?,heeft waar,
+11,Wh-Movement,46,question_formation,100,Ungrammatical,Wie waar heeft gestreefd naar verbetering?,waar heeft,
+11,Wh-Movement,47,filler_effect_gap,101,Grammatical,Ik weet wat jij denkt dat de bakker maakt in de bakkerij.,maakt,wat
+11,Wh-Movement,47,filler_effect_gap,101,Ungrammatical,Ik weet dat jij denkt dat de bakker maakt in de bakkerij.,maakt,dat
+11,Wh-Movement,47,filler_effect_gap,102,Grammatical,Zij weet wat Thom verwachtte dat de kunstenaar liet zien in de galerij.,liet,wat
+11,Wh-Movement,47,filler_effect_gap,102,Ungrammatical,Zij weet dat Thom verwachtte dat de kunstenaar liet zien in de galerij.,liet,dat
+11,Wh-Movement,47,filler_effect_gap,103,Grammatical,Hij begrijpt wat de man denkt dat de chauffeur vervoert naar het vliegveld.,vervoert,wat
+11,Wh-Movement,47,filler_effect_gap,103,Ungrammatical,Hij begrijpt dat de man denkt dat de chauffeur vervoert naar het vliegveld.,vervoert,dat
+11,Wh-Movement,47,filler_effect_gap,104,Grammatical,Adriana begrijpt wat hij verwacht dat de klasgenoot beoefent op hoog niveau.,beoefent,wat
+11,Wh-Movement,47,filler_effect_gap,104,Ungrammatical,Adriana begrijpt dat hij verwacht dat de klasgenoot beoefent op hoog niveau.,beoefent,dat
+11,Wh-Movement,47,filler_effect_gap,105,Grammatical,Laura weet wat Dennis denkt dat de president samenstelt na zijn termijn.,samenstelt,wat
+11,Wh-Movement,47,filler_effect_gap,105,Ungrammatical,Laura weet dat Dennis denkt dat de president samenstelt na zijn termijn.,samenstelt,dat
+11,Wh-Movement,47,filler_effect_gap,106,Grammatical,Fabio weet wat de ondernemer verwacht dat de toerist bezoekt tijdens de vakantie.,bezoekt,wat
+11,Wh-Movement,47,filler_effect_gap,106,Ungrammatical,Fabio weet dat de ondernemer verwacht dat de toerist bezoekt tijdens de vakantie.,bezoekt,dat
+11,Wh-Movement,47,filler_effect_gap,107,Grammatical,De juf begrijpt wat zij verwacht dat de monteur naloopt op het kinderdagverblijf.,naloopt,wat
+11,Wh-Movement,47,filler_effect_gap,107,Ungrammatical,De juf begrijpt dat zij verwacht dat de monteur naloopt op het kinderdagverblijf.,naloopt,dat
+11,Wh-Movement,47,filler_effect_gap,108,Grammatical,De vrouw begrijpt wat de leidinggevende denkt dat de jongen terugbrengt naar de winkel.,terugbrengt,wat
+11,Wh-Movement,47,filler_effect_gap,108,Ungrammatical,De vrouw begrijpt dat de leidinggevende denkt dat de jongen terugbrengt naar de winkel.,terugbrengt,dat
+11,Wh-Movement,47,filler_effect_gap,109,Grammatical,De detective weet wat Celeste denkt dat de vrouw ontvangt iedere drie maanden.,ontvangt,wat
+11,Wh-Movement,47,filler_effect_gap,109,Ungrammatical,De detective weet dat Celeste denkt dat de vrouw ontvangt iedere drie maanden.,ontvangt,dat
+11,Wh-Movement,47,filler_effect_gap,110,Grammatical,Ik begrijp wat jij verwacht dat de leerling beheerst voor de toets.,beheerst,wat
+11,Wh-Movement,47,filler_effect_gap,110,Ungrammatical,Ik begrijp dat jij verwacht dat de leerling beheerst voor de toets.,beheerst,dat
+11,Wh-Movement,47,filler_effect_gap,111,Grammatical,Zij weet wat hij hoopt dat de kat vindt onder het bed.,vindt,wat
+11,Wh-Movement,47,filler_effect_gap,111,Ungrammatical, Zij weet dat hij hoopt dat de kat vindt onder het bed.,vindt,dat
+11,Wh-Movement,47,filler_effect_gap,112,Grammatical,Hij begrijpt wat zij gelooft dat de kat van plan is te doen in de tuin.,doen,wat
+11,Wh-Movement,47,filler_effect_gap,112,Ungrammatical, Hij begrijpt dat zij gelooft dat de kat van plan is te doen in de tuin.,doen,dat
+11,Wh-Movement,47,filler_effect_gap,113,Grammatical,Hij begrijpt wat zij verwacht dat de leerlingen meenemen naar het schoolkamp.,meenemen,wat
+11,Wh-Movement,47,filler_effect_gap,113,Ungrammatical, Hij begrijpt dat zij verwacht dat de leerlingen meenemen naar het schoolkamp.,meenemen,dat
+11,Wh-Movement,47,filler_effect_gap,114,Grammatical,Zij begrijpt wat hij vermoedt dat de buren van plan zijn te doen tijdens het weekend.,doen,wat
+11,Wh-Movement,47,filler_effect_gap,114,Ungrammatical, Zij begrijpt dat hij vermoedt dat de buren van plan zijn te doen tijdens het weekend.,doen,dat
+11,Wh-Movement,47,filler_effect_gap,115,Grammatical,Zij begrijpt wat hij gelooft dat de oplossing is voor het probleem.,is,wat
+11,Wh-Movement,47,filler_effect_gap,115,Ungrammatical, Zij begrijpt dat hij gelooft dat de oplossing is voor het probleem.,is,dat
+11,Wh-Movement,47,filler_effect_gap,116,Grammatical,De trainer weet wat het team denkt dat de tegenstanders zullen doen in de volgende wedstrijd.,doen,wat
+11,Wh-Movement,47,filler_effect_gap,116,Ungrammatical, De trainer weet dat het team denkt dat de tegenstanders zullen doen in de volgende wedstrijd.,doen,dat
+11,Wh-Movement,47,filler_effect_gap,117,Grammatical,Zij begrijpt wat hij vermoedt dat de buurman heeft verstopt in de garage.,verstopt,wat
+11,Wh-Movement,47,filler_effect_gap,117,Ungrammatical, Zij begrijpt dat hij vermoedt dat de buurman heeft verstopt in de garage.,verstopt,dat
+11,Wh-Movement,47,filler_effect_gap,118,Grammatical,Ze begrijpt wat hij hoopt dat de chef-kok toevoegt aan het recept.,toevoegt,wat
+11,Wh-Movement,47,filler_effect_gap,118,Ungrammatical,Ze begrijpt dat hij hoopt dat de chef-kok toevoegt aan het recept.,toevoegt,dat
+11,Wh-Movement,47,filler_effect_gap,119,Grammatical,Maria begrijpt wat haar vader denkt dat de dokter voorschrijft voor de griep.,voorschrijft,wat
+11,Wh-Movement,47,filler_effect_gap,119,Ungrammatical,Maria begrijpt dat haar vader denkt dat de dokter voorschrijft voor de griep.,voorschrijft,dat
+11,Wh-Movement,47,filler_effect_gap,120,Grammatical,De manager weet wat het team verwacht dat de klant tevredenstelt.,tevredenstelt,wat
+11,Wh-Movement,47,filler_effect_gap,120,Ungrammatical,De manager weet dat het team verwacht dat de klant tevredenstelt.,tevredenstelt,dat
+11,Wh-Movement,47,filler_effect_gap,121,Grammatical,Ze begrijpt wat hij denkt dat de advocaat voorstelt aan de rechter.,voorstelt,wat
+11,Wh-Movement,47,filler_effect_gap,121,Ungrammatical,Ze begrijpt dat hij denkt dat de advocaat voorstelt aan de rechter.,voorstelt,dat
+11,Wh-Movement,47,filler_effect_gap,122,Grammatical,De leerkracht begrijpt wat de studenten verwachten dat de lezing behandelt.,behandelt,wat
+11,Wh-Movement,47,filler_effect_gap,122,Ungrammatical,De leerkracht begrijpt dat de studenten verwachten dat de lezing behandelt.,behandelt,dat
+11,Wh-Movement,47,filler_effect_gap,123,Grammatical,Hij weet wat zij vermoedt dat de architect ontwerpt voor het nieuwe gebouw.,ontwerpt,wat
+11,Wh-Movement,47,filler_effect_gap,123,Ungrammatical,Hij weet dat zij vermoedt dat de architect ontwerpt voor het nieuwe gebouw.,ontwerpt,dat
+11,Wh-Movement,47,filler_effect_gap,124,Grammatical,De directeur weet wat de klanten hopen dat de verkoper presenteert tijdens de vergadering.,presenteert,wat
+11,Wh-Movement,47,filler_effect_gap,124,Ungrammatical,De directeur weet dat de klanten hopen dat de verkoper presenteert tijdens de vergadering.,presenteert,dat
+11,Wh-Movement,47,filler_effect_gap,125,Grammatical,Hij weet wat zij wenst dat de ober serveert in het restaurant.,serveert,wat
+11,Wh-Movement,47,filler_effect_gap,125,Ungrammatical,Hij weet dat zij wenst dat de ober serveert in het restaurant.,serveert,dat
+11,Wh-Movement,47,filler_effect_gap,126,Grammatical,De leraar begrijpt wat de ouders hopen dat de school organiseert voor de excursie.,organiseert,wat
+11,Wh-Movement,47,filler_effect_gap,126,Ungrammatical,De leraar begrijpt dat de ouders hopen dat de school organiseert voor de excursie.,organiseert,dat
+11,Wh-Movement,47,filler_effect_gap,127,Grammatical,De CEO begrijpt wat de aandeelhouders willen dat het bedrijf implementeert.,implementeert,wat
+11,Wh-Movement,47,filler_effect_gap,127,Ungrammatical,De CEO begrijpt dat de aandeelhouders willen dat het bedrijf implementeert.,implementeert,dat
+11,Wh-Movement,47,filler_effect_gap,128,Grammatical,Maria begrijpt wat haar zusje verwacht dat de vriendinnen meebrengen naar het feestje.,meebrengen,wat
+11,Wh-Movement,47,filler_effect_gap,128,Ungrammatical,Maria begrijpt dat haar zusje verwacht dat de vriendinnen meebrengen naar het feestje.,meebrengen,dat
+11,Wh-Movement,47,filler_effect_gap,129,Grammatical,Ze begrijpt wat hij vermoedt dat de buurvrouw verkoopt op de markt.,verkoopt,wat
+11,Wh-Movement,47,filler_effect_gap,129,Ungrammatical,Ze begrijpt dat hij vermoedt dat de buurvrouw verkoopt op de markt.,verkoopt,dat
+11,Wh-Movement,47,filler_effect_gap,130,Grammatical,De directeur begrijpt wat de ouders hopen dat de school organiseert voor het evenement.,organiseert,wat
+11,Wh-Movement,47,filler_effect_gap,130,Ungrammatical,De directeur begrijpt dat de ouders hopen dat de school organiseert voor het evenement.,organiseert,dat
+11,Wh-Movement,47,filler_effect_gap,131,Grammatical,Zij weet wat hij vermoedt dat de leraar toewijst voor het huiswerk.,toewijst,wat
+11,Wh-Movement,47,filler_effect_gap,131,Ungrammatical,Zij weet dat hij vermoedt dat de leraar toewijst voor het huiswerk.,toewijst,dat
+11,Wh-Movement,47,filler_effect_gap,132,Grammatical,De manager begrijpt wat de klanten verwachten dat het bedrijf biedt voor de service.,biedt,wat
+11,Wh-Movement,47,filler_effect_gap,132,Ungrammatical,De manager begrijpt dat de klanten verwachten dat het bedrijf biedt voor de service.,biedt,dat
+11,Wh-Movement,47,filler_effect_gap,133,Grammatical,De instructeur begrijpt wat de leerlingen verwachten dat de choreograaf aanleert tijdens de les.,aanleert,wat
+11,Wh-Movement,47,filler_effect_gap,133,Ungrammatical,De instructeur begrijpt dat de leerlingen verwachten dat de choreograaf aanleert tijdens de les.,aanleert,dat
+11,Wh-Movement,47,filler_effect_gap,134,Grammatical,Hij begrijpt wat zij vermoedt dat de jury waardeert tijdens de wedstrijd.,waardeert,wat
+11,Wh-Movement,47,filler_effect_gap,134,Ungrammatical,Hij begrijpt dat zij vermoedt dat de jury waardeert tijdens de wedstrijd.,waardeert,dat
+11,Wh-Movement,47,filler_effect_gap,135,Grammatical,Ze begrijpt wat hij hoopt dat de atleet bereikt tijdens de competitie.,bereikt,wat
+11,Wh-Movement,47,filler_effect_gap,135,Ungrammatical,Ze begrijpt dat hij hoopt dat de atleet bereikt tijdens de competitie.,bereikt,dat
+11,Wh-Movement,47,filler_effect_gap,136,Grammatical,De spelleider weet wat de deelnemers hopen dat de spelregels duidelijk maken voor het spel.,maken,wat
+11,Wh-Movement,47,filler_effect_gap,136,Ungrammatical,De spelleider weet dat de deelnemers hopen dat de spelregels duidelijk maken voor het spel.,maken,dat
+11,Wh-Movement,47,filler_effect_gap,137,Grammatical,Hij begrijpt wat zij wenst dat de grootouders meebrengen naar het familiefeest.,meebrengen,wat
+11,Wh-Movement,47,filler_effect_gap,137,Ungrammatical,Hij begrijpt dat zij wenst dat de grootouders meebrengen naar het familiefeest.,meebrengen,dat
+11,Wh-Movement,47,filler_effect_gap,138,Grammatical,De moeder begrijpt wat de kinderen hopen dat de kerstman brengt voor de feestdagen.,brengt,wat
+11,Wh-Movement,47,filler_effect_gap,138,Ungrammatical,De moeder begrijpt dat de kinderen hopen dat de kerstman brengt voor de feestdagen.,brengt,dat
+11,Wh-Movement,47,filler_effect_gap,139,Grammatical,Hij weet wat zij vermoedt dat de neef vraagt tijdens het familiebezoek.,tijdens,wat
+11,Wh-Movement,47,filler_effect_gap,139,Ungrammatical,Hij weet dat zij vermoedt dat de neef vraagt tijdens het familiebezoek.,tijdens,dat
+11,Wh-Movement,47,filler_effect_gap,140,Grammatical,De vader begrijpt wat de tante verwacht dat de kinderen meenemen naar het familiefeest.,meenemen,wat
+11,Wh-Movement,47,filler_effect_gap,140,Ungrammatical,De vader begrijpt dat de tante verwacht dat de kinderen meenemen naar het familiefeest.,meenemen,dat
+11,Wh-Movement,47,filler_effect_gap,141,Grammatical,Ze weet wat hij denkt dat de dansstijl vereist tijdens de routine.,vereist,wat
+11,Wh-Movement,47,filler_effect_gap,141,Ungrammatical,Ze weet dat hij denkt dat de dansstijl vereist tijdens de routine.,vereist,dat
+11,Wh-Movement,47,filler_effect_gap,142,Grammatical,De danser begrijpt wat het publiek verwacht dat de danser uitvoert tijdens de show.,uitvoert,wat
+11,Wh-Movement,47,filler_effect_gap,142,Ungrammatical,De danser begrijpt dat het publiek verwacht dat de danser uitvoert tijdens de show.,uitvoert,dat
+11,Wh-Movement,47,filler_effect_gap,143,Grammatical,Ze begrijpt wat hij vermoedt dat de tegenstander toont tijdens de competitie.,toont,wat
+11,Wh-Movement,47,filler_effect_gap,143,Ungrammatical,Ze begrijpt dat hij vermoedt dat de tegenstander toont tijdens de competitie.,toont,dat
+11,Wh-Movement,47,filler_effect_gap,144,Grammatical,Hij weet wat zij gelooft dat de dansstijl vereist tijdens de performance.,vereist,wat
+11,Wh-Movement,47,filler_effect_gap,144,Ungrammatical,Hij weet dat zij gelooft dat de dansstijl vereist tijdens de performance.,vereist,dat
+11,Wh-Movement,47,filler_effect_gap,145,Grammatical,De koning begrijpt wat de raadgever denkt dat de vazal aanbiedt tijdens de hofhouding.,tijdens,wat
+11,Wh-Movement,47,filler_effect_gap,145,Ungrammatical,De koning begrijpt dat de raadgever denkt dat de vazal aanbiedt tijdens de hofhouding.,tijdens,dat
+11,Wh-Movement,47,filler_effect_gap,146,Grammatical,Ze weet wat hij verwacht dat de nar vertelt tijdens het banket.,tijdens,wat
+11,Wh-Movement,47,filler_effect_gap,146,Ungrammatical,Ze weet dat hij verwacht dat de nar vertelt tijdens het banket.,tijdens,dat
+11,Wh-Movement,47,filler_effect_gap,147,Grammatical,De ridder begrijpt wat het volk vreest dat de draak bedreigt in het koninkrijk.,bedreigt,wat
+11,Wh-Movement,47,filler_effect_gap,147,Ungrammatical,De ridder begrijpt dat het volk vreest dat de draak bedreigt in het koninkrijk.,bedreigt,dat
+11,Wh-Movement,47,filler_effect_gap,148,Grammatical,De abt weet wat de monniken verwachten dat de pelgrim brengt naar het klooster.,brengt,wat
+11,Wh-Movement,47,filler_effect_gap,148,Ungrammatical,De abt weet dat de monniken verwachten dat de pelgrim brengt naar het klooster.,brengt,dat
+11,Wh-Movement,47,filler_effect_gap,149,Grammatical,Ze begrijpt wat hij denkt dat de heks veroorzaakt in het dorp.,veroorzaakt,wat
+11,Wh-Movement,47,filler_effect_gap,149,Ungrammatical,Ze begrijpt dat hij denkt dat de heks veroorzaakt in het dorp.,veroorzaakt,dat
+11,Wh-Movement,47,filler_effect_gap,150,Grammatical,Ze begrijpt wat hij vermoedt dat de alchemist uitvoert in zijn geheime laboratorium.,uitvoert,wat
+11,Wh-Movement,47,filler_effect_gap,150,Ungrammatical,Ze begrijpt dat hij vermoedt dat de alchemist uitvoert in zijn geheime laboratorium.,uitvoert,dat
+11,Wh-Movement,47,filler_effect_gap,151,Grammatical,De schildknaap weet wat de jonkvrouw hoopt dat de ridder biedt als eerbetoon.,biedt,wat
+11,Wh-Movement,47,filler_effect_gap,151,Ungrammatical,De schildknaap weet dat de jonkvrouw hoopt dat de ridder biedt als eerbetoon.,biedt,dat
+11,Wh-Movement,47,filler_effect_gap,152,Grammatical,Ze weet wat hij denkt dat de graaf aanbiedt tijdens de huldiging.,aanbiedt,wat
+11,Wh-Movement,47,filler_effect_gap,152,Ungrammatical,Ze weet dat hij denkt dat de graaf aanbiedt tijdens de huldiging.,aanbiedt,dat
+11,Wh-Movement,47,filler_effect_gap,153,Grammatical,De nar begrijpt wat het hof verwacht dat hij doet tijdens de festiviteiten.,doet,wat
+11,Wh-Movement,47,filler_effect_gap,153,Ungrammatical,De nar begrijpt dat het hof verwacht dat hij doet tijdens de festiviteiten.,doet,dat
+11,Wh-Movement,47,filler_effect_gap,154,Grammatical,De tovenaar weet wat de burgers hopen dat de magiër vervloekt in het dorp.,vervloekt,wat
+11,Wh-Movement,47,filler_effect_gap,154,Ungrammatical,De tovenaar weet dat de burgers hopen dat de magiër vervloekt in het dorp.,vervloekt,dat
+11,Wh-Movement,47,filler_effect_gap,155,Grammatical,Catharina begrijpt wat Wouter denkt dat de smid creëert in zijn werkplaats.,creëert,wat
+11,Wh-Movement,47,filler_effect_gap,155,Ungrammatical,Catharina begrijpt dat Wouter denkt dat de smid creëert in zijn werkplaats.,creëert,dat
+11,Wh-Movement,47,filler_effect_gap,156,Grammatical,De herbergier weet wat de reizigers verwachten dat de herberg biedt tijdens de rust.,biedt,wat
+11,Wh-Movement,47,filler_effect_gap,156,Ungrammatical,De herbergier weet dat de reizigers verwachten dat de herberg biedt tijdens de rust.,biedt,dat
+11,Wh-Movement,47,filler_effect_gap,157,Grammatical,Diederik begrijpt wat Agete vreest dat de spion vertelt in de kasteelgangen.,vertelt,wat
+11,Wh-Movement,47,filler_effect_gap,157,Ungrammatical,Diederik begrijpt dat Agete vreest dat de spion vertelt in de kasteelgangen.,vertelt,dat
+11,Wh-Movement,47,filler_effect_gap,158,Grammatical,Tom begrijpt wat Alex vermoedt dat de jager verzamelt voor het stamfeest.,verzamelt,wat
+11,Wh-Movement,47,filler_effect_gap,158,Ungrammatical,Tom begrijpt dat Alex vermoedt dat de jager verzamelt voor het stamfeest.,verzamelt,dat
+11,Wh-Movement,47,filler_effect_gap,159,Grammatical,Ayla weet wat Jondalar denkt dat de sjamaan voorspelt voor de oogst.,voorspelt,wat
+11,Wh-Movement,47,filler_effect_gap,159,Ungrammatical,Ayla weet dat Jondalar denkt dat de sjamaan voorspelt voor de oogst.,voorspelt,dat
+11,Wh-Movement,47,filler_effect_gap,160,Grammatical,Hij begrijpt wat Sara verwacht dat de vuurmaker maakt voor het dorp.,maakt,wat
+11,Wh-Movement,47,filler_effect_gap,160,Ungrammatical,Hij begrijpt dat Sara verwacht dat de vuurmaker maakt voor het dorp.,maakt,dat
+11,Wh-Movement,47,filler_effect_gap,161,Grammatical,Ramses begrijpt wat Nefertiti vermoedt dat de hogepriester verzint voor de ceremonie.,verzint,wat
+11,Wh-Movement,47,filler_effect_gap,161,Ungrammatical,Ramses begrijpt dat Nefertiti vermoedt dat de hogepriester verzint voor de ceremonie.,verzint,dat
+11,Wh-Movement,47,filler_effect_gap,162,Grammatical,Hatsjepsoet weet wat Toetanchamon verwacht dat de architect ontwerpt voor de tempel.,ontwerpt,wat
+11,Wh-Movement,47,filler_effect_gap,162,Ungrammatical,Hatsjepsoet weet dat Toetanchamon verwacht dat de architect ontwerpt voor de tempel.,ontwerpt,dat
+11,Wh-Movement,47,filler_effect_gap,163,Grammatical,Nero weet wat Augustus vermoedt dat de gladiator verkrijgt tijdens de spelen.,verkrijgt,wat
+11,Wh-Movement,47,filler_effect_gap,163,Ungrammatical,Nero weet dat Augustus vermoedt dat de gladiator verkrijgt tijdens de spelen.,verkrijgt,dat
+11,Wh-Movement,47,filler_effect_gap,164,Grammatical,Cleopatra begrijpt wat Julius Caesar verwacht dat de generaal levert voor de overwinning.,levert,wat
+11,Wh-Movement,47,filler_effect_gap,164,Ungrammatical,Cleopatra begrijpt dat Julius Caesar verwacht dat de generaal levert voor de overwinning.,levert,dat
+11,Wh-Movement,47,filler_effect_gap,165,Grammatical,Johanna van Arc begrijpt wat Willem de Veroveraar vermoedt dat de veldheer bemachtigt,bemachtigt,wat
+11,Wh-Movement,47,filler_effect_gap,165,Ungrammatical,Johanna van Arc begrijpt dat Willem de Veroveraar vermoedt dat de veldheer bemachtigt,bemachtigt,dat
+11,Wh-Movement,47,filler_effect_gap,166,Grammatical,Robin Hood weet wat Koning Arthur verwacht dat de ridder volbrengt voor gerechtigheid.,volbrengt,wat
+11,Wh-Movement,47,filler_effect_gap,166,Ungrammatical,Robin Hood weet dat Koning Arthur verwacht dat de ridder volbrengt voor gerechtigheid.,volbrengt,dat
+11,Wh-Movement,47,filler_effect_gap,167,Grammatical,Leonardo da Vinci begrijpt wat Michelangelo denkt dat de paus opdraagt voor de fresco.,opdraagt,wat
+11,Wh-Movement,47,filler_effect_gap,167,Ungrammatical,Leonardo da Vinci begrijpt dat Michelangelo denkt dat de paus opdraagt voor de fresco.,opdraagt,dat
+11,Wh-Movement,47,filler_effect_gap,168,Grammatical,James Watt begrijpt wat Thomas Edison denkt dat de ingenieur uitvindt voor elektriciteit.,uitvindt,wat
+11,Wh-Movement,47,filler_effect_gap,168,Ungrammatical,James Watt begrijpt dat Thomas Edison denkt dat de ingenieur uitvindt voor elektriciteit.,uitvindt,dat
+11,Wh-Movement,47,filler_effect_gap,169,Grammatical,Karl Marx weet wat Friedrich Engels vermoedt dat de fabriekseigenaar eist voor arbeiders.,voor,wat
+11,Wh-Movement,47,filler_effect_gap,169,Ungrammatical,Karl Marx weet dat Friedrich Engels vermoedt dat de fabriekseigenaar eist voor arbeiders.,voor,dat
+11,Wh-Movement,47,filler_effect_gap,170,Grammatical,Albert Einstein begrijpt wat Niels Bohr denkt dat de wetenschapper blootlegt over natuurkunde.,blootlegt,wat
+11,Wh-Movement,47,filler_effect_gap,170,Ungrammatical,Albert Einstein begrijpt dat Niels Bohr denkt dat de wetenschapper blootlegt over natuurkunde.,blootlegt,dat
+11,Wh-Movement,47,filler_effect_gap,171,Grammatical,Winston Churchill weet wat Franklin D. Roosevelt verwacht dat de premier bevordert voor vrede.,bevordert,wat
+11,Wh-Movement,47,filler_effect_gap,171,Ungrammatical,Winston Churchill weet dat Franklin D. Roosevelt verwacht dat de premier bevordert voor vrede.,bevordert,dat
+11,Wh-Movement,47,filler_effect_gap,172,Grammatical,Gatsby begrijpt wat Daisy denkt dat de gangster organiseert voor het feest.,organiseert,wat
+11,Wh-Movement,47,filler_effect_gap,172,Ungrammatical,Gatsby begrijpt dat Daisy denkt dat de gangster organiseert voor het feest.,organiseert,dat
+11,Wh-Movement,47,filler_effect_gap,173,Grammatical,Charlie weet wat Mary vermoedt dat de jazzmuzikant vertoont tijdens de optredens.,vertoont,wat
+11,Wh-Movement,47,filler_effect_gap,173,Ungrammatical,Charlie weet dat Mary vermoedt dat de jazzmuzikant vertoont tijdens de optredens.,vertoont,dat
+11,Wh-Movement,47,filler_effect_gap,174,Grammatical,Emily begrijpt wat haar zus verwachtte dat de vrouwen zouden bereiken in de suffragettebeweging.,bereiken,wat
+11,Wh-Movement,47,filler_effect_gap,174,Ungrammatical,Emily begrijpt dat haar zus verwachtte dat de vrouwen zouden bereiken in de suffragettebeweging.,bereiken,dat
+11,Wh-Movement,47,filler_effect_gap,175,Grammatical,De schrijver weet wat de uitgever vermoedde dat het volgende bestsellerboek zou zijn. ,zijn,wat
+11,Wh-Movement,47,filler_effect_gap,175,Ungrammatical,De schrijver weet dat de uitgever vermoedde dat het volgende bestsellerboek zou zijn.,zijn,dat
+11,Wh-Movement,47,filler_effect_gap,176,Grammatical,De chef weet wat de klanten denken dat het geheime ingrediënt is in het gerecht.,in,wat
+11,Wh-Movement,47,filler_effect_gap,176,Ungrammatical,De chef weet dat de klanten denken dat het geheime ingrediënt is in het gerecht.,in,dat
+11,Wh-Movement,47,filler_effect_gap,177,Grammatical,De directeur weet wat de werknemers vermoeden dat de reden is voor de vertraging.,voor,wat
+11,Wh-Movement,47,filler_effect_gap,177,Ungrammatical,De directeur weet dat de werknemers vermoeden dat de reden is voor de vertraging.,voor,dat
+11,Wh-Movement,47,filler_effect_gap,178,Grammatical,Hij begrijpt wat zij vermoedt dat de oorzaak is van de storing in het systeem.,van,wat
+11,Wh-Movement,47,filler_effect_gap,178,Ungrammatical,Hij begrijpt dat zij vermoedt dat de oorzaak is van de storing in het systeem.,van,dat
+11,Wh-Movement,47,filler_effect_gap,179,Grammatical,Zij begrijpt wat hij hoopt dat de jury zal concluderen na het horen van de getuigen.,na,wat
+11,Wh-Movement,47,filler_effect_gap,179,Ungrammatical,Zij begrijpt dat hij hoopt dat de jury zal concluderen na het horen van de getuigen.,na,dat
+11,Wh-Movement,47,filler_effect_gap,180,Grammatical,De lerares weet wat de ouders denken dat de reden is voor de achterstand van hun kind.,voor,wat
+11,Wh-Movement,47,filler_effect_gap,180,Ungrammatical,De lerares weet dat de ouders denken dat de reden is voor de achterstand van hun kind.,voor,dat
+11,Wh-Movement,47,filler_effect_gap,181,Grammatical,Hij begrijpt wat zij vermoedt dat de cliënt zal vragen tijdens de afspraak.,tijdens,wat
+11,Wh-Movement,47,filler_effect_gap,181,Ungrammatical,Hij begrijpt dat zij vermoedt dat de cliënt zal vragen tijdens de afspraak.,tijdens,dat
+11,Wh-Movement,47,filler_effect_gap,182,Grammatical,De professor weet wat de studenten geloven dat de oplossing is voor de vergelijking.,voor,wat
+11,Wh-Movement,47,filler_effect_gap,182,Ungrammatical,De professor weet dat de studenten geloven dat de oplossing is voor de vergelijking.,voor,dat
+11,Wh-Movement,47,filler_effect_gap,183,Grammatical,Zij begrijpt wat hij vreest dat de politie zal ontdekken tijdens het onderzoek.,tijdens,wat
+11,Wh-Movement,47,filler_effect_gap,183,Ungrammatical,Zij begrijpt dat hij vreest dat de politie zal ontdekken tijdens het onderzoek.,tijdens,dat
+11,Wh-Movement,47,filler_effect_gap,184,Grammatical,Hij begrijpt wat zij hoopt dat de baas zal goedkeuren voor het project.,voor,wat
+11,Wh-Movement,47,filler_effect_gap,184,Ungrammatical,Hij begrijpt dat zij hoopt dat de baas zal goedkeuren voor het project.,voor,dat
+11,Wh-Movement,47,filler_effect_gap,185,Grammatical,De adviseur weet wat de klant gelooft dat de beste strategie is voor het bedrijf.,voor,wat
+11,Wh-Movement,47,filler_effect_gap,185,Ungrammatical,De adviseur weet dat de klant gelooft dat de beste strategie is voor het bedrijf.,voor,dat
+11,Wh-Movement,47,filler_effect_gap,186,Grammatical,De expert weet wat de consumenten denken dat de trend zal zijn in de markt.,in,wat
+11,Wh-Movement,47,filler_effect_gap,186,Ungrammatical,De expert weet dat de consumenten denken dat de trend zal zijn in de markt.,in,dat
+11,Wh-Movement,47,filler_effect_gap,187,Grammatical,Hij begrijpt wat zij vreest dat de concurrent zal introduceren op de markt.,op,wat
+11,Wh-Movement,47,filler_effect_gap,187,Ungrammatical,Hij begrijpt dat zij vreest dat de concurrent zal introduceren op de markt.,op,dat
+11,Wh-Movement,47,filler_effect_gap,188,Grammatical,Hij weet wat zij gelooft dat de leraar uitlegt in de les.,in,wat
+11,Wh-Movement,47,filler_effect_gap,188,Ungrammatical,Hij weet dat zij gelooft dat de leraar uitlegt in de les.,in,dat
+11,Wh-Movement,47,filler_effect_gap,189,Grammatical,Zij begrijpt wat hij vreest dat de president aankondigt in de toespraak.,in,wat
+11,Wh-Movement,47,filler_effect_gap,189,Ungrammatical,Zij begrijpt dat hij vreest dat de president aankondigt in de toespraak.,in,dat
+11,Wh-Movement,47,filler_effect_gap,190,Grammatical,Hij weet wat zij vermoedt dat de acteur uitbeeldt in het toneelstuk.,in,wat
+11,Wh-Movement,47,filler_effect_gap,190,Ungrammatical,Hij weet dat zij vermoedt dat de acteur uitbeeldt in het toneelstuk.,in,dat
+11,Wh-Movement,47,filler_effect_gap,191,Grammatical,Ze begrijpt wat hij vreest dat de weerman voorspelt voor het weer van morgen.,voor,wat
+11,Wh-Movement,47,filler_effect_gap,191,Ungrammatical,Ze begrijpt dat hij vreest dat de weerman voorspelt voor het weer van morgen.,voor,dat
+11,Wh-Movement,47,filler_effect_gap,192,Grammatical,Hij begrijpt wat zij vermoedt dat de politicus belooft tijdens de campagne.,tijdens,wat
+11,Wh-Movement,47,filler_effect_gap,192,Ungrammatical,Hij begrijpt dat zij vermoedt dat de politicus belooft tijdens de campagne.,tijdens,dat
+11,Wh-Movement,47,filler_effect_gap,193,Grammatical,Hij weet wat zij hoopt dat de vrienden plannen voor het weekend.,voor,wat
+11,Wh-Movement,47,filler_effect_gap,193,Ungrammatical,Hij weet dat zij hoopt dat de vrienden plannen voor het weekend.,voor,dat
+11,Wh-Movement,47,filler_effect_gap,194,Grammatical,De bisschop begrijpt wat de gelovigen verwachten dat de kathedraal vertegenwoordigt in de stad.,in,wat
+11,Wh-Movement,47,filler_effect_gap,194,Ungrammatical,De bisschop begrijpt dat de gelovigen verwachten dat de kathedraal vertegenwoordigt in de stad.,in,dat
+11,Wh-Movement,47,filler_effect_gap,195,Grammatical,Hij begrijpt wat zij vermoedt dat de kluizenaar onthult in zijn voorspellingen.,in,wat
+11,Wh-Movement,47,filler_effect_gap,195,Ungrammatical,Hij begrijpt dat zij vermoedt dat de kluizenaar onthult in zijn voorspellingen.,in,dat
+11,Wh-Movement,47,filler_effect_gap,196,Grammatical,Johannes begrijpt wat Clara vreest dat de kasteelheer beveelt in zijn decreet.,in,wat
+11,Wh-Movement,47,filler_effect_gap,196,Ungrammatical,Johannes begrijpt dat Clara vreest dat de kasteelheer beveelt in zijn decreet.,in,dat
+11,Wh-Movement,47,filler_effect_gap,197,Grammatical,Cleopatra weet wat Julius Caesar denkt dat de farao besluit voor het koninkrijk.,voor,wat
+11,Wh-Movement,47,filler_effect_gap,197,Ungrammatical,Cleopatra weet dat Julius Caesar denkt dat de farao besluit voor het koninkrijk.,voor,dat
+11,Wh-Movement,47,filler_effect_gap,198,Grammatical,Caesar begrijpt wat Marcus Aurelius denkt dat de senaat goedkeurt voor het volk.,voor,wat
+11,Wh-Movement,47,filler_effect_gap,198,Ungrammatical,Caesar begrijpt dat Marcus Aurelius denkt dat de senaat goedkeurt voor het volk.,voor,dat
+11,Wh-Movement,47,filler_effect_gap,199,Grammatical,Karel de Grote weet wat Richard Leeuwenhart denkt dat de koning van plan is voor het rijk.,voor,wat
+11,Wh-Movement,47,filler_effect_gap,199,Ungrammatical,Karel de Grote weet dat Richard Leeuwenhart denkt dat de koning van plan is voor het rijk.,voor,dat
+11,Wh-Movement,47,filler_effect_gap,200,Grammatical,Johannes Gutenberg weet wat Galileo Galilei vermoedt dat de wetenschapper ontdekt voor de astronomie.,voor,wat
+11,Wh-Movement,47,filler_effect_gap,200,Ungrammatical,Johannes Gutenberg weet dat Galileo Galilei vermoedt dat de wetenschapper ontdekt voor de astronomie.,voor,dat
+11,Wh-Movement,48,filler_effect_no_gap,201,Grammatical,Ik weet dat jij denkt dat de bakker koekjes maakt in de bakkerij.,koekjes,dat
+11,Wh-Movement,48,filler_effect_no_gap,201,Ungrammatical,Ik weet wat jij denkt dat de bakker koekjes maakt in de bakkerij.,koekjes,wat
+11,Wh-Movement,48,filler_effect_no_gap,202,Grammatical,Zij weet dat Thom verwachtte dat de kunstenaar een beeldhouwwerk liet zien in de galerij.,een beeldhouwwerk,dat
+11,Wh-Movement,48,filler_effect_no_gap,202,Ungrammatical,Zij weet wat Thom verwachtte dat de kunstenaar een beeldhouwwerk liet zien in de galerij.,een beeldhouwwerk,wat
+11,Wh-Movement,48,filler_effect_no_gap,203,Grammatical,Hij begrijpt dat de man denkt dat de chauffeur koffers vervoert naar het vliegveld.,koffers,dat
+11,Wh-Movement,48,filler_effect_no_gap,203,Ungrammatical,Hij begrijpt wat de man denkt dat de chauffeur koffers vervoert naar het vliegveld.,koffers,wat
+11,Wh-Movement,48,filler_effect_no_gap,204,Grammatical,Adriana begrijpt dat hij verwacht dat de klasgenoot een sport beoefent op hoog niveau.,een sport,dat
+11,Wh-Movement,48,filler_effect_no_gap,204,Ungrammatical,Adriana begrijpt wat hij verwacht dat de klasgenoot een sport beoefent op hoog niveau.,een sport,wat
+11,Wh-Movement,48,filler_effect_no_gap,205,Grammatical,Laura weet dat Dennis denkt dat de president een autobiografie samenstelt na zijn termijn.,een autobiografie,dat
+11,Wh-Movement,48,filler_effect_no_gap,205,Ungrammatical,Laura weet wat Dennis denkt dat de president een autobiografie samenstelt na zijn termijn.,een autobiografie,wat
+11,Wh-Movement,48,filler_effect_no_gap,206,Grammatical,Fabio weet dat de ondernemer verwacht dat de toerist de Efteling bezoekt tijdens de vakantie.,de Efteling,dat
+11,Wh-Movement,48,filler_effect_no_gap,206,Ungrammatical,Fabio weet wat de ondernemer verwacht dat de toerist de Efteling bezoekt tijdens de vakantie.,de Efteling,wat
+11,Wh-Movement,48,filler_effect_no_gap,207,Grammatical,De juf begrijpt dat zij verwacht dat de monteur de leidingen naloopt op het kinderdagverblijf.,de leidingen,dat
+11,Wh-Movement,48,filler_effect_no_gap,207,Ungrammatical,De juf begrijpt wat zij verwacht dat de monteur de leidingen naloopt op het kinderdagverblijf.,de leidingen,wat
+11,Wh-Movement,48,filler_effect_no_gap,208,Grammatical,De vrouw begrijpt dat de leidinggevende denkt dat de jongen kleren terugbrengt naar de winkel.,kleren,dat
+11,Wh-Movement,48,filler_effect_no_gap,208,Ungrammatical,De vrouw begrijpt wat de leidinggevende denkt dat de jongen kleren terugbrengt naar de winkel.,kleren,wat
+11,Wh-Movement,48,filler_effect_no_gap,209,Grammatical,De detective weet dat Celeste denkt dat de vrouw geld ontvangt iedere drie maanden.,geld,dat
+11,Wh-Movement,48,filler_effect_no_gap,209,Ungrammatical,De detective weet wat Celeste denkt dat de vrouw geld ontvangt iedere drie maanden.,geld,wat
+11,Wh-Movement,48,filler_effect_no_gap,210,Grammatical,Ik begrijp dat jij verwacht dat de leerling de stof beheerst voor de toets.,de stof,dat
+11,Wh-Movement,48,filler_effect_no_gap,210,Ungrammatical,Ik begrijp wat jij verwacht dat de leerling de stof beheerst voor de toets.,de stof,wat
+11,Wh-Movement,48,filler_effect_no_gap,211,Grammatical,Hij begrijpt dat de coach denkt dat de atleet een nieuw record zal vestigen tijdens de wedstrijd.,een nieuw record,dat
+11,Wh-Movement,48,filler_effect_no_gap,211,Ungrammatical,Hij begrijpt wat de coach denkt dat de atleet een nieuw record zal vestigen tijdens de wedstrijd.,een nieuw record,wat
+11,Wh-Movement,48,filler_effect_no_gap,212,Grammatical,Zij weet dat hij verwacht dat de werknemer de deadline haalt voor het project.,de deadline,dat
+11,Wh-Movement,48,filler_effect_no_gap,212,Ungrammatical,Zij weet wat hij verwacht dat de werknemer de deadline haalt voor het project.,de deadline,wat
+11,Wh-Movement,48,filler_effect_no_gap,213,Grammatical,De leraar begrijpt dat de student denkt dat de opdracht te moeilijk is.,de opdracht,dat
+11,Wh-Movement,48,filler_effect_no_gap,213,Ungrammatical,De leraar begrijpt wat de student denkt dat de opdracht te moeilijk is.,de opdracht,wat
+11,Wh-Movement,48,filler_effect_no_gap,214,Grammatical,Alex weet dat Maria denkt dat de chef-kok het recept zal verbeteren.,het recept,dat
+11,Wh-Movement,48,filler_effect_no_gap,214,Ungrammatical,Alex weet wat Maria denkt dat de chef-kok het recept zal verbeteren.,het recept,wat
+11,Wh-Movement,48,filler_effect_no_gap,215,Grammatical,De manager begrijpt dat de klant denkt dat het product een goede prijs-kwaliteitverhouding heeft.,het product,dat
+11,Wh-Movement,48,filler_effect_no_gap,215,Ungrammatical,De manager begrijpt wat de klant denkt dat het product een goede prijs-kwaliteitverhouding heeft.,het product,wat
+11,Wh-Movement,48,filler_effect_no_gap,216,Grammatical,Laura begrijpt dat haar moeder verwacht dat de hovenier de planten regelmatig water geeft.,de planten,dat
+11,Wh-Movement,48,filler_effect_no_gap,216,Ungrammatical,Laura begrijpt wat haar moeder verwacht dat de hovenier de planten regelmatig water geeft.,de planten,wat
+11,Wh-Movement,48,filler_effect_no_gap,217,Grammatical,Hij begrijpt dat zijn vriendin denkt dat de kunstenaar zijn emoties in het schilderij uitdrukt.,zijn emoties,dat
+11,Wh-Movement,48,filler_effect_no_gap,217,Ungrammatical,Hij begrijpt wat zijn vriendin denkt dat de kunstenaar zijn emoties in het schilderij uitdrukt.,zijn emoties,wat
+11,Wh-Movement,48,filler_effect_no_gap,218,Grammatical,De directeur begrijpt dat het team verwacht dat de nieuwe regels de productiviteit zullen verbeteren.,de productiviteit,dat
+11,Wh-Movement,48,filler_effect_no_gap,218,Ungrammatical,De directeur begrijpt wat het team verwacht dat de nieuwe regels de productiviteit zullen verbeteren.,de productiviteit,wat
+11,Wh-Movement,48,filler_effect_no_gap,219,Grammatical,Lisa weet dat haar moeder denkt dat de verpleegkundige goede zorg verleent.,goede zorg,dat
+11,Wh-Movement,48,filler_effect_no_gap,219,Ungrammatical,Lisa weet wat haar moeder denkt dat de verpleegkundige goede zorg verleent.,goede zorg,wat
+11,Wh-Movement,48,filler_effect_no_gap,220,Grammatical,De manager weet dat de klanten denken dat de winkel een uitgebreid assortiment heeft.,een uitgebreid assortiment,dat
+11,Wh-Movement,48,filler_effect_no_gap,220,Ungrammatical,De manager weet wat de klanten denken dat de winkel een uitgebreid assortiment heeft.,een uitgebreid assortiment,wat
+11,Wh-Movement,48,filler_effect_no_gap,221,Grammatical,De receptionist begrijpt dat de gasten verwachten dat het hotel een goede service biedt.,een goede service,dat
+11,Wh-Movement,48,filler_effect_no_gap,221,Ungrammatical,De receptionist begrijpt wat de gasten verwachten dat het hotel een goede service biedt.,een goede service,wat
+11,Wh-Movement,48,filler_effect_no_gap,222,Grammatical,Thomas weet dat zijn vriendin verwacht dat hij aanwezig zal zijn bij haar afstuderen.,aanwezig,dat
+11,Wh-Movement,48,filler_effect_no_gap,222,Ungrammatical,Thomas weet wat zijn vriendin verwacht dat hij aanwezig zal zijn bij haar afstuderen.,aanwezig,wat
+11,Wh-Movement,48,filler_effect_no_gap,223,Grammatical,Nina weet dat haar vader verwacht dat zij haar kamer zal opruimen.,haar kamer,dat
+11,Wh-Movement,48,filler_effect_no_gap,223,Ungrammatical,Nina weet wat haar vader verwacht dat zij haar kamer zal opruimen.,haar kamer,wat
+11,Wh-Movement,48,filler_effect_no_gap,224,Grammatical,Zij begrijpt dat haar vriend denkt dat de hond een nieuw trucje heeft geleerd.,een nieuw trucje,dat
+11,Wh-Movement,48,filler_effect_no_gap,224,Ungrammatical,Zij begrijpt wat haar vriend denkt dat de hond een nieuw trucje heeft geleerd.,een nieuw trucje,wat
+11,Wh-Movement,48,filler_effect_no_gap,225,Grammatical,Thomas begrijpt dat zijn vriendin denkt dat het restaurant heerlijk eten serveert.,heerlijk eten,dat
+11,Wh-Movement,48,filler_effect_no_gap,225,Ungrammatical,Thomas begrijpt wat zijn vriendin denkt dat het restaurant heerlijk eten serveert.,heerlijk eten,wat
+11,Wh-Movement,48,filler_effect_no_gap,226,Grammatical,Zij begrijpt dat de ober denkt dat de chef-kok de saus bereidt in de keuken.,de saus,dat
+11,Wh-Movement,48,filler_effect_no_gap,226,Ungrammatical,Zij begrijpt wat de ober denkt dat de chef-kok de saus bereidt in de keuken.,de saus,wat
+11,Wh-Movement,48,filler_effect_no_gap,227,Grammatical,Wij weten dat de leraar verwacht dat de studenten de opdracht voltooien voor het einde van de les.,de opdracht,dat
+11,Wh-Movement,48,filler_effect_no_gap,227,Ungrammatical,Wij weten wat de leraar verwacht dat de studenten de opdracht voltooien voor het einde van de les.,de opdracht,wat
+11,Wh-Movement,48,filler_effect_no_gap,228,Grammatical,Hij begrijpt dat zijn vriendin denkt dat de reparateur het probleem snel zal oplossen.,het probleem,dat
+11,Wh-Movement,48,filler_effect_no_gap,228,Ungrammatical,Hij begrijpt wat zijn vriendin denkt dat de reparateur het probleem snel zal oplossen.,het probleem,wat
+11,Wh-Movement,48,filler_effect_no_gap,229,Grammatical,De lerares weet dat de leerling denkt dat de bibliotheek boeken uitleent aan alle studenten.,boeken,dat
+11,Wh-Movement,48,filler_effect_no_gap,229,Ungrammatical,De lerares weet wat de leerling denkt dat de bibliotheek boeken uitleent aan alle studenten.,boeken,wat
+11,Wh-Movement,48,filler_effect_no_gap,230,Grammatical,Wij begrijpen dat de architect verwacht dat de aannemer het huis op tijd zal voltooien.,het huis,dat
+11,Wh-Movement,48,filler_effect_no_gap,230,Ungrammatical,Wij begrijpen wat de architect verwacht dat de aannemer het huis op tijd zal voltooien.,het huis,wat
+11,Wh-Movement,48,filler_effect_no_gap,231,Grammatical,Zij weet dat haar broer denkt dat de fietsenmaker de banden zal oppompen in de werkplaats.,de banden,dat
+11,Wh-Movement,48,filler_effect_no_gap,231,Ungrammatical,Zij weet wat haar broer denkt dat de fietsenmaker de banden zal oppompen in de werkplaats.,de banden,wat
+11,Wh-Movement,48,filler_effect_no_gap,232,Grammatical,Hij begrijpt dat de klant verwacht dat de verkoper alle specificaties uitlegt.,alle specificaties,dat
+11,Wh-Movement,48,filler_effect_no_gap,232,Ungrammatical,Hij begrijpt wat de klant verwacht dat de verkoper alle specificaties uitlegt.,alle specificaties,wat
+11,Wh-Movement,48,filler_effect_no_gap,233,Grammatical,De professor weet dat de studenten denken dat de examens zwaar zullen zijn dit semester.,zwaar,dat
+11,Wh-Movement,48,filler_effect_no_gap,233,Ungrammatical,De professor weet wat de studenten denken dat de examens zwaar zullen zijn dit semester.,zwaar,wat
+11,Wh-Movement,48,filler_effect_no_gap,234,Grammatical,Zij begrijpt dat de chefkok denkt dat de ober de bestelling opneemt in het restaurant.,de bestelling,dat
+11,Wh-Movement,48,filler_effect_no_gap,234,Ungrammatical,Zij begrijpt wat de chefkok denkt dat de ober de bestelling opneemt in het restaurant.,de bestelling,wat
+11,Wh-Movement,48,filler_effect_no_gap,235,Grammatical,Wij weten dat de trainer verwacht dat het team de wedstrijd zal winnen.,de wedstrijd,dat
+11,Wh-Movement,48,filler_effect_no_gap,235,Ungrammatical,Wij weten wat de trainer verwacht dat het team de wedstrijd zal winnen.,de wedstrijd,wat
+11,Wh-Movement,48,filler_effect_no_gap,236,Grammatical,De wetenschapper begrijpt dat de collega denkt dat het experiment succesvol zal zijn.,succesvol,dat
+11,Wh-Movement,48,filler_effect_no_gap,236,Ungrammatical,De wetenschapper begrijpt wat de collega denkt dat het experiment succesvol zal zijn.,succesvol,wat
+11,Wh-Movement,48,filler_effect_no_gap,237,Grammatical,Hij weet dat de klant verwacht dat de adviseur goede aanbevelingen zal doen.,goede aanbevelingen,dat
+11,Wh-Movement,48,filler_effect_no_gap,237,Ungrammatical,Hij weet wat de klant verwacht dat de adviseur goede aanbevelingen zal doen.,goede aanbevelingen,wat
+11,Wh-Movement,48,filler_effect_no_gap,238,Grammatical,Zij weten dat de buurman verwacht dat de hovenier de tuin zal onderhouden.,de tuin,dat
+11,Wh-Movement,48,filler_effect_no_gap,238,Ungrammatical,Zij weten wat de buurman verwacht dat de hovenier de tuin zal onderhouden.,de tuin,wat
+11,Wh-Movement,48,filler_effect_no_gap,239,Grammatical,Hij begrijpt dat de klant denkt dat de monteur het probleem snel zal oplossen.,het probleem,dat
+11,Wh-Movement,48,filler_effect_no_gap,239,Ungrammatical,Hij begrijpt wat de klant denkt dat de monteur het probleem snel zal oplossen.,het probleem,wat
+11,Wh-Movement,48,filler_effect_no_gap,240,Grammatical,De lerares weet dat de leerlingen denken dat de school een nieuwe gymzaal zal bouwen.,een nieuwe gymzaal,dat
+11,Wh-Movement,48,filler_effect_no_gap,240,Ungrammatical,De lerares weet wat de leerlingen denken dat de school een nieuwe gymzaal zal bouwen.,een nieuwe gymzaal,wat
+11,Wh-Movement,48,filler_effect_no_gap,241,Grammatical,Zij begrijpt dat de vrienden denken dat de barman lekkere cocktails maakt.,lekkere cocktails,dat
+11,Wh-Movement,48,filler_effect_no_gap,241,Ungrammatical,Zij begrijpt wat de vrienden denken dat de barman lekkere cocktails maakt.,lekkere cocktails,wat
+11,Wh-Movement,48,filler_effect_no_gap,242,Grammatical,Hij weet dat zijn zus verwacht dat de bakker verse broodjes zal leveren.,verse broodjes,dat
+11,Wh-Movement,48,filler_effect_no_gap,242,Ungrammatical,Hij weet wat zijn zus verwacht dat de bakker verse broodjes zal leveren.,verse broodjes,wat
+11,Wh-Movement,48,filler_effect_no_gap,243,Grammatical,Zij weten dat de professor verwacht dat de studenten hun presentaties goed voorbereiden.,hun presentaties,dat
+11,Wh-Movement,48,filler_effect_no_gap,243,Ungrammatical,Zij weten wat de professor verwacht dat de studenten hun presentaties goed voorbereiden.,hun presentaties,wat
+11,Wh-Movement,48,filler_effect_no_gap,244,Grammatical,Hij begrijpt dat de vriendin denkt dat de schilderijen in het museum indrukwekkend zullen zijn.,indrukwekkend,dat
+11,Wh-Movement,48,filler_effect_no_gap,244,Ungrammatical,Hij begrijpt wat de vriendin denkt dat de schilderijen in het museum indrukwekkend zullen zijn.,indrukwekkend,wat
+11,Wh-Movement,48,filler_effect_no_gap,245,Grammatical,De dokter begrijpt dat de patiënt denkt dat de medicijnen de pijn zullen verlichten.,de pijn,dat
+11,Wh-Movement,48,filler_effect_no_gap,245,Ungrammatical,De dokter begrijpt wat de patiënt denkt dat de medicijnen de pijn zullen verlichten.,de pijn,wat
+11,Wh-Movement,48,filler_effect_no_gap,246,Grammatical,Zij weten dat de cliënt verwacht dat de advocaat een sterke zaak zal bouwen.,een sterke zaak,dat
+11,Wh-Movement,48,filler_effect_no_gap,246,Ungrammatical,Zij weten wat de cliënt verwacht dat de advocaat een sterke zaak zal bouwen.,een sterke zaak,wat
+11,Wh-Movement,48,filler_effect_no_gap,247,Grammatical,Hij begrijpt dat zijn vriend denkt dat de band een geweldig concert zal geven.,een geweldig concert,dat
+11,Wh-Movement,48,filler_effect_no_gap,247,Ungrammatical,Hij begrijpt wat zijn vriend denkt dat de band een geweldig concert zal geven.,een geweldig concert,wat
+11,Wh-Movement,48,filler_effect_no_gap,248,Grammatical,De chef begrijpt dat de gasten denken dat het restaurant heerlijk eten serveert.,heerlijk eten,dat
+11,Wh-Movement,48,filler_effect_no_gap,248,Ungrammatical,De chef begrijpt wat de gasten denken dat het restaurant heerlijk eten serveert.,heerlijk eten,wat
+11,Wh-Movement,48,filler_effect_no_gap,249,Grammatical,De studenten weten dat de professor verwacht dat de presentaties informatief zullen zijn.,informatief,dat
+11,Wh-Movement,48,filler_effect_no_gap,249,Ungrammatical,De studenten weten wat de professor verwacht dat de presentaties informatief zullen zijn.,informatief,wat
+11,Wh-Movement,48,filler_effect_no_gap,250,Grammatical,Zij begrijpt dat haar dochter denkt dat de leraar een interessante les zal geven.,een interessante les,dat
+11,Wh-Movement,48,filler_effect_no_gap,250,Ungrammatical,Zij begrijpt wat haar dochter denkt dat de leraar een interessante les zal geven.,een interessante les,wat
+11,Wh-Movement,48,filler_effect_no_gap,251,Grammatical,Wij weten dat de klant verwacht dat de verkoper deskundig advies zal geven.,deskundig advies,dat
+11,Wh-Movement,48,filler_effect_no_gap,251,Ungrammatical,Wij weten wat de klant verwacht dat de verkoper deskundig advies zal geven.,deskundig advies,wat
+11,Wh-Movement,48,filler_effect_no_gap,252,Grammatical,Zij weten dat de klant verwacht dat de ober de bestelling correct zal opnemen.,de bestelling,dat
+11,Wh-Movement,48,filler_effect_no_gap,252,Ungrammatical,Zij weten wat de klant verwacht dat de ober de bestelling correct zal opnemen.,de bestelling,wat
+11,Wh-Movement,48,filler_effect_no_gap,253,Grammatical,Zij begrijpt dat de klant denkt dat de verkoper eerlijk advies zal geven.,eerlijk advies,dat
+11,Wh-Movement,48,filler_effect_no_gap,253,Ungrammatical,Zij begrijpt wat de klant denkt dat de verkoper eerlijk advies zal geven.,eerlijk advies,wat
+11,Wh-Movement,48,filler_effect_no_gap,254,Grammatical,De chef weet dat de gasten verwachten dat het restaurant goede service biedt.,goede service,dat
+11,Wh-Movement,48,filler_effect_no_gap,254,Ungrammatical,De chef weet wat de gasten verwachten dat het restaurant goede service biedt.,goede service,wat
+11,Wh-Movement,48,filler_effect_no_gap,255,Grammatical,Hij weet dat de klant denkt dat de winkel betrouwbare producten verkoopt.,betrouwbare producten,dat
+11,Wh-Movement,48,filler_effect_no_gap,255,Ungrammatical,Hij weet wat de klant denkt dat de winkel betrouwbare producten verkoopt.,betrouwbare producten,wat
+11,Wh-Movement,48,filler_effect_no_gap,256,Grammatical,Zij realiseert zich dat de buurman geluidsoverlast veroorzaakt tijdens het weekend.,geluidsoverlast,dat
+11,Wh-Movement,48,filler_effect_no_gap,256,Ungrammatical,Zij realiseert zich wat de buurman geluidsoverlast veroorzaakt tijdens het weekend.,geluidsoverlast,wat
+11,Wh-Movement,48,filler_effect_no_gap,257,Grammatical,Karla denkt dat haar vriendin begrijpt dat ze haar hulp nodig heeft.,haar hulp,dat
+11,Wh-Movement,48,filler_effect_no_gap,257,Ungrammatical,Karla denkt wat haar vriendin begrijpt dat ze haar hulp nodig heeft.,haar hulp,wat
+11,Wh-Movement,48,filler_effect_no_gap,258,Grammatical,De manager begrijpt dat het team verwacht dat er verbeteringen worden doorgevoerd.,verbeteringen,dat
+11,Wh-Movement,48,filler_effect_no_gap,258,Ungrammatical,De manager begrijpt wat het team verwacht dat er verbeteringen worden doorgevoerd.,verbeteringen,wat
+11,Wh-Movement,48,filler_effect_no_gap,259,Grammatical,Maria denkt dat haar zus begrijpt dat ze haar excuses heeft aangeboden.,haar excuses,dat
+11,Wh-Movement,48,filler_effect_no_gap,259,Ungrammatical,Maria denkt wat haar zus begrijpt dat ze haar excuses heeft aangeboden.,haar excuses,wat
+11,Wh-Movement,48,filler_effect_no_gap,260,Grammatical,De chef-kok begrijpt dat de ober denkt dat de klant allergisch is voor noten.,allergisch,dat
+11,Wh-Movement,48,filler_effect_no_gap,260,Ungrammatical,De chef-kok begrijpt wat de ober denkt dat de klant allergisch is voor noten.,allergisch,wat
+11,Wh-Movement,48,filler_effect_no_gap,261,Grammatical,Alex begrijpt dat zijn zus verwacht dat hij de boodschappen doet na school.,de boodschappen,dat
+11,Wh-Movement,48,filler_effect_no_gap,261,Ungrammatical,Alex begrijpt wat zijn zus verwacht dat hij de boodschappen doet na school.,de boodschappen,wat
+11,Wh-Movement,48,filler_effect_no_gap,262,Grammatical,De wetenschapper realiseert zich dat de studenten verwachten dat er meer praktijklessen zijn.,meer praktijklessen,dat
+11,Wh-Movement,48,filler_effect_no_gap,262,Ungrammatical,De wetenschapper realiseert zich wat de studenten verwachten dat er meer praktijklessen zijn.,meer praktijklessen,wat
+11,Wh-Movement,48,filler_effect_no_gap,263,Grammatical,De manager begrijpt dat de medewerker verwacht dat er flexibele werktijden zijn.,flexibele werktijden,dat
+11,Wh-Movement,48,filler_effect_no_gap,263,Ungrammatical,De manager begrijpt wat de medewerker verwacht dat er flexibele werktijden zijn.,flexibele werktijden,wat
+11,Wh-Movement,48,filler_effect_no_gap,264,Grammatical,De manager realiseert zich dat het team verwacht dat er bonussen worden uitgereikt.,bonussen,dat
+11,Wh-Movement,48,filler_effect_no_gap,264,Ungrammatical,De manager realiseert zich wat het team verwacht dat er bonussen worden uitgereikt.,bonussen,wat
+11,Wh-Movement,48,filler_effect_no_gap,265,Grammatical,Het gezin begrijpt dat de buren verwachten dat ze de muziek zachter zetten.,de muziek,dat
+11,Wh-Movement,48,filler_effect_no_gap,265,Ungrammatical,Het gezin begrijpt wat de buren verwachten dat ze de muziek zachter zetten.,de muziek,wat
+11,Wh-Movement,48,filler_effect_no_gap,266,Grammatical,Tom realiseert zich dat zijn collega verwacht dat hij het rapport op tijd indient.,het rapport,dat
+11,Wh-Movement,48,filler_effect_no_gap,266,Ungrammatical,Tom realiseert zich wat zijn collega verwacht dat hij het rapport op tijd indient.,het rapport,wat
+11,Wh-Movement,48,filler_effect_no_gap,267,Grammatical,Het echtpaar weet dat de buurvrouw denkt dat hun tuin er prachtig uitziet.,prachtig,dat
+11,Wh-Movement,48,filler_effect_no_gap,267,Ungrammatical,Het echtpaar weet wat de buurvrouw denkt dat hun tuin er prachtig uitziet.,prachtig,wat
+11,Wh-Movement,48,filler_effect_no_gap,268,Grammatical,Maria begrijpt dat haar vriend denkt dat het restaurant een goede recensie verdient.,een goede recensie,dat
+11,Wh-Movement,48,filler_effect_no_gap,268,Ungrammatical,Maria begrijpt wat haar vriend denkt dat het restaurant een goede recensie verdient.,een goede recensie,wat
+11,Wh-Movement,48,filler_effect_no_gap,269,Grammatical,Het team weet dat de coach verwacht dat ze teamwork verbeteren tijdens de training.,teamwork,dat
+11,Wh-Movement,48,filler_effect_no_gap,269,Ungrammatical,Het team weet wat de coach verwacht dat ze teamwork verbeteren tijdens de training.,teamwork,wat
+11,Wh-Movement,48,filler_effect_no_gap,270,Grammatical,De onderzoeker weet dat de respondenten denken dat het onderzoek waardevolle inzichten biedt.,waardevolle inzichten,dat
+11,Wh-Movement,48,filler_effect_no_gap,270,Ungrammatical,De onderzoeker weet wat de respondenten denken dat het onderzoek waardevolle inzichten biedt.,waardevolle inzichten,wat
+11,Wh-Movement,48,filler_effect_no_gap,271,Grammatical,Het gezin weet dat de kinderen verwachten dat er pizza wordt gegeten vanavond.,pizza,dat
+11,Wh-Movement,48,filler_effect_no_gap,271,Ungrammatical,Het gezin weet wat de kinderen verwachten dat er pizza wordt gegeten vanavond.,pizza,wat
+11,Wh-Movement,48,filler_effect_no_gap,272,Grammatical,Lisa weet dat haar ouders verwachten dat ze haar kamer opruimt.,haar kamer,dat
+11,Wh-Movement,48,filler_effect_no_gap,272,Ungrammatical,Lisa weet wat haar ouders verwachten dat ze haar kamer opruimt.,haar kamer,wat
+11,Wh-Movement,48,filler_effect_no_gap,273,Grammatical,Het gezin weet dat de kinderen verwachten dat er een uitstapje wordt gepland.,een uitstapje,dat
+11,Wh-Movement,48,filler_effect_no_gap,273,Ungrammatical,Het gezin weet wat de kinderen verwachten dat er een uitstapje wordt gepland.,een uitstapje,wat
+11,Wh-Movement,48,filler_effect_no_gap,274,Grammatical,Het team weet dat de manager verwacht dat ze de deadlines halen.,de deadlines,dat
+11,Wh-Movement,48,filler_effect_no_gap,274,Ungrammatical,Het team weet wat de manager verwacht dat ze de deadlines halen.,de deadlines,wat
+11,Wh-Movement,48,filler_effect_no_gap,275,Grammatical,De klantenservice begrijpt dat de klanten verwachten dat er een 24/7-helpdesk is.,een 24/7-helpdesk,dat
+11,Wh-Movement,48,filler_effect_no_gap,275,Ungrammatical,De klantenservice begrijpt wat de klanten verwachten dat er een 24/7-helpdesk is.,een 24/7-helpdesk,wat
+11,Wh-Movement,48,filler_effect_no_gap,276,Grammatical,Het echtpaar begrijpt dat de buren verwachten dat ze de jaarlijkse buurtbarbecue organiseren.,de jaarlijkse buurtbarbecue,dat
+11,Wh-Movement,48,filler_effect_no_gap,276,Ungrammatical,Het echtpaar begrijpt wat de buren verwachten dat ze de jaarlijkse buurtbarbecue organiseren.,de jaarlijkse buurtbarbecue,wat
+11,Wh-Movement,48,filler_effect_no_gap,277,Grammatical,Laura begrijpt dat haar ouders verwachten dat ze haar studie serieus neemt.,haar studie,dat
+11,Wh-Movement,48,filler_effect_no_gap,277,Ungrammatical,Laura begrijpt wat haar ouders verwachten dat ze haar studie serieus neemt.,haar studie,wat
+11,Wh-Movement,48,filler_effect_no_gap,278,Grammatical,Het gezin weet dat de kinderen verwachten dat er een huisdier komt.,een huisdier,dat
+11,Wh-Movement,48,filler_effect_no_gap,278,Ungrammatical,Het gezin weet wat de kinderen verwachten dat er een huisdier komt.,een huisdier,wat
+11,Wh-Movement,48,filler_effect_no_gap,279,Grammatical,De kunstenaar begrijpt dat het publiek denkt dat het schilderij expressie uitdrukt.,expressie,dat
+11,Wh-Movement,48,filler_effect_no_gap,279,Ungrammatical,De kunstenaar begrijpt wat het publiek denkt dat het schilderij expressie uitdrukt.,expressie,wat
+11,Wh-Movement,48,filler_effect_no_gap,280,Grammatical,De klantenservicemedewerker begrijpt dat de klanten verwachten dat er een snelle oplossing komt.,een snelle oplossing,dat
+11,Wh-Movement,48,filler_effect_no_gap,280,Ungrammatical,De klantenservicemedewerker begrijpt wat de klanten verwachten dat er een snelle oplossing komt.,een snelle oplossing,wat
+11,Wh-Movement,48,filler_effect_no_gap,281,Grammatical,Hij weet dat de lerares denkt dat de student het experiment begrijpt in het laboratorium.,het experiment,dat
+11,Wh-Movement,48,filler_effect_no_gap,281,Ungrammatical,Hij weet wat de lerares denkt dat de student het experiment begrijpt in het laboratorium.,het experiment,wat
+11,Wh-Movement,48,filler_effect_no_gap,282,Grammatical,Sarah begrijpt dat haar broer verwacht dat de chef-kok een nieuw gerecht introduceert in het restaurant.,een nieuw gerecht,dat
+11,Wh-Movement,48,filler_effect_no_gap,282,Ungrammatical,Sarah begrijpt wat haar broer verwacht dat de chef-kok een nieuw gerecht introduceert in het restaurant.,een nieuw gerecht,wat
+11,Wh-Movement,48,filler_effect_no_gap,283,Grammatical,Hij begrijpt dat de coach verwacht dat het team een goede prestatie levert tijdens de wedstrijd.,een goede prestatie,dat
+11,Wh-Movement,48,filler_effect_no_gap,283,Ungrammatical,Hij begrijpt wat de coach verwacht dat het team een goede prestatie levert tijdens de wedstrijd.,een goede prestatie,wat
+11,Wh-Movement,48,filler_effect_no_gap,284,Grammatical,Maria weet dat haar vriendin denkt dat de dokter advies geeft over een gezonde levensstijl.,advies,dat
+11,Wh-Movement,48,filler_effect_no_gap,284,Ungrammatical,Maria weet wat haar vriendin denkt dat de dokter advies geeft over een gezonde levensstijl.,advies,wat
+11,Wh-Movement,48,filler_effect_no_gap,285,Grammatical,Lisa begrijpt dat haar vriend verwacht dat de chef een speciaal gerecht bereidt voor hun jubileum.,een speciaal gerecht,dat
+11,Wh-Movement,48,filler_effect_no_gap,285,Ungrammatical,Lisa begrijpt wat haar vriend verwacht dat de chef een speciaal gerecht bereidt voor hun jubileum.,een speciaal gerecht,wat
+11,Wh-Movement,48,filler_effect_no_gap,286,Grammatical,De ingenieur weet dat de baas denkt dat het project op schema ligt.,op schema,dat
+11,Wh-Movement,48,filler_effect_no_gap,286,Ungrammatical,De ingenieur weet wat de baas denkt dat het project op schema ligt.,op schema,wat
+11,Wh-Movement,48,filler_effect_no_gap,287,Grammatical,Zij begrijpt dat de buurvrouw verwacht dat de hovenier de tuin opknapt voor de zomer.,de tuin,dat
+11,Wh-Movement,48,filler_effect_no_gap,287,Ungrammatical,Zij begrijpt wat de buurvrouw verwacht dat de hovenier de tuin opknapt voor de zomer.,de tuin,wat
+11,Wh-Movement,48,filler_effect_no_gap,288,Grammatical,Anna begrijpt dat haar vriend verwacht dat de ober de specialiteit van het restaurant aanbeveelt.,de specialiteit,dat
+11,Wh-Movement,48,filler_effect_no_gap,288,Ungrammatical,Anna begrijpt wat haar vriend verwacht dat de ober de specialiteit van het restaurant aanbeveelt.,de specialiteit,wat
+11,Wh-Movement,48,filler_effect_no_gap,289,Grammatical,Hij begrijpt dat zijn vader verwacht dat de loodgieter de lekkage repareert in de badkamer.,de lekkage,dat
+11,Wh-Movement,48,filler_effect_no_gap,289,Ungrammatical,Hij begrijpt wat zijn vader verwacht dat de loodgieter de lekkage repareert in de badkamer.,de lekkage,wat
+11,Wh-Movement,48,filler_effect_no_gap,290,Grammatical,Zij weten dat de trainer denkt dat de atleten hun prestaties zullen verbeteren met intensieve training.,hun prestaties,dat
+11,Wh-Movement,48,filler_effect_no_gap,290,Ungrammatical,Zij weten wat de trainer denkt dat de atleten hun prestaties zullen verbeteren met intensieve training.,hun prestaties,wat
+11,Wh-Movement,48,filler_effect_no_gap,291,Grammatical,Maria weet dat haar vriend denkt dat de chef-kok de smaken perfect balanceert in het gerecht.,de smaken,dat
+11,Wh-Movement,48,filler_effect_no_gap,291,Ungrammatical,Maria weet wat haar vriend denkt dat de chef-kok de smaken perfect balanceert in het gerecht.,de smaken,wat
+11,Wh-Movement,48,filler_effect_no_gap,292,Grammatical,Hij weet dat de buurman denkt dat de aannemer het huis renoveert volgens de specificaties.,het huis,dat
+11,Wh-Movement,48,filler_effect_no_gap,292,Ungrammatical,Hij weet wat de buurman denkt dat de aannemer het huis renoveert volgens de specificaties.,het huis,wat
+11,Wh-Movement,48,filler_effect_no_gap,293,Grammatical,Laura begrijpt dat haar zus denkt dat de kunstenaar zijn inspiratie uit de natuur haalt.,zijn inspiratie,dat
+11,Wh-Movement,48,filler_effect_no_gap,293,Ungrammatical,Laura begrijpt wat haar zus denkt dat de kunstenaar zijn inspiratie uit de natuur haalt.,zijn inspiratie,wat
+11,Wh-Movement,48,filler_effect_no_gap,294,Grammatical,Hij begrijpt dat zijn vriendin verwacht dat de ober de wijn adviseert bij het diner.,de wijn,dat
+11,Wh-Movement,48,filler_effect_no_gap,294,Ungrammatical,Hij begrijpt wat zijn vriendin verwacht dat de ober de wijn adviseert bij het diner.,de wijn,wat
+11,Wh-Movement,48,filler_effect_no_gap,295,Grammatical,Marianne begrijpt dat haar broer verwacht dat de fotograaf de perfecte foto maakt op de bruiloft.,de perfecte foto,dat
+11,Wh-Movement,48,filler_effect_no_gap,295,Ungrammatical,Marianne begrijpt wat haar broer verwacht dat de fotograaf de perfecte foto maakt op de bruiloft.,de perfecte foto,wat
+11,Wh-Movement,48,filler_effect_no_gap,296,Grammatical,Hij begrijpt dat de coach verwacht dat het team discipline toont tijdens de training.,discipline,dat
+11,Wh-Movement,48,filler_effect_no_gap,296,Ungrammatical,Hij begrijpt wat de coach verwacht dat het team discipline toont tijdens de training.,discipline,wat
+11,Wh-Movement,48,filler_effect_no_gap,297,Grammatical,Hij weet dat de buurvrouw denkt dat de tuinman de bloemen wekelijks moet verzorgen.,de bloemen,dat
+11,Wh-Movement,48,filler_effect_no_gap,297,Ungrammatical,Hij weet wat de buurvrouw denkt dat de tuinman de bloemen wekelijks moet verzorgen.,de bloemen,wat
+11,Wh-Movement,48,filler_effect_no_gap,298,Grammatical,Sarah weet dat haar vriend denkt dat de kok de ingrediënten zorgvuldig selecteert.,de ingrediënten,dat
+11,Wh-Movement,48,filler_effect_no_gap,298,Ungrammatical,Sarah weet wat haar vriend denkt dat de kok de ingrediënten zorgvuldig selecteert.,de ingrediënten,wat
+11,Wh-Movement,48,filler_effect_no_gap,299,Grammatical,Hij begrijpt dat zijn zus verwacht dat de stylist een trendy outfit samenstelt.,een trendy outfit,dat
+11,Wh-Movement,48,filler_effect_no_gap,299,Ungrammatical,Hij begrijpt wat zijn zus verwacht dat de stylist een trendy outfit samenstelt.,een trendy outfit,wat
+11,Wh-Movement,48,filler_effect_no_gap,300,Grammatical,Anna begrijpt dat haar broer verwacht dat de leraar duidelijke instructies geeft.,duidelijke instructies,dat
+11,Wh-Movement,48,filler_effect_no_gap,300,Ungrammatical,Anna begrijpt wat haar broer verwacht dat de leraar duidelijke instructies geeft.,duidelijke instructies,wat
+11,Wh-Movement,49,hierarchy,301,Grammatical,Het feit dat mijn broer zei wie zijn vriend had verrast op het feest verbaasde mijn dochter afgelopen zaterdagmiddag.,verrast,
+11,Wh-Movement,49,hierarchy,301,Ungrammatical,Het feit dat mijn broer zei wie zijn vriend onze oom had verrast op het feest verbaasde mijn dochter afgelopen zaterdagmiddag.,verrast,
+11,Wh-Movement,49,hierarchy,302,Grammatical,Het feit dat de manager weet wie de acteur had vermaakt met een grap verraste mijn vriend vorig jaar.,vermaakt,
+11,Wh-Movement,49,hierarchy,302,Ungrammatical,Het feit dat de manager weet wie de acteur de dame had vermaakt met een grap verraste mijn vriend vorig jaar.,vermaakt,
+11,Wh-Movement,49,hierarchy,303,Grammatical,Het feit dat onze oma zei wie mijn oom had verheugd met een cadeau vermaakte de familie met kerst.,verheugd,
+11,Wh-Movement,49,hierarchy,303,Ungrammatical,Het feit dat onze oma zei wie mijn oom mijn dochter had verheugd met een cadeau vermaakte de familie met kerst.,verheugd,
+11,Wh-Movement,49,hierarchy,304,Grammatical,Het feit dat de receptioniste zei wie de professor had verward met zijn uitleg ergerde de commissie vrijwel meteen.,verward,
+11,Wh-Movement,49,hierarchy,304,Ungrammatical,Het feit dat de receptioniste zei wie de professor de studenten had verward met zijn uitleg ergerde de commissie vrijwel meteen.,verward,
+11,Wh-Movement,49,hierarchy,305,Grammatical,Het feit dat de vader zag wie de baby had geërgerd met hard krijsen verontrustte de moeder afgelopen nacht.,geërgerd,
+11,Wh-Movement,49,hierarchy,305,Ungrammatical,Het feit dat de vader zag wie de baby de oppas had geërgerd met hard krijsen verontrusttede moeder afgelopen nacht.,geërgerd,
+11,Wh-Movement,49,hierarchy,306,Grammatical,Het feit dat de politie weet wie de inbreker had verontrust met zijn pistool verwarde de ouders vorige week.,verontrust,
+11,Wh-Movement,49,hierarchy,306,Ungrammatical,Het feit dat de politie weet wie de inbreker de kinderen had verontrust met zijn pistool verwarde de ouders vorige week.,verontrust,
+11,Wh-Movement,49,hierarchy,307,Grammatical,Het feit dat de assistente wist wie het nieuws had verbaasd na de gebeurtenissen verheugde de psycholoog afgelopen weekend.,verbaasd,
+11,Wh-Movement,49,hierarchy,307,Ungrammatical,Het feit dat de assistente wist wie het nieuws de vrouw had verbaasd na de gebeurtenissen verheugde de psycholoog afgelopen weekend.,verbaasd,
+11,Wh-Movement,49,hierarchy,308,Grammatical,Het feit dat de barman zag wie de goochelaar had verwonderd met zijn trucs verbaasde de ober afgelopen vrijdag.,verwonderd,
+11,Wh-Movement,49,hierarchy,308,Ungrammatical,Het feit dat de barman zag wie de goochelaar het publiek had verwonderd met zijn trucs verbaasde de ober afgelopen vrijdag.,verwonderd,
+11,Wh-Movement,49,hierarchy,309,Grammatical,Het feit dat de buren vertelden wie de agent had ontroerd met zijn speech verwonderde de ouderen afgelopen middag.,ontroerd,
+11,Wh-Movement,49,hierarchy,309,Ungrammatical,Het feit dat de buren vertelden wie de agent de jongeren had ontroerd met zijn speech verwonderde de ouderen afgelopen middag.,ontroerd,
+11,Wh-Movement,49,hierarchy,310,Grammatical,Het feit dat de officier wist wie de woorden had geïnspireerd voor de strijd ontroerde de generaal in oorlogsgebied.,geïnspireerd,
+11,Wh-Movement,49,hierarchy,310,Ungrammatical,Het feit dat de officier wist wie de woorden de soldaten had geïnspireerd voor de strijd ontroerde de generaal in oorlogsgebied.,geïnspireerd,
+11,Wh-Movement,49,hierarchy,311,Grammatical,Het feit dat mijn buurvrouw vertelde wie de kat had gevoerd met lekkere visjes verraste mijn zoontje gisteravond.,gevoerd,
+11,Wh-Movement,49,hierarchy,311,Ungrammatical,Het feit dat mijn buurvrouw vertelde wie de kat de hond had gevoerd met lekkere visjes verraste mijn zoontje gisteravond.,gevoerd,
+11,Wh-Movement,49,hierarchy,312,Grammatical,Het feit dat de lerares wist wie de leerling had geholpen met de moeilijke opdracht verbaasde de klas vanmorgen.,geholpen,
+11,Wh-Movement,49,hierarchy,312,Ungrammatical,Het feit dat de lerares wist wie de leerling de docent had geholpen met de moeilijke opdracht verbaasde de klas vanmorgen.,geholpen,
+11,Wh-Movement,49,hierarchy,313,Grammatical,Het feit dat de ober zag wie de chef had bedankt voor het heerlijke diner verheugde de klanten vorige maand.,bedankt,
+11,Wh-Movement,49,hierarchy,313,Ungrammatical,Het feit dat de ober zag wie de chef de klanten had bedankt voor het heerlijke diner verheugde de klanten vorige maand.,bedankt,
+11,Wh-Movement,49,hierarchy,314,Grammatical,Het feit dat mijn vriendin wist wie de kunstenaar had geïnspireerd voor het prachtige schilderij ontroerde mij diep.,geïnspireerd,
+11,Wh-Movement,49,hierarchy,314,Ungrammatical,Het feit dat mijn vriendin wist wie de kunstenaar het publiek had geïnspireerd voor het prachtige schilderij ontroerde mij diep.,geïnspireerd,
+11,Wh-Movement,49,hierarchy,315,Grammatical,Het feit dat de bakker zag wie de kinderen had getrakteerd op heerlijke koekjes verwonderde de ouders gisteren.,getrakteerd,
+11,Wh-Movement,49,hierarchy,315,Ungrammatical,Het feit dat de bakker zag wie de kinderen de buurt had getrakteerd op heerlijke koekjes verwonderde de ouders gisteren.,getrakteerd,
+11,Wh-Movement,49,hierarchy,316,Grammatical,Het feit dat mijn broer vertelde wie de hond had verrast met een nieuw speeltje verontrustte mijn moeder afgelopen middag.,verrast,
+11,Wh-Movement,49,hierarchy,316,Ungrammatical,Het feit dat mijn broer vertelde wie de hond mijn kat had verrast met een nieuw speeltje verontrustte mijn moeder afgelopen middag.,verrast,
+11,Wh-Movement,49,hierarchy,317,Grammatical,Het feit dat de docent wist wie de klas had geïnspireerd met een inspirerende lezing verbaasde de studenten vorige week.,geïnspireerd,
+11,Wh-Movement,49,hierarchy,317,Ungrammatical,Het feit dat de docent wist wie de klas de spreker had geïnspireerd met een inspirerende lezing verbaasde de studenten vorige week.,geïnspireerd,
+11,Wh-Movement,49,hierarchy,318,Grammatical,Het feit dat de burgemeester zag wie de stad had ontroerd met een prachtig concert verheugde de inwoners gisteravond.,ontroerd,
+11,Wh-Movement,49,hierarchy,318,Ungrammatical,Het feit dat de burgemeester zag wie de stad het publiek had ontroerd met een prachtig concert verheugde de inwoners gisteravond.,ontroerd,
+11,Wh-Movement,49,hierarchy,319,Grammatical,Het feit dat mijn zus vertelde wie de baby had vermaakt met grappige geluiden verwonderde de hele familie gisteren.,vermaakt,
+11,Wh-Movement,49,hierarchy,319,Ungrammatical,Het feit dat mijn zus vertelde wie de baby het publiek had vermaakt met grappige geluiden verwonderde de hele familie gisteren.,vermaakt,
+11,Wh-Movement,49,hierarchy,320,Grammatical,Het feit dat de ober wist wie de kok had bedankt voor het heerlijke diner verontrustte de klanten vorige maand.,bedankt,
+11,Wh-Movement,49,hierarchy,320,Ungrammatical,Het feit dat de ober wist wie de kok de klanten had bedankt voor het heerlijke diner verontrustte de klanten vorige maand.,bedankt,
+11,Wh-Movement,49,hierarchy,321,Grammatical,Het feit dat mijn vriendin vertelde wie de buurman had geholpen met het repareren van de auto irriteerde mijn broer vorige week.,geholpen,
+11,Wh-Movement,49,hierarchy,321,Ungrammatical,Het feit dat mijn vriendin vertelde wie de buurman de buurvrouw had geholpen met het repareren van de auto irriteerde mijn broer vorige week.,geholpen,
+11,Wh-Movement,49,hierarchy,322,Grammatical,Het feit dat de leraar zag wie de leerling had aangemoedigd tijdens de sportwedstrijd verbaasde de hele school gistermiddag.,aangemoedigd,
+11,Wh-Movement,49,hierarchy,322,Ungrammatical,Het feit dat de leraar zag wie de leerling het publiek had aangemoedigd tijdens de sportwedstrijd verbaasde de hele school gistermiddag.,aangemoedigd,
+11,Wh-Movement,49,hierarchy,323,Grammatical,Het feit dat de dokter wist wie de patiënt had gerustgesteld met vriendelijke woorden ontroerde de verpleegsters vanmorgen.,gerustgesteld,
+11,Wh-Movement,49,hierarchy,323,Ungrammatical,Het feit dat de dokter wist wie de patiënt de bezoekers had gerustgesteld met vriendelijke woorden ontroerde de verpleegsters vanmorgen.,gerustgesteld,
+11,Wh-Movement,49,hierarchy,324,Grammatical,Het feit dat mijn buurman vertelde wie de postbode had bedankt voor het pakketje verontrustte de buurtbewoners afgelopen donderdag.,bedankt,
+11,Wh-Movement,49,hierarchy,324,Ungrammatical,Het feit dat mijn buurman vertelde wie de postbode de buren had bedankt voor het pakketje verontrustte de buurtbewoners afgelopen donderdag.,bedankt,
+11,Wh-Movement,49,hierarchy,325,Grammatical,Het feit dat de chef zag wie de kok had geïnspireerd voor het nieuwe recept verwonderde de hele keukenbrigade gisteravond.,geïnspireerd,
+11,Wh-Movement,49,hierarchy,325,Ungrammatical,Het feit dat de chef zag wie de kok het personeel had geïnspireerd voor het nieuwe recept verwonderde de hele keukenbrigade gisteravond.,geïnspireerd,
+11,Wh-Movement,49,hierarchy,326,Grammatical,Het feit dat mijn vriend vertelde wie de gids had bedankt voor de interessante rondleiding verbaasde mijn ouders vanmiddag.,bedankt,
+11,Wh-Movement,49,hierarchy,326,Ungrammatical,Het feit dat mijn vriend vertelde wie de gids de toeristen had bedankt voor de interessante rondleiding verbaasde mijn ouders vanmiddag.,bedankt,
+11,Wh-Movement,49,hierarchy,327,Grammatical,Het feit dat de trainer zag wie de speler had aangemoedigd tijdens de wedstrijd ontroerde het hele team vorige maand.,aangemoedigd,
+11,Wh-Movement,49,hierarchy,327,Ungrammatical,Het feit dat de trainer zag wie de speler het publiek had aangemoedigd tijdens de wedstrijd ontroerde het hele team vorige maand.,aangemoedigd,
+11,Wh-Movement,49,hierarchy,328,Grammatical,Het feit dat de bibliothecaris wist wie de schrijver had bedankt voor het signeren van het boek verontrustte de lezers gisteren.,bedankt,
+11,Wh-Movement,49,hierarchy,328,Ungrammatical,Het feit dat de bibliothecaris wist wie de schrijver de bezoekers had bedankt voor het signeren van het boek verontrustte de lezers gisteren.,bedankt,
+11,Wh-Movement,49,hierarchy,329,Grammatical,Het feit dat mijn collega vertelde wie de manager had verrast met een origineel cadeau verwonderde de hele afdeling vanmorgen.,verrast,
+11,Wh-Movement,49,hierarchy,329,Ungrammatical,Het feit dat mijn collega vertelde wie de manager de medewerkers had verrast met een origineel cadeau verwonderde de hele afdeling vanmorgen.,verrast,
+11,Wh-Movement,49,hierarchy,330,Grammatical,Het feit dat de conducteur zag wie de passagier had geholpen met het vinden van een zitplaats vrolijkte de treinreizigers op vanmiddag.,geholpen,
+11,Wh-Movement,49,hierarchy,330,Ungrammatical,Het feit dat de conducteur zag wie de passagier de reizigers had geholpen met het vinden van een zitplaats vrolijkte de treinreizigers op vanmiddag.,geholpen,
+11,Wh-Movement,49,hierarchy,331,Grammatical,Het feit dat mijn zus vertelde wie de kunstenaar had geïnspireerd voor het prachtige kunstwerk verbaasde mijn vrienden gisteravond.,geïnspireerd,
+11,Wh-Movement,49,hierarchy,331,Ungrammatical,Het feit dat mijn zus vertelde wie de kunstenaar het publiek had geïnspireerd voor het prachtige kunstwerk verbaasde mijn vrienden gisteravond.,geïnspireerd,
+11,Wh-Movement,49,hierarchy,332,Grammatical,Het feit dat de ober zag wie de klant had bedankt voor de uitstekende service verontrustte de restauranteigenaar vanmiddag.,bedankt,
+11,Wh-Movement,49,hierarchy,332,Ungrammatical,Het feit dat de ober zag wie de klant de obers had bedankt voor de uitstekende service verontrustte de restauranteigenaar vanmiddag.,bedankt,
+11,Wh-Movement,49,hierarchy,333,Grammatical,Het feit dat mijn vriendin vertelde wie de zanger had aangemoedigd tijdens het concert ontroerde het hele publiek gisteren.,aangemoedigd,
+11,Wh-Movement,49,hierarchy,333,Ungrammatical,Het feit dat mijn vriendin vertelde wie de zanger het publiek had aangemoedigd tijdens het concert ontroerde het hele publiek gisteren.,aangemoedigd,
+11,Wh-Movement,49,hierarchy,334,Grammatical,Het feit dat de receptioniste zag wie de gast had verrast met een speciale attentie verwonderde de hotelgasten gisteravond.,verrast,
+11,Wh-Movement,49,hierarchy,334,Ungrammatical,Het feit dat de receptioniste zag wie de gast het personeel had verrast met een speciale attentie verwonderde de hotelgasten gisteravond.,verrast,
+11,Wh-Movement,49,hierarchy,335,Grammatical,Het feit dat mijn broer vertelde wie de leraar had bedankt voor de inspirerende les verbaasde mijn klasgenoten vanmorgen.,bedankt,
+11,Wh-Movement,49,hierarchy,335,Ungrammatical,Het feit dat mijn broer vertelde wie de leraar de leerlingen had bedankt voor de inspirerende les verbaasde mijn klasgenoten vanmorgen.,bedankt,
+11,Wh-Movement,49,hierarchy,336,Grammatical,Het feit dat mijn vriendin onthulde wie de kunstenaar had geïnformeerd over de nieuwe technieken betoverde mijn vrienden gisteravond.,geïnformeerd,
+11,Wh-Movement,49,hierarchy,336,Ungrammatical,Het feit dat mijn vriendin onthulde wie de kunstenaar de massa had geïnformeerd over de nieuwe technieken betoverde mijn vrienden gisteravond.,geïnformeerd,
+11,Wh-Movement,49,hierarchy,337,Grammatical,Het feit dat de gids zag wie de toerist had geïntrigeerd met boeiende verhalen verbaasde de hele groep toeristen vorige week.,geïntrigeerd,
+11,Wh-Movement,49,hierarchy,337,Ungrammatical,Het feit dat de gids zag wie de toerist de man had geïntrigeerd met boeiende verhalen verbaasde de hele groep toeristen vorige week.,geïntrigeerd,
+11,Wh-Movement,49,hierarchy,338,Grammatical,Het feit dat de coach zag wie de atleet had aangespoord tijdens de wedstrijd verontrustte het hele sportteam vorige maand.,aangespoord,
+11,Wh-Movement,49,hierarchy,338,Ungrammatical,Het feit dat de coach zag wie de atleet de boswachter had aangespoord tijdens de wedstrijd verontrustte het hele sportteam vorige maand.,aangespoord,
+11,Wh-Movement,49,hierarchy,339,Grammatical,Het feit dat mijn vriend vertelde wie de muzikant had geïrriteerd met valse noten verwonderde het publiek gisteravond.,geïrriteerd,
+11,Wh-Movement,49,hierarchy,339,Ungrammatical,Het feit dat mijn vriend vertelde wie de muzikant de dirigent had geïrriteerd met valse noten verwonderde het publiek gisteravond.,geïrriteerd,
+11,Wh-Movement,49,hierarchy,340,Grammatical,Het feit dat de lerares zag wie de leerling had geprezen voor haar harde werk ontroerde de hele klas vanmorgen.,geprezen,
+11,Wh-Movement,49,hierarchy,340,Ungrammatical,Het feit dat de lerares zag wie de leerling de klasgenoten had geprezen voor haar harde werk ontroerde de hele klas vanmorgen.,geprezen,
+11,Wh-Movement,49,hierarchy,341,Grammatical,Het feit dat mijn buurman vertelde wie de hond had geïntimideerd tijdens de wandeling verbaasde mijn zus gistermiddag.,geïntimideerd,
+11,Wh-Movement,49,hierarchy,341,Ungrammatical,Het feit dat mijn buurman vertelde wie de hond de voorbijgangers had geïntimideerd tijdens de wandeling verbaasde mijn zus gistermiddag.,geïntimideerd,
+11,Wh-Movement,49,hierarchy,342,Grammatical,Het feit dat de presentator zag wie de artiest had gefascineerd met haar optreden verraste de hele zaal gisteravond.,gefascineerd,
+11,Wh-Movement,49,hierarchy,342,Ungrammatical,Het feit dat de presentator zag wie de artiest het publiek had gefascineerd met haar optreden verraste de hele zaal gisteravond.,gefascineerd,
+11,Wh-Movement,49,hierarchy,343,Grammatical,Het feit dat mijn vriendin vertelde welke bloem de tuinier had betoverd met haar kleurenpracht verwonderde mijn buren gistermiddag.,betoverd,
+11,Wh-Movement,49,hierarchy,343,Ungrammatical,Het feit dat mijn vriendin vertelde welke bloem de tuinier de toeschouwers had betoverd met haar kleurenpracht verwonderde mijn buren gistermiddag.,betoverd,
+11,Wh-Movement,49,hierarchy,344,Grammatical,Het feit dat de natuurgids zag welke vogel de fotograaf had geobserveerd met zijn telescoop verontrustte de hele excursiegroep vorige week.,geobserveerd,
+11,Wh-Movement,49,hierarchy,344,Ungrammatical,Het feit dat de natuurgids zag welke vogel de fotograaf de collega's had geobserveerd met zijn telescoop verontrustte de hele excursiegroep vorige week.,geobserveerd,
+11,Wh-Movement,49,hierarchy,345,Grammatical,Het feit dat mijn vriend vertelde welke plant de bioloog had bestudeerd voor zijn onderzoek ontroerde de hele wetenschapsgemeenschap vanmorgen.,bestudeerd,
+11,Wh-Movement,49,hierarchy,345,Ungrammatical,Het feit dat mijn vriend vertelde welke plant de bioloog de fotograaf had bestudeerd voor zijn onderzoek ontroerde de hele wetenschapsgemeenschap vanmorgen.,bestudeerd,
+11,Wh-Movement,49,hierarchy,346,Grammatical,Het feit dat de ranger zag welke dieren de bezoeker had geïntrigeerd met hun gedrag verraste de hele groep safari liefhebbers gistermiddag.,geïntrigeerd,
+11,Wh-Movement,49,hierarchy,346,Ungrammatical,Het feit dat de ranger zag welke dieren de bezoeker de leeuwen had geïntrigeerd met hun gedrag verraste de hele groep safari liefhebbers gistermiddag.,geïntrigeerd,
+11,Wh-Movement,49,hierarchy,347,Grammatical,Het feit dat mijn zus vertelde welk boek de schrijver had geschreven voor de literatuurprijs prikkelde mijn nieuwsgierigheid vorige maand.,geschreven,
+11,Wh-Movement,49,hierarchy,347,Ungrammatical,Het feit dat mijn zus vertelde welk boek de schrijver de lezers had geschreven voor de literatuurprijs prikkelde mijn nieuwsgierigheid vorige maand.,geschreven,
+11,Wh-Movement,49,hierarchy,348,Grammatical,Het feit dat de trainer zag welke techniek de turnster had beheerst tijdens de oefening motiveerde het hele turnteam gistermiddag.,beheerst,
+11,Wh-Movement,49,hierarchy,348,Ungrammatical,Het feit dat de trainer zag welke techniek de turnster de jury had beheerst tijdens de oefening motiveerde het hele turnteam gistermiddag.,beheerst,
+11,Wh-Movement,49,hierarchy,349,Grammatical,Het feit dat mijn buurman vertelde welk instrument de muzikant had bespeeld op het podium betoverde het publiek vorige week.,bespeeld,
+11,Wh-Movement,49,hierarchy,349,Ungrammatical,Het feit dat mijn buurman vertelde welk instrument de muzikant de toeschouwers had bespeeld op het podium betoverde het publiek vorige week.,bespeeld,
+11,Wh-Movement,49,hierarchy,350,Grammatical,Het feit dat mijn vriendin vertelde welk verhaal de auteur had geschreven voor de literaire prijs intrigeerde mijn leesclub gisteravond.,geschreven,
+11,Wh-Movement,49,hierarchy,350,Ungrammatical,Het feit dat mijn vriendin vertelde welk verhaal de auteur de recensenten had geschreven voor de literaire prijs intrigeerde mijn leesclub gisteravond.,geschreven,
+11,Wh-Movement,49,hierarchy,351,Grammatical,Het feit dat mijn vriend vertelde welk recept de chef-kok had bedacht voor het nieuwe gerecht fascineerde mijn culinaire vrienden gistermiddag.,bedacht,
+11,Wh-Movement,49,hierarchy,351,Ungrammatical,Het feit dat mijn vriend vertelde welk recept de chef-kok de gasten had bedacht voor het nieuwe gerecht fascineerde mijn culinaire vrienden gistermiddag.,bedacht,
+11,Wh-Movement,49,hierarchy,352,Grammatical,Het feit dat de ingenieur zag wie de aannemer had geadviseerd over de fundering intrigeerde het hele bouwteam gistermiddag.,geadviseerd,
+11,Wh-Movement,49,hierarchy,352,Ungrammatical,Het feit dat de ingenieur zag wie de aannemer het personeel had geadviseerd over de fundering intrigeerde het hele bouwteam gistermiddag.,geadviseerd,
+11,Wh-Movement,49,hierarchy,353,Grammatical,Het feit dat mijn vader ontdekte wie de architect had geassisteerd bij het ontwerp fascineerde mijn familie vanmorgen.,geassisteerd,
+11,Wh-Movement,49,hierarchy,353,Ungrammatical,Het feit dat mijn vader ontdekte wie de architect de timmerman had geassisteerd bij het ontwerp fascineerde mijn familie vanmorgen.,geassisteerd,
+11,Wh-Movement,49,hierarchy,354,Grammatical,Het feit dat mijn oom ontdekte wie de metselaar had begeleid bij het leggen van de stenen deed de hele bouwploeg gistermiddag juichen.,begeleid,
+11,Wh-Movement,49,hierarchy,354,Ungrammatical,Het feit dat mijn oom ontdekte wie de metselaar het bouwbedrijf had begeleid bij het leggen van de stenen deed de hele bouwploeg gistermiddag juichen.,begeleid,
+11,Wh-Movement,49,hierarchy,355,Grammatical,Het feit dat Klaas ontdekte welk gerecht Piet had aanbevolen aan de chef-kok verbijsterde de hele keukenbrigade vanmorgen.,aanbevolen,
+11,Wh-Movement,49,hierarchy,355,Ungrammatical,Het feit dat Klaas ontdekte welk gerecht Piet de gasten had aanbevolen aan de chef-kok verbijsterde de hele keukenbrigade vanmorgen.,aanbevolen,
+11,Wh-Movement,49,hierarchy,356,Grammatical,Het feit dat Fien zag welke ingrediënten Jan had toegevoegd aan de salade verrukte de hele eetclub gisteravond.,toegevoegd,
+11,Wh-Movement,49,hierarchy,356,Ungrammatical,Het feit dat Fien zag welke ingrediënten Jan de gasten had toegevoegd aan de salade verrukte de hele eetclub gisteravond.,toegevoegd,
+11,Wh-Movement,49,hierarchy,357,Grammatical,Het feit dat mijn buurvrouw vertelde wie de loodgieter had geïnstrueerd over de lekkage overrompelde mijn man vanmorgen.,geïnstrueerd,
+11,Wh-Movement,49,hierarchy,357,Ungrammatical,Het feit dat mijn buurvrouw vertelde wie de loodgieter het publiek had geïnstrueerd over de lekkage overrompelde mijn man vanmorgen.,geïnstrueerd,
+11,Wh-Movement,49,hierarchy,358,Grammatical,Het feit dat mijn tante vertelde welke schilderijen de kunstenaar had betoverd met zijn techniek verblijdde mijn neefjes vanmiddag.,betoverd,
+11,Wh-Movement,49,hierarchy,358,Ungrammatical,Het feit dat mijn tante vertelde welke schilderijen de kunstenaar het publiek had betoverd met zijn techniek verblijdde mijn neefjes vanmiddag.,betoverd,
+11,Wh-Movement,49,hierarchy,359,Grammatical,Het feit dat de agronoom zag wie de tuinman had aangespoord tijdens het plantseizoen verwarde het hele plantagepersoneel vorige maand.,aangespoord,
+11,Wh-Movement,49,hierarchy,359,Ungrammatical,Het feit dat de agronoom zag wie de tuinman de teeler had aangespoord tijdens het plantseizoen verwarde het hele plantagepersoneel vorige maand.,aangespoord,
+11,Wh-Movement,49,hierarchy,360,Grammatical,Het feit dat Peter vertelde wie de fruitteler had bedankt voor de overvloedige oogst verstomde Klara vanmorgen.,bedankt,
+11,Wh-Movement,49,hierarchy,360,Ungrammatical,Het feit dat Peter vertelde wie de fruitteler de bomen had bedankt voor de overvloedige oogst verstomde Klara vanmorgen.,bedankt,
+11,Wh-Movement,49,hierarchy,361,Grammatical,Het feit dat Putin onthulde wie de fruitkweker had geïnspireerd met zijn innovatieve snoeitechnieken ontzette Ferdinant gisteravond.,geïnspireerd,
+11,Wh-Movement,49,hierarchy,361,Ungrammatical,Het feit dat Putin onthulde wie de fruitkweker de menigte had geïnspireerd met zijn innovatieve snoeitechnieken ontzette Ferdinant gisteravond.,geïnspireerd,
+11,Wh-Movement,49,hierarchy,362,Grammatical,Het feit dat de agronoom zag wie de tuinman had aangespoord tijdens het plantseizoen deed het hele plantagepersoneel vorige maand versteld staan.,aangespoord,
+11,Wh-Movement,49,hierarchy,362,Ungrammatical,Het feit dat de agronoom zag wie de tuinman Fred had aangespoord tijdens het plantseizoen deed het hele plantagepersoneel vorige maand versteld staan.,aangespoord,
+11,Wh-Movement,49,hierarchy,363,Grammatical,Het feit dat mijn buurvrouw vertelde wie de boomchirurg had geïrriteerd met zijn snoeivaardigheden verwonderde mijn man vanmorgen.,geïrriteerd,
+11,Wh-Movement,49,hierarchy,363,Ungrammatical,Het feit dat mijn buurvrouw vertelde wie de boomchirurg Freek had geïrriteerd met zijn snoeivaardigheden verwonderde mijn man vanmorgen.,geïrriteerd,
+11,Wh-Movement,49,hierarchy,364,Grammatical,Het feit dat Gerrit zag wie de hovenier had gefascineerd met zijn kennis van zeldzame fruitsoorten verwarmde de hele buurt gisteravond.,gefascineerd,
+11,Wh-Movement,49,hierarchy,364,Ungrammatical,Het feit dat Gerrit zag wie de hovenier de planten had gefascineerd met zijn kennis van zeldzame fruitsoorten verwarmde de hele buurt gisteravond.,gefascineerd,
+11,Wh-Movement,49,hierarchy,365,Grammatical,Het feit dat de boomdeskundige zag welke appelbomen de boer had betoverd met hun vruchtenpracht shockeerde de hele dorpsgemeenschap vorige week.,betoverd,
+11,Wh-Movement,49,hierarchy,365,Ungrammatical,Het feit dat de boomdeskundige zag welke appelbomen de boer het gras had betoverd met hun vruchtenpracht shockeerde de hele dorpsgemeenschap vorige week.,betoverd,
+11,Wh-Movement,49,hierarchy,366,Grammatical,Het feit dat mijn vriendin vertelde welke perzikboom de tuinder had bestudeerd voor zijn onderzoek ontroerde de hele landbouwgemeenschap vanmorgen.,bestudeerd,
+11,Wh-Movement,49,hierarchy,366,Ungrammatical,Het feit dat mijn vriendin vertelde welke perzikboom de tuinder de fotograaf had bestudeerd voor zijn onderzoek ontroerde de hele landbouwgemeenschap vanmorgen.,bestudeerd,
+11,Wh-Movement,49,hierarchy,367,Grammatical,Het feit dat de landschapsarchitect zag welke kersenbomen de honden had aangetrokken met hun bloesems veranderde de groep natuurliefhebbers gistermiddag.,aangetrokken,
+11,Wh-Movement,49,hierarchy,367,Ungrammatical,Het feit dat de landschapsarchitect zag welke kersenbomen de honden de kweker had aangetrokken met hun bloesems veranderde de groep natuurliefhebbers gistermiddag.,aangetrokken,
+11,Wh-Movement,49,hierarchy,368,Grammatical,Het feit dat Geert opmerkte wie Pieter had opgezet om de formatie te verlaten verontwaardigde televisie-presentatoren.,opgezet,
+11,Wh-Movement,49,hierarchy,368,Ungrammatical,Het feit dat Geert opmerkte wie Pieter Petra had opgezet om de formatie te verlaten verontwaardigde televisie-presentatoren.,opgezet,
+11,Wh-Movement,49,hierarchy,369,Grammatical,Het feit dat de makelaar hoorde wie de paus had verteld dat hij het huis zou kopen shockeerde veel mensen.,verteld,
+11,Wh-Movement,49,hierarchy,369,Ungrammatical,Het feit dat de makelaar hoorde wie de paus de priester had verteld dat hij het huis zou kopen shockeerde veel mensen.,verteld,
+11,Wh-Movement,49,hierarchy,370,Grammatical,Het feit dat de jonkheer vroeg wie de kegelaar had gevraagd om mee te doen aan het kegelspel gaf veel mensen een koude rilling.,gevraagd,
+11,Wh-Movement,49,hierarchy,370,Ungrammatical,Het feit dat de jonkheer vroeg wie de kegelaar de dame had gevraagd om mee te doen aan het kegelspel gaf veel mensen een koude rilling.,gevraagd,
+11,Wh-Movement,49,hierarchy,371,Grammatical,Het feit dat de eigenaar van de scooter zocht naar wie de scooter had gesloopt verbaasde niemand iets.,gesloopt,
+11,Wh-Movement,49,hierarchy,371,Ungrammatical,Het feit dat de eigenaar van de scooter zocht naar wie de scooter de postbode had gesloopt verbaasde niemand iets.,gesloopt,
+11,Wh-Movement,49,hierarchy,372,Grammatical,Het feit dat de industrieelontwerper er achter kwam wie de bank had ontworpen deed Bert zich afvragen wat de zin van het leven is.,ontworpen,
+11,Wh-Movement,49,hierarchy,372,Ungrammatical,Het feit dat de industrieelontwerper er achter kwam wie de bank de balie had ontworpen deed Bert zich afvragen wat de zin van het leven is.,ontworpen,
+11,Wh-Movement,49,hierarchy,373,Grammatical,Het feit dat de kerstman ontdekte wie de kinderen kool had gegeven deed de ouders zuchten van opluchting. ,gegeven,
+11,Wh-Movement,49,hierarchy,373,Ungrammatical,Het feit dat de kerstman ontdekte wie de kinderen het elfje kool had gegeven deed de ouders zuchten van opluchting.,gegeven,
+11,Wh-Movement,49,hierarchy,374,Grammatical,Het feit dat Caroline ontdekte wie de fanatiekeling had bericht bevestigde de vooroordelen van velen.,bericht,
+11,Wh-Movement,49,hierarchy,374,Ungrammatical,Het feit dat Caroline ontdekte wie de fanatiekeling de politicus had bericht bevestigde de vooroordelen van velen.,bericht,
+11,Wh-Movement,49,hierarchy,375,Grammatical,Het feit dat Pien merkte wie de man had aangeraakt dreef veel van haar volgers tot woede.,aangeraakt,
+11,Wh-Movement,49,hierarchy,375,Ungrammatical,Het feit dat Pien merkte wie de man de vrouw had aangeraakt dreef veel van haar volgers tot woede.,aangeraakt,
+11,Wh-Movement,49,hierarchy,376,Grammatical,Het feit dat de secretaresse opschreef wie de baas had aangesproken maakte dat een nare situatie was voorkomen.,aangesproken,
+11,Wh-Movement,49,hierarchy,376,Ungrammatical,Het feit dat de secretaresse opschreef wie de baas de krantenjongen had aangesproken maakte dat een nare situatie was voorkomen.,aangesproken,
+11,Wh-Movement,49,hierarchy,377,Grammatical,Het feit dat de melkman las wie de bakker had aangevallen verpestte het plan van de bakkerscommissie.,aangevallen,
+11,Wh-Movement,49,hierarchy,377,Ungrammatical,Het feit dat de melkman las wie de bakker de boer had aangevallen verpestte het plan van de bakkerscommissie.,aangevallen,
+11,Wh-Movement,49,hierarchy,378,Grammatical,Het feit dat de programmeur mailde wie de luilak had verraaden deed af aan de sfeer in de groep.,verraaden,
+11,Wh-Movement,49,hierarchy,378,Ungrammatical,Het feit dat de programmeur mailde wie de luilak de specialist had verraaden deed af aan de sfeer in de groep.,verraaden,
+11,Wh-Movement,49,hierarchy,379,Grammatical,Het feit dat de columnist schreef wie de formateur had gezien met een verrekijker zorgde voor chaos in de formatie.,gezien,
+11,Wh-Movement,49,hierarchy,379,Ungrammatical,Het feit dat de columnist schreef wie de formateur de politicus had gezien met een verrekijker zorgde voor chaos in de formatie.,gezien,
+11,Wh-Movement,49,hierarchy,380,Grammatical,Het feit dat de kerkgemeenschap er achter kwam wie de paus had geliquideerd met zijn scepter zorgde voor veel onrust binnen de kerk.,geliquideerd,
+11,Wh-Movement,49,hierarchy,380,Ungrammatical,Het feit dat de kerkgemeenschap er achter kwam wie de paus de pastoor had geliquideerd met zijn scepter zorgde voor veel onrust binnen de kerk.,geliquideerd,
+11,Wh-Movement,49,hierarchy,381,Grammatical,Het feit dat Henk Kamp voordroeg wie de toeslagenouder had gedupeerd met zjin beleid deed weinig voor de slachtoffers.,gedupeerd,
+11,Wh-Movement,49,hierarchy,381,Ungrammatical,Het feit dat Henk Kamp voordroeg wie de toeslagenouder de politie had gedupeerd met zijn beleid deed weinig voor de slachtoffers.,gedupeerd,
+11,Wh-Movement,49,hierarchy,382,Grammatical,Het feit dat de inzittende van het vliegtuig moesten zien wie de piloot had geslagen met zijn knuppel maakte het trauma veel erger.,geslagen,
+11,Wh-Movement,49,hierarchy,382,Ungrammatical,Het feit dat de inzittende van het vliegtuig moesten zien wie de piloot de stewardess had geslagen met zijn knuppel  maakte het trauma veel erger.,geslagen,
+11,Wh-Movement,49,hierarchy,383,Grammatical,Het feit dat het koor niet wist wie de dirigent had gezoend met lippenstift zorgde voor veel gegiechel.,gezoend,
+11,Wh-Movement,49,hierarchy,383,Ungrammatical,Het feit dat het koor niet wist wie de dirigent de violist had gezoend met lippenstift zorgde voor veel gegiechel.,gezoend,
+11,Wh-Movement,49,hierarchy,384,Grammatical,Het feit dat de hacker niet doorhad wie de beveiliger had geroepen doormiddel van een vuurpijl verrukte de politie ontzettend.,geroepen,
+11,Wh-Movement,49,hierarchy,384,Ungrammatical,Het feit dat de hacker niet doohad wie de beveiliger de politie had geroepen doormiddel van een vuurpijl verrukte de politie ontzettend.,geroepen,
+11,Wh-Movement,49,hierarchy,385,Grammatical,Het feit dat de eerste mens op de maan niet zeker was wie van de ingenieur had gebeld verraste alleen de mensen die televisie keken.,gebeld,
+11,Wh-Movement,49,hierarchy,385,Ungrammatical,Het feit dat de eerste mens op de maan niet zeker was van wie de ingenieur de radio had gebeld verraste alleen de mensen die televisie keken.,gebeld,
+11,Wh-Movement,49,hierarchy,386,Grammatical,Het feit dat de meeste mensen niet doorhebben wie de politiek had aangestuurd om bepaalde besluiten te nemen verbaasde slechts enkelen.,aangestuurd,
+11,Wh-Movement,49,hierarchy,386,Ungrammatical,Het feit dat de meeste mensen niet doorhebben wie de politiek de journalist had aangestuurd om bepaalde besluiten te nemen verbaasde slechts enkelen.,aangestuurd,
+11,Wh-Movement,49,hierarchy,387,Grammatical,Het feit dat de werknemers vroegen wie de werkgever had gezien gaf aan dat het een familie bedrijf was.,gezien,
+11,Wh-Movement,49,hierarchy,387,Ungrammatical,Het feit dat de werknemers vroegen wie de werkgever de beveiliger had gezien gaf aan dat het een familie bedrijf was.,gezien,
+11,Wh-Movement,49,hierarchy,388,Grammatical,Het feit dat een aantal van de kantoormedewerkers niet wist wie de mevrouw achter de balie had gevraagd om de poortjes dicht te doen vereiste dat er een IT-specialist moest komen.,gevraagd,
+11,Wh-Movement,49,hierarchy,388,Ungrammatical,Het feit dat een aantal van de kantoormedewerkers niet wist wie de mevrouw achter de balie de kok had gevraagd om de poortjes dicht te doen vereiste dat er een IT-specialist moest komen.,gevraagd,
+11,Wh-Movement,49,hierarchy,389,Grammatical,Het feit dat de teambaas niet had gezegd wie de coureur had gesponserd verraadde wie de sponsor van het jaar daarop zou zijn.,gesponserd,
+11,Wh-Movement,49,hierarchy,389,Ungrammatical,Het feit dat de teambaas niet had gezegd wie de coureur het team had gesponserd verraadde wie de sponsor van het jaar daarop zou zijn.,gesponserd,
+11,Wh-Movement,49,hierarchy,390,Grammatical,Het feit dat het journaal niet uitzendde wie het kamerlid had vermoord deed vermoeden dat er geen vrije pers was.,vermoord,
+11,Wh-Movement,49,hierarchy,390,Ungrammatical,Het feit dat het journaal niet uitzendde wie het kamerlid de krantenjongen had vermoord deed vermoeden dat er geen vrije pers was.,vermoord,
+11,Wh-Movement,49,hierarchy,391,Grammatical,Het feit dat het management van het bedrijf was vergeten wie de quota had geschreven maakte voor een ongemakkelijke vergadering.,geschreven,
+11,Wh-Movement,49,hierarchy,391,Ungrammatical,Het feit dat het management van het bedrijf was vergeten wie de quota de foto had geschreven maakte voor een ongemakkelijke vergadering.,geschreven,
+11,Wh-Movement,49,hierarchy,392,Grammatical,Het feit dat het de menigte niet uitmaakte wie de man had vergiftigd zorgde voor een gevaarlijke situatie.,vergiftigd,
+11,Wh-Movement,49,hierarchy,392,Ungrammatical,Het feit dat het de menigte niet uitmaakte wie de man de vrouw had vergiftigd zorgde voor een gevaarlijke situatie.,vergiftigd,
+11,Wh-Movement,49,hierarchy,393,Grammatical,Het feit dat iedereen wist wie de stratenmaker had uitgenodigd voor zijn feestje verblijdde de familie van Thierry.,uitgenodigd,
+11,Wh-Movement,49,hierarchy,393,Ungrammatical,Het feit dat iedereen wist wie de stratenmaker de architect had uitgenodigd voor zijn feestje verblijdde de familie van Thierry.,uitgenodigd,
+11,Wh-Movement,49,hierarchy,394,Grammatical,Het feit dat katten niet roken wie de hond had gebeten was niet heel verontrustend voor de meeste mensen.,gebeten,
+11,Wh-Movement,49,hierarchy,394,Ungrammatical,Het feit dat katten niet roken wie de hond de chemicus had gebeten was niet heel verontrustend voor de meeste mensen.,gebeten,
+11,Wh-Movement,49,hierarchy,395,Grammatical,Het feit dat de programmeur geen inspiratie had om te bedenken wie de zinnen had bedacht wees erop dat het eind van de dag in zicht was.,bedacht,
+11,Wh-Movement,49,hierarchy,395,Ungrammatical,Het feit dat de programmeur geen inspiratie had om te bedenken wie de zinnen de meeuwen had bedacht wees erop dat het eind van de dag in zicht was.,bedacht,
+11,Wh-Movement,49,hierarchy,396,Grammatical,Het feit dat slechts een kleine minderheid wist wie de mol had gespot verraste niet bijzonder veel mensen.,gespot,
+11,Wh-Movement,49,hierarchy,396,Ungrammatical,Het feit dat slechts een kleine minderheid wist wie de mol de egel had gespot verraste niet bijzonder veel mensen.,gespot,
+11,Wh-Movement,49,hierarchy,397,Grammatical,Het feit dat de professor ontdekte wie de studenten had gestimuleerd om deel te nemen aan het wetenschappelijk onderzoek verwonderde de hele universiteit.,gestimuleerd,
+11,Wh-Movement,49,hierarchy,397,Ungrammatical,Het feit dat de professor ontdekte wie de studenten het publiek had gestimuleerd om deel te nemen aan het wetenschappelijk onderzoek verwonderde de hele universiteit.,gestimuleerd,
+11,Wh-Movement,49,hierarchy,398,Grammatical,Het feit dat de rechter constateerde wie de getuige had ondervraagd over het incident verbaasde de aanwezige advocaten.,ondervraagd,
+11,Wh-Movement,49,hierarchy,398,Ungrammatical,Het feit dat de rechter constateerde wie de getuige de journalist had ondervraagd over het incident verbaasde de aanwezige advocaten.,ondervraagd,
+11,Wh-Movement,49,hierarchy,399,Grammatical,Het feit dat Katrien besefte wie de kok had geïnspireerd voor het nieuwe menu verheugde de hele eetclub.,geïnspireerd,
+11,Wh-Movement,49,hierarchy,399,Ungrammatical,Het feit dat Katrien besefte wie de kok het team had geïnspireerd voor het nieuwe menu verheugde de hele eetclub.,geïnspireerd,
+11,Wh-Movement,49,hierarchy,400,Grammatical,Het feit dat Willem begreep wie de professor had uitgedaagd voor een debat maakte hem trots op zijn studiegenoot.,uitgedaagd,
+11,Wh-Movement,49,hierarchy,400,Ungrammatical,Het feit dat Willem begreep wie de professor het panel had uitgedaagd voor een debat maakte hem trots op zijn studiegenoot.,uitgedaagd,
+11,Wh-Movement,50,stranding_1,401,Grammatical,Na de oefeningen vraagt de coach waar zijn team voor traint.,voor,waar
+11,Wh-Movement,50,stranding_1,401,Ungrammatical,Na de oefeningen vraagt de coach wat zijn team voor traint.,voor,wat
+11,Wh-Movement,50,stranding_1,402,Grammatical,In de uitzending vertelt de presentator waar de gast voor speelt.,voor,waar
+11,Wh-Movement,50,stranding_1,402,Ungrammatical,In de uitzending vertelt de presentator wat de gast voor speelt.,voor,wat
+11,Wh-Movement,50,stranding_1,403,Grammatical,In het artikel ziet de journalist waar de interviewer naar vraagt.,naar,waar
+11,Wh-Movement,50,stranding_1,403,Ungrammatical,In het artikel ziet de journalist wat de interviewer naar vraagt.,naar,wat
+11,Wh-Movement,50,stranding_1,404,Grammatical,In het appartement vraagt de detective waar zijn partner naar zoekt.,naar,waar
+11,Wh-Movement,50,stranding_1,404,Ungrammatical,In het appartement vraagt de detective wat zijn partner naar zoekt.,naar,wat
+11,Wh-Movement,50,stranding_1,405,Grammatical,In het interview vertelt de trainer waar zijn sporter van droomt.,van,waar
+11,Wh-Movement,50,stranding_1,405,Ungrammatical,In het interview vertelt de trainer wat zijn sporter van droomt.,van,wat
+11,Wh-Movement,50,stranding_1,406,Grammatical,Tijdens de rondleiding ziet de gids waar de toeristen voor komen.,voor,waar
+11,Wh-Movement,50,stranding_1,406,Ungrammatical,Tijdens de rondleiding ziet de gids wat de toeristen voor komen.,voor,wat
+11,Wh-Movement,50,stranding_1,407,Grammatical,Na de ontmoeting vertelt de kunstenaar waar het model voor poseert.,voor,waar
+11,Wh-Movement,50,stranding_1,407,Ungrammatical,Na de ontmoeting vertelt de kunstenaar wat het model voor poseert.,voor,wat
+11,Wh-Movement,50,stranding_1,408,Grammatical,Tijdens het experiment ziet de wetenschapper waar zijn proefpersoon op reageert.,op,waar
+11,Wh-Movement,50,stranding_1,408,Ungrammatical,Tijdens het experiment ziet de wetenschapper wat zijn proefpersoon op reageert.,op,wat
+11,Wh-Movement,50,stranding_1,409,Grammatical,Tijdens het kennismakingsgesprek vraagt de advocaat waar zijn cliënt voor vecht.,voor,waar
+11,Wh-Movement,50,stranding_1,409,Ungrammatical,Tijdens het kennismakingsgesprek vraagt de advocaat wat zijn cliënt voor vecht.,voor,wat
+11,Wh-Movement,50,stranding_1,410,Grammatical,Tijdens het concert ziet de producer waar het publiek voor applaudisseert.,voor,waar
+11,Wh-Movement,50,stranding_1,410,Ungrammatical,Tijdens het concert ziet de producer wat het publiek voor applaudisseert.,voor,wat
+11,Wh-Movement,50,stranding_1,411,Grammatical,In de presentatie legt de leraar uit waar de formule voor staat.,voor,waar
+11,Wh-Movement,50,stranding_1,411,Ungrammatical,In de presentatie legt de leraar uit wat de formule voor staat.,voor,wat
+11,Wh-Movement,50,stranding_1,412,Grammatical,Tijdens het diner vertelt de chef waar het gerecht uit bestaat.,uit,waar
+11,Wh-Movement,50,stranding_1,412,Ungrammatical,Tijdens het diner vertelt de chef wat het gerecht uit bestaat.,uit,wat
+11,Wh-Movement,50,stranding_1,413,Grammatical,Op het festival vertelt de zangeres waar haar liedjes over gaan.,over,waar
+11,Wh-Movement,50,stranding_1,413,Ungrammatical,Op het festival vertelt de zangeres wat haar liedjes over gaan.,over,wat
+11,Wh-Movement,50,stranding_1,414,Grammatical,Na de lezing vraagt de student waar de professor op doelde.,op,waar
+11,Wh-Movement,50,stranding_1,414,Ungrammatical,Na de lezing vraagt de student wat de professor op doelde.,op,wat
+11,Wh-Movement,50,stranding_1,415,Grammatical,In de presentatie laat de manager zien waar het bedrijf naar toe gaat.,naar,waar
+11,Wh-Movement,50,stranding_1,415,Ungrammatical,In de presentatie laat de manager zien wat het bedrijf naar toe gaat.,naar,wat
+11,Wh-Movement,50,stranding_1,416,Grammatical,Na het gesprek begrijpt de klant waar de Arminus op doelde.,op,waar
+11,Wh-Movement,50,stranding_1,416,Ungrammatical,Na het gesprek begrijpt de klant wat de Arminus op doelde.,op,wat
+11,Wh-Movement,50,stranding_1,417,Grammatical,Tijdens het debat benadrukt de politicus waar de wet over gaat.,over,waar
+11,Wh-Movement,50,stranding_1,417,Ungrammatical,Tijdens het debat benadrukt de politicus wat de wet over gaat.,over,wat
+11,Wh-Movement,50,stranding_1,418,Grammatical,In het kasteel vertelt de koningin waar de ridders voor vechten.,voor,waar
+11,Wh-Movement,50,stranding_1,418,Ungrammatical,In het kasteel vertelt de koningin wat de ridders voor vechten.,voor,wat
+11,Wh-Movement,50,stranding_1,419,Grammatical,Tijdens de toernooien laten de ridders zien waar ze voor strijden.,voor,waar
+11,Wh-Movement,50,stranding_1,419,Ungrammatical,Tijdens de toernooien laten de ridders zien wat ze voor strijden.,voor,wat
+11,Wh-Movement,50,stranding_1,420,Grammatical,Na de veldslag legt de generaal uit waar het conflict over ging.,over,waar
+11,Wh-Movement,50,stranding_1,420,Ungrammatical,Na de veldslag legt de generaal uit wat het conflict over ging.,over,wat
+11,Wh-Movement,50,stranding_1,421,Grammatical,In het dorp vertelt de priester waar de heksen voor worden beschuldigd.,voor,waar
+11,Wh-Movement,50,stranding_1,421,Ungrammatical,In het dorp vertelt de priester wat de heksen voor worden beschuldigd.,voor,wat
+11,Wh-Movement,50,stranding_1,422,Grammatical,Tijdens de hofdagen vertelt de hertog waar de wetten voor dienen.,voor,waar
+11,Wh-Movement,50,stranding_1,422,Ungrammatical,Tijdens de hofdagen vertelt de hertog wat de wetten voor dienen.,voor,wat
+11,Wh-Movement,50,stranding_1,423,Grammatical,In het klooster ziet de abt waar de monniken naar streven.,naar,waar
+11,Wh-Movement,50,stranding_1,423,Ungrammatical,In het klooster ziet de abt wat de monniken naar streven.,naar,wat
+11,Wh-Movement,50,stranding_1,424,Grammatical,Na de inquisitie begrijpt de bevolking waar ze voor worden gestraft.,voor,waar
+11,Wh-Movement,50,stranding_1,424,Ungrammatical,Na de inquisitie begrijpt de bevolking wat ze voor worden gestraft.,voor,wat
+11,Wh-Movement,50,stranding_1,425,Grammatical,In de ridderorde vertelt de grootmeester waar de erecode in staat.,in,waar
+11,Wh-Movement,50,stranding_1,425,Ungrammatical,In de ridderorde vertelt de grootmeester wat de erecode in staat.,in,wat
+11,Wh-Movement,50,stranding_1,426,Grammatical,Tijdens de dansles vertelt de instructeur waar de basispassen voor dienen.,voor,waar
+11,Wh-Movement,50,stranding_1,426,Ungrammatical,Tijdens de dansles vertelt de instructeur wat de basispassen voor dienen.,voor,wat
+11,Wh-Movement,50,stranding_1,427,Grammatical,Op het feest laat Anna zien waar haar passie voor swing vandaan komt.,vandaan,waar
+11,Wh-Movement,50,stranding_1,427,Ungrammatical,Op het feest laat Anna zien wat haar passie voor swing vandaan komt.,vandaan,wat
+11,Wh-Movement,50,stranding_1,428,Grammatical,In de workshop legt Mike uit waar de improvisatie over gaat.,over,waar
+11,Wh-Movement,50,stranding_1,428,Ungrammatical,In de workshop legt Mike uit wat de improvisatie over gaat.,over,wat
+11,Wh-Movement,50,stranding_1,429,Grammatical,Tijdens de wedstrijd ziet de jury waar de danskoppels op oefenen.,op,waar
+11,Wh-Movement,50,stranding_1,429,Ungrammatical,Tijdens de wedstrijd ziet de jury wat de danskoppels op oefenen.,op,wat
+11,Wh-Movement,50,stranding_1,430,Grammatical,In het sprookjesboek vertelt de verteller waar de magische krachten vandaan komen.,vandaan,waar
+11,Wh-Movement,50,stranding_1,430,Ungrammatical,In het sprookjesboek vertelt de verteller wat de magische krachten vandaan komen.,vandaan,wat
+11,Wh-Movement,50,stranding_1,431,Grammatical,Op het strand vertelt de gids waar de toeristen voor komen.,voor,waar
+11,Wh-Movement,50,stranding_1,431,Ungrammatical,Op het strand vertelt de gids wat de toeristen voor komen.,voor,wat
+11,Wh-Movement,50,stranding_1,432,Grammatical,Tijdens de zomerkampactiviteiten laat de instructeur zien waar de veiligheidsmaatregelen voor dienen.,voor,waar
+11,Wh-Movement,50,stranding_1,432,Ungrammatical,Tijdens de zomerkampactiviteiten laat de instructeur zien wat de veiligheidsmaatregelen voor dienen.,voor,wat
+11,Wh-Movement,50,stranding_1,433,Grammatical,Bij de verlaten villa hoort de avonturier waar de angstaanjagende geluiden vandaan komen.,vandaan,waar
+11,Wh-Movement,50,stranding_1,433,Ungrammatical,Bij de verlaten villa hoort de avonturier wat de angstaanjagende geluiden vandaan komen.,vandaan,wat
+11,Wh-Movement,50,stranding_1,434,Grammatical,In de duistere kelder ruikt de onderzoeker waar de bedorven geur vandaan komt.,vandaan,waar
+11,Wh-Movement,50,stranding_1,434,Ungrammatical,In de duistere kelder ruikt de onderzoeker wat de bedorven geur vandaan komt.,vandaan,wat
+11,Wh-Movement,50,stranding_1,435,Grammatical,Bij de skilift vertelt de instructeur waar de beginners op moeten letten.,op,waar
+11,Wh-Movement,50,stranding_1,435,Ungrammatical,Bij de skilift vertelt de instructeur wat de beginners op moeten letten.,op,wat
+11,Wh-Movement,50,stranding_1,436,Grammatical,In de sneeuwhut voelt de avonturier waar de kou vandaan komt.,vandaan,waar
+11,Wh-Movement,50,stranding_1,436,Ungrammatical,In de sneeuwhut voelt de avonturier wat de kou vandaan komt.,vandaan,wat
+11,Wh-Movement,50,stranding_1,437,Grammatical,Tijdens de snowboardles merkt de leraar waar de leerling moeite mee heeft.,mee,waar
+11,Wh-Movement,50,stranding_1,437,Ungrammatical,Tijdens de snowboardles merkt de leraar wat de leerling moeite mee heeft.,mee,wat
+11,Wh-Movement,50,stranding_1,438,Grammatical,Op de ijsbaan vertelt de coach waar de schaatser aan moet werken.,aan,waar
+11,Wh-Movement,50,stranding_1,438,Ungrammatical,Op de ijsbaan vertelt de coach wat de schaatser aan moet werken.,aan,wat
+11,Wh-Movement,50,stranding_1,439,Grammatical,Bij de dansauditie vertelt de jury waar Eleanor en Jasper aan moeten werken.,aan,waar
+11,Wh-Movement,50,stranding_1,439,Ungrammatical,Bij de dansauditie vertelt de jury wat Eleanor en Jasper aan moeten werken.,aan,wat
+11,Wh-Movement,50,stranding_1,440,Grammatical,Op het muziekfestival vertelt de DJ waar het publiek op reageert.,op,waar
+11,Wh-Movement,50,stranding_1,440,Ungrammatical,Op het muziekfestival vertelt de DJ wat het publiek op reageert.,op,wat
+11,Wh-Movement,50,stranding_1,441,Grammatical,Op het schilderij ziet Fons waar de schilder zijn inspiratie vandaan haalde.,vandaan,waar
+11,Wh-Movement,50,stranding_1,441,Ungrammatical,Op het schilderij ziet Fons wat de schilder zijn inspiratie vandaan haalde.,vandaan,wat
+11,Wh-Movement,50,stranding_1,442,Grammatical,Bij de modeshow vertelt de ontwerper waar de inspiratie voor zijn collectie vandaan komt.,vandaan,waar
+11,Wh-Movement,50,stranding_1,442,Ungrammatical,Bij de modeshow vertelt de ontwerper wat de inspiratie voor zijn collectie vandaan komt.,vandaan,wat
+11,Wh-Movement,50,stranding_1,443,Grammatical,Tijdens de presentatie vertelt de professor waar zijn theorie op gebaseerd is.,op,waar
+11,Wh-Movement,50,stranding_1,443,Ungrammatical,Tijdens de presentatie vertelt de professor wat zijn theorie op gebaseerd is.,op,wat
+11,Wh-Movement,50,stranding_1,444,Grammatical,Bij de tentoonstelling van oude manuscripten vertelt de conservator waar de teksten over gaan.,over,waar
+11,Wh-Movement,50,stranding_1,444,Ungrammatical,Bij de tentoonstelling van oude manuscripten vertelt de conservator wat de teksten over gaan.,over,wat
+11,Wh-Movement,50,stranding_1,445,Grammatical,Tijdens het interview vertelt de schrijver waar zijn personages doorheen gaan.,doorheen,waar
+11,Wh-Movement,50,stranding_1,445,Ungrammatical,Tijdens het interview vertelt de schrijver wat zijn personages doorheen gaan.,doorheen,wat
+11,Wh-Movement,50,stranding_1,446,Grammatical,In het laboratorium ziet de onderzoeker waar de resultaten afwijken van de verwachtingen.,van,waar
+11,Wh-Movement,50,stranding_1,446,Ungrammatical,In het laboratorium ziet de onderzoeker wat de resultaten afwijken van de verwachtingen.,van,wat
+11,Wh-Movement,50,stranding_1,447,Grammatical,Bij het toneelstuk vertelt de regisseur waar de emoties van de personages vandaan komen.,vandaan,waar
+11,Wh-Movement,50,stranding_1,447,Ungrammatical,Bij het toneelstuk vertelt de regisseur wat de emoties van de personages vandaan komen.,vandaan,wat
+11,Wh-Movement,50,stranding_1,448,Grammatical,In het tovenaarskasteel vertelt de meester-magiër waar de verborgen gangen naartoe leiden.,naartoe,waar
+11,Wh-Movement,50,stranding_1,448,Ungrammatical,In het tovenaarskasteel vertelt de meester-magiër wat de verborgen gangen naartoe leiden.,naartoe,wat
+11,Wh-Movement,50,stranding_1,449,Grammatical,Tijdens de theeceremonie vertelt Teodora waar de theeliefhebbers op letten.,op,waar
+11,Wh-Movement,50,stranding_1,449,Ungrammatical,Tijdens de theeceremonie vertelt Teodora wat de theeliefhebbers op letten.,op,wat
+11,Wh-Movement,50,stranding_1,450,Grammatical,In de autogarage ziet de monteur waar de motor problemen mee heeft.,mee,waar
+11,Wh-Movement,50,stranding_1,450,Ungrammatical,In de autogarage ziet de monteur wat de motor problemen mee heeft.,mee,wat
+11,Wh-Movement,50,stranding_1,451,Grammatical,Bij het proeven van de thee herkent de sommelier waar de aroma's vandaan komen.,vandaan,waar
+11,Wh-Movement,50,stranding_1,451,Ungrammatical,Bij het proeven van de thee herkent de sommelier wat de aroma's vandaan komen.,vandaan,wat
+11,Wh-Movement,50,stranding_1,452,Grammatical,Op het menu staat precies waar de ingrediënten vandaan komen.,vandaan,waar
+11,Wh-Movement,50,stranding_1,452,Ungrammatical,Op het menu staat precies wat de ingrediënten vandaan komen.,vandaan,wat
+11,Wh-Movement,50,stranding_1,453,Grammatical,Bij de kookcursus leert de instructeur waar de cursisten op moeten letten.,op,waar
+11,Wh-Movement,50,stranding_1,453,Ungrammatical,Bij de kookcursus leert de instructeur wat de cursisten op moeten letten.,op,wat
+11,Wh-Movement,50,stranding_1,454,Grammatical,Tijdens het dineren in het restaurant vertelt de ober waar de specialiteit vandaan komt.,vandaan,waar
+11,Wh-Movement,50,stranding_1,454,Ungrammatical,Tijdens het dineren in het restaurant vertelt de ober wat de specialiteit vandaan komt.,vandaan,wat
+11,Wh-Movement,50,stranding_1,455,Grammatical,In de galerij vertelt de curator waar de kunstwerken over gaan.,over,waar
+11,Wh-Movement,50,stranding_1,455,Ungrammatical,In de galerij vertelt de curator wat de kunstwerken over gaan.,over,wat
+11,Wh-Movement,50,stranding_1,456,Grammatical,Tijdens de les begrijpt de leraar waar de leerlingen moeite mee hebben.,mee,waar
+11,Wh-Movement,50,stranding_1,456,Ungrammatical,Tijdens de les begrijpt de leraar wat de leerlingen moeite mee hebben.,mee,wat
+11,Wh-Movement,50,stranding_1,457,Grammatical,In het gesprek merkt de psycholoog waar de patiënt mee worstelt.,mee,waar
+11,Wh-Movement,50,stranding_1,457,Ungrammatical,In het gesprek merkt de psycholoog wat de patiënt mee worstelt.,mee,wat
+11,Wh-Movement,50,stranding_1,458,Grammatical,Op het festival herkent de organisator waar de bezoekers van genieten.,van,waar
+11,Wh-Movement,50,stranding_1,458,Ungrammatical,Op het festival herkent de organisator wat de bezoekers van genieten.,van,wat
+11,Wh-Movement,50,stranding_1,459,Grammatical,Tijdens de workshop begrijpt de trainer waar de deelnemers behoefte aan hebben.,aan,waar
+11,Wh-Movement,50,stranding_1,459,Ungrammatical,Tijdens de workshop begrijpt de trainer wat de deelnemers behoefte aan hebben.,aan,wat
+11,Wh-Movement,50,stranding_1,460,Grammatical,In het verhaal ziet de schrijver waar de plot naartoe gaat.,naartoe,waar
+11,Wh-Movement,50,stranding_1,460,Ungrammatical,In het verhaal ziet de schrijver wat de plot naartoe gaat.,naartoe,wat
+11,Wh-Movement,50,stranding_1,461,Grammatical,Tijdens de repetitie ziet de regisseur waar de acteurs nog in kunnen verbeteren.,in,waar
+11,Wh-Movement,50,stranding_1,461,Ungrammatical,Tijdens de repetitie ziet de regisseur wat de acteurs nog in kunnen verbeteren.,in,wat
+11,Wh-Movement,50,stranding_1,462,Grammatical,In de documentaire vertelt de voice-over waar de hoofdpersoon mee worstelt.,mee,waar
+11,Wh-Movement,50,stranding_1,462,Ungrammatical,In de documentaire vertelt de voice-over wat de hoofdpersoon mee worstelt.,mee,wat
+11,Wh-Movement,50,stranding_1,463,Grammatical,Tijdens de presentatie begrijpt de spreker waar het publiek behoefte aan heeft.,aan,waar
+11,Wh-Movement,50,stranding_1,463,Ungrammatical,Tijdens de presentatie begrijpt de spreker wat het publiek behoefte aan heeft.,aan,wat
+11,Wh-Movement,50,stranding_1,464,Grammatical,Tijdens de excursie merkt de gids waar de bezoekers in geïnteresseerd zijn.,in,waar
+11,Wh-Movement,50,stranding_1,464,Ungrammatical,Tijdens de excursie merkt de gids wat de bezoekers in geïnteresseerd zijn.,in,wat
+11,Wh-Movement,50,stranding_1,465,Grammatical,In de roman begrijpt de lezer waar de auteur naartoe wil met het verhaal.,naartoe,waar
+11,Wh-Movement,50,stranding_1,465,Ungrammatical,In de roman begrijpt de lezer wat de auteur naartoe wil met het verhaal.,naartoe,wat
+11,Wh-Movement,50,stranding_1,466,Grammatical,Tijdens de demonstratie begrijpt de demonstrant waar de menigte voor staat.,voor,waar
+11,Wh-Movement,50,stranding_1,466,Ungrammatical,Tijdens de demonstratie begrijpt de demonstrant wat de menigte voor staat.,voor,wat
+11,Wh-Movement,50,stranding_1,467,Grammatical,Op vakantie ziet Reinhard waar zijn kinderen van genieten.,van,waar
+11,Wh-Movement,50,stranding_1,467,Ungrammatical,Op vakantie ziet Reinhard wat zijn kinderen van genieten.,van,wat
+11,Wh-Movement,50,stranding_1,468,Grammatical,Tijdens het gezinsdiner merkt de moeder waar haar zoon behoefte aan heeft.,aan,waar
+11,Wh-Movement,50,stranding_1,468,Ungrammatical,Tijdens het gezinsdiner merkt de moeder wat haar zoon behoefte aan heeft.,aan,wat
+11,Wh-Movement,50,stranding_1,469,Grammatical,Bij het familiefeest begrijpt Hanna waar haar kleinkinderen gelukkig van worden.,van,waar
+11,Wh-Movement,50,stranding_1,469,Ungrammatical,Bij het familiefeest begrijpt Hanna wat haar kleinkinderen gelukkig van worden.,van,wat
+11,Wh-Movement,50,stranding_1,470,Grammatical,Tijdens de reünie vertelt de neef waar de familie oorspronkelijk vandaan komt.,vandaan,waar
+11,Wh-Movement,50,stranding_1,470,Ungrammatical,Tijdens de reünie vertelt de neef wat de familie oorspronkelijk vandaan komt.,vandaan,wat
+11,Wh-Movement,50,stranding_1,471,Grammatical,In de vakantiefoto's ziet de zus waar haar broer het meest van houdt.,van,waar
+11,Wh-Movement,50,stranding_1,471,Ungrammatical,In de vakantiefoto's ziet de zus wat haar broer het meest van houdt.,van,wat
+11,Wh-Movement,50,stranding_1,472,Grammatical,In de kristallen bol ziet de heks waar haar familieleden trots op zijn.,op,waar
+11,Wh-Movement,50,stranding_1,472,Ungrammatical,In de kristallen bol ziet de heks wat haar familieleden trots op zijn.,op,wat
+11,Wh-Movement,50,stranding_1,473,Grammatical,Tijdens het familie-uitje merkt Markus waar zijn kleinkinderen van genieten.,van,waar
+11,Wh-Movement,50,stranding_1,473,Ungrammatical,Tijdens het familie-uitje merkt Markus wat zijn kleinkinderen van genieten.,van,wat
+11,Wh-Movement,50,stranding_1,474,Grammatical,In het familiereglement staat beschreven waar de familie voor staat.,voor,waar
+11,Wh-Movement,50,stranding_1,474,Ungrammatical,In het familiereglement staat beschreven wat de familie voor staat.,voor,wat
+11,Wh-Movement,50,stranding_1,475,Grammatical,Bij het familiegesprek begrijpt Lisa waar haar neef mee zit.,mee,waar
+11,Wh-Movement,50,stranding_1,475,Ungrammatical,Bij het familiegesprek begrijpt Lisa wat haar neef mee zit.,mee,wat
+11,Wh-Movement,50,stranding_1,476,Grammatical,Tijdens het college begrijpt de student waar Socrates naar streefde.,naar,waar
+11,Wh-Movement,50,stranding_1,476,Ungrammatical,Tijdens het college begrijpt de student wat Socrates naar streefde.,naar,wat
+11,Wh-Movement,50,stranding_1,477,Grammatical,Tijdens het seminarie verduidelijkt de professor waar Kant's categorische imperatief voor staat.,voor,waar
+11,Wh-Movement,50,stranding_1,477,Ungrammatical,Tijdens het seminarie verduidelijkt de professor wat Kant's categorische imperatief voor staat.,voor,wat
+11,Wh-Movement,50,stranding_1,478,Grammatical,In zijn lezing onderzoekt Vincent waar Aristoteles geluk in zag.,in,waar
+11,Wh-Movement,50,stranding_1,478,Ungrammatical,In zijn lezing onderzoekt Vincent wat Aristoteles geluk in zag.,in,wat
+"11,Wh-Movement,50,stranding_1,479,Grammatical,""Tijdens het filosofisch debat bespreekt de filosoof waar Descartes' cogito, ergo sum voor staat."",voor,waar"
+"11,Wh-Movement,50,stranding_1,479,Ungrammatical,""Tijdens het filosofisch debat bespreekt de filosoof wat Descartes' cogito, ergo sum voor staat."",voor,wat"
+11,Wh-Movement,50,stranding_1,480,Grammatical,In zijn werk belicht de auteur waar John Stuart Mill's utilitarisme op neerkomt.,op,waar
+11,Wh-Movement,50,stranding_1,480,Ungrammatical,In zijn werk belicht de auteur wat John Stuart Mill's utilitarisme op neerkomt.,op,wat
+11,Wh-Movement,50,stranding_1,481,Grammatical,Tijdens de lezing verklaart de filosoof waar de ideeënwereld van Plato op slaat.,op,waar
+11,Wh-Movement,50,stranding_1,481,Ungrammatical,Tijdens de lezing verklaart de filosoof wat de ideeënwereld van Plato op slaat.,op,wat
+11,Wh-Movement,50,stranding_1,482,Grammatical,Tijdens het festival herkent de danser waar de menigte op reageert.,op,waar
+11,Wh-Movement,50,stranding_1,482,Ungrammatical,Tijdens het festival herkent de danser wat de menigte op reageert.,op,wat
+11,Wh-Movement,50,stranding_1,483,Grammatical,Bij de optocht ziet de trommelaar waar het publiek op danst.,op,waar
+11,Wh-Movement,50,stranding_1,483,Ungrammatical,Bij de optocht ziet de trommelaar wat het publiek op danst.,op,wat
+11,Wh-Movement,50,stranding_1,484,Grammatical,Tijdens de ambachtelijke markt begrijpt de verkoper waar de klanten naar op zoek zijn.,naar,waar
+11,Wh-Movement,50,stranding_1,484,Ungrammatical,Tijdens de ambachtelijke markt begrijpt de verkoper wat de klanten naar op zoek zijn.,naar,wat
+11,Wh-Movement,50,stranding_1,485,Grammatical,In het Keltische verhaal vertelt de bard waar de legende van de Banshee vandaan komt.,vandaan,waar
+11,Wh-Movement,50,stranding_1,485,Ungrammatical,In het Keltische verhaal vertelt de bard wat de legende van de Banshee vandaan komt.,vandaan,wat
+11,Wh-Movement,50,stranding_1,486,Grammatical,Tijdens het ritueel beschrijft de priesteres waar de godin Athena voor werd vereerd.,voor,waar
+11,Wh-Movement,50,stranding_1,486,Ungrammatical,Tijdens het ritueel beschrijft de priesteres wat de godin Athena voor werd vereerd.,voor,wat
+11,Wh-Movement,50,stranding_1,487,Grammatical,In het sprookje beschrijft de ouderling waar de nimfen van houden,van,waar
+11,Wh-Movement,50,stranding_1,487,Ungrammatical,In het sprookje beschrijft de ouderling wat de nimfen van houden,van,wat
+11,Wh-Movement,50,stranding_1,488,Grammatical,Tijdens de volksdans laat de choreograaf zien waar de traditie van de dans door is geinspireerd.,door,waar
+11,Wh-Movement,50,stranding_1,488,Ungrammatical,Tijdens de volksdans laat de choreograaf zien wat de traditie van de dans door is geinspireerd.,door,wat
+11,Wh-Movement,50,stranding_1,489,Grammatical,In het verhaal vertelt de bard waar de legende van de eenhoorn over gaat.,over,waar
+11,Wh-Movement,50,stranding_1,489,Ungrammatical,In het verhaal vertelt de bard wat de legende van de eenhoorn over gaat.,over,wat
+11,Wh-Movement,50,stranding_1,490,Grammatical,In het folklore-evenement vertelt de gids waar de traditie van het vreugdevuur vandaan komt.,vandaan,waar
+11,Wh-Movement,50,stranding_1,490,Ungrammatical,In het folklore-evenement vertelt de gids wat de traditie van het vreugdevuur vandaan komt.,vandaan,wat
+11,Wh-Movement,50,stranding_1,491,Grammatical,Tijdens de folklore-voorstelling toont de acteur waar de Feniks mee vecht,mee,waar
+11,Wh-Movement,50,stranding_1,491,Ungrammatical,Tijdens de folklore-voorstelling toont de acteur wat de Feniks mee vecht,mee,wat
+11,Wh-Movement,50,stranding_1,492,Grammatical,Tijdens het festival vertelt Alida waar de sirenen naar zoeken.,naar,waar
+11,Wh-Movement,50,stranding_1,492,Ungrammatical,Tijdens het festival vertelt Alida wat  de sirenen naar zoeken.,naar,wat
+11,Wh-Movement,50,stranding_1,493,Grammatical,In de tempel ontdekt de priester waar de goden gunstig op reageren.,op,waar
+11,Wh-Movement,50,stranding_1,493,Ungrammatical,In de tempel ontdekt de priester wat de goden gunstig op reageren.,op,wat
+11,Wh-Movement,50,stranding_1,494,Grammatical,Tijdens de spelen begrijpt de atleet waar zijn tegenstanders slecht in zijn.,in,waar
+11,Wh-Movement,50,stranding_1,494,Ungrammatical,Tijdens de spelen begrijpt de atleet wat zijn tegenstanders slecht in zijn.,in,wat
+11,Wh-Movement,50,stranding_1,495,Grammatical,Tijdenes de banketten leert koning Arthur waar de smaak van de gasten naar neigt.,naar,waar
+11,Wh-Movement,50,stranding_1,495,Ungrammatical,Tijdens de banketten leert koning Arthur wat de smaak van de gasten naar neigt.,naar,wat
+11,Wh-Movement,50,stranding_1,496,Grammatical,Dankzij het debat begrijpt de senator waar de steun van het volk naar neigt.,naar,waar
+11,Wh-Movement,50,stranding_1,496,Ungrammatical,Dankzij het debat begrijpt de senator wat de steun van het volk naar neigt.,naar,wat
+11,Wh-Movement,50,stranding_1,497,Grammatical,Op het slagveld ziet de generaal waar de vijand zijn krachten op concentreert.,op,waar
+11,Wh-Movement,50,stranding_1,497,Ungrammatical,Op het slagveld ziet de generaal wat de vijand zijn krachten op concentreert.,op,wat
+11,Wh-Movement,50,stranding_1,498,Grammatical,Sinds haar jeugd weet de huishoudster waar de aardappels het beste bij smaken.,bij,waar
+11,Wh-Movement,50,stranding_1,498,Ungrammatical,Sinds haar jeugd weet de huishoudster wat de aardappels het beste bij smaken.,bij,wat
+11,Wh-Movement,50,stranding_1,499,Grammatical,Tijdens haar werk merkt Imke waar de bijen naar op zoek zijn,naar,waar
+11,Wh-Movement,50,stranding_1,499,Ungrammatical,Tijdens haar werk merkt Imke wat de bijen naar op zoek zijn.,naar,wat
+11,Wh-Movement,50,stranding_1,500,Grammatical,Tijdens de race ziet de jockey waar de paarden naar streven.,naar,waar
+11,Wh-Movement,50,stranding_1,500,Ungrammatical,Tijdens de race ziet de jockey wat de paarden naar streven.,naar,wat
+11,Wh-Movement,51,stranding_2,501,Grammatical,De directeur ziet waar zijn papieren onderuit steken tijdens de presentatie.,onderuit,waar
+11,Wh-Movement,51,stranding_2,501,Ungrammatical,De directeur ziet wat zijn papieren onderuit steken tijdens de presentatie.,onderuit,wat
+11,Wh-Movement,51,stranding_2,502,Grammatical,De collega vertelde waar zijn vriendin opaf reed tijdens de vakantie.,opaf,waar
+11,Wh-Movement,51,stranding_2,502,Ungrammatical,De collega vertelde wat zijn vriendin opaf reed tijdens de vakantie.,opaf,wat
+11,Wh-Movement,51,stranding_2,503,Grammatical,De coach ziet waar de voetballer opaf rent tijdens de wedstrijd.,opaf,waar
+11,Wh-Movement,51,stranding_2,503,Ungrammatical,De coach ziet wat de voetballer opaf rent tijdens de wedstrijd.,opaf,wat
+11,Wh-Movement,51,stranding_2,504,Grammatical,De instructeur vertelt waar de tiener tussendoor reed tijdens de rijles.,tussendoor,waar
+11,Wh-Movement,51,stranding_2,504,Ungrammatical,De instructeur vertelt wat de tiener tussendoor reed tijdens de rijles.,tussendoor,wat
+11,Wh-Movement,51,stranding_2,505,Grammatical,De schoonmaakster vraagt waar de moeder de sokken overheen hangt na het wassen.,overheen,waar
+11,Wh-Movement,51,stranding_2,505,Ungrammatical,De schoonmaakster vraagt wat de moeder de sokken overheen hangt na het wassen.,overheen,wat
+11,Wh-Movement,51,stranding_2,506,Grammatical,De agent ziet waar het kind omheen fietst op de weg.,omheen,waar
+11,Wh-Movement,51,stranding_2,506,Ungrammatical,De agent ziet wat het kind omheen fietst op de weg.,omheen,wat
+11,Wh-Movement,51,stranding_2,507,Grammatical,De badmeester vraagt waar de kinderen tegenin zwemmen in de zee. ,tegenin,waar
+11,Wh-Movement,51,stranding_2,507,Ungrammatical,De badmeester vraagt wat de kinderen tegenin zwemmen in de zee.,tegenin,wat
+11,Wh-Movement,51,stranding_2,508,Grammatical,De rechter vertelt waar de procedure buitenom is gelopen tijdens de rechtszaak.,buitenom,waar
+11,Wh-Movement,51,stranding_2,508,Ungrammatical,De rechter vertelt wat de procedure buitenom is gelopen tijdens de rechtszaak.,buitenom,wat
+11,Wh-Movement,51,stranding_2,509,Grammatical,De ontwerper ziet waar de rok onderuit hangt tijdens de show.,onderuit,waar
+11,Wh-Movement,51,stranding_2,509,Ungrammatical,De ontwerper ziet wat de rok onderuit hangt tijdens de show.,onderuit,wat
+11,Wh-Movement,51,stranding_2,510,Grammatical,De fotograaf vertelt waar de beroemdheid tegenaan staat met een vermomming. ,tegenaan,waar
+11,Wh-Movement,51,stranding_2,510,Ungrammatical,De fotograaf vertelt wat de beroemdheid tegenaan staat met een vermomming. ,tegenaan,wat
+11,Wh-Movement,51,stranding_2,511,Grammatical,De hovenier vraagt waar de klant tegenaan kijkt in de tuin.,tegenaan,waar
+11,Wh-Movement,51,stranding_2,511,Ungrammatical,De hovenier vraagt wat de klant tegenaan kijkt in de tuin.,tegenaan,wat
+11,Wh-Movement,51,stranding_2,512,Grammatical,De manager vertelt waar de werknemer tegenaan loopt tijdens het project.,tegenaan,waar
+11,Wh-Movement,51,stranding_2,512,Ungrammatical,De manager vertelt wat de werknemer tegenaan loopt tijdens het project.,tegenaan,wat
+11,Wh-Movement,51,stranding_2,513,Grammatical,De architect ziet waar het gebouw opaf staat in het ontwerp.,opaf,waar
+11,Wh-Movement,51,stranding_2,513,Ungrammatical,De architect ziet wat het gebouw opaf staat in het ontwerp.,opaf,wat
+11,Wh-Movement,51,stranding_2,514,Grammatical,De lerares vraagt waar de leerlingen tegenaan kijken tijdens de presentatie.,tegenaan,waar
+11,Wh-Movement,51,stranding_2,514,Ungrammatical,De lerares vraagt wat de leerlingen tegenaan kijken tijdens de presentatie.,tegenaan,wat
+11,Wh-Movement,51,stranding_2,515,Grammatical,De leraar legt uit waar de student overheen struikelde na het examen.,overheen,waar
+11,Wh-Movement,51,stranding_2,515,Ungrammatical,De leraar legt uit wat de student overheen struikelde na het examen.,overheen,wat
+11,Wh-Movement,51,stranding_2,516,Grammatical,De tuinman ziet waar de planten tussenuit groeien in de tuin.,tussenuit,waar
+11,Wh-Movement,51,stranding_2,516,Ungrammatical,De tuinman ziet wat de planten tussenuit groeien in de tuin.,tussenuit,wat
+11,Wh-Movement,51,stranding_2,517,Grammatical,De gids wijst aan waar de toeristen achterlangs lopen in het museum.,achterlangs,waar
+11,Wh-Movement,51,stranding_2,517,Ungrammatical,De gids wijst aan wat de toeristen achterlangs lopen in het museum.,achterlangs,wat
+11,Wh-Movement,51,stranding_2,518,Grammatical,De piloot vertelt waar het vliegtuig overheen vloog tijdens de vlucht.,overheen,waar
+11,Wh-Movement,51,stranding_2,518,Ungrammatical,De piloot vertelt wat het vliegtuig overheen vloog tijdens de vlucht.,overheen,wat
+11,Wh-Movement,51,stranding_2,519,Grammatical,De musicus laat zien waar de ballen onderuit vallen tijdens het concert.,onderuit,waar
+11,Wh-Movement,51,stranding_2,519,Ungrammatical,De musicus laat zien wat de ballen onderuit vallen tijdens het concert.,onderuit,wat
+11,Wh-Movement,51,stranding_2,520,Grammatical,De receptionist vertelt waar de gasten naarbinnen mogen komen in het hotel.,naarbinnen,waar
+11,Wh-Movement,51,stranding_2,520,Ungrammatical,De receptionist vertelt wat de gasten naarbinnen mogen komen in het hotel.,naarbinnen,wat
+11,Wh-Movement,51,stranding_2,521,Grammatical,De schrijver beschrijft waar de hoofdpersoon doorheen gaat in het verhaal.,doorheen,waar
+11,Wh-Movement,51,stranding_2,521,Ungrammatical,De schrijver beschrijft wat de hoofdpersoon doorheen gaat in het verhaal.,doorheen,wat
+11,Wh-Movement,51,stranding_2,522,Grammatical,De manager vertelt waar de werknemers tegenaan lopen tijdens het project.,tegenaan,waar
+11,Wh-Movement,51,stranding_2,522,Ungrammatical,De manager vertelt wat de werknemers tegenaan lopen tijdens het project.,tegenaan,wat
+11,Wh-Movement,51,stranding_2,523,Grammatical,De designer laat zien waar de stof onderuit steekt in het kledingontwerp.,onderuit,waar
+11,Wh-Movement,51,stranding_2,523,Ungrammatical,De designer laat zien wat de stof onderuit steekt in het kledingontwerp.,onderuit,wat
+11,Wh-Movement,51,stranding_2,524,Grammatical,De therapeut legt uit waar de emoties vandaan komen tijdens de sessie.,vandaan,waar
+11,Wh-Movement,51,stranding_2,524,Ungrammatical,De therapeut legt uit wat de emoties vandaan komen tijdens de sessie.,vandaan,wat
+11,Wh-Movement,51,stranding_2,525,Grammatical,De psychiater legt uit waar de angstreactie vandaan komt in de behandeling.,vandaan,waar
+11,Wh-Movement,51,stranding_2,525,Ungrammatical,De psychiater legt uit wat de angstreactie vandaan komt in de behandeling.,vandaan,wat
+11,Wh-Movement,51,stranding_2,526,Grammatical,De leraar vraagt waar de student tussenin schreef tijdens het examen.,tussenin,waar
+11,Wh-Movement,51,stranding_2,526,Ungrammatical,De leraar vraagt wat de student tussenin schreef tijdens het examen.,tussenin,wat
+11,Wh-Movement,51,stranding_2,527,Grammatical,De tuinman ziet waar de planten tussenuit groeien in de tuin.,tussenuit,waar
+11,Wh-Movement,51,stranding_2,527,Ungrammatical,De tuinman ziet wat de planten tussenuit groeien in de tuin.,tussenuit,wat
+11,Wh-Movement,51,stranding_2,528,Grammatical,De chef vertelt waar de kok onderuit glipte tijdens het koken.,onderuit,waar
+11,Wh-Movement,51,stranding_2,528,Ungrammatical,De chef vertelt wat de kok onderuit glipte tijdens het koken.,onderuit,wat
+11,Wh-Movement,51,stranding_2,529,Grammatical,De manager ziet waar de werknemers tussendoor lopen in het kantoor.,tussendoor,waar
+11,Wh-Movement,51,stranding_2,529,Ungrammatical,De manager ziet wat de werknemers tussendoor lopen in het kantoor.,tussendoor,wat
+11,Wh-Movement,51,stranding_2,530,Grammatical,De verpleegster vraagt waar de patiënt doorheen kijkt tijdens het onderzoek.,doorheen,waar
+11,Wh-Movement,51,stranding_2,530,Ungrammatical,De verpleegster vraagt wat de patiënt doorheen kijkt tijdens het onderzoek.,doorheen,wat
+11,Wh-Movement,51,stranding_2,531,Grammatical,De muzikant vertelt waar het publiek doorheen danst tijdens het concert.,doorheen,waar
+11,Wh-Movement,51,stranding_2,531,Ungrammatical,De muzikant vertelt wat het publiek doorheen danst tijdens het concert.,doorheen,wat
+11,Wh-Movement,51,stranding_2,532,Grammatical,De ober ziet waar de klant overheen kijkt tijdens het diner.,overheen,waar
+11,Wh-Movement,51,stranding_2,532,Ungrammatical,De ober ziet wat de klant overheen kijkt tijdens het diner.,overheen,wat
+11,Wh-Movement,51,stranding_2,533,Grammatical,De astronaut vertelt waar de raket doorheen vliegt tijdens de lancering.,doorheen,waar
+11,Wh-Movement,51,stranding_2,533,Ungrammatical,De astronaut vertelt wat de raket doorheen vliegt tijdens de lancering.,doorheen,wat
+11,Wh-Movement,51,stranding_2,534,Grammatical,De coach vraagt waar de sporter naartoe rent tijdens de training.,naartoe,waar
+11,Wh-Movement,51,stranding_2,534,Ungrammatical,De coach vraagt wat de sporter naartoe rent tijdens de training.,naartoe,wat
+11,Wh-Movement,51,stranding_2,535,Grammatical,De receptionist vertelt waar de bezoekers tussendoor lopen in het hotel.,tussendoor,waar
+11,Wh-Movement,51,stranding_2,535,Ungrammatical,De receptionist vertelt wat de bezoekers tussendoor lopen in het hotel.,tussendoor,wat
+11,Wh-Movement,51,stranding_2,536,Grammatical,De boswachter vertelt waar de dieren doorheen sluipen in het bos.,doorheen,waar
+11,Wh-Movement,51,stranding_2,536,Ungrammatical,De boswachter vertelt wat de dieren doorheen sluipen in het bos.,doorheen,wat
+11,Wh-Movement,51,stranding_2,537,Grammatical,De econoom vraagt waar de prijzen doorheen schieten tijdens de crisis.,doorheen,waar
+11,Wh-Movement,51,stranding_2,537,Ungrammatical,De econoom vraagt wat de prijzen doorheen schieten tijdens de crisis.,doorheen,wat
+11,Wh-Movement,51,stranding_2,538,Grammatical,De architect ziet waar de muren tussenuit komen in het ontwerp.,tussenuit,waar
+11,Wh-Movement,51,stranding_2,538,Ungrammatical,De architect ziet wat de muren tussenuit komen in het ontwerp.,tussenuit,wat
+11,Wh-Movement,51,stranding_2,539,Grammatical,De politieagent vraagt waar de verdachte naartoe rende tijdens de achtervolging.,naartoe,waar
+11,Wh-Movement,51,stranding_2,539,Ungrammatical,De politieagent vraagt wat de verdachte naartoe rende tijdens de achtervolging.,naartoe,wat
+11,Wh-Movement,51,stranding_2,540,Grammatical,De hovenier vertelt waar de planten doorheen groeien in de tuin.,doorheen,waar
+11,Wh-Movement,51,stranding_2,540,Ungrammatical,De hovenier vertelt wat de planten doorheen groeien in de tuin.,doorheen,wat
+11,Wh-Movement,51,stranding_2,541,Grammatical,De adviseur vraagt waar de klant opaf stuit in het rapport.,opaf,waar
+11,Wh-Movement,51,stranding_2,541,Ungrammatical,De adviseur vraagt wat de klant opaf stuit in het rapport.,opaf,wat
+11,Wh-Movement,51,stranding_2,542,Grammatical,De monteur ziet waar de storing tussendoor komt in het systeem.,tussendoor,waar
+11,Wh-Movement,51,stranding_2,542,Ungrammatical,De monteur ziet wat de storing tussendoor komt in het systeem.,tussendoor,wat
+11,Wh-Movement,51,stranding_2,543,Grammatical,De historicus vertelt waar de gebeurtenis rondom draait in de geschiedenis.,rondom,waar
+11,Wh-Movement,51,stranding_2,543,Ungrammatical,De historicus vertelt wat de gebeurtenis rondom draait in de geschiedenis.,rondom,wat
+11,Wh-Movement,51,stranding_2,544,Grammatical,De student vraagt waar de aantekeningen doorheen lopen in het college.,doorheen,waar
+11,Wh-Movement,51,stranding_2,544,Ungrammatical,De student vraagt wat de aantekeningen doorheen lopen in het college.,doorheen,wat
+11,Wh-Movement,51,stranding_2,545,Grammatical,De kunstenaar ziet waar de lijnen doorheen lopen in het schilderij.,doorheen,waar
+11,Wh-Movement,51,stranding_2,545,Ungrammatical,De kunstenaar ziet wat de lijnen doorheen lopen in het schilderij.,doorheen,wat
+11,Wh-Movement,51,stranding_2,546,Grammatical,De trainer vraagt waar de atleet opaf stuit tijdens de training.,opaf,waar
+11,Wh-Movement,51,stranding_2,546,Ungrammatical,De trainer vraagt wat de atleet opaf stuit tijdens de training.,opaf,wat
+11,Wh-Movement,51,stranding_2,547,Grammatical,De journalist vertelt waar de primeur vandaan kwam tijdens het interview.,vandaan,waar
+11,Wh-Movement,51,stranding_2,547,Ungrammatical,De journalist vertelt wat de primeur vandaan kwam tijdens het interview.,vandaan,wat
+11,Wh-Movement,51,stranding_2,548,Grammatical,De filmmaker ziet waar het verhaal doorheen weeft in de film.,doorheen,waar
+11,Wh-Movement,51,stranding_2,548,Ungrammatical,De filmmaker ziet wat het verhaal doorheen weeft in de film.,doorheen,wat
+11,Wh-Movement,51,stranding_2,549,Grammatical,De muzikant vertelt waar de melodie doorheen slingert in het lied.,doorheen,waar
+11,Wh-Movement,51,stranding_2,549,Ungrammatical,De muzikant vertelt wat de melodie doorheen slingert in het lied.,doorheen,wat
+11,Wh-Movement,51,stranding_2,550,Grammatical,De advocaat ziet waar het argument opaf bouwt in de zaak.,opaf,waar
+11,Wh-Movement,51,stranding_2,550,Ungrammatical,De advocaat ziet wat het argument opaf bouwt in de zaak.,opaf,wat
+11,Wh-Movement,51,stranding_2,551,Grammatical,De journalist vertelt waar het verhaal omheen draait in het artikel.,omheen,waar
+11,Wh-Movement,51,stranding_2,551,Ungrammatical,De journalist vertelt wat het verhaal omheen draait in het artikel.,omheen,wat
+11,Wh-Movement,51,stranding_2,552,Grammatical,De acrobaat laat zien waar hij overheen springt tijdens de voorstelling.,overheen,waar
+11,Wh-Movement,51,stranding_2,552,Ungrammatical,De acrobaat laat zien wat hij overheen springt tijdens de voorstelling.,overheen,wat
+11,Wh-Movement,51,stranding_2,553,Grammatical,De ontdekkingsreiziger vertelt waar hij doorheen reisde tijdens zijn avontuur.,doorheen,waar
+11,Wh-Movement,51,stranding_2,553,Ungrammatical,De ontdekkingsreiziger vertelt wat hij doorheen reisde tijdens zijn avontuur.,doorheen,wat
+11,Wh-Movement,51,stranding_2,554,Grammatical,De kinderen vertellen waar ze tussendoor rennen in het park.,tussendoor,waar
+11,Wh-Movement,51,stranding_2,554,Ungrammatical,De kinderen vertellen wat ze tussendoor rennen in het park.,tussendoor,wat
+11,Wh-Movement,51,stranding_2,555,Grammatical,De chef vertelt waar hij doorheen roert.,doorheen,waar
+11,Wh-Movement,51,stranding_2,555,Ungrammatical,De chef vertelt wat hij doorheen roert.,doorheen,wat
+11,Wh-Movement,51,stranding_2,556,Grammatical,De atleet toont waar hij overheen springt tijdens de hordeloop.,overheen,waar
+11,Wh-Movement,51,stranding_2,556,Ungrammatical,De atleet toont wat hij overheen springt tijdens de hordeloop.,overheen,wat
+11,Wh-Movement,51,stranding_2,557,Grammatical,De piloot weet waar hij overheen vliegt tijdens de vlucht.,overheen,waar
+11,Wh-Movement,51,stranding_2,557,Ungrammatical,De piloot weet wat hij overheen vliegt tijdens de vlucht.,overheen,wat
+11,Wh-Movement,51,stranding_2,558,Grammatical,De tuinman plant waar hij tussenin zaait in de moestuin.,tussenin,waar
+11,Wh-Movement,51,stranding_2,558,Ungrammatical,De tuinman plant wat hij tussenin zaait in de moestuin.,tussenin,wat
+11,Wh-Movement,51,stranding_2,559,Grammatical,De student vertelt waar hij omheen werkt in zijn scriptie.,omheen,waar
+11,Wh-Movement,51,stranding_2,559,Ungrammatical,De student vertelt wat hij omheen werkt in zijn scriptie.,omheen,wat
+11,Wh-Movement,51,stranding_2,560,Grammatical,De fietsers laten zien waar ze tegenin trappen tijdens de wedstrijd.,tegenin,waar
+11,Wh-Movement,51,stranding_2,560,Ungrammatical,De fietsers laten zien wat ze tegenin trappen tijdens de wedstrijd.,tegenin,wat
+11,Wh-Movement,51,stranding_2,561,Grammatical,De koorddanser laat zien waar hij overheen loopt.,overheen,waar
+11,Wh-Movement,51,stranding_2,561,Ungrammatical,De koorddanser laat zien wat hij overheen loopt.,overheen,wat
+11,Wh-Movement,51,stranding_2,562,Grammatical,De bergbeklimmer klimt waar hij tegenop klautert.,tegenop,waar
+11,Wh-Movement,51,stranding_2,562,Ungrammatical,De bergbeklimmer klimt wat hij tegenop klautert.,tegenop,wat
+11,Wh-Movement,51,stranding_2,563,Grammatical,De schaatser ziet waar hij tussendoor manoeuvreert op het ijs.,tussendoor,waar
+11,Wh-Movement,51,stranding_2,563,Ungrammatical,De schaatser ziet wat hij tussendoor manoeuvreert op het ijs.,tussendoor,wat
+11,Wh-Movement,51,stranding_2,564,Grammatical,De chauffeur weet waar hij omheen navigeert in de stad.,omheen,waar
+11,Wh-Movement,51,stranding_2,564,Ungrammatical,De chauffeur weet wat hij omheen navigeert in de stad.,omheen,wat
+11,Wh-Movement,51,stranding_2,565,Grammatical,De danser laat zien waar hij opaf danst tijdens de voorstelling.,opaf,waar
+11,Wh-Movement,51,stranding_2,565,Ungrammatical,De danser laat zien wat hij opaf danst tijdens de voorstelling.,opaf,wat
+11,Wh-Movement,51,stranding_2,566,Grammatical,De avonturier vertelt waar hij doorheen trekt in het oerwoud.,doorheen,waar
+11,Wh-Movement,51,stranding_2,566,Ungrammatical,De avonturier vertelt wat hij doorheen trekt in het oerwoud.,doorheen,wat
+11,Wh-Movement,51,stranding_2,567,Grammatical,De schilderijen laten zien waar de kunstenaar overheen penseelt.,overheen,waar
+11,Wh-Movement,51,stranding_2,567,Ungrammatical,De schilderijen laten zien wat de kunstenaar overheen penseelt.,overheen,wat
+11,Wh-Movement,51,stranding_2,568,Grammatical,De journalist beschrijft waar hij tegenaan kijkt in het nieuwsbericht.,tegenaan,waar
+11,Wh-Movement,51,stranding_2,568,Ungrammatical,De journalist beschrijft wat hij tegenaan kijkt in het nieuwsbericht.,tegenaan,wat
+11,Wh-Movement,51,stranding_2,569,Grammatical,De bioloog bestudeert waar de rivier doorheen kronkelt in het landschap.,doorheen,waar
+11,Wh-Movement,51,stranding_2,569,Ungrammatical,De bioloog bestudeert wat de rivier doorheen kronkelt in het landschap.,doorheen,wat
+11,Wh-Movement,51,stranding_2,570,Grammatical,De schrijver vertelt waar het verhaal naartoe gaat.,naartoe,waar
+11,Wh-Movement,51,stranding_2,570,Ungrammatical,De schrijver vertelt wat het verhaal naartoe gaat.,naartoe,wat
+11,Wh-Movement,51,stranding_2,571,Grammatical,De bioloog onderzoekt waar de planten doorheen groeien in het regenwoud.,doorheen,waar
+11,Wh-Movement,51,stranding_2,571,Ungrammatical,De bioloog onderzoekt wat de planten doorheen groeien in het regenwoud.,doorheen,wat
+11,Wh-Movement,51,stranding_2,572,Grammatical,De astronoom observeert waar de sterren doorheen bewegen aan de hemel.,doorheen,waar
+11,Wh-Movement,51,stranding_2,572,Ungrammatical,De astronoom observeert wat de sterren doorheen bewegen aan de hemel.,doorheen,wat
+11,Wh-Movement,51,stranding_2,573,Grammatical,De tuinman weet waar de bloemen doorheen bloeien in de tuin.,doorheen,waar
+11,Wh-Movement,51,stranding_2,573,Ungrammatical,De tuinman weet wat de bloemen doorheen bloeien in de tuin.,doorheen,wat
+11,Wh-Movement,51,stranding_2,574,Grammatical,De regisseur laat zien waar de camera doorheen beweegt in de film.,doorheen,waar
+11,Wh-Movement,51,stranding_2,574,Ungrammatical,De regisseur laat zien wat de camera doorheen beweegt in de film.,doorheen,wat
+11,Wh-Movement,51,stranding_2,575,Grammatical,De meteoroloog voorspelt waar de storm doorheen trekt volgende week.,doorheen,waar
+11,Wh-Movement,51,stranding_2,575,Ungrammatical,De meteoroloog voorspelt wat de storm doorheen trekt volgende week.,doorheen,wat
+11,Wh-Movement,51,stranding_2,576,Grammatical,De leraar vraagt waar de student tussenin staat tijdens de presentatie.,tussenin,waar
+11,Wh-Movement,51,stranding_2,576,Ungrammatical,De leraar vraagt wat de student tussenin staat tijdens de presentatie.,tussenin,wat
+11,Wh-Movement,51,stranding_2,577,Grammatical,De manager vraagt waar de werknemer achteraan rent in het kantoor.,achteraan,waar
+11,Wh-Movement,51,stranding_2,577,Ungrammatical,De manager vraagt wat de werknemer achteraan rent in het kantoor.,achteraan,wat
+11,Wh-Movement,51,stranding_2,578,Grammatical,De leraar vraagt waar de studenten naartoe gaan tijdens het schoolreisje.,naartoe,waar
+11,Wh-Movement,51,stranding_2,578,Ungrammatical,De leraar vraagt wat de studenten naartoe gaan tijdens het schoolreisje.,naartoe,wat
+11,Wh-Movement,51,stranding_2,579,Grammatical,De trainer vertelt waar de atleten naartoe rennen tijdens de estafette.,naartoe,waar
+11,Wh-Movement,51,stranding_2,579,Ungrammatical,De trainer vertelt wat de atleten naartoe rennen tijdens de estafette.,naartoe,wat
+11,Wh-Movement,51,stranding_2,580,Grammatical,De moeder vraagt waar de kinderen tussenin spelen in de speeltuin.,tussenin,waar
+11,Wh-Movement,51,stranding_2,580,Ungrammatical,De moeder vraagt wat de kinderen tussenin spelen in de speeltuin.,tussenin,wat
+11,Wh-Movement,51,stranding_2,581,Grammatical,De loodgieter laat zien waar het water doorheen stroomt.,doorheen,waar
+11,Wh-Movement,51,stranding_2,581,Ungrammatical,De loodgieter laat zien wat het water doorheen stroomt.,doorheen,wat
+11,Wh-Movement,51,stranding_2,582,Grammatical,De wegwerker vertelt waar de nieuwe weg doorheen zal lopen.,doorheen,waar
+11,Wh-Movement,51,stranding_2,582,Ungrammatical,De wegwerker vertelt wat de nieuwe weg doorheen zal lopen.,doorheen,wat
+11,Wh-Movement,51,stranding_2,583,Grammatical,De student vraagt waar de belangrijke informatie tussendoor staat in het boek.,tussendoor,waar
+11,Wh-Movement,51,stranding_2,583,Ungrammatical,De student vraagt wat de belangrijke informatie tussendoor staat in het boek.,tussendoor,wat
+11,Wh-Movement,51,stranding_2,584,Grammatical,De timmerman laat zien waar het hout overheen wordt geplaatst.,overheen,waar
+11,Wh-Movement,51,stranding_2,584,Ungrammatical,De timmerman laat zien wat het hout overheen wordt geplaatst.,overheen,wat
+11,Wh-Movement,51,stranding_2,585,Grammatical,De architect toont waar de nieuwe verdieping overheen zal worden gebouwd.,overheen,waar
+11,Wh-Movement,51,stranding_2,585,Ungrammatical,De architect toont wat de nieuwe verdieping overheen zal worden gebouwd.,overheen,wat
+11,Wh-Movement,51,stranding_2,586,Grammatical,De ober vertelt waar de tafels overheen worden gezet voor het diner.,overheen,waar
+11,Wh-Movement,51,stranding_2,586,Ungrammatical,De ober vertelt wat de tafels overheen worden gezet voor het diner.,overheen,wat
+11,Wh-Movement,51,stranding_2,587,Grammatical,De schilder laat zien waar de verf overheen wordt aangebracht.,overheen,waar
+11,Wh-Movement,51,stranding_2,587,Ungrammatical,De schilder laat zien wat de verf overheen wordt aangebracht.,overheen,wat
+11,Wh-Movement,51,stranding_2,588,Grammatical,De schipper wijst aan waar de boot omheen vaart in de haven.,omheen,waar
+11,Wh-Movement,51,stranding_2,588,Ungrammatical,De schipper wijst aan wat de boot omheen vaart in de haven.,omheen,wat
+11,Wh-Movement,51,stranding_2,589,Grammatical,De toneelspeler toont waar het licht overheen schijnt tijdens de voorstelling.,overheen,waar
+11,Wh-Movement,51,stranding_2,589,Ungrammatical,De toneelspeler toont wat het licht overheen schijnt tijdens de voorstelling.,overheen,wat
+11,Wh-Movement,51,stranding_2,590,Grammatical,De beveiliger vertelt waar de mensen omheen moeten lopen tijdens het evenement.,omheen,waar
+11,Wh-Movement,51,stranding_2,590,Ungrammatical,De beveiliger vertelt wat de mensen omheen moeten lopen tijdens het evenement.,omheen,wat
+11,Wh-Movement,51,stranding_2,591,Grammatical,De journalist vraagt waar de politicus tegenin gaat tijdens het debat.,tegenin,waar
+11,Wh-Movement,51,stranding_2,591,Ungrammatical,De journalist vraagt wat de politicus tegenin gaat tijdens het debat.,tegenin,wat
+11,Wh-Movement,51,stranding_2,592,Grammatical,De bioloog legt uit waar de organismen omheen gedijen in het ecosysteem.,omheen,waar
+11,Wh-Movement,51,stranding_2,592,Ungrammatical,De bioloog legt uit wat de organismen omheen gedijen in het ecosysteem.,omheen,wat
+11,Wh-Movement,51,stranding_2,593,Grammatical,De fotograaf laat zien waar de schaduw overheen valt in de foto.,overheen,waar
+11,Wh-Movement,51,stranding_2,593,Ungrammatical,De fotograaf laat zien wat de schaduw overheen valt in de foto.,overheen,wat
+11,Wh-Movement,51,stranding_2,594,Grammatical,De bakker vertelt waar de ingrediënten overheen worden gestrooid voor het bakken.,overheen,waar
+11,Wh-Movement,51,stranding_2,594,Ungrammatical,De bakker vertelt wat de ingrediënten overheen worden gestrooid voor het bakken.,overheen,wat
+11,Wh-Movement,51,stranding_2,595,Grammatical,De zangeres legt uit waar de melodie overheen moet worden gezongen in het lied.,overheen,waar
+11,Wh-Movement,51,stranding_2,595,Ungrammatical,De zangeres legt uit wat de melodie overheen moet worden gezongen in het lied.,overheen,wat
+11,Wh-Movement,51,stranding_2,596,Grammatical,De leraar vraagt waar de studenten doorheen moeten lezen in het boek.,doorheen,waar
+11,Wh-Movement,51,stranding_2,596,Ungrammatical,De leraar vraagt wat de studenten doorheen moeten lezen in het boek.,doorheen,wat
+11,Wh-Movement,51,stranding_2,597,Grammatical,De IT-specialist laat zien waar de kabels doorheen worden geleid in het netwerk.,doorheen,waar
+11,Wh-Movement,51,stranding_2,597,Ungrammatical,De IT-specialist laat zien wat de kabels doorheen worden geleid in het netwerk.,doorheen,wat
+11,Wh-Movement,51,stranding_2,598,Grammatical,De reisleider vertelt waar de toeristen naartoe gaan tijdens de excursie.,naartoe,waar
+11,Wh-Movement,51,stranding_2,598,Ungrammatical,De reisleider vertelt wat de toeristen naartoe gaan tijdens de excursie.,naartoe,wat
+11,Wh-Movement,51,stranding_2,599,Grammatical,De winkelier legt uit waar de klanten tussendoor kunnen lopen in de winkel.,tussendoor,waar
+11,Wh-Movement,51,stranding_2,599,Ungrammatical,De winkelier legt uit wat de klanten tussendoor kunnen lopen in de winkel.,tussendoor,wat
+11,Wh-Movement,51,stranding_2,600,Grammatical,De boer laat zien waar de tractor opaf rijdt in het veld.,opaf,waar
+11,Wh-Movement,51,stranding_2,600,Ungrammatical,De boer laat zien wat de tractor opaf rijdt in het veld.,opaf,wat

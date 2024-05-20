@@ -1,0 +1,601 @@
+Number (phenomenon),Phenomenon,Number (paradigm),Paradigm,Item,Grammaticality,Sentence,Critical word(s),Cue word(s)
+22,Extraposition,82,argument_nominal,1,Grammatical,De bewaker hoorde dat er iemand om hulp riep in het gebouw.,riep,iemand
+22,Extraposition,82,argument_nominal,1,Ungrammatical,De bewaker hoorde dat er daarstraks om hulp riep iemand in het gebouw.,riep,daarstraks
+22,Extraposition,82,argument_nominal,2,Grammatical,De surveillant zag dat er iemand om assistentie vroeg in het klaslokaal.,vroeg,iemand
+22,Extraposition,82,argument_nominal,2,Ungrammatical,De surveillant zag dat er kortgeleden om assistentie vroeg iemand in het klaslokaal.,vroeg,kortgeleden
+22,Extraposition,82,argument_nominal,3,Grammatical,De wachter vernam dat er iemand om ondersteuning smeekte op de stoep.,smeekte,iemand
+22,Extraposition,82,argument_nominal,3,Ungrammatical,De wachter vernam dat er onlangs om ondersteuning smeekte iemand op de stoep.,smeekte,onlangs
+22,Extraposition,82,argument_nominal,4,Grammatical,De toezichthouder hoorde dat er iemand om assistentie smeekte in de parkeergarage.,smeekte,iemand
+22,Extraposition,82,argument_nominal,4,Ungrammatical,De toezichthouder hoorde dat er pasgeleden om assistentie smeekte iemand in de parkeergarage.,smeekte,pasgeleden
+22,Extraposition,82,argument_nominal,5,Grammatical,De beheerder zag dat er iemand om ondersteuning riep in de gevangenis.,riep,iemand
+22,Extraposition,82,argument_nominal,5,Ungrammatical,De beheerder zag dat er recent om ondersteuning riep iemand in de gevangenis.,riep,recent
+22,Extraposition,82,argument_nominal,6,Grammatical,De poortwachter vernam dat er iemand om hulp vroeg op het plein.,vroeg,iemand
+22,Extraposition,82,argument_nominal,6,Ungrammatical,De poortwachter vernam dat er daarstraks om hulp vroeg iemand op het plein.,vroeg,daarstraks
+22,Extraposition,82,argument_nominal,7,Grammatical,De patrouille hoorde dat er iemand om ondersteuning vroeg tijdens de parade.,vroeg,iemand
+22,Extraposition,82,argument_nominal,7,Ungrammatical,De patrouille hoorde dat er kortgeleden om ondersteuning vroeg iemand tijdens de parade.,vroeg,kortgeleden
+22,Extraposition,82,argument_nominal,8,Grammatical,De oppasser zag dat er iemand om hulp smeekte op de camera.,smeekte,iemand
+22,Extraposition,82,argument_nominal,8,Ungrammatical,De oppasser zag dat er onlangs om hulp smeekte iemand op de camera.,smeekte,onlangs
+22,Extraposition,82,argument_nominal,9,Grammatical,De beveiliger vernam dat er iemand om assistentie riep door vreemde geluiden.,riep,iemand
+22,Extraposition,82,argument_nominal,9,Ungrammatical,De beveiliger vernam dat er pasgeleden om assistentie riep iemand door vreemde geluiden.,riep,pasgeleden
+22,Extraposition,82,argument_nominal,10,Grammatical,De portier hoorde dat er iemand om hulp riep vanuit zijn standplaats.,riep,iemand
+22,Extraposition,82,argument_nominal,10,Ungrammatical,De portier hoorde dat er recent om hulp riep iemand vanuit zijn standplaats.,riep,recent
+22,Extraposition,82,argument_nominal,11,Grammatical,De leraar merkte dat er iemand om uitleg vroeg tijdens de les.,vroeg,iemand
+22,Extraposition,82,argument_nominal,11,Ungrammatical,De leraar merkte dat er vanochtend om uitleg vroeg iemand tijdens de les.,vroeg,vanochtend
+22,Extraposition,82,argument_nominal,12,Grammatical,De verpleegkundige hoorde dat er iemand om medicatie vroeg in de ziekenhuiskamer.,vroeg,iemand
+22,Extraposition,82,argument_nominal,12,Ungrammatical,De verpleegkundige hoorde dat er vanmorgen om medicatie vroeg iemand in de ziekenhuiskamer.,vroeg,vanmorgen
+22,Extraposition,82,argument_nominal,13,Grammatical,De ober dacht dat er iemand om de menukaart vroeg in het restaurant.,vroeg,iemand
+22,Extraposition,82,argument_nominal,13,Ungrammatical,De ober dacht dat er gisteravond om de menukaart vroeg iemand in het restaurant.,vroeg,gisteravond
+22,Extraposition,82,argument_nominal,14,Grammatical,De monteur vernam dat er iemand om reparatie vroeg in de autowerkplaats.,vroeg,iemand
+22,Extraposition,82,argument_nominal,14,Ungrammatical,De monteur vernam dat er vanochtend om reparatie vroeg iemand in de autowerkplaats.,vroeg,vanochtend
+22,Extraposition,82,argument_nominal,15,Grammatical,De kinderen zagen dat er iemand om hulp riep naast de speeltuin.,riep,iemand
+22,Extraposition,82,argument_nominal,15,Ungrammatical,De kinderen zagen dat er vanochtend om hulp riep iemand naast de speeltuin.,riep,vanochtend
+22,Extraposition,82,argument_nominal,16,Grammatical,Bram hoorde dat er iemand om versterking riep achter de muur.,riep,iemand
+22,Extraposition,82,argument_nominal,16,Ungrammatical,Bram hoorde dat er net om versterking riep iemand achter de muur.,riep,net
+22,Extraposition,82,argument_nominal,17,Grammatical,Barbara zag dat er iemand om assistentie vroeg achterin de bus.,vroeg,iemand
+22,Extraposition,82,argument_nominal,17,Ungrammatical,Barbara zag dat er zojuist om assistentie vroeg iemand achterin de bus.,vroeg,zojuist
+22,Extraposition,82,argument_nominal,18,Grammatical,De receptionist hoorde dat er iemand om informatie vroeg bij de balie.,vroeg,iemand
+22,Extraposition,82,argument_nominal,18,Ungrammatical,De receptionist hoorde dat er gisteren om informatie vroeg iemand bij de balie.,vroeg,gisteren
+22,Extraposition,82,argument_nominal,19,Grammatical,De politieagent zag dat er iemand om hulp riep op straat.,zag,iemand
+22,Extraposition,82,argument_nominal,19,Ungrammatical,De politieagent zag dat er vorige week om hulp riep iemand op straat.,zag,vorige week
+22,Extraposition,82,argument_nominal,20,Grammatical,De conciërge vernam dat er iemand om ondersteuning vroeg in de gang.,vroeg,iemand
+22,Extraposition,82,argument_nominal,20,Ungrammatical,De conciërge vernam dat er gistermiddag om ondersteuning vroeg iemand in de gang.,vroeg,gistermiddag
+22,Extraposition,82,argument_nominal,21,Grammatical,De brandweerman hoorde dat er iemand om assistentie smeekte in het brandende huis.,smeekte,iemand
+22,Extraposition,82,argument_nominal,21,Ungrammatical,De brandweerman hoorde dat er onlangs om assistentie smeekte iemand in het brandende huis.,smeekte,onlangs
+22,Extraposition,82,argument_nominal,22,Grammatical,De medewerker zag dat er iemand om hulp vroeg in de supermarkt.,vroeg,iemand
+22,Extraposition,82,argument_nominal,22,Ungrammatical,De medewerker zag dat er dikwijls om hulp vroeg iemand in de supermarkt.,vroeg,dikwijls
+22,Extraposition,82,argument_nominal,23,Grammatical,De dokter merkte dat er iemand om medicijnen vroeg in de wachtkamer.,vroeg,iemand
+22,Extraposition,82,argument_nominal,23,Ungrammatical,De dokter merkte dat er vanavond om medicijnen vroeg iemand in de wachtkamer.,vroeg,vanavond
+22,Extraposition,82,argument_nominal,24,Grammatical,De receptioniste hoorde dat er iemand om een afspraak vroeg aan de telefoon.,vroeg,iemand
+22,Extraposition,82,argument_nominal,24,Ungrammatical,De receptioniste hoorde dat er gisterochtend om een afspraak vroeg iemand aan de telefoon.,vroeg,gisterochtend
+22,Extraposition,82,argument_nominal,25,Grammatical,De lifeguard zag dat er iemand om hulp zwaaide in het zwembad.,zwaaide,iemand
+22,Extraposition,82,argument_nominal,25,Ungrammatical,De lifeguard zag dat er vlug om hulp zwaaide iemand in het zwembad.,zwaaide,vlug
+22,Extraposition,82,argument_nominal,26,Grammatical,De chauffeur merkte dat er iemand om hulp vroeg bij de halte.,vroeg,iemand
+22,Extraposition,82,argument_nominal,26,Ungrammatical,De chauffeur merkte dat er gisteren om hulp vroeg iemand bij de halte.,vroeg,gisteren
+22,Extraposition,82,argument_nominal,27,Grammatical,De ober hoorde dat er iemand om de rekening vroeg in het café.,vroeg,iemand
+22,Extraposition,82,argument_nominal,27,Ungrammatical,De ober hoorde dat er altijd om de rekening vroeg iemand in het café.,vroeg,altijd
+22,Extraposition,82,argument_nominal,28,Grammatical,De bibliothecaris zag dat er iemand om assistentie vroeg in de stille ruimte.,vroeg,iemand
+22,Extraposition,82,argument_nominal,28,Ungrammatical,De bibliothecaris zag dat er gisteravond om assistentie vroeg iemand in de stille ruimte.,vroeg,gisteravond
+22,Extraposition,82,argument_nominal,29,Grammatical,De receptionist vernam dat er iemand om informatie vroeg bij de receptie.,vroeg,iemand
+22,Extraposition,82,argument_nominal,29,Ungrammatical,De receptionist vernam dat er donderdag om informatie vroeg iemand bij de receptie.,vroeg,donderdag
+22,Extraposition,82,argument_nominal,30,Grammatical,De ober merkte dat er iemand om water vroeg aan tafel.,vroeg,iemand
+22,Extraposition,82,argument_nominal,30,Ungrammatical,De ober merkte dat er vanmiddag om water vroeg iemand aan tafel.,vroeg,vanmiddag
+22,Extraposition,82,argument_nominal,31,Grammatical,De beveiligingsbeambte hoorde dat er iemand om assistentie vroeg bij de ingang.,vroeg,iemand
+22,Extraposition,82,argument_nominal,31,Ungrammatical,De beveiligingsbeambte hoorde dat er gisteren om assistentie vroeg iemand bij de ingang.,vroeg,gisteren
+22,Extraposition,82,argument_nominal,32,Grammatical,De lerares zag dat er iemand om uitleg vroeg tijdens de workshop.,vroeg,iemand
+22,Extraposition,82,argument_nominal,32,Ungrammatical,De lerares zag dat er zondag om uitleg vroeg iemand tijdens de workshop.,vroeg,zondag
+22,Extraposition,82,argument_nominal,33,Grammatical,De ober vernam dat er iemand om de dessertkaart vroeg in het restaurant.,vroeg,iemand
+22,Extraposition,82,argument_nominal,33,Ungrammatical,De ober vernam dat er vanochtend om de dessertkaart vroeg iemand in het restaurant.,vroeg,vanochtend
+22,Extraposition,82,argument_nominal,34,Grammatical,De receptioniste zag dat er iemand om hulp vroeg in de hotellobby.,vroeg,iemand
+22,Extraposition,82,argument_nominal,34,Ungrammatical,De receptioniste zag dat er vanmiddag om hulp vroeg iemand in de hotellobby.,vroeg,vanmiddag
+22,Extraposition,82,argument_nominal,35,Grammatical,De bewaker hoorde dat er iemand om hulp smeekte in het gebouw.,smeekte,iemand
+22,Extraposition,82,argument_nominal,35,Ungrammatical,De bewaker hoorde dat er gisteren om hulp smeekte iemand in het gebouw.,smeekte,gisteren
+22,Extraposition,82,argument_nominal,36,Grammatical,De surveillant zag dat er iemand om assistentie vroeg in het klaslokaal.,vroeg,iemand
+22,Extraposition,82,argument_nominal,36,Ungrammatical,De surveillant zag dat er woensdag om assistentie vroeg iemand in het klaslokaal.,vroeg,woensdag
+22,Extraposition,82,argument_nominal,37,Grammatical,De wachter vernam dat er iemand om ondersteuning smeekte op de stoep.,smeekte,iemand
+22,Extraposition,82,argument_nominal,37,Ungrammatical,De wachter vernam dat er vanmiddag om ondersteuning smeekte iemand op de stoep.,smeekte,vanmiddag
+22,Extraposition,82,argument_nominal,38,Grammatical,De toezichthouder hoorde dat er iemand om assistentie riep in de parkeergarage.,riep,iemand
+22,Extraposition,82,argument_nominal,38,Ungrammatical,De toezichthouder hoorde dat er vorige week om assistentie riep iemand in de parkeergarage.,riep,vorige week
+22,Extraposition,82,argument_nominal,39,Grammatical,De poortwachter vernam dat er iemand om hulp smeekte op het plein.,smeekte,iemand
+22,Extraposition,82,argument_nominal,39,Ungrammatical,De poortwachter vernam dat er vanochtend om hulp smeekte iemand op het plein.,smeekte,vanochtend
+22,Extraposition,82,argument_nominal,40,Grammatical,De verpleegkundige hoorde dat er iemand om medicatie smeekte in de ziekenhuiskamer.,smeekte,iemand
+22,Extraposition,82,argument_nominal,40,Ungrammatical,De verpleegkundige hoorde dat er dinsdag om medicatie smeekte iemand in de ziekenhuiskamer.,smeekte,dinsdag
+22,Extraposition,82,argument_nominal,41,Grammatical,Bram hoorde dat er iemand om versterking smeekte achter de muur.,smeekte,iemand
+22,Extraposition,82,argument_nominal,41,Ungrammatical,Bram hoorde dat er net om versterking smeekte iemand achter de muur.,smeekte,net
+22,Extraposition,82,argument_nominal,42,Grammatical,De ridder ontdekte dat er iemand om genade smeekte in de donkere kerker.,smeekte,iemand
+22,Extraposition,82,argument_nominal,42,Ungrammatical,De ridder ontdekte dat er gisteravond om genade smeekte iemand in de donkere kerker.,smeekte,gisteravond
+22,Extraposition,82,argument_nominal,43,Grammatical,De jonkvrouw merkte dat er iemand om bescherming vroeg tegen de draak.,vroeg,iemand
+22,Extraposition,82,argument_nominal,43,Ungrammatical,De jonkvrouw merkte dat er zojuist om bescherming vroeg iemand tegen de draak.,vroeg,zojuist
+22,Extraposition,82,argument_nominal,44,Grammatical,De koning vernam dat er iemand om vergiffenis smeekte voor zijn daden.,smeekte,iemand
+22,Extraposition,82,argument_nominal,44,Ungrammatical,De koning vernam dat er altijd om vergiffenis smeekte iemand voor zijn daden.,smeekte,altijd
+22,Extraposition,82,argument_nominal,45,Grammatical,De hofnar zag dat er iemand om vermaak riep in de grote zaal.,riep,iemand
+22,Extraposition,82,argument_nominal,45,Ungrammatical,De hofnar zag dat er kortgeleden om vermaak riep iemand in de grote zaal.,riep,kortgeleden
+22,Extraposition,82,argument_nominal,46,Grammatical,De troubadour hoorde dat er iemand om liefdesliederen smeekte in het kasteel.,smeekte,iemand
+22,Extraposition,82,argument_nominal,46,Ungrammatical,De troubadour hoorde dat er vanochtend om liefdesliederen smeekte iemand in het kasteel.,smeekte,vanochtend
+22,Extraposition,82,argument_nominal,47,Grammatical,De boogschutter zag dat er iemand om training vroeg op het oefenveld.,vroeg,iemand
+22,Extraposition,82,argument_nominal,47,Ungrammatical,De boogschutter zag dat er gistermiddag om training vroeg iemand op het oefenveld.,vroeg,gistermiddag
+22,Extraposition,82,argument_nominal,48,Grammatical,De heks vernam dat er iemand om een tegenspreuk smeekte voor de betovering.,smeekte,iemand
+22,Extraposition,82,argument_nominal,48,Ungrammatical,De heks vernam dat er vanavond om een tegenspreuk smeekte iemand voor de betovering.,smeekte,vanavond
+22,Extraposition,82,argument_nominal,49,Grammatical,De monnik merkte dat er iemand om zegen vroeg in de abdij.,vroeg,iemand
+22,Extraposition,82,argument_nominal,49,Ungrammatical,De monnik merkte dat er recentelijk om zegen vroeg iemand in de abdij.,vroeg,recentelijk
+22,Extraposition,82,argument_nominal,50,Grammatical,De handelaar hoorde dat er iemand om gunstige handelsvoorwaarden smeekte.,smeekte,iemand
+22,Extraposition,82,argument_nominal,50,Ungrammatical,De handelaar hoorde dat er dagelijks om gunstige handelsvoorwaarden smeekte iemand.,smeekte,dagelijks
+22,Extraposition,82,argument_nominal,51,Grammatical,De prinses zag dat er iemand om bevrijding riep uit de toren.,riep,iemand
+22,Extraposition,82,argument_nominal,51,Ungrammatical,De prinses zag dat er gisteren om bevrijding riep iemand uit de toren.,riep,gisteren
+22,Extraposition,82,argument_nominal,52,Grammatical,De schildknaap vernam dat er iemand om een kans vroeg op riddertraining.,vroeg,iemand
+22,Extraposition,82,argument_nominal,52,Ungrammatical,De schildknaap vernam dat er vanmorgen om een kans vroeg iemand op riddertraining.,vroeg,vanmorgen
+22,Extraposition,82,argument_nominal,53,Grammatical,De koningin merkte dat er iemand om clementie smeekte voor de gevangene.,smeekte,iemand
+22,Extraposition,82,argument_nominal,53,Ungrammatical,De koningin merkte dat er laatst om clementie smeekte iemand voor de gevangene.,smeekte,laatst
+22,Extraposition,82,argument_nominal,54,Grammatical,De alchemist hoorde dat er iemand om kennis vroeg over het maken van goud.,vroeg,iemand
+22,Extraposition,82,argument_nominal,54,Ungrammatical,De alchemist hoorde dat er vanmorgen om kennis vroeg iemand over het maken van goud.,vroeg,vanmorgen
+22,Extraposition,82,argument_nominal,55,Grammatical,De schildknaap zag dat er iemand om hulp riep tegen de roversbende.,riep,iemand
+22,Extraposition,82,argument_nominal,55,Ungrammatical,De schildknaap zag dat er zojuist om hulp riep iemand tegen de roversbende.,riep,zojuist
+22,Extraposition,82,argument_nominal,56,Grammatical,De nar vernam dat er iemand om een komisch intermezzo smeekte tijdens het banket.,smeekte,iemand
+22,Extraposition,82,argument_nominal,56,Ungrammatical,De nar vernam dat er vanmiddag om een komisch intermezzo smeekte iemand tijdens het banket.,smeekte,vanmiddag
+22,Extraposition,82,argument_nominal,57,Grammatical,De burchtvrouw hoorde dat er iemand om bescherming vroeg tegen de pest.,vroeg,iemand
+22,Extraposition,82,argument_nominal,57,Ungrammatical,De burchtvrouw hoorde dat er kortgeleden om bescherming vroeg iemand tegen de pest.,vroeg,kortgeleden
+22,Extraposition,82,argument_nominal,58,Grammatical,De smid zag dat er iemand om een zwaard smeekte van uitmuntende kwaliteit.,smeekte,iemand
+22,Extraposition,82,argument_nominal,58,Ungrammatical,De smid zag dat er gisteravond om een zwaard smeekte iemand van uitmuntende kwaliteit.,smeekte,gisteravond
+22,Extraposition,82,argument_nominal,59,Grammatical,De kluizenaar merkte dat er iemand om spirituele leiding vroeg in het bos.,vroeg,iemand
+22,Extraposition,82,argument_nominal,59,Ungrammatical,De kluizenaar merkte dat er vanochtend om spirituele leiding vroeg iemand in het bos.,vroeg,vanochtend
+22,Extraposition,82,argument_nominal,60,Grammatical,De bode vernam dat er iemand om nieuws smeekte van het slagveld.,smeekte,iemand
+22,Extraposition,82,argument_nominal,60,Ungrammatical,De bode vernam dat er wekelijks om nieuws smeekte iemand van het slagveld.,smeekte,wekelijks
+22,Extraposition,82,argument_nominal,61,Grammatical,De huishoudster merkte op dat er iemand om hulp vroeg met de afwas.,vroeg,iemand
+22,Extraposition,82,argument_nominal,61,Ungrammatical,De huishoudster merkte op dat er gisteravond om hulp vroeg iemand met de afwas.,vroeg,gisteravond
+22,Extraposition,82,argument_nominal,62,Grammatical,De klusjesman zag dat er iemand om assistentie smeekte met het repareren van de lekkende kraan.,smeekte,iemand
+22,Extraposition,82,argument_nominal,62,Ungrammatical,De klusjesman zag dat er vanochtend om assistentie smeekte iemand met het repareren van de lekkende kraan.,smeekte,vanochtend
+22,Extraposition,82,argument_nominal,63,Grammatical,De huisvrouw hoorde dat er iemand om stofzuighulp vroeg in de woonkamer.,vroeg,iemand
+22,Extraposition,82,argument_nominal,63,Ungrammatical,De huisvrouw hoorde dat er laatst om stofzuighulp vroeg iemand in de woonkamer.,vroeg,laatst
+22,Extraposition,82,argument_nominal,64,Grammatical,De tuinman vernam dat er iemand om hulp smeekte bij het snoeien van de struiken.,smeekte,iemand
+22,Extraposition,82,argument_nominal,64,Ungrammatical,De tuinman vernam dat er soms om hulp smeekte iemand bij het snoeien van de struiken.,smeekte,soms
+22,Extraposition,82,argument_nominal,65,Grammatical,De kinderen zagen dat er iemand om hulp vroeg bij het bouwen van een fort.,vroeg,iemand
+22,Extraposition,82,argument_nominal,65,Ungrammatical,De kinderen zagen dat er vanmiddag om hulp vroeg iemand bij het bouwen van een fort.,vroeg,vanmiddag
+22,Extraposition,82,argument_nominal,66,Grammatical,De loodgieter hoorde dat er iemand om hulp vroeg met de verstopte gootsteen.,vroeg,iemand
+22,Extraposition,82,argument_nominal,66,Ungrammatical,De loodgieter hoorde dat er maandelijks om hulp vroeg iemand met de verstopte gootsteen.,vroeg,maandelijks
+22,Extraposition,82,argument_nominal,67,Grammatical,De vader zag dat er iemand om hulp smeekte met het in elkaar zetten van meubels.,smeekte,iemand
+22,Extraposition,82,argument_nominal,67,Ungrammatical,De vader zag dat er gisteren om hulp smeekte iemand met het in elkaar zetten van meubels.,smeekte,gisteren
+22,Extraposition,82,argument_nominal,68,Grammatical,De keukenhulp vernam dat er iemand om assistentie vroeg met het koken van het avondeten.,vroeg,iemand
+22,Extraposition,82,argument_nominal,68,Ungrammatical,De keukenhulp vernam dat er vanochtend om assistentie vroeg iemand met het koken van het avondeten.,vroeg,vanochtend
+22,Extraposition,82,argument_nominal,69,Grammatical,De tiener zag dat er iemand om hulp smeekte bij het doen van de was.,smeekte,iemand
+22,Extraposition,82,argument_nominal,69,Ungrammatical,De tiener zag dat er zojuist om hulp smeekte iemand bij het doen van de was.,smeekte,zojuist
+22,Extraposition,82,argument_nominal,70,Grammatical,De klant zag dat er iemand om assistentie vroeg met het kiezen van de juiste stofzuiger.,vroeg,iemand
+22,Extraposition,82,argument_nominal,70,Ungrammatical,De klant zag dat er gistermiddag om assistentie vroeg iemand met het kiezen van de juiste stofzuiger.,vroeg,gistermiddag
+22,Extraposition,82,argument_nominal,71,Grammatical,De huisgenoot merkte dat er iemand om ondersteuning vroeg bij het opruimen van de gemeenschappelijke ruimte.,vroeg,iemand
+22,Extraposition,82,argument_nominal,71,Ungrammatical,De huisgenoot merkte dat er laatst om ondersteuning vroeg iemand bij het opruimen van de gemeenschappelijke ruimte.,vroeg,laatst
+22,Extraposition,82,argument_nominal,72,Grammatical,De bezorger zag dat er iemand om assistentie smeekte bij het tillen van de zware boodschappentassen.,smeekte,iemand
+22,Extraposition,82,argument_nominal,72,Ungrammatical,De bezorger zag dat er vanmorgen om assistentie smeekte iemand bij het tillen van de zware boodschappentassen.,smeekte,vanmorgen
+22,Extraposition,82,argument_nominal,73,Grammatical,De huiseigenaar vernam dat er iemand om assistentie vroeg bij het installeren van internet.,vroeg,iemand
+22,Extraposition,82,argument_nominal,73,Ungrammatical,De huiseigenaar vernam dat er gisteren om assistentie vroeg iemand bij het installeren van internet.,vroeg,gisteren
+22,Extraposition,82,argument_nominal,74,Grammatical,De babysitter zag dat er iemand om hulp smeekte bij het verschonen van luiers.,smeekte,iemand
+22,Extraposition,82,argument_nominal,74,Ungrammatical,De babysitter zag dat er vanochtend om hulp smeekte iemand bij het verschonen van luiers.,smeekte,vanochtend
+22,Extraposition,82,argument_nominal,75,Grammatical,De schoonmaker hoorde dat er iemand om hulp vroeg met het schoonmaken van ramen.,vroeg,iemand
+22,Extraposition,82,argument_nominal,75,Ungrammatical,De schoonmaker hoorde dat er zaterdag om hulp vroeg iemand met het schoonmaken van ramen.,vroeg,zaterdag
+22,Extraposition,82,argument_nominal,76,Grammatical,De snowboarder vernam dat er iemand om assistentie smeekte bij het vastmaken van de bindingen.,smeekte,iemand
+22,Extraposition,82,argument_nominal,76,Ungrammatical,De snowboarder vernam dat er vanochtend om assistentie smeekte iemand bij het vastmaken van de bindingen.,smeekte,vanochtend
+22,Extraposition,82,argument_nominal,77,Grammatical,De skileraar hoorde dat er iemand om instructies vroeg voor de juiste techniek.,vroeg,iemand
+22,Extraposition,82,argument_nominal,77,Ungrammatical,De skileraar hoorde dat er gisteren om instructies vroeg iemand voor de juiste techniek.,vroeg,gisteren
+22,Extraposition,82,argument_nominal,78,Grammatical,De snowboardster merkte op dat er iemand om begeleiding vroeg bij de halfpipe.,vroeg,iemand
+22,Extraposition,82,argument_nominal,78,Ungrammatical,De snowboardster merkte op dat er gisteravond om begeleiding vroeg iemand bij de halfpipe.,vroeg,gisteravond
+22,Extraposition,82,argument_nominal,79,Grammatical,De freestyle-skiër zag dat er iemand om tips vroeg voor het maken van tricks.,vroeg,iemand
+22,Extraposition,82,argument_nominal,79,Ungrammatical,De freestyle-skiër zag dat er soms om tips vroeg iemand voor het maken van tricks.,vroeg,soms
+22,Extraposition,82,argument_nominal,80,Grammatical,De ski-instructeur vernam dat er iemand om advies smeekte bij het afdalen van de steile helling.,smeekte,iemand
+22,Extraposition,82,argument_nominal,80,Ungrammatical,De ski-instructeur vernam dat er vanmorgen om advies smeekte iemand bij het afdalen van de steile helling.,smeekte,vanmorgen
+22,Extraposition,82,argument_nominal,81,Grammatical,De vogelaar zag dat er iemand om hulp vroeg bij het identificeren van de zangvogel.,vroeg,iemand
+22,Extraposition,82,argument_nominal,81,Ungrammatical,De vogelaar zag dat er gisteren om hulp vroeg iemand bij het identificeren van de zangvogel.,vroeg,gisteren
+22,Extraposition,82,argument_nominal,82,Grammatical,De wandelaar vernam dat er iemand om assistentie smeekte bij het oversteken van de rivier.,smeekte,iemand
+22,Extraposition,82,argument_nominal,82,Ungrammatical,De wandelaar vernam dat er vanochtend om assistentie smeekte iemand bij het oversteken van de rivier.,smeekte,vanochtend
+22,Extraposition,82,argument_nominal,83,Grammatical,De boswachter hoorde dat er iemand om uitleg vroeg over de flora in het natuurgebied.,vroeg,iemand
+22,Extraposition,82,argument_nominal,83,Ungrammatical,De boswachter hoorde dat er gistermiddag om uitleg vroeg iemand over de flora in het natuurgebied.,vroeg,gistermiddag
+22,Extraposition,82,argument_nominal,84,Grammatical,De natuurfotograaf zag dat er iemand om hulp smeekte bij het instellen van de camera.,smeekte,iemand
+22,Extraposition,82,argument_nominal,84,Ungrammatical,De natuurfotograaf zag dat er kortgeleden om hulp smeekte iemand bij het instellen van de camera.,smeekte,kortgeleden
+22,Extraposition,82,argument_nominal,85,Grammatical,De tuinier merkte op dat er iemand om assistentie vroeg bij het snoeien van de rozenstruik.,vroeg,iemand
+22,Extraposition,82,argument_nominal,85,Ungrammatical,De tuinier merkte op dat er gisteravond om assistentie vroeg iemand bij het snoeien van de rozenstruik.,vroeg,gisteravond
+22,Extraposition,82,argument_nominal,86,Grammatical,De ecologiestudent hoorde dat er iemand om begeleiding vroeg bij het bestuderen van insecten.,vroeg,iemand
+22,Extraposition,82,argument_nominal,86,Ungrammatical,De ecologiestudent hoorde dat er donderdag om begeleiding vroeg iemand bij het bestuderen van insecten.,vroeg,donderdag
+22,Extraposition,82,argument_nominal,87,Grammatical,De bergbeklimmer zag dat er iemand om hulp smeekte bij het afdalen van de steile helling.,smeekte,iemand
+22,Extraposition,82,argument_nominal,87,Ungrammatical,De bergbeklimmer zag dat er vanavond om hulp smeekte iemand bij het afdalen van de steile helling.,smeekte,vanavond
+22,Extraposition,82,argument_nominal,88,Grammatical,De botanicus vernam dat er iemand om uitleg vroeg over de groeicyclus van planten.,vroeg,iemand
+22,Extraposition,82,argument_nominal,88,Ungrammatical,De botanicus vernam dat er vanmorgen om uitleg vroeg iemand over de groeicyclus van planten.,vroeg,vanmorgen
+22,Extraposition,82,argument_nominal,89,Grammatical,De parkwachter zag dat er iemand om assistentie vroeg bij het redden van een gewond dier.,vroeg,iemand
+22,Extraposition,82,argument_nominal,89,Ungrammatical,De parkwachter zag dat er kortgeleden om assistentie vroeg iemand bij het redden van een gewond dier.,vroeg,kortgeleden
+22,Extraposition,82,argument_nominal,90,Grammatical,De kampeerder hoorde dat er iemand om hulp smeekte bij het opzetten van de tent.,smeekte,iemand
+22,Extraposition,82,argument_nominal,90,Ungrammatical,De kampeerder hoorde dat er gisterochtend om hulp smeekte iemand bij het opzetten van de tent.,smeekte,gisterochtend
+22,Extraposition,82,argument_nominal,91,Grammatical,De bioloog merkte op dat er iemand om begeleiding vroeg bij het observeren van wilde dieren.,vroeg,iemand
+22,Extraposition,82,argument_nominal,91,Ungrammatical,De bioloog merkte op dat er vanmiddag om begeleiding vroeg iemand bij het observeren van wilde dieren.,vroeg,vanmiddag
+22,Extraposition,82,argument_nominal,92,Grammatical,De natuurliefhebber vernam dat er iemand om assistentie vroeg bij het herkennen van bloemen.,vroeg,iemand
+22,Extraposition,82,argument_nominal,92,Ungrammatical,De natuurliefhebber vernam dat er zaterdag om assistentie vroeg iemand bij het herkennen van bloemen.,vroeg,zaterdag
+22,Extraposition,82,argument_nominal,93,Grammatical,De natuurgids vernam dat er iemand om begeleiding vroeg bij het wandelen door het bos.,vroeg,iemand
+22,Extraposition,82,argument_nominal,93,Ungrammatical,De natuurgids vernam dat er vanavond om begeleiding vroeg iemand bij het wandelen door het bos.,vroeg,vanavond
+22,Extraposition,82,argument_nominal,94,Grammatical,De mountainbiker zag dat er iemand om hulp smeekte bij het repareren van de fietsketting.,smeekte,iemand
+22,Extraposition,82,argument_nominal,94,Ungrammatical,De mountainbiker zag dat er gisteren om hulp smeekte iemand bij het repareren van de fietsketting.,smeekte,gisteren
+22,Extraposition,82,argument_nominal,95,Grammatical,De geoloog merkte op dat er iemand om uitleg vroeg over de vorming van bergen.,vroeg,iemand
+22,Extraposition,82,argument_nominal,95,Ungrammatical,De geoloog merkte op dat er maandag om uitleg vroeg iemand over de vorming van bergen.,vroeg,maandag
+22,Extraposition,82,argument_nominal,96,Grammatical,De jager zag dat er iemand om hulp vroeg bij het volgen van het wildspoor.,vroeg,iemand
+22,Extraposition,82,argument_nominal,96,Ungrammatical,De jager zag dat er gisteravond om hulp vroeg iemand bij het volgen van het wildspoor.,vroeg,gisteravond
+22,Extraposition,82,argument_nominal,97,Grammatical,De tuinarchitect hoorde dat er iemand om advies vroeg bij het ontwerpen van een bloementuin.,vroeg,iemand
+22,Extraposition,82,argument_nominal,97,Ungrammatical,De tuinarchitect hoorde dat er dinsdag om advies vroeg iemand bij het ontwerpen van een bloementuin.,vroeg,dinsdag
+22,Extraposition,82,argument_nominal,98,Grammatical,De speurneus zag dat er iemand om begeleiding smeekte bij het zoeken naar sporen van wilde dieren.,smeekte,iemand
+22,Extraposition,82,argument_nominal,98,Ungrammatical,De speurneus zag dat er kortgeleden om begeleiding smeekte iemand bij het zoeken naar sporen van wilde dieren.,smeekte,kortgeleden
+22,Extraposition,82,argument_nominal,99,Grammatical,De paddestoelenkenner zag dat er iemand om advies riep bij het determineren van een onbekende zwam.,riep,iemand
+22,Extraposition,82,argument_nominal,99,Ungrammatical,De paddestoelenkenner zag dat er vanochtend om advies riep iemand bij het determineren van een onbekende zwam.,riep,vanochtend
+22,Extraposition,82,argument_nominal,100,Grammatical,De survival-expert hoorde dat er iemand om tips vroeg bij het bouwen van een schuilplaats in de natuur.,vroeg,iemand
+22,Extraposition,82,argument_nominal,100,Ungrammatical,De survival-expert hoorde dat er vrijdag om tips vroeg iemand bij het bouwen van een schuilplaats in de natuur.,vroeg,vrijdag
+22,Extraposition,83,adjectival_adverbial,101,Grammatical,Jack wist dat de vriendin de handleiding erg zorgvuldig las tijdens het klussen.,erg zorgvuldig las,
+22,Extraposition,83,adjectival_adverbial,101,Ungrammatical,Jack wist dat de vriendin de handleiding las erg zorgvuldig tijdens het klussen.,las erg zorgvuldig,
+22,Extraposition,83,adjectival_adverbial,102,Grammatical,Jayden zag dat de medewerker het porselein bijzonder voorzichtig verplaatste in het museum.,bijzonder voorzichtig verplaatste,
+22,Extraposition,83,adjectival_adverbial,102,Ungrammatical,Jayden zag dat de medewerker het porselein verplaatste bijzonder voorzichtig in het museum.,verplaatste bijzonder voorzichtig,
+22,Extraposition,83,adjectival_adverbial,103,Grammatical,Vince begreep dat de monteur de auto ontzettend snel repareerde in de garage.,ontzettend snel repareerde,
+22,Extraposition,83,adjectival_adverbial,103,Ungrammatical,Vince begreep dat de monteur de auto repareerde ontzettend snel in de garage.,repareerde ontzettend snel,
+22,Extraposition,83,adjectival_adverbial,104,Grammatical,Sara geloofde dat de docent de lijnen zeer langzaam tekende tijdens de tekenles.,zeer langzaam tekende,
+22,Extraposition,83,adjectival_adverbial,104,Ungrammatical,Sara geloofde dat de docent de lijnen tekende zeer langzaam tijdens de tekenles.,tekende zeer langzaam,
+22,Extraposition,83,adjectival_adverbial,105,Grammatical,Joep hoorde dat het meisje de gewichten ongelooflijk gemakkelijk oppakte in de sportschool.,ongelooflijk gemakkelijk oppakte,
+22,Extraposition,83,adjectival_adverbial,105,Ungrammatical,Joep hoorde dat het meisje de gewichten oppakte ongelooflijk gemakkelijk in de sportschool.,oppakte ongelooflijk gemakkelijk,
+22,Extraposition,83,adjectival_adverbial,106,Grammatical,Mohammed zag dat de moeder het magazine heel rustig doorbladerde in de tuin.,heel rustig doorbladerde,
+22,Extraposition,83,adjectival_adverbial,106,Ungrammatical,Mohammed zag dat de moeder het magazine doorbladerde heel rustig in de tuin.,doorbladerde heel rustig,
+22,Extraposition,83,adjectival_adverbial,107,Grammatical,Morris begreep dat de regenbui extreem onverwacht kwam tijdens de boottocht.,extreem onverwacht kwam,
+22,Extraposition,83,adjectival_adverbial,107,Ungrammatical,Morris begreep dat de regenbui kwam extreem onverwacht tijdens de boottocht.,kwam extreem onverwacht,
+22,Extraposition,83,adjectival_adverbial,108,Grammatical,Lotte wist dat de juffrouw enorm eenvoudig uitlegde aan de kinderen.,enorm eenvoudig uitlegde,
+22,Extraposition,83,adjectival_adverbial,108,Ungrammatical,Lotte wist dat de juffrouw uitlegde enorm eenvoudig aan de kinderen.,uitlegde enorm eenvoudig,
+22,Extraposition,83,adjectival_adverbial,109,Grammatical,Tess hoorde dat de motor uitermate soepel draaide in de auto.,uitermate soepel draaide,
+22,Extraposition,83,adjectival_adverbial,109,Ungrammatical,Tess hoorde dat de motor draaide uitermate soepel in de auto.,draaide uitermate soepel,
+22,Extraposition,83,adjectival_adverbial,110,Grammatical,Abel geloofde dat de gewonde buitengewoon moeilijk liep na het ongeluk.,buitengewoon moeilijk liep,
+22,Extraposition,83,adjectival_adverbial,110,Ungrammatical,Abel geloofde dat de gewonde liep buitengewoon moeilijk na het ongeluk.,liep buitengewoon moeilijk,
+22,Extraposition,83,adjectival_adverbial,111,Grammatical,Liam hoorde dat de zangeres het liedje zeer emotioneel zong tijdens het concert.,zeer emotioneel zong,
+22,Extraposition,83,adjectival_adverbial,111,Ungrammatical,Liam hoorde dat de zangeres het liedje zong zeer emotioneel tijdens het concert.,zong zeer emotioneel,
+22,Extraposition,83,adjectival_adverbial,112,Grammatical,Fleur begreep dat de chirurg de operatie zeer nauwkeurig uitvoerde in het ziekenhuis.,zeer nauwkeurig uitvoerde,
+22,Extraposition,83,adjectival_adverbial,112,Ungrammatical,Fleur begreep dat de chirurg de operatie uitvoerde zeer nauwkeurig in het ziekenhuis.,uitvoerde zeer nauwkeurig,
+22,Extraposition,83,adjectival_adverbial,113,Grammatical,Emma zag dat de schilder het canvas bijzonder onhandig vasthield in het atelier.,bijzonder onhandig vasthield,
+22,Extraposition,83,adjectival_adverbial,113,Ungrammatical,Emma zag dat de schilder het canvas vasthield bijzonder onhandig in het atelier.,vasthield bijzonder onhandig,
+22,Extraposition,83,adjectival_adverbial,114,Grammatical,Sophie begreep dat de ober de bestelling bijzonder snel noteerde in het restaurant.,bijzonder snel noteerde,
+22,Extraposition,83,adjectival_adverbial,114,Ungrammatical,Sophie begreep dat de ober de bestelling noteerde bijzonder snel in het restaurant.,noteerde bijzonder snel,
+22,Extraposition,83,adjectival_adverbial,115,Grammatical,Olivia wist dat de bibliothecaris de boeken bijzonder systematisch ordende in de bibliotheek.,bijzonder systematisch ordende,
+22,Extraposition,83,adjectival_adverbial,115,Ungrammatical,Olivia wist dat de bibliothecaris de boeken ordende bijzonder systematisch in de bibliotheek.,ordende bijzonder systematisch,
+22,Extraposition,83,adjectival_adverbial,116,Grammatical,Finn zag dat de timmerman de planken bijzonder vakkundig bevestigde aan de muur.,bijzonder vakkundig bevestigde,
+22,Extraposition,83,adjectival_adverbial,116,Ungrammatical,Finn zag dat de timmerman de planken bevestigde bijzonder vakkundig aan de muur.,bevestigde bijzonder vakkundig,
+22,Extraposition,83,adjectival_adverbial,117,Grammatical,Mia begreep dat de chef-kok de ingrediënten bijzonder zorgvuldig afwoog in de keuken.,bijzonder zorgvuldig afwoog,
+22,Extraposition,83,adjectival_adverbial,117,Ungrammatical,Mia begreep dat de chef-kok de ingrediënten afwoog bijzonder zorgvuldig in de keuken.,afwoog bijzonder zorgvuldig,
+22,Extraposition,83,adjectival_adverbial,118,Grammatical,Noah hoorde dat de violist het muziekstuk bijzonder prachtig speelde tijdens het optreden.,bijzonder prachtig speelde,
+22,Extraposition,83,adjectival_adverbial,118,Ungrammatical,Noah hoorde dat de violist het muziekstuk speelde bijzonder prachtig tijdens het optreden.,speelde bijzonder prachtig,
+22,Extraposition,83,adjectival_adverbial,119,Grammatical,Eva geloofde dat de acteur de tekst bijzonder vloeiend opdreunde op het podium.,bijzonder vloeiend opdreunde,
+22,Extraposition,83,adjectival_adverbial,119,Ungrammatical,Eva geloofde dat de acteur de tekst opdreunde bijzonder vloeiend op het podium.,opdreunde bijzonder vloeiend,
+22,Extraposition,83,adjectival_adverbial,120,Grammatical,Liam zag dat de tuinman de planten bijzonder zorgvuldig water gaf in de tuin.,bijzonder zorgvuldig water gaf,
+22,Extraposition,83,adjectival_adverbial,120,Ungrammatical,Liam zag dat de tuinman de planten water gaf bijzonder zorgvuldig in de tuin.,water gaf bijzonder zorgvuldig,
+22,Extraposition,83,adjectival_adverbial,121,Grammatical,Zoë begreep dat de trainer de oefeningen erg stapsgewijs uitlegde in de sportschool.,erg stapsgewijs uitlegde,
+22,Extraposition,83,adjectival_adverbial,121,Ungrammatical,Zoë begreep dat de trainer de oefeningen uitlegde erg stapsgewijs in de sportschool.,uitlegde erg stapsgewijs,
+22,Extraposition,83,adjectival_adverbial,122,Grammatical,Anna zag dat de kunstenaar het schilderij uiterst voorzichtig inpakte in de galerie.,uiterst voorzichtig inpakte,
+22,Extraposition,83,adjectival_adverbial,122,Ungrammatical,Anna zag dat de kunstenaar het schilderij inpakte uiterst voorzichtig in de galerie.,inpakte uiterst voorzichtig,
+22,Extraposition,83,adjectival_adverbial,123,Grammatical,Lars begreep dat de kok de saus extreem nauwkeurig op smaak bracht in de keuken.,extreem nauwkeurig op smaak bracht,
+22,Extraposition,83,adjectival_adverbial,123,Ungrammatical,Lars begreep dat de kok de saus op smaak bracht extreem nauwkeurig in de keuken.,op smaak bracht extreem nauwkeurig,
+22,Extraposition,83,adjectival_adverbial,124,Grammatical,Milan wist dat de gids de route zeer duidelijk uitlegde tijdens de wandeling.,zeer duidelijk uitlegde,
+22,Extraposition,83,adjectival_adverbial,124,Ungrammatical,Milan wist dat de gids de route uitlegde zeer duidelijk tijdens de wandeling.,uitlegde zeer duidelijk,
+22,Extraposition,83,adjectival_adverbial,125,Grammatical,Sam begreep dat de schrijver het verhaal bijzonder boeiend vertelde tijdens de presentatie.,bijzonder boeiend vertelde,
+22,Extraposition,83,adjectival_adverbial,125,Ungrammatical,Sam begreep dat de schrijver het verhaal vertelde bijzonder boeiend tijdens de presentatie.,vertelde bijzonder boeiend,
+22,Extraposition,83,adjectival_adverbial,126,Grammatical,Sven begreep dat de arts de diagnose zeer zorgvuldig stelde tijdens het consult.,zeer zorgvuldig stelde,
+22,Extraposition,83,adjectival_adverbial,126,Ungrammatical,Sven begreep dat de arts de diagnose stelde zeer zorgvuldig tijdens het consult.,stelde zeer zorgvuldig,
+22,Extraposition,83,adjectival_adverbial,127,Grammatical,Lisa begreep dat de leraar de sommen heel duidelijk uitlegde tijdens de wiskundeles.,heel duidelijk uitlegde,
+22,Extraposition,83,adjectival_adverbial,127,Ungrammatical,Lisa begreep dat de leraar de sommen uitlegde heel duidelijk tijdens de wiskundeles.,uitlegde heel duidelijk,
+22,Extraposition,83,adjectival_adverbial,128,Grammatical,Tim zag dat de kunstenaar het schilderij extreem gedetailleerd afwerkte in het atelier.,extreem gedetailleerd afwerkte,
+22,Extraposition,83,adjectival_adverbial,128,Ungrammatical,Tim zag dat de kunstenaar het schilderij afwerkte extreem gedetailleerd in het atelier.,afwerkte extreem gedetailleerd,
+22,Extraposition,83,adjectival_adverbial,129,Grammatical,Emma hoorde dat de violist het muziekstuk zeer gevoelig speelde tijdens het concert.,zeer gevoelig speelde,
+22,Extraposition,83,adjectival_adverbial,129,Ungrammatical,Emma hoorde dat de violist het muziekstuk speelde zeer gevoelig tijdens het concert.,speelde zeer gevoelig,
+22,Extraposition,83,adjectival_adverbial,130,Grammatical,Lars wist dat de chef-kok de saus ontzettend smaakvol bereidde in de keuken.,ontzettend smaakvol bereidde,
+22,Extraposition,83,adjectival_adverbial,130,Ungrammatical,Lars wist dat de chef-kok de saus bereidde ontzettend smaakvol in de keuken.,bereidde ontzettend smaakvol,
+22,Extraposition,83,adjectival_adverbial,131,Grammatical,Julia zag dat de tuinman de planten heel zorgvuldig verzorgde in de tuin.,heel zorgvuldig verzorgde,
+22,Extraposition,83,adjectival_adverbial,131,Ungrammatical,Julia zag dat de tuinman de planten verzorgde heel zorgvuldig in de tuin.,verzorgde heel zorgvuldig,
+22,Extraposition,83,adjectival_adverbial,132,Grammatical,Ruben begreep dat de schrijver het verhaal bijzonder meeslepend vertelde tijdens de presentatie.,bijzonder meeslepend vertelde,
+22,Extraposition,83,adjectival_adverbial,132,Ungrammatical,Ruben begreep dat de schrijver het verhaal vertelde bijzonder meeslepend tijdens de presentatie.,vertelde bijzonder meeslepend,
+22,Extraposition,83,adjectival_adverbial,133,Grammatical,Finn zag dat de timmerman het meubel uitermate vakkundig construeerde in het atelier.,uitermate vakkundig construeerde,
+22,Extraposition,83,adjectival_adverbial,133,Ungrammatical,Finn zag dat de timmerman het meubel construeerde uitermate vakkundig in het atelier.,construeerde uitermate vakkundig,
+22,Extraposition,83,adjectival_adverbial,134,Grammatical,Noa begreep dat de trainer de oefeningen zeer effectief demonstreerde in de sportschool.,zeer effectief demonstreerde,
+22,Extraposition,83,adjectival_adverbial,134,Ungrammatical,Noa begreep dat de trainer de oefeningen demonstreerde zeer effectief in de sportschool.,demonstreerde zeer effectief,
+22,Extraposition,83,adjectival_adverbial,135,Grammatical,Milan wist dat de gids de route heel nauwkeurig uitlegde tijdens de excursie.,heel nauwkeurig uitlegde,
+22,Extraposition,83,adjectival_adverbial,135,Ungrammatical,Milan wist dat de gids de route uitlegde heel nauwkeurig tijdens de excursie.,uitlegde heel nauwkeurig,
+22,Extraposition,83,adjectival_adverbial,136,Grammatical,Nina zag dat de fotograaf de foto's heel kunstzinnig bewerkte in de studio.,heel kunstzinnig bewerkte,
+22,Extraposition,83,adjectival_adverbial,136,Ungrammatical,Nina zag dat de fotograaf de foto's bewerkte heel kunstzinnig in de studio.,bewerkte heel kunstzinnig,
+22,Extraposition,83,adjectival_adverbial,137,Grammatical,Luuk begreep dat de lerares de grammaticaregels uiterst helder uitlegde in de klas.,uiterst helder uitlegde,
+22,Extraposition,83,adjectival_adverbial,137,Ungrammatical,Luuk begreep dat de lerares de grammaticaregels uitlegde uiterst helder in de klas.,uitlegde uiterst helder,
+22,Extraposition,83,adjectival_adverbial,138,Grammatical,Fleur hoorde dat de muzikant het instrument heel virtuoos bespeelde tijdens het concert.,heel virtuoos bespeelde,
+22,Extraposition,83,adjectival_adverbial,138,Ungrammatical,Fleur hoorde dat de muzikant het instrument bespeelde heel virtuoos tijdens het concert.,bespeelde heel virtuoos,
+22,Extraposition,83,adjectival_adverbial,139,Grammatical,Jesse wist dat de wetenschapper de resultaten bijzonder grondig analyseerde in het laboratorium.,bijzonder grondig analyseerde,
+22,Extraposition,83,adjectival_adverbial,139,Ungrammatical,Jesse wist dat de wetenschapper de resultaten analyseerde bijzonder grondig in het laboratorium.,analyseerde bijzonder grondig,
+22,Extraposition,83,adjectival_adverbial,140,Grammatical,Sanne zag dat de acteur de rol heel overtuigend vertolkte op het toneel.,heel overtuigend vertolkte,
+22,Extraposition,83,adjectival_adverbial,140,Ungrammatical,Sanne zag dat de acteur de rol vertolkte heel overtuigend op het toneel.,vertolkte heel overtuigend,
+22,Extraposition,83,adjectival_adverbial,141,Grammatical,Liam begreep dat de journalist het nieuwsbericht uiterst objectief rapporteerde in de krant.,uiterst objectief rapporteerde,
+22,Extraposition,83,adjectival_adverbial,141,Ungrammatical,Liam begreep dat de journalist het nieuwsbericht rapporteerde uiterst objectief in de krant.,rapporteerde uiterst objectief,
+22,Extraposition,83,adjectival_adverbial,142,Grammatical,Zoë hoorde dat de dirigent het orkest zeer enthousiast leidde tijdens het concert.,zeer enthousiast leidde,
+22,Extraposition,83,adjectival_adverbial,142,Ungrammatical,Zoë hoorde dat de dirigent het orkest leidde zeer enthousiast tijdens het concert.,leidde zeer enthousiast,
+22,Extraposition,83,adjectival_adverbial,143,Grammatical,Tess zag dat de dokter de diagnose heel nauwkeurig stelde tijdens het consult.,heel nauwkeurig stelde,
+22,Extraposition,83,adjectival_adverbial,143,Ungrammatical,Tess zag dat de dokter de diagnose stelde heel nauwkeurig tijdens het consult.,stelde heel nauwkeurig,
+22,Extraposition,83,adjectival_adverbial,144,Grammatical,Milan begreep dat de trainer de atleten extreem gedisciplineerd coachte tijdens de wedstrijd.,extreem gedisciplineerd coachte,
+22,Extraposition,83,adjectival_adverbial,144,Ungrammatical,Milan begreep dat de trainer de atleten coachte extreem gedisciplineerd tijdens de wedstrijd.,coachte extreem gedisciplineerd,
+22,Extraposition,83,adjectival_adverbial,145,Grammatical,Emma zag dat de schilder het doek heel kleurrijk beschilderde in het atelier.,heel kleurrijk beschilderde,
+22,Extraposition,83,adjectival_adverbial,145,Ungrammatical,Emma zag dat de schilder het doek beschilderde heel kleurrijk in het atelier.,beschilderde heel kleurrijk,
+22,Extraposition,83,adjectival_adverbial,146,Grammatical,Sven begreep dat de leraar de uitleg heel helder formuleerde tijdens de les.,heel helder formuleerde,
+22,Extraposition,83,adjectival_adverbial,146,Ungrammatical,Sven begreep dat de leraar de uitleg formuleerde heel helder tijdens de les.,formuleerde heel helder,
+22,Extraposition,83,adjectival_adverbial,147,Grammatical,Ruben wist dat de ingenieur het prototype heel nauwkeurig testte in het laboratorium.,heel nauwkeurig testte,
+22,Extraposition,83,adjectival_adverbial,147,Ungrammatical,Ruben wist dat de ingenieur het prototype testte heel nauwkeurig in het laboratorium.,testte heel nauwkeurig,
+22,Extraposition,83,adjectival_adverbial,148,Grammatical,Feline zag dat de acteur de scène heel dramatisch speelde op het toneel.,heel dramatisch speelde,
+22,Extraposition,83,adjectival_adverbial,148,Ungrammatical,Feline zag dat de acteur de scène speelde heel dramatisch op het toneel.,speelde heel dramatisch,
+22,Extraposition,83,adjectival_adverbial,149,Grammatical,Evi zag dat de kunstenaar het beeldhouwwerk heel vakkundig creëerde in het atelier.,heel vakkundig creëerde,
+22,Extraposition,83,adjectival_adverbial,149,Ungrammatical,Evi zag dat de kunstenaar het beeldhouwwerk creëerde heel vakkundig in het atelier.,creëerde heel vakkundig,
+22,Extraposition,83,adjectival_adverbial,150,Grammatical,Finn begreep dat de expert de theorie heel begrijpelijk uitlegde tijdens het seminar.,heel begrijpelijk uitlegde,
+22,Extraposition,83,adjectival_adverbial,150,Ungrammatical,Finn begreep dat de expert de theorie uitlegde heel begrijpelijk tijdens het seminar.,uitlegde heel begrijpelijk,
+22,Extraposition,83,adjectival_adverbial,151,Grammatical,Liam wist dat de chef-kok het gerecht heel creatief presenteerde in het restaurant.,heel creatief presenteerde,
+22,Extraposition,83,adjectival_adverbial,151,Ungrammatical,Liam wist dat de chef-kok het gerecht presenteerde heel creatief in het restaurant.,presenteerde heel creatief,
+22,Extraposition,83,adjectival_adverbial,152,Grammatical,Niels zag dat de schilder het landschap heel realistisch vastlegde op het doek.,heel realistisch vastlegde,
+22,Extraposition,83,adjectival_adverbial,152,Ungrammatical,Niels zag dat de schilder het landschap vastlegde heel realistisch op het doek.,vastlegde heel realistisch,
+22,Extraposition,83,adjectival_adverbial,153,Grammatical,Isa wist dat de lerares de taalles heel interactief verzorgde in de klas.,heel interactief verzorgde,
+22,Extraposition,83,adjectival_adverbial,153,Ungrammatical,Isa wist dat de lerares de taalles verzorgde heel interactief in de klas.,verzorgde heel interactief,
+22,Extraposition,83,adjectival_adverbial,154,Grammatical,Daan hoorde dat de zanger het nummer heel krachtig zong tijdens het optreden.,heel krachtig zong,
+22,Extraposition,83,adjectival_adverbial,154,Ungrammatical,Daan hoorde dat de zanger het nummer zong heel krachtig tijdens het optreden.,zong heel krachtig,
+22,Extraposition,83,adjectival_adverbial,155,Grammatical,Emma hoorde dat de pianist het stuk heel emotioneel speelde tijdens het recital.,heel emotioneel speelde,
+22,Extraposition,83,adjectival_adverbial,155,Ungrammatical,Emma hoorde dat de pianist het stuk speelde heel emotioneel tijdens het recital.,speelde heel emotioneel,
+22,Extraposition,83,adjectival_adverbial,156,Grammatical,Fleur begreep dat de journalist het artikel heel kritisch schreef voor de krant.,heel kritisch schreef,
+22,Extraposition,83,adjectival_adverbial,156,Ungrammatical,Fleur begreep dat de journalist het artikel schreef heel kritisch voor de krant.,schreef heel kritisch,
+22,Extraposition,83,adjectival_adverbial,157,Grammatical,Milan wist dat de trainer de tactiek heel strategisch aanpaste tijdens de wedstrijd.,heel strategisch aanpaste,
+22,Extraposition,83,adjectival_adverbial,157,Ungrammatical,Milan wist dat de trainer de tactiek aanpaste heel strategisch tijdens de wedstrijd.,aanpaste heel strategisch,
+22,Extraposition,83,adjectival_adverbial,158,Grammatical,Nina zag dat de architect het gebouw heel innovatief ontwierp in het bureau.,heel innovatief ontwierp,
+22,Extraposition,83,adjectival_adverbial,158,Ungrammatical,Nina zag dat de architect het gebouw ontwierp heel innovatief in het bureau.,ontwierp heel innovatief,
+22,Extraposition,83,adjectival_adverbial,159,Grammatical,Sven begreep dat de leraar de lesstof heel gestructureerd behandelde in de klas.,heel gestructureerd behandelde,
+22,Extraposition,83,adjectival_adverbial,159,Ungrammatical,Sven begreep dat de leraar de lesstof behandelde heel gestructureerd in de klas.,behandelde heel gestructureerd,
+22,Extraposition,83,adjectival_adverbial,160,Grammatical,Noor hoorde dat de zangeres het nummer heel gevoelig zong tijdens het optreden.,heel gevoelig zong,
+22,Extraposition,83,adjectival_adverbial,160,Ungrammatical,Noor hoorde dat de zangeres het nummer zong heel gevoelig tijdens het optreden.,zong heel gevoelig,
+22,Extraposition,83,adjectival_adverbial,161,Grammatical,Noa hoorde dat de violist het stuk heel gepassioneerd speelde tijdens het concert.,heel gepassioneerd speelde,
+22,Extraposition,83,adjectival_adverbial,161,Ungrammatical,Noa hoorde dat de violist het stuk speelde heel gepassioneerd tijdens het concert.,speelde heel gepassioneerd,
+22,Extraposition,83,adjectival_adverbial,162,Grammatical,Milan zag dat de gids de route heel gedetailleerd uitlegde tijdens de wandeling.,heel gedetailleerd uitlegde,
+22,Extraposition,83,adjectival_adverbial,162,Ungrammatical,Milan zag dat de gids de route uitlegde heel gedetailleerd tijdens de wandeling.,uitlegde heel gedetailleerd,
+22,Extraposition,83,adjectival_adverbial,163,Grammatical,Fleur wist dat de expert de procedure heel zorgvuldig uitvoerde in het laboratorium.,heel zorgvuldig uitvoerde,
+22,Extraposition,83,adjectival_adverbial,163,Ungrammatical,Fleur wist dat de expert de procedure uitvoerde heel zorgvuldig in het laboratorium.,uitvoerde heel zorgvuldig,
+22,Extraposition,83,adjectival_adverbial,164,Grammatical,Ruben zag dat de ontwerper de schetsen heel nauwkeurig uitwerkte in het atelier.,heel nauwkeurig uitwerkte,
+22,Extraposition,83,adjectival_adverbial,164,Ungrammatical,Ruben zag dat de ontwerper de schetsen uitwerkte heel nauwkeurig in het atelier.,uitwerkte heel nauwkeurig,
+22,Extraposition,83,adjectival_adverbial,165,Grammatical,Mia zag dat de chef-kok de ingrediënten zeer nauwkeurig afwoog in de keuken.,zeer nauwkeurig afwoog,
+22,Extraposition,83,adjectival_adverbial,165,Ungrammatical,Mia zag dat de chef-kok de ingrediënten afwoog zeer nauwkeurig in de keuken.,afwoog zeer nauwkeurig,
+22,Extraposition,83,adjectival_adverbial,166,Grammatical,Tim begreep dat de ingenieur de plannen uiterst gedetailleerd uitwerkte op kantoor.,uiterst gedetailleerd uitwerkte,
+22,Extraposition,83,adjectival_adverbial,166,Ungrammatical,Tim begreep dat de ingenieur de plannen uitwerkte uiterst gedetailleerd op kantoor.,uitwerkte uiterst gedetailleerd,
+22,Extraposition,83,adjectival_adverbial,167,Grammatical,Sophie hoorde dat de zangeres de hoge noten buitengewoon zuiver zong op het podium.,buitengewoon zuiver zong,
+22,Extraposition,83,adjectival_adverbial,167,Ungrammatical,Sophie hoorde dat de zangeres de hoge noten zong buitengewoon zuiver op het podium.,zong buitengewoon zuiver,
+22,Extraposition,83,adjectival_adverbial,168,Grammatical,Emma zag dat de ober de gerechten heel elegant serveerde in het restaurant.,heel elegant serveerde,
+22,Extraposition,83,adjectival_adverbial,168,Ungrammatical,Emma zag dat de ober de gerechten serveerde heel elegant in het restaurant.,serveerde heel elegant,
+22,Extraposition,83,adjectival_adverbial,169,Grammatical,Olivia hoorde dat de muzikant de melodieën ongelooflijk vloeiend speelde op het podium.,ongelooflijk vloeiend speelde,
+22,Extraposition,83,adjectival_adverbial,169,Ungrammatical,Olivia hoorde dat de muzikant de melodieën speelde ongelooflijk vloeiend op het podium.,speelde ongelooflijk vloeiend,
+22,Extraposition,83,adjectival_adverbial,170,Grammatical,Finn geloofde dat de schrijver de plotwendingen zeer subtiel verwerkte in het verhaal.,zeer subtiel verwerkte,
+22,Extraposition,83,adjectival_adverbial,170,Ungrammatical,Finn geloofde dat de schrijver de plotwendingen verwerkte zeer subtiel in het verhaal.,verwerkte zeer subtiel,
+22,Extraposition,83,adjectival_adverbial,171,Grammatical,Nora zag dat de atleet de hindernissen extreem behendig ontweek op de baan.,extreem behendig ontweek,
+22,Extraposition,83,adjectival_adverbial,171,Ungrammatical,Nora zag dat de atleet de hindernissen ontweek extreem behendig op de baan.,ontweek extreem behendig,
+22,Extraposition,83,adjectival_adverbial,172,Grammatical,Zoe hoorde dat de acteur de dialogen bijzonder overtuigend opvoerde op het toneel.,bijzonder overtuigend opvoerde,
+22,Extraposition,83,adjectival_adverbial,172,Ungrammatical,Zoe hoorde dat de acteur de dialogen opvoerde bijzonder overtuigend op het toneel.,opvoerde bijzonder overtuigend,
+22,Extraposition,83,adjectival_adverbial,173,Grammatical,Sophie begreep dat de kunstenaar de kleuren zeer expressief mengde op het doek.,zeer expressief mengde,
+22,Extraposition,83,adjectival_adverbial,173,Ungrammatical,Sophie begreep dat de kunstenaar de kleuren mengde zeer expressief op het doek.,mengde zeer expressief,
+22,Extraposition,83,adjectival_adverbial,174,Grammatical,Liam zag dat de bakker de broden heel vakkundig kneedde in de bakkerij.,heel vakkundig kneedde,
+22,Extraposition,83,adjectival_adverbial,174,Ungrammatical,Liam zag dat de bakker de broden kneedde heel vakkundig in de bakkerij.,kneedde heel vakkundig,
+22,Extraposition,83,adjectival_adverbial,175,Grammatical,Finn geloofde dat de ontwerper de stoffen buitengewoon creatief combineerde in de modecollectie.,buitengewoon creatief combineerde,
+22,Extraposition,83,adjectival_adverbial,175,Ungrammatical,Finn geloofde dat de ontwerper de stoffen combineerde buitengewoon creatief in de modecollectie.,combineerde buitengewoon creatief,
+22,Extraposition,83,adjectival_adverbial,176,Grammatical,Max begreep dat de chef-kok de kruiden heel subtiel toevoegde aan het gerecht.,heel subtiel toevoegde,
+22,Extraposition,83,adjectival_adverbial,176,Ungrammatical,Max begreep dat de chef-kok de kruiden toevoegde heel subtiel aan het gerecht.,toevoegde heel subtiel,
+22,Extraposition,83,adjectival_adverbial,177,Grammatical,Lucas geloofde dat de architect de vormen buitengewoon innovatief integreerde in het gebouw.,buitengewoon innovatief integreerde,
+22,Extraposition,83,adjectival_adverbial,177,Ungrammatical,Lucas geloofde dat de architect de vormen integreerde buitengewoon innovatief in het gebouw.,integreerde buitengewoon innovatief,
+22,Extraposition,83,adjectival_adverbial,178,Grammatical,Emma zag dat de danser de bewegingen heel elegant uitvoerde op het podium.,heel elegant uitvoerde,
+22,Extraposition,83,adjectival_adverbial,178,Ungrammatical,Emma zag dat de danser de bewegingen uitvoerde heel elegant op het podium.,uitvoerde heel elegant,
+22,Extraposition,83,adjectival_adverbial,179,Grammatical,David wist dat de schrijver de karakters zeer genuanceerd beschreef in het verhaal.,zeer genuanceerd beschreef,
+22,Extraposition,83,adjectival_adverbial,179,Ungrammatical,David wist dat de schrijver de karakters beschreef zeer genuanceerd in het verhaal.,beschreef zeer genuanceerd,
+22,Extraposition,83,adjectival_adverbial,180,Grammatical,Tim zag dat de ontwikkelaar de code heel efficiënt optimaliseerde in het softwareproject.,heel efficiënt optimaliseerde,
+22,Extraposition,83,adjectival_adverbial,180,Ungrammatical,Tim zag dat de ontwikkelaar de code optimaliseerde heel efficiënt in het softwareproject.,optimaliseerde heel efficiënt,
+22,Extraposition,83,adjectival_adverbial,181,Grammatical,Thijs zag dat de chirurg de operatie heel vakkundig uitvoerde in de operatiekamer.,heel vakkundig uitvoerde,
+22,Extraposition,83,adjectival_adverbial,181,Ungrammatical,Thijs zag dat de chirurg de operatie uitvoerde heel vakkundig in de operatiekamer.,uitvoerde heel vakkundig,
+22,Extraposition,83,adjectival_adverbial,182,Grammatical,Daan geloofde dat de econoom de grafieken zeer zorgvuldig interpreteerde in het rapport.,zeer zorgvuldig interpreteerde,
+22,Extraposition,83,adjectival_adverbial,182,Ungrammatical,Daan geloofde dat de econoom de grafieken interpreteerde zeer zorgvuldig in het rapport.,interpreteerde zeer zorgvuldig,
+22,Extraposition,83,adjectival_adverbial,183,Grammatical,Sam begreep dat de receptionist de afspraken zeer efficiënt plande in de agenda.,zeer efficiënt plande,
+22,Extraposition,83,adjectival_adverbial,183,Ungrammatical,Sam begreep dat de receptionist de afspraken plande zeer efficiënt in de agenda.,plande zeer efficiënt,
+22,Extraposition,83,adjectival_adverbial,184,Grammatical,Olivia zag dat de bakker de taarten heel kunstig decoreerde in de patisserie.,heel kunstig decoreerde,
+22,Extraposition,83,adjectival_adverbial,184,Ungrammatical,Olivia zag dat de bakker de taarten decoreerde heel kunstig in de patisserie.,decoreerde heel kunstig,
+22,Extraposition,83,adjectival_adverbial,185,Grammatical,Thijs begreep dat de programmeur de code heel gestructureerd schreef in het project.,heel gestructureerd schreef,
+22,Extraposition,83,adjectival_adverbial,185,Ungrammatical,Thijs begreep dat de programmeur de code schreef heel gestructureerd in het project,schreef heel gestructureerd,
+22,Extraposition,83,adjectival_adverbial,186,Grammatical,Sam geloofde dat de schrijver de verhaallijn heel boeiend ontwikkelde in het boek.,heel boeiend ontwikkelde,
+22,Extraposition,83,adjectival_adverbial,186,Ungrammatical,Sam geloofde dat de schrijver de verhaallijn ontwikkelde heel boeiend in het boek.,ontwikkelde heel boeiend,
+22,Extraposition,83,adjectival_adverbial,187,Grammatical,Liam begreep dat de ingenieur de technische tekeningen heel gedetailleerd uitwerkte op de computer.,heel gedetailleerd uitwerkte,
+22,Extraposition,83,adjectival_adverbial,187,Ungrammatical,Liam begreep dat de ingenieur de technische tekeningen uitwerkte heel gedetailleerd op de computer.,uitwerkte heel gedetailleerd,
+22,Extraposition,83,adjectival_adverbial,188,Grammatical,Sophie begreep dat de barista de koffiebonen heel zorgvuldig maalde in de koffiebar.,heel zorgvuldig maalde,
+22,Extraposition,83,adjectival_adverbial,188,Ungrammatical,Sophie begreep dat de barista de koffiebonen maalde heel zorgvuldig in de koffiebar.,maalde heel zorgvuldig,
+22,Extraposition,83,adjectival_adverbial,189,Grammatical,Olivia hoorde dat de gitarist de akkoorden heel subtiel aansloeg tijdens het optreden.,heel subtiel aansloeg,
+22,Extraposition,83,adjectival_adverbial,189,Ungrammatical,Olivia hoorde dat de gitarist de akkoorden aansloeg heel subtiel tijdens het optreden.,aansloeg heel subtiel,
+22,Extraposition,83,adjectival_adverbial,190,Grammatical,Eva zag dat de architect de elementen heel harmonieus integreerde in het ontwerp.,heel harmonieus integreerde,
+22,Extraposition,83,adjectival_adverbial,190,Ungrammatical,Eva zag dat de architect de elementen integreerde heel harmonieus in het ontwerp.,integreerde heel harmonieus,
+22,Extraposition,83,adjectival_adverbial,191,Grammatical,Daan begreep dat de coach de strategieën heel doeltreffend uitlegde op het sportveld.,heel doeltreffend uitlegde,
+22,Extraposition,83,adjectival_adverbial,191,Ungrammatical,Daan begreep dat de coach de strategieën uitlegde heel doeltreffend op het sportveld.,uitlegde heel doeltreffend,
+22,Extraposition,83,adjectival_adverbial,192,Grammatical,Lisa zag dat de filmmaker de scènes heel kunstzinnig regisseerde op de set.,heel kunstzinnig regisseerde,
+22,Extraposition,83,adjectival_adverbial,192,Ungrammatical,Lisa zag dat de filmmaker de scènes regisseerde heel kunstzinnig op de set.,regisseerde heel kunstzinnig,
+22,Extraposition,83,adjectival_adverbial,193,Grammatical,Thijs begreep dat de astronoom de planeten heel nauwkeurig observeerde met de telescoop.,heel nauwkeurig observeerde,
+22,Extraposition,83,adjectival_adverbial,193,Ungrammatical,Thijs begreep dat de astronoom de planeten observeerde heel nauwkeurig met de telescoop.,observeerde heel nauwkeurig,
+22,Extraposition,83,adjectival_adverbial,194,Grammatical,Emma hoorde dat de kok de kruiden heel gul toevoegde aan het gerecht in de keuken.,heel gul toevoegde,
+22,Extraposition,83,adjectival_adverbial,194,Ungrammatical,Emma hoorde dat de kok de kruiden toevoegde heel gul aan het gerecht in de keuken.,toevoegde heel gul,
+22,Extraposition,83,adjectival_adverbial,195,Grammatical,Tim begreep dat de chef-kok de saus heel geleidelijk toevoegde aan het gerecht.,heel geleidelijk toevoegde,
+22,Extraposition,83,adjectival_adverbial,195,Ungrammatical,Tim begreep dat de chef-kok de saus toevoegde heel geleidelijk aan het gerecht.,toevoegde heel geleidelijk,
+22,Extraposition,83,adjectival_adverbial,196,Grammatical,Milan zag dat de kunstenaar de verfkwasten zeer zorgvuldig schoonmaakte na het schilderen.,zeer zorgvuldig schoonmaakte,
+22,Extraposition,83,adjectival_adverbial,196,Ungrammatical,Milan zag dat de kunstenaar de verfkwasten schoonmaakte zeer zorgvuldig na het schilderen.,schoonmaakte zeer zorgvuldig,
+22,Extraposition,83,adjectival_adverbial,197,Grammatical,Nora wist dat de acteur de tekst heel natuurlijk uitsprak op het podium.,heel natuurlijk uitsprak,
+22,Extraposition,83,adjectival_adverbial,197,Ungrammatical,Nora wist dat de acteur de tekst uitsprak heel natuurlijk op het podium.,uitsprak heel natuurlijk,
+22,Extraposition,83,adjectival_adverbial,198,Grammatical,Julia begreep dat de kapper het haar heel netjes knipte in de salon.,heel netjes knipte,
+22,Extraposition,83,adjectival_adverbial,198,Ungrammatical,Julia begreep dat de kapper het haar knipte heel netjes in de salon.,knipte heel netjes,
+22,Extraposition,83,adjectival_adverbial,199,Grammatical,Esmee wist dat de chauffeur de bus heel soepel tot stilstand bracht bij de halte.,heel soepel tot stilstand bracht,
+22,Extraposition,83,adjectival_adverbial,199,Ungrammatical,Esmee wist dat de chauffeur de bus tot stilstand bracht heel soepel bij de halte.,tot stilstand bracht heel soepel,
+22,Extraposition,83,adjectival_adverbial,200,Grammatical,Ruben hoorde dat de lerares de vragen zeer geduldig beantwoordde tijdens de toets.,zeer geduldig beantwoordde,
+22,Extraposition,83,adjectival_adverbial,200,Ungrammatical,Ruben hoorde dat de lerares de vragen beantwoordde zeer geduldig tijdens de toets.,beantwoordde zeer geduldig,
+22,Extraposition,84,adjectival_supplementive,201,Grammatical,Jij zag dat Evi tevreden wegliep na de bijeenkomst.,tevreden wegliep,
+22,Extraposition,84,adjectival_supplementive,201,Ungrammatical,Jij zag dat Evi wegliep tevreden na de bijeenkomst.,wegliep tevreden,
+22,Extraposition,84,adjectival_supplementive,202,Grammatical,Jij wist dat Tijn dronken wegging van het feest.,dronken wegging,
+22,Extraposition,84,adjectival_supplementive,202,Ungrammatical,Jij wist dat Tijn wegging dronken van het feest.,wegging dronken,
+22,Extraposition,84,adjectival_supplementive,203,Grammatical,Ik hoorde dat Lauren kwaad wegfietste na de ruzie.,kwaad wegfietste,
+22,Extraposition,84,adjectival_supplementive,203,Ungrammatical,Ik hoorde dat Lauren wegfietste kwaad na de ruzie.,wegfietste kwaad,
+22,Extraposition,84,adjectival_supplementive,204,Grammatical,Ik begreep dat Daan vrolijk afstudeerde met zulke cijfers.,vrolijk afstudeerde,
+22,Extraposition,84,adjectival_supplementive,204,Ungrammatical,Ik begreep dat Daan afstudeerde vrolijk met zulke cijfers.,afstudeerde vrolijk,
+22,Extraposition,84,adjectival_supplementive,205,Grammatical,Hij geloofde dat Emir verdrietig rondliep na die gebeurtenis.,verdrietig rondliep,
+22,Extraposition,84,adjectival_supplementive,205,Ungrammatical,Hij geloofde dat Emir rondliep verdrietig na die gebeurtenis.,rondliep verdrietig,
+22,Extraposition,84,adjectival_supplementive,206,Grammatical,Hij zag dat Fleur vermoeid zat achter de kassa.,vermoeid zat,
+22,Extraposition,84,adjectival_supplementive,206,Ungrammatical,Hij zag dat Fleur zat vermoeid achter de kassa.,zat vermoeid,
+22,Extraposition,84,adjectival_supplementive,207,Grammatical,Zij wist dat Hanna boos wegreed van haar vriend.,boos wegreed,
+22,Extraposition,84,adjectival_supplementive,207,Ungrammatical,Zij wist dat Hanna wegreed boos van haar vriend.,wegreed boos,
+22,Extraposition,84,adjectival_supplementive,208,Grammatical,Zij hoorde dat Iris zenuwachtig ijsbeerde door de gang.,zenuwachtig ijsbeerde,
+22,Extraposition,84,adjectival_supplementive,208,Ungrammatical,Zij hoorde dat Iris ijsbeerde zenuwachtig door de gang.,ijsbeerde zenuwachtig,
+22,Extraposition,84,adjectival_supplementive,209,Grammatical,Wij begrepen dat Thomas hongerig schreeuwde vanuit de keuken.,hongerig schreeuwde,
+22,Extraposition,84,adjectival_supplementive,209,Ungrammatical,Wij begrepen dat Thomas schreeuwde hongerig vanuit de keuken.,schreeuwde hongerig,
+22,Extraposition,84,adjectival_supplementive,210,Grammatical,Wij geloofden dat Emma trots filmde tijdens de uitreiking.,trots filmde,
+22,Extraposition,84,adjectival_supplementive,210,Ungrammatical,Wij geloofden dat Emma filmde trots tijdens de uitreiking.,filmde trots,
+22,Extraposition,84,adjectival_supplementive,211,Grammatical,Zij merkte op dat Max geïrriteerd reageerde op haar opmerking.,geïrriteerd reageerde,
+22,Extraposition,84,adjectival_supplementive,211,Ungrammatical,Zij merkte op dat Max reageerde geïrriteerd op haar opmerking.,reageerde geïrriteerd,
+22,Extraposition,84,adjectival_supplementive,212,Grammatical,Hij besefte dat Lisa blij was met haar nieuwe baan.,blij was,
+22,Extraposition,84,adjectival_supplementive,212,Ungrammatical,Hij besefte dat Lisa was blij met haar nieuwe baan.,was blij,
+22,Extraposition,84,adjectival_supplementive,213,Grammatical,Wij hoorden dat de buren luidruchtig feestvierden.,luidruchtig feestvierden,
+22,Extraposition,84,adjectival_supplementive,213,Ungrammatical,Wij hoorden dat de buren feestvierden luidruchtig.,feestvierden luidruchtig,
+22,Extraposition,84,adjectival_supplementive,214,Grammatical,Zij zag dat Marco vermoeid thuiskwam na zijn lange reis.,vermoeid thuiskwam,
+22,Extraposition,84,adjectival_supplementive,214,Ungrammatical,Zij zag dat Marco thuiskwam vermoeid na zijn lange reis.,thuiskwam vermoeid,
+22,Extraposition,84,adjectival_supplementive,215,Grammatical,Ik begreep dat de kinderen opgewonden wachtten op de kerstman.,opgewonden wachtten,
+22,Extraposition,84,adjectival_supplementive,215,Ungrammatical,Ik begreep dat de kinderen wachtten opgewonden op de kerstman.,wachtten opgewonden,
+22,Extraposition,84,adjectival_supplementive,216,Grammatical,Jullie realiseerden je dat de puppy hongerig bedelde om eten.,hongerig bedelde,
+22,Extraposition,84,adjectival_supplementive,216,Ungrammatical,Jullie realiseerden je dat de puppy bedelde hongerig om eten.,bedelde hongerig,
+22,Extraposition,84,adjectival_supplementive,217,Grammatical,Hij wist dat zijn vriendin te laat aankwam door het verkeer.,te laat aankwam,
+22,Extraposition,84,adjectival_supplementive,217,Ungrammatical,Hij wist dat zijn vriendin aankwam te laat door het verkeer.,aankwam te laat,
+22,Extraposition,84,adjectival_supplementive,218,Grammatical,Zij hoorde dat haar collega enthousiast vertelde over het nieuwe project.,enthousiast vertelde,
+22,Extraposition,84,adjectival_supplementive,218,Ungrammatical,Zij hoorde dat haar collega vertelde enthousiast over het nieuwe project.,vertelde enthousiast,
+22,Extraposition,84,adjectival_supplementive,219,Grammatical,Wij geloofden dat de studenten geconcentreerd werkten aan hun opdrachten.,geconcentreerd werkten,
+22,Extraposition,84,adjectival_supplementive,219,Ungrammatical,Wij geloofden dat de studenten werkten geconcentreerd aan hun opdrachten.,werkten geconcentreerd,
+22,Extraposition,84,adjectival_supplementive,220,Grammatical,Hij zag dat de oude man langzaam liep met zijn wandelstok.,langzaam liep,
+22,Extraposition,84,adjectival_supplementive,220,Ungrammatical,Hij zag dat de oude man liep langzaam met zijn wandelstok.,liep langzaam,
+22,Extraposition,84,adjectival_supplementive,221,Grammatical,Zij beseften dat de vogels vrolijk floten in de ochtendzon.,vrolijk floten,
+22,Extraposition,84,adjectival_supplementive,221,Ungrammatical,Zij beseften dat de vogels floten vrolijk in de ochtendzon.,floten vrolijk,
+22,Extraposition,84,adjectival_supplementive,222,Grammatical,Ik realiseerde me dat de kat rustig sliep op de vensterbank.,rustig sliep,
+22,Extraposition,84,adjectival_supplementive,222,Ungrammatical,Ik realiseerde me dat de kat sliep rustig op de vensterbank.,sliep rustig,
+22,Extraposition,84,adjectival_supplementive,223,Grammatical,Wij begrepen dat de presentatie saai was voor het publiek.,saai was,
+22,Extraposition,84,adjectival_supplementive,223,Ungrammatical,Wij begrepen dat de presentatie was saai voor het publiek.,was saai,
+22,Extraposition,84,adjectival_supplementive,224,Grammatical,Hij hoorde dat de kinderen luidruchtig speelden in de achtertuin.,luidruchtig speelden,
+22,Extraposition,84,adjectival_supplementive,224,Ungrammatical,Hij hoorde dat de kinderen speelden luidruchtig in de achtertuin.,speelden luidruchtig,
+22,Extraposition,84,adjectival_supplementive,225,Grammatical,Zij zag dat haar zus verdrietig keek na het telefoongesprek.,verdrietig keek,
+22,Extraposition,84,adjectival_supplementive,225,Ungrammatical,Zij zag dat haar zus keek verdrietig na het telefoongesprek.,keek verdrietig,
+22,Extraposition,84,adjectival_supplementive,226,Grammatical,Ik wist dat de chef boos reageerde op de gemiste deadline.,boos reageerde,
+22,Extraposition,84,adjectival_supplementive,226,Ungrammatical,Ik wist dat de chef reageerde boos op de gemiste deadline.,reageerde boos,
+22,Extraposition,84,adjectival_supplementive,227,Grammatical,Zij begreep dat haar vriendin verbaasd was door het verrassingsfeest.,verbaasd was,
+22,Extraposition,84,adjectival_supplementive,227,Ungrammatical,Zij begreep dat haar vriendin was verbaasd door het verrassingsfeest.,was verbaasd,
+22,Extraposition,84,adjectival_supplementive,228,Grammatical,Wij realiseerden ons dat de computer traag opstartte vanwege de updates.,traag opstartte,
+22,Extraposition,84,adjectival_supplementive,228,Ungrammatical,Wij realiseerden ons dat de computer opstartte traag vanwege de updates.,opstartte traag,
+22,Extraposition,84,adjectival_supplementive,229,Grammatical,Hij hoorde dat de buren luid schreeuwden tijdens de ruzie.,luid schreeuwden,
+22,Extraposition,84,adjectival_supplementive,229,Ungrammatical,Hij hoorde dat de buren schreeuwden luid tijdens de ruzie.,schreeuwden luid,
+22,Extraposition,84,adjectival_supplementive,230,Grammatical,Ik besefte dat mijn vriendin blij was met het cadeau.,blij was,
+22,Extraposition,84,adjectival_supplementive,230,Ungrammatical,Ik besefte dat mijn vriendin was blij met het cadeau.,was blij,
+22,Extraposition,84,adjectival_supplementive,231,Grammatical,Zij zag dat de bloemen prachtig bloeiden in de tuin.,prachtig bloeiden,
+22,Extraposition,84,adjectival_supplementive,231,Ungrammatical,Zij zag dat de bloemen bloeiden prachtig in de tuin.,bloeiden prachtig,
+22,Extraposition,84,adjectival_supplementive,232,Grammatical,Wij begrepen dat de acteurs enthousiast repeteerden voor het toneelstuk.,enthousiast repeteerden,
+22,Extraposition,84,adjectival_supplementive,232,Ungrammatical,Wij begrepen dat de acteurs repeteerden enthousiast voor het toneelstuk.,repeteerden enthousiast,
+22,Extraposition,84,adjectival_supplementive,233,Grammatical,Hij realiseerde zich dat de auto kapot was na de lange reis.,kapot was,
+22,Extraposition,84,adjectival_supplementive,233,Ungrammatical,Hij realiseerde zich dat de auto was kapot na de lange reis.,was kapot,
+22,Extraposition,84,adjectival_supplementive,234,Grammatical,Zij wist dat haar broer voorzichtig omging met de antieke vaas.,voorzichtig omging,
+22,Extraposition,84,adjectival_supplementive,234,Ungrammatical,Zij wist dat haar broer omging voorzichtig met de antieke vaas.,omging voorzichtig,
+22,Extraposition,84,adjectival_supplementive,235,Grammatical,Ik hoorde dat de muziek luid klonk tijdens het concert.,luid klonk,
+22,Extraposition,84,adjectival_supplementive,235,Ungrammatical,Ik hoorde dat de muziek klonk luid tijdens het concert.,klonk luid,
+22,Extraposition,84,adjectival_supplementive,236,Grammatical,Wij begrepen dat de studenten actief deelnamen aan de discussie.,actief deelnamen,
+22,Extraposition,84,adjectival_supplementive,236,Ungrammatical,Wij begrepen dat de studenten deelnamen actief aan de discussie.,deelnamen actief,
+22,Extraposition,84,adjectival_supplementive,237,Grammatical,Hij zag dat de hond vrolijk kwispelde bij de deur.,vrolijk kwispelde,
+22,Extraposition,84,adjectival_supplementive,237,Ungrammatical,Hij zag dat de hond kwispelde vrolijk bij de deur.,kwispelde vrolijk,
+22,Extraposition,84,adjectival_supplementive,238,Grammatical,Zij begreep dat haar vriend teleurgesteld was na de afwijzing.,teleurgesteld was,
+22,Extraposition,84,adjectival_supplementive,238,Ungrammatical,Zij begreep dat haar vriend was teleurgesteld na de afwijzing.,was teleurgesteld,
+22,Extraposition,84,adjectival_supplementive,239,Grammatical,Zij realiseerde zich dat haar collega vermoeid binnenkwam in de vergaderzaal.,vermoeid binnenkwam,
+22,Extraposition,84,adjectival_supplementive,239,Ungrammatical,Zij realiseerde zich dat haar collega binnenkwam vermoeid in de vergaderzaal.,binnenkwam vermoeid,
+22,Extraposition,84,adjectival_supplementive,240,Grammatical,Ik hoorde dat de regen zachtjes tikte tegen het raam.,zachtjes tikte,
+22,Extraposition,84,adjectival_supplementive,240,Ungrammatical,Ik hoorde dat de regen tikte zachtjes tegen het raam.,tikte zachtjes,
+22,Extraposition,84,adjectival_supplementive,241,Grammatical,Zij wist dat haar broertje ziek thuiskwam van school.,ziek thuiskwam,
+22,Extraposition,84,adjectival_supplementive,241,Ungrammatical,Zij wist dat haar broertje thuiskwam ziek van school.,thuiskwam ziek,
+22,Extraposition,84,adjectival_supplementive,242,Grammatical,Ik realiseerde me dat de kat slaperig lag op de vensterbank.,slaperig lag,
+22,Extraposition,84,adjectival_supplementive,242,Ungrammatical,Ik realiseerde me dat de kat lag slaperig op de vensterbank.,lag slaperig,
+22,Extraposition,84,adjectival_supplementive,243,Grammatical,Hij hoorde dat de leerlingen stil luisterden naar de leraar.,stil luisterden,
+22,Extraposition,84,adjectival_supplementive,243,Ungrammatical,Hij hoorde dat de leerlingen luisterden stil naar de leraar.,luisterden stil,
+22,Extraposition,84,adjectival_supplementive,244,Grammatical,Zij begreep dat haar zus geschrokken reageerde op het onverwachte bezoek.,geschrokken reageerde,
+22,Extraposition,84,adjectival_supplementive,244,Ungrammatical,Zij begreep dat haar zus reageerde geschrokken op het onverwachte bezoek.,reageerde geschrokken,
+22,Extraposition,84,adjectival_supplementive,245,Grammatical,Wij geloofden dat de chef tevreden was met het resultaat.,tevreden was,
+22,Extraposition,84,adjectival_supplementive,245,Ungrammatical,Wij geloofden dat de chef was tevreden met het resultaat.,was tevreden,
+22,Extraposition,84,adjectival_supplementive,246,Grammatical,Hij zag dat de oude dame voorzichtig overstak.,voorzichtig overstak,
+22,Extraposition,84,adjectival_supplementive,246,Ungrammatical,Hij zag dat de oude dame overstak voorzichtig.,overstak voorzichtig,
+22,Extraposition,84,adjectival_supplementive,247,Grammatical,Zij wist dat haar vriendin verdrietig was door het verlies.,verdrietig was,
+22,Extraposition,84,adjectival_supplementive,247,Ungrammatical,Zij wist dat haar vriendin was verdrietig door het verlies.,was verdrietig,
+22,Extraposition,84,adjectival_supplementive,248,Grammatical,Ik begreep dat de klanten tevreden waren met de service.,tevreden waren,
+22,Extraposition,84,adjectival_supplementive,248,Ungrammatical,Ik begreep dat de klanten waren tevreden met de service.,waren tevreden,
+22,Extraposition,84,adjectival_supplementive,249,Grammatical,Wij realiseerden ons dat de vogels vrolijk fladderden in de tuin.,vrolijk fladderden,
+22,Extraposition,84,adjectival_supplementive,249,Ungrammatical,Wij realiseerden ons dat de vogels fladderden vrolijk in de tuin.,fladderden vrolijk,
+22,Extraposition,84,adjectival_supplementive,250,Grammatical,Zij begreep dat haar vader boos reageerde op de gemiste afspraak.,boos reageerde,
+22,Extraposition,84,adjectival_supplementive,250,Ungrammatical,Zij begreep dat haar vader reageerde boos op de gemiste afspraak.,reageerde boos,
+22,Extraposition,84,adjectival_supplementive,251,Grammatical,Ik zag dat de kinderen druk speelde in de speeltuin.,druk speelde,
+22,Extraposition,84,adjectival_supplementive,251,Ungrammatical,Ik zag dat de kinderen speelde druk in de speeltuin.,speelde druk,
+22,Extraposition,84,adjectival_supplementive,252,Grammatical,Wij hoorden dat de muziek zachtjes klonk door de speakers.,zachtjes klonk,
+22,Extraposition,84,adjectival_supplementive,252,Ungrammatical,Wij hoorden dat de muziek klonk zachtjes door de speakers.,klonk zachtjes,
+22,Extraposition,84,adjectival_supplementive,253,Grammatical,Hij realiseerde zich dat zijn vriendin liefdevol glimlachte naar hem.,liefdevol glimlachte,
+22,Extraposition,84,adjectival_supplementive,253,Ungrammatical,Hij realiseerde zich dat zijn vriendin glimlachte liefdevol naar hem.,glimlachte liefdevol,
+22,Extraposition,84,adjectival_supplementive,254,Grammatical,Zij zag dat haar broer enthousiast reageerde op het nieuws.,enthousiast reageerde,
+22,Extraposition,84,adjectival_supplementive,254,Ungrammatical,Zij zag dat haar broer reageerde enthousiast op het nieuws.,reageerde enthousiast,
+22,Extraposition,84,adjectival_supplementive,255,Grammatical,Zij zag dat haar collega enthousiast vertelde over het nieuwe project.,enthousiast vertelde,
+22,Extraposition,84,adjectival_supplementive,255,Ungrammatical,Zij zag dat haar collega vertelde enthousiast over het nieuwe project.,vertelde enthousiast,
+22,Extraposition,84,adjectival_supplementive,256,Grammatical,Zij merkte op dat de leerlingen geïnteresseerd luisterden naar de leraar.,geïnteresseerd luisterden,
+22,Extraposition,84,adjectival_supplementive,256,Ungrammatical,Zij merkte op dat de leerlingen luisterden geïnteresseerd naar de leraar.,luisterden geïnteresseerd,
+22,Extraposition,84,adjectival_supplementive,257,Grammatical,Hij besefte dat zijn vriend opgelucht reageerde na het telefoontje.,opgelucht reageerde,
+22,Extraposition,84,adjectival_supplementive,257,Ungrammatical,Hij besefte dat zijn vriend reageerde opgelucht na het telefoontje.,reageerde opgelucht,
+22,Extraposition,84,adjectival_supplementive,258,Grammatical,Wij hoorden dat de vogels zingend ontwaakten vroeg in de ochtend.,zingend ontwaakten,
+22,Extraposition,84,adjectival_supplementive,258,Ungrammatical,Wij hoorden dat de vogels ontwaakten zingend vroeg in de ochtend.,ontwaakten zingend,
+22,Extraposition,84,adjectival_supplementive,259,Grammatical,Zij zag dat de kat behendig sprong door de tuin.,behendig sprong,
+22,Extraposition,84,adjectival_supplementive,259,Ungrammatical,Zij zag dat de kat sprong behendig door de tuin.,sprong behendig,
+22,Extraposition,84,adjectival_supplementive,260,Grammatical,Ik begreep dat de kinderen vermoeid thuiskwamen na het schoolkamp.,vermoeid thuiskwamen,
+22,Extraposition,84,adjectival_supplementive,260,Ungrammatical,Ik begreep dat de kinderen thuiskwamen vermoeid na het schoolkamp.,thuiskwamen vermoeid,
+22,Extraposition,84,adjectival_supplementive,261,Grammatical,Hij wist dat zijn zus verrast reageerde op het cadeau.,verrast reageerde,
+22,Extraposition,84,adjectival_supplementive,261,Ungrammatical,Hij wist dat zijn zus reageerde verrast op het cadeau.,reageerde verrast,
+22,Extraposition,84,adjectival_supplementive,262,Grammatical,Zij realiseerde zich dat haar broer enthousiast vertelde over zijn reis.,enthousiast vertelde,
+22,Extraposition,84,adjectival_supplementive,262,Ungrammatical,Zij realiseerde zich dat haar broer vertelde enthousiast over zijn reis.,vertelde enthousiast,
+22,Extraposition,84,adjectival_supplementive,263,Grammatical,Ik zag dat de zon langzaam onderging achter de bergen.,langzaam onderging,
+22,Extraposition,84,adjectival_supplementive,263,Ungrammatical,Ik zag dat de zon onderging langzaam achter de bergen.,onderging langzaam,
+22,Extraposition,84,adjectival_supplementive,264,Grammatical,Wij begrepen dat de klanten tevreden waren met de nieuwe producten.,tevreden waren,
+22,Extraposition,84,adjectival_supplementive,264,Ungrammatical,Wij begrepen dat de klanten waren tevreden met de nieuwe producten.,waren tevreden,
+22,Extraposition,84,adjectival_supplementive,265,Grammatical,Hij zag dat de jongen lachend keek naar de grappige film.,lachend keek,
+22,Extraposition,84,adjectival_supplementive,265,Ungrammatical,Hij zag dat de jongen keek lachend naar de grappige film.,keek lachend,
+22,Extraposition,84,adjectival_supplementive,266,Grammatical,Zij wist dat haar vriendin trots was op haar prestatie.,trots was,
+22,Extraposition,84,adjectival_supplementive,266,Ungrammatical,Zij wist dat haar vriendin was trots op haar prestatie.,was trots,
+22,Extraposition,84,adjectival_supplementive,267,Grammatical,Wij realiseerden ons dat de oude boom langzaam omviel.,langzaam omviel,
+22,Extraposition,84,adjectival_supplementive,267,Ungrammatical,Wij realiseerden ons dat de oude boom omviel langzaam.,omviel langzaam,
+22,Extraposition,84,adjectival_supplementive,268,Grammatical,Hij begreep dat de chef boos reageerde op de kritiek.,boos reageerde,
+22,Extraposition,84,adjectival_supplementive,268,Ungrammatical,Hij begreep dat de chef reageerde boos op de kritiek.,reageerde boos,
+22,Extraposition,84,adjectival_supplementive,269,Grammatical,Zij zag dat haar zus verbaasd reageerde op het nieuws.,verbaasd reageerde,
+22,Extraposition,84,adjectival_supplementive,269,Ungrammatical,Zij zag dat haar zus reageerde verbaasd op het nieuws.,reageerde verbaasd,
+22,Extraposition,84,adjectival_supplementive,270,Grammatical,Wij geloofden dat de kunstenaar creatief omging met het materiaal.,creatief omging,
+22,Extraposition,84,adjectival_supplementive,270,Ungrammatical,Wij geloofden dat de kunstenaar omging creatief met het materiaal.,omging creatief,
+22,Extraposition,84,adjectival_supplementive,271,Grammatical,Zij zag dat de bloemen kleurrijk bloeiden in de tuin.,kleurrijk bloeiden,
+22,Extraposition,84,adjectival_supplementive,271,Ungrammatical,Zij zag dat de bloemen bloeiden kleurrijk in de tuin.,bloeiden kleurrijk,
+22,Extraposition,84,adjectival_supplementive,272,Grammatical,Hij hoorde dat de muziek vrolijk klonk tijdens het feest.,vrolijk klonk,
+22,Extraposition,84,adjectival_supplementive,272,Ungrammatical,Hij hoorde dat de muziek klonk vrolijk tijdens het feest.,klonk vrolijk,
+22,Extraposition,84,adjectival_supplementive,273,Grammatical,Wij begrepen dat de studenten serieus studeerden voor het examen.,serieus studeerden,
+22,Extraposition,84,adjectival_supplementive,273,Ungrammatical,Wij begrepen dat de studenten studeerden serieus voor het examen.,studeerden serieus,
+22,Extraposition,84,adjectival_supplementive,274,Grammatical,Hij zag dat de schilderijen prachtig hingen in het museum.,prachtig hingen,
+22,Extraposition,84,adjectival_supplementive,274,Ungrammatical,Hij zag dat de schilderijen hingen prachtig in het museum.,hingen prachtig,
+22,Extraposition,84,adjectival_supplementive,275,Grammatical,Zij wist dat haar broertje bang was voor het onweer.,bang was,
+22,Extraposition,84,adjectival_supplementive,275,Ungrammatical,Zij wist dat haar broertje was bang voor het onweer.,was bang,
+22,Extraposition,84,adjectival_supplementive,276,Grammatical,Ik begreep dat de werknemers efficiënt werkten aan het project.,efficiënt werkten,
+22,Extraposition,84,adjectival_supplementive,276,Ungrammatical,Ik begreep dat de werknemers werkten efficiënt aan het project.,werkten efficiënt,
+22,Extraposition,84,adjectival_supplementive,277,Grammatical,Wij geloofden dat de atleet snel rende op de atletiekbaan.,snel rende,
+22,Extraposition,84,adjectival_supplementive,277,Ungrammatical,Wij geloofden dat de atleet rende snel op de atletiekbaan.,rende snel,
+22,Extraposition,84,adjectival_supplementive,278,Grammatical,Hij zag dat de kat speels rolde met de bal in de tuin.,speels rolde,
+22,Extraposition,84,adjectival_supplementive,278,Ungrammatical,Hij zag dat de kat rolde speels met de bal in de tuin.,rolde speels,
+22,Extraposition,84,adjectival_supplementive,279,Grammatical,Zij merkte op dat de kinderen nieuwsgierig keken naar de dieren in de dierentuin.,nieuwsgierig keken,
+22,Extraposition,84,adjectival_supplementive,279,Ungrammatical,Zij merkte op dat de kinderen keken nieuwsgierig naar de dieren in de dierentuin.,keken nieuwsgierig,
+22,Extraposition,84,adjectival_supplementive,280,Grammatical,Hij besefte dat zijn zus voorzichtig reageerde op het breekbare glaswerk.,voorzichtig reageerde,
+22,Extraposition,84,adjectival_supplementive,280,Ungrammatical,Hij besefte dat zijn zus reageerde voorzichtig op het breekbare glaswerk.,reageerde voorzichtig,
+22,Extraposition,84,adjectival_supplementive,281,Grammatical,Wij hoorden dat de regen gestaag viel op het dak.,gestaag viel,
+22,Extraposition,84,adjectival_supplementive,281,Ungrammatical,Wij hoorden dat de regen viel gestaag op het dak.,viel gestaag,
+22,Extraposition,84,adjectival_supplementive,282,Grammatical,Zij zag dat haar vriend ontspannen achterover leunde in de stoel.,ontspannen achterover leunde,
+22,Extraposition,84,adjectival_supplementive,282,Ungrammatical,Zij zag dat haar vriend leunde ontspannen achterover in de stoel.,leunde ontspannen achterover,
+22,Extraposition,84,adjectival_supplementive,283,Grammatical,Ik begreep dat de leerlingen geïntrigeerd luisterden naar het interessante verhaal.,geïntrigeerd luisterden,
+22,Extraposition,84,adjectival_supplementive,283,Ungrammatical,Ik begreep dat de leerlingen luisterden geïntrigeerd naar het interessante verhaal.,luisterden geïntrigeerd,
+22,Extraposition,84,adjectival_supplementive,284,Grammatical,Hij wist dat zijn collega efficiënt werkte aan het rapport.,efficiënt werkte,
+22,Extraposition,84,adjectival_supplementive,284,Ungrammatical,Hij wist dat zijn collega werkte efficiënt aan het rapport.,werkte efficiënt,
+22,Extraposition,84,adjectival_supplementive,285,Grammatical,Zij zag dat de hond enthousiast rondrende in het park.,enthousiast rondrende,
+22,Extraposition,84,adjectival_supplementive,285,Ungrammatical,Zij zag dat de hond rondrende enthousiast in het park.,rondrende enthousiast,
+22,Extraposition,84,adjectival_supplementive,286,Grammatical,Hij zag dat de kinderen zorgeloos speelden in de speeltuin.,zorgeloos speelden,
+22,Extraposition,84,adjectival_supplementive,286,Ungrammatical,Hij zag dat de kinderen speelden zorgeloos in de speeltuin.,speelden zorgeloos,
+22,Extraposition,84,adjectival_supplementive,287,Grammatical,Ik wist dat de kat behendig sprong door het open raam.,behendig sprong,
+22,Extraposition,84,adjectival_supplementive,287,Ungrammatical,Ik wist dat de kat sprong behendig door het open raam.,sprong behendig,
+22,Extraposition,84,adjectival_supplementive,288,Grammatical,Hij zag dat de zon langzaam onderging achter de horizon.,langzaam onderging,
+22,Extraposition,84,adjectival_supplementive,288,Ungrammatical,Hij zag dat de zon onderging langzaam achter de horizon.,onderging langzaam,
+22,Extraposition,84,adjectival_supplementive,289,Grammatical,Wij hoorden dat de muziek rustig klonk in de stille ruimte.,rustig klonk,
+22,Extraposition,84,adjectival_supplementive,289,Ungrammatical,Wij hoorden dat de muziek klonk rustig in de stille ruimte.,klonk rustig,
+22,Extraposition,84,adjectival_supplementive,290,Grammatical,Ik begreep dat de monteur snel reageerde op de noodsituatie.,snel reageerde,
+22,Extraposition,84,adjectival_supplementive,290,Ungrammatical,Ik begreep dat de monteur reageerde snel op de noodsituatie.,reageerde snel,
+22,Extraposition,84,adjectival_supplementive,291,Grammatical,Zij merkte op dat Luuk geïnteresseerd luisterde naar de lezing.,geïnteresseerd luisterde,
+22,Extraposition,84,adjectival_supplementive,291,Ungrammatical,Zij merkte op dat Luuk luisterde geïnteresseerd naar de lezing.,luisterde geïnteresseerd,
+22,Extraposition,84,adjectival_supplementive,292,Grammatical,Hij ontdekte dat Sophie vermoeid terugkwam van haar reis.,vermoeid terugkwam,
+22,Extraposition,84,adjectival_supplementive,292,Ungrammatical,Hij ontdekte dat Sophie terugkwam vermoeid van haar reis.,terugkwam vermoeid,
+22,Extraposition,84,adjectival_supplementive,293,Grammatical,Zij begreep dat Milan opgelucht ademhaalde na het goede nieuws.,opgelucht ademhaalde,
+22,Extraposition,84,adjectival_supplementive,293,Ungrammatical,Zij begreep dat Milan ademhaalde opgelucht na het goede nieuws.,ademhaalde opgelucht,
+22,Extraposition,84,adjectival_supplementive,294,Grammatical,Ik hoorde dat Lisa snel rende naar de bushalte.,snel rende,
+22,Extraposition,84,adjectival_supplementive,294,Ungrammatical,Ik hoorde dat Lisa rende snel naar de bushalte.,rende snel,
+22,Extraposition,84,adjectival_supplementive,295,Grammatical,Zij zag dat Lucas geschrokken opkeek na het harde geluid.,geschrokken opkeek,
+22,Extraposition,84,adjectival_supplementive,295,Ungrammatical,Zij zag dat Lucas opkeek geschrokken na het harde geluid.,opkeek geschrokken,
+22,Extraposition,84,adjectival_supplementive,296,Grammatical,Wij begrepen dat Julia geïrriteerd reageerde op de opmerking.,geïrriteerd reageerde,
+22,Extraposition,84,adjectival_supplementive,296,Ungrammatical,Wij begrepen dat Julia reageerde geïrriteerd op de opmerking.,reageerde geïrriteerd,
+22,Extraposition,84,adjectival_supplementive,297,Grammatical,Hij geloofde dat Anna trots poseerde voor de foto.,trots poseerde,
+22,Extraposition,84,adjectival_supplementive,297,Ungrammatical,Hij geloofde dat Anna poseerde trots voor de foto.,poseerde trots,
+22,Extraposition,84,adjectival_supplementive,298,Grammatical,Ik besefte dat Nick aandachtig luisterde naar het verhaal.,aandachtig luisterde,
+22,Extraposition,84,adjectival_supplementive,298,Ungrammatical,Ik besefte dat Nick luisterde aandachtig naar het verhaal.,luisterde aandachtig,
+22,Extraposition,84,adjectival_supplementive,299,Grammatical,Wij hoorden dat Emma lachend vertelde over haar avontuur.,lachend vertelde,
+22,Extraposition,84,adjectival_supplementive,299,Ungrammatical,Wij hoorden dat Emma lachend vertelde over haar avontuur.,lachend vertelde,
+22,Extraposition,84,adjectival_supplementive,300,Grammatical,Hij zag dat Sophie enthousiast danste op het feest.,enthousiast danste,
+22,Extraposition,84,adjectival_supplementive,300,Ungrammatical,Hij zag dat Sophie danste enthousiast op het feest.,danste enthousiast,

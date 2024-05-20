@@ -122,5 +122,5 @@ for model_name in model_names:
     model_results = {"accuracies": task_results}
 
     model_name = model_name.replace("/", "_")
-    with open(f"blimp_results{model_name}.json", "w", encoding="utf-8") as f:
+    with open(f"blimp_results_{model_name}.json", "w", encoding="utf-8") as f:
         json.dump(model_results, f, ensure_ascii=False)

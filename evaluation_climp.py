@@ -40,5 +40,5 @@ for model_name in model_names:
     model_results = {"accuracy": accuracy}
 
     model_name = model_name.replace("/", "_")
-    with open(f"climp_results{model_name}.json", "w", encoding="utf-8") as f:
+    with open(f"climp_results_{model_name}.json", "w", encoding="utf-8") as f:
         json.dump(model_results, f, ensure_ascii=False)

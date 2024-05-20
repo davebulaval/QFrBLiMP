@@ -33,7 +33,7 @@ for model_name in model_names:
 
     dataset = load_dataset(
         os.path.join("datastore", "BLiMP-NL"),
-        data_files=os.listdir(os.path.join("datastore", "BLiMP-NL")),
+        data_files=os.listdir("blimp-nl.jsonl"),
     )
 
     process_dataset = dataset.map(evaluation_fn)

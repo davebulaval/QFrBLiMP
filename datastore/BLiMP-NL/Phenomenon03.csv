@@ -1123,8 +1123,8 @@ Number (phenomenon),Phenomenon,Number (paradigm),Paradigm,Item,Grammaticality,Se
 3,Argument Structure,10,ditransitive_nomdat_1,561,Ungrammatical,De rust heeft hem na de vakantie goed bekomen.,bekomen,heeft
 3,Argument Structure,10,ditransitive_nomdat_1,562,Grammatical,Het behalen van de doelen is het team eindelijk gelukt.,gelukt,is
 3,Argument Structure,10,ditransitive_nomdat_1,562,Ungrammatical,Het behalen van de doelen heeft het team eindelijk gelukt.,gelukt,heeft
-"3,Argument Structure,10,ditransitive_nomdat_1,563,Grammatical,""Het feit dat ze niet werd uitgenodigd, is haar totaal ontgaan."",ontgaan,is"
-"3,Argument Structure,10,ditransitive_nomdat_1,563,Ungrammatical,""Het feit dat ze niet werd uitgenodigd, heeft haar totaal ontgaan."",ontgaan,heeft"
+3,Argument Structure,10,ditransitive_nomdat_1,563,Grammatical,""Het feit dat ze niet werd uitgenodigd, is haar totaal ontgaan."",ontgaan,is
+3,Argument Structure,10,ditransitive_nomdat_1,563,Ungrammatical,""Het feit dat ze niet werd uitgenodigd, heeft haar totaal ontgaan."",ontgaan,heeft
 3,Argument Structure,10,ditransitive_nomdat_1,564,Grammatical,Het antwoord op de vraag is hem te binnen geschoten terwijl hij in bed lag.,geschoten,is
 3,Argument Structure,10,ditransitive_nomdat_1,564,Ungrammatical,Het antwoord op de vraag heeft hem te binnen geschoten terwijl hij in bed lag.,geschoten,heeft
 3,Argument Structure,10,ditransitive_nomdat_1,565,Grammatical,Het ongeluk is haar vorig jaar overkomen tijdens de vakantie.,overkomen,is

@@ -127,8 +127,8 @@ Number (phenomenon),Phenomenon,Number (paradigm),Paradigm,Item,Grammaticality,Se
 1,Anaphor agreement,1,number,63,Ungrammatical,Wij schrijven een brief voor mezelf om mijn gedachten te ordenen.,mezelf,Wij
 1,Anaphor agreement,1,number,64,Grammatical,Ik organiseer de werkruimte voor mezelf om efficiënt te kunnen werken.,mezelf,Ik
 1,Anaphor agreement,1,number,64,Ungrammatical,Wij organiseren onze werkruimte voor mezelf om efficiënt te kunnen werken.,mezelf,Wij
-"1,Anaphor agreement,1,number,65,Grammatical,""Ik leer een nieuwe vaardigheid voor mezelf, gewoon uit nieuwsgierigheid."",mezelf,Ik"
-"1,Anaphor agreement,1,number,65,Ungrammatical,""Wij leren een nieuwe vaardigheid voor mezelf, gewoon uit nieuwsgierigheid."",mezelf,Wij"
+1,Anaphor agreement,1,number,65,Grammatical,""Ik leer een nieuwe vaardigheid voor mezelf, gewoon uit nieuwsgierigheid."",mezelf,Ik
+1,Anaphor agreement,1,number,65,Ungrammatical,""Wij leren een nieuwe vaardigheid voor mezelf, gewoon uit nieuwsgierigheid."",mezelf,Wij
 1,Anaphor agreement,1,number,66,Grammatical,Ik plan een dagje uit voor mezelf om te ontspannen en te genieten.,mezelf,Ik
 1,Anaphor agreement,1,number,66,Ungrammatical,Wij plannen een dagje uit voor mezelf om te ontspannen en te genieten.,mezelf,Wij
 1,Anaphor agreement,1,number,67,Grammatical,Ik koop een bloemetje voor mezelf om de dag op te fleuren.,mezelf,Ik
@@ -337,8 +337,8 @@ Number (phenomenon),Phenomenon,Number (paradigm),Paradigm,Item,Grammaticality,Se
 1,Anaphor agreement,2,person,168,Ungrammatical,ik schreef een brief voor zichzelf om dingen op een rijtje te krijgen.,zichzelf,ik
 1,Anaphor agreement,2,person,169,Grammatical,Jij organiseert de werkruimte voor jezelf om efficiënt te kunnen werken.,jezelf,Jij
 1,Anaphor agreement,2,person,169,Ungrammatical,Zij organiseert de werkruimte voor jezelf om efficiënt te kunnen werken.,jezelf,Zij
-"1,Anaphor agreement,2,person,170,Grammatical,""Hij leert een nieuwe vaardigheid voor zichzelf, gewoon uit nieuwsgierigheid."",zichzelf,Hij"
-"1,Anaphor agreement,2,person,170,Ungrammatical,""Jij leert een nieuwe vaardigheid voor zichzelf, gewoon uit nieuwsgierigheid."",zichzelf,Jij"
+1,Anaphor agreement,2,person,170,Grammatical,""Hij leert een nieuwe vaardigheid voor zichzelf, gewoon uit nieuwsgierigheid."",zichzelf,Hij
+1,Anaphor agreement,2,person,170,Ungrammatical,""Jij leert een nieuwe vaardigheid voor zichzelf, gewoon uit nieuwsgierigheid."",zichzelf,Jij
 1,Anaphor agreement,2,person,171,Grammatical,Jij plande een dagje uit voor jezelf om te ontspannen en te genieten.,jezelf,Jij
 1,Anaphor agreement,2,person,171,Ungrammatical,Ik plande een dagje uit voor jezelf om te ontspannen en te genieten.,jezelf,Ik
 1,Anaphor agreement,2,person,172,Grammatical,Zij kocht een bloemetje voor zichzelf om de dag op te fleuren.,zichzelf,Zij

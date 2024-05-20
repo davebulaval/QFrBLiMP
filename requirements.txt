@@ -4,4 +4,7 @@ datasets
 transformers
 sentencepiece
 protobuf
-dotenv
+python-dotenv
+accelerate
+fugashi
+ipadic

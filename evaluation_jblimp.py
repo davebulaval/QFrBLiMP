@@ -30,7 +30,10 @@ for model_name in model_names:
 
     process_dataset = dataset.map(evaluation_fn)
 
-    accuracy = round(sum(process_dataset) / len(process_dataset) * 100, 2)
+    minimal_pair_comparison = process_dataset["train"]["minimal_pair_comparison"]
+    accuracy = round(
+        sum(minimal_pair_comparison) / len(minimal_pair_comparison) * 100, 2
+    )
 
     model_results = {"accuracy": accuracy}
 

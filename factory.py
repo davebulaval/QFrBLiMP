@@ -21,7 +21,7 @@ def model_tokenizer_factory(model_name, device, token):
             model_name,
             token=token,
             low_cpu_mem_usage=True,
-            quantization_config=BitsAndBytesConfig(load_in_8bit=True),
+            quantization_config=BitsAndBytesConfig(load_in_4bit=True),
         )
         model.eval()
         tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)

@@ -47,6 +47,7 @@ for model_name in model_names:
 
     model_results = {"accuracy": accuracy}
 
+    os.makedirs("results", exist_ok=True)
     model_name = model_name.replace("/", "_")
     with open(
         os.path.join("results", f"frblimp_results_{model_name}.json"),

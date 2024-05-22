@@ -19,7 +19,6 @@ token = secrets["huggingface_token"]
 
 model_names = [
     "GroNLP/bert-base-dutch-cased",
-    "pdelobelle/robbert-v2-dutch-base",
     "meta-llama/Llama-2-7b-hf",
     "FacebookAI/xlm-roberta-base",
     "FacebookAI/xlm-roberta-large",
@@ -48,5 +47,5 @@ for model_name in model_names:
     model_results = {"accuracy": accuracy}
 
     model_name = model_name.replace("/", "_")
-    with open(f"frblimp_results_{model_name}.json", "w", encoding="utf-8") as f:
+    with open(f"blimp-nl_results_{model_name}.json", "w", encoding="utf-8") as f:
         json.dump(model_results, f, ensure_ascii=False)

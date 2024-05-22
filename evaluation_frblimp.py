@@ -21,7 +21,6 @@ model_names = [
     "almanach/camembert-base",
     "almanach/camembert-large",
     "dbmdz/bert-base-french-europeana-cased",
-    "ClassCat/gpt2-base-french",
     "meta-llama/Llama-2-7b-hf",
     "FacebookAI/xlm-roberta-base",
     "FacebookAI/xlm-roberta-large",

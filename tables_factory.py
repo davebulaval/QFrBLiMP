@@ -25,7 +25,8 @@ for filename in listdir:
         if "blimp-nl" in filename:
             nl_data.update({model_name: list(values)[0]})
         elif "frblimp" in filename:
-            fr_data.update({model_name: list(values)[0]})
+            if "camembert" not in model_name:
+                fr_data.update({model_name: list(values)[0]})
         elif "jblimp" in filename:
             ja_data.update({model_name: list(values)[0]})
         elif "blimp" in filename:
@@ -51,14 +52,7 @@ table = doc.new(
 )
 
 table[0, :].add_rule()
-table[0, 0:] = [
-    "",
-    "FR",
-    "EN",
-    "ZH",
-    "JA",
-]
-table[1, :].add_rule()
+table[0, 0:] = ["", "FR", "EN", "ZH", "JA", "NL"]
 
 table[0:, 0] = ["", "bert-base-lang", "Llama", "XLM-Roberta-base", "XLM-roberta-large"]
 
@@ -67,4 +61,5 @@ table[1:, 2] = list(en_data.values())
 table[1:, 3] = list(zh_data.values())
 table[1:, 4] = list(ja_data.values())
 table[1:, 5] = list(nl_data.values())
-table[row, :].add_rule()
+
+text = doc.build()

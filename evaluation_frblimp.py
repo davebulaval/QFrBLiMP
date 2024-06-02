@@ -49,6 +49,7 @@ for model_name in model_names:
         .to_pandas()
         .groupby("subcat")["minimal_pair_comparison"]
         .mean()
+        * 100
     )
 
     model_results = {"accuracy": accuracy}

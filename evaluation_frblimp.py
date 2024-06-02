@@ -12,7 +12,6 @@ from factory import model_tokenizer_factory
 
 logging.set_verbosity_warning()
 device = torch.device("cuda")
-# device = torch.device("cpu")
 
 secrets = dotenv_values(".env")
 
@@ -38,13 +37,12 @@ for model_name in model_names:
     dataset = load_dataset(
         os.path.join("datastore", "FrBLiMP"), data_files="dataset.tsv"
     )
-    # dataset = load_dataset(
-    #     os.path.join("datastore", "FrBLiMP"), data_files="short.tsv"
-    # )
 
     process_dataset = dataset.map(evaluation_fn)
 
-    accuracy = process_dataset["train"].to_pandas()["minimal_pair_comparison"].mean()
+    accuracy = (
+        process_dataset["train"].to_pandas()["minimal_pair_comparison"].mean() * 100
+    )
 
     accuracies = (
         process_dataset["train"]

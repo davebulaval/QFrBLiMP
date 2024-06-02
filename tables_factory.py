@@ -7,7 +7,7 @@ from python2latex import Document, Table
 from tools import filename_to_model_name
 
 root = "results"
-saving_dir = "fig.tex"
+saving_dir = "figs"
 listdir = os.listdir(root)
 
 nl_data = {}
@@ -34,9 +34,7 @@ for filename in listdir:
         elif "climp" in filename:
             zh_data.update({model_name: list(values)[0]})
 
-doc = Document(
-    filename="res_1115", filepath=saving_dir, doc_type="article", border="10pt"
-)
+doc = Document(filename="res", filepath=saving_dir, doc_type="article", border="10pt")
 
 # Create the data
 col, row = 6, 5
@@ -46,7 +44,7 @@ table = doc.new(
         shape=(row, col),
         as_float_env=True,
         alignment=["l"] + ["c"] * (col - 1),
-        caption=r"...",
+        caption=r"Results",
         caption_pos="bottom",
     )
 )

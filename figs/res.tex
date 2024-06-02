@@ -1,0 +1,21 @@
+\documentclass[border=10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm]{geometry}
+\usepackage{booktabs}
+\begin{document}
+\begin{table}[h!]
+\centering
+\begin{tabular}{lccccc}
+\toprule
+ & FR & EN & ZH & JA & NL\\
+\midrule
+bert-base-lang & 63.26 & 76.24 & 55.36 & 56.19 & 58.23\\
+Llama & 17.55 & 79.51 & 64.33 & 59.52 & 79.01\\
+XLM-Roberta-base & 6.93 & 67.22 & 61.06 & 75.23 & 80.01\\
+XLM-roberta-large & 83.76 & 59.26 & 65.96 & 50.15 & 58.05\\
+\bottomrule
+\end{tabular}
+\vspace{6pt}
+\caption{Results}
+\end{table}
+\end{document}

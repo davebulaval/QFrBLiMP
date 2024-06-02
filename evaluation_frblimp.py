@@ -12,6 +12,7 @@ from factory import model_tokenizer_factory
 
 logging.set_verbosity_warning()
 device = torch.device("cuda")
+# device = torch.device("cpu")
 
 secrets = dotenv_values(".env")
 
@@ -37,15 +38,25 @@ for model_name in model_names:
     dataset = load_dataset(
         os.path.join("datastore", "FrBLiMP"), data_files="dataset.tsv"
     )
+    # dataset = load_dataset(
+    #     os.path.join("datastore", "FrBLiMP"), data_files="short.tsv"
+    # )
 
     process_dataset = dataset.map(evaluation_fn)
 
-    minimal_pair_comparison = process_dataset["train"]["minimal_pair_comparison"]
-    accuracy = round(
-        sum(minimal_pair_comparison) / len(minimal_pair_comparison) * 100, 2
+    accuracy = process_dataset["train"].to_pandas()["minimal_pair_comparison"].mean()
+
+    accuracies = (
+        process_dataset["train"]
+        .to_pandas()
+        .groupby("subcat")["minimal_pair_comparison"]
+        .mean()
     )
 
     model_results = {"accuracy": accuracy}
+    model_results_per_subcat = {
+        "accuracies": {key: value for key, value in accuracies.items()}
+    }
 
     os.makedirs("results", exist_ok=True)
     model_name = model_name.replace("/", "_")
@@ -55,3 +66,10 @@ for model_name in model_names:
         encoding="utf-8",
     ) as f:
         json.dump(model_results, f, ensure_ascii=False)
+
+    with open(
+        os.path.join("results", f"frblimp_results_per_subcat_{model_name}.json"),
+        "w",
+        encoding="utf-8",
+    ) as f:
+        json.dump(model_results_per_subcat, f, ensure_ascii=False)

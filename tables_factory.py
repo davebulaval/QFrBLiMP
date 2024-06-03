@@ -123,6 +123,7 @@ table = doc.new(
         alignment=["l"] + ["c"] * (col - 2) + ["|c"],
         caption=r"Results",
         caption_pos="bottom",
+        float_format=".1f",
     )
 )
 

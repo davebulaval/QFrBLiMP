@@ -35,7 +35,7 @@ for model_name in model_names:
     evaluation_fn = partial(evaluation, tokenizer=tokenizer, model=model, device=device)
 
     dataset = load_dataset(
-        os.path.join("datastore", "FrBLiMP"), data_files="dataset.tsv"
+        os.path.join("datastore", "FrBLiMP"), data_files="complete.tsv"
     )
 
     process_dataset = dataset.map(evaluation_fn)

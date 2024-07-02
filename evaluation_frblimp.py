@@ -28,6 +28,7 @@ model_names = [
 
 all_results = {}
 for model_name in model_names:
+    print(f"{model_name}")
     model, tokenizer = model_tokenizer_factory(
         model_name=model_name, device=device, token=token
     )

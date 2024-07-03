@@ -168,3 +168,5 @@ datastore/slor_scores_distribution
 datastore/nce_scores_distribution
 
 datastore/release_datasets
+
+*.aux

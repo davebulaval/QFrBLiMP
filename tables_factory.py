@@ -19,7 +19,7 @@ fr_data_per_subcat = {}
 ja_data = {}
 
 for filename in listdir:
-    model_name = filename_to_model_name(filename).lower()
+    model_name = filename_to_model_name(filename)
     with open(os.path.join(root, filename), "r") as file:
         data = json.load(file)
         values = data.values()
@@ -57,46 +57,46 @@ table = doc.new(
 table[0, :].add_rule()
 table[0, 0:] = ["", "FR", "EN", "ZH", "JA", "NL"]
 
-table[0:, 0] = ["", "bert-base-lang", "Llama", "XLM-Roberta-base", "XLM-roberta-large"]
+table[0:, 0] = ["", "BERT", "Llama", "RoBERTa-base", "RoBERTa-large"]
 
 fr_data_sorted = OrderedDict(
     {
-        "bert-base-lang": fr_data.get("bert-base-lang"),
-        "llama": fr_data.get("llama"),
-        "xlm-roberta-base": fr_data.get("xlm-roberta-base"),
-        "xlm-roberta-large": fr_data.get("xlm-roberta-large"),
+        "BERT": fr_data.get("BERT"),
+        "Llama": fr_data.get("Llama"),
+        "RoBERTa-base": fr_data.get("RoBERTa-base"),
+        "RoBERTa-large": fr_data.get("RoBERTa-large"),
     }
 )
 en_data_sorted = OrderedDict(
     {
-        "bert-base-lang": en_data.get("bert-base-lang"),
-        "llama": en_data.get("llama"),
-        "xlm-roberta-base": en_data.get("xlm-roberta-base"),
-        "xlm-roberta-large": en_data.get("xlm-roberta-large"),
+        "BERT": en_data.get("BERT"),
+        "Llama": en_data.get("Llama"),
+        "RoBERTa-base": en_data.get("RoBERTa-base"),
+        "RoBERTa-large": en_data.get("RoBERTa-large"),
     }
 )
 zh_data_sorted = OrderedDict(
     {
-        "bert-base-lang": zh_data.get("bert-base-lang"),
-        "llama": zh_data.get("llama"),
-        "xlm-roberta-base": zh_data.get("xlm-roberta-base"),
-        "xlm-roberta-large": zh_data.get("xlm-roberta-large"),
+        "BERT": zh_data.get("BERT"),
+        "Llama": zh_data.get("Llama"),
+        "RoBERTa-base": zh_data.get("RoBERTa-base"),
+        "RoBERTa-large": zh_data.get("RoBERTa-large"),
     }
 )
 ja_data_sorted = OrderedDict(
     {
-        "bert-base-lang": ja_data.get("bert-base-lang"),
-        "llama": ja_data.get("llama"),
-        "xlm-roberta-base": ja_data.get("xlm-roberta-base"),
-        "xlm-roberta-large": ja_data.get("xlm-roberta-large"),
+        "BERT": ja_data.get("BERT"),
+        "Llama": ja_data.get("Llama"),
+        "RoBERTa-base": ja_data.get("RoBERTa-base"),
+        "RoBERTa-large": ja_data.get("RoBERTa-large"),
     }
 )
 nl_data_sorted = OrderedDict(
     {
-        "bert-base-lang": nl_data.get("bert-base-lang"),
-        "llama": nl_data.get("llama"),
-        "xlm-roberta-base": nl_data.get("xlm-roberta-base"),
-        "xlm-roberta-large": nl_data.get("xlm-roberta-large"),
+        "BERT": nl_data.get("BERT"),
+        "Llama": nl_data.get("Llama"),
+        "RoBERTa-base": nl_data.get("RoBERTa-base"),
+        "RoBERTa-large": nl_data.get("RoBERTa-large"),
     }
 )
 
@@ -114,13 +114,13 @@ doc = Document(
 )
 
 # Create the data
-col, row = len(fr_data_per_subcat.get("llama")) + 2, len(fr_data_per_subcat) + 1
+col, row = len(fr_data_per_subcat) + 1, len(fr_data_per_subcat.get("Llama")) + 2
 
 table = doc.new(
     Table(
         shape=(row, col),
         as_float_env=True,
-        alignment=["l"] + ["c"] * (col - 2) + ["|c"],
+        alignment=["l"] + ["c"] * (col - 1),
         caption=r"Results",
         caption_pos="bottom",
         float_format=".1f",
@@ -128,20 +128,22 @@ table = doc.new(
 )
 
 table[0, :].add_rule()
-table[0, 0:] = [""] + list(fr_data_per_subcat.get("llama").keys()) + ["Average"]
 
 models = [
-    "bert-base-lang",
-    "CamemBERT-large",
+    "BERT",
+    "CamemBERT",
     "Llama",
-    "XLM-Roberta-base",
-    "XLM-roberta-large",
+    "RoBERTa-base",
+    "RoBERTa-large",
 ]
-table[0:, 0] = [""] + models
+table[0, 0:] = [""] + models
+
+table[0:, 0] = [""] + list(fr_data_per_subcat.get("Llama").keys()) + ["Average"]
 
 for idx, model in enumerate(models):
-    table[idx + 1, 1:] = list(fr_data_per_subcat.get(model.lower()).values()) + [
-        mean(list(fr_data_per_subcat.get(model.lower()).values()))
+    table[1:, idx + 1] = list(fr_data_per_subcat.get(model).values()) + [
+        mean(list(fr_data_per_subcat.get(model).values()))
     ]
 
+table[-2, :].add_rule()
 text = doc.build()

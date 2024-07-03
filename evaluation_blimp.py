@@ -1,19 +1,9 @@
-import json
-import os
-from functools import partial
-
-import torch
-from datasets import load_dataset
-from dotenv import dotenv_values
+from datasets import load_dataset, concatenate_datasets, DatasetDict
 from transformers import logging
 
-from evaluation_tools import evaluation
-from factory import model_tokenizer_factory
+from tools import evaluation_loop, BASELINES
 
 logging.set_verbosity_warning()
-secrets = dotenv_values(".env")
-
-token = secrets["huggingface_token"]
 
 names = [
     "adjunct_island",
@@ -91,37 +81,20 @@ model_names = [
     "meta-llama/Llama-2-7b-hf",
     "FacebookAI/xlm-roberta-base",
     "FacebookAI/xlm-roberta-large",
-]
-device = torch.device("cuda")
+] + BASELINES
 
-all_results = {}
-for model_name in model_names:
-    model, tokenizer = model_tokenizer_factory(
-        model_name=model_name, device=device, token=token
-    )
-
-    evaluation_fn = partial(evaluation, tokenizer=tokenizer, model=model, device=device)
-
-    task_results = {}
-    for name in names:
-        dataset = load_dataset("nyu-mll/blimp", name)
-
-        process_dataset = dataset.map(evaluation_fn)
-
-        minimal_pair_comparison = process_dataset["train"]["minimal_pair_comparison"]
-        accuracy = round(
-            sum(minimal_pair_comparison) / len(minimal_pair_comparison) * 100, 2
+all_dataset = DatasetDict(
+    {
+        "train": concatenate_datasets(
+            [load_dataset("nyu-mll/blimp", name)["train"] for name in names]
         )
+    }
+)
 
-        task_results.update({name: accuracy})
+output_file_name_format = "blimp_results_{}.json"
 
-    model_results = {"accuracies": task_results}
-
-    os.makedirs("results", exist_ok=True)
-    model_name = model_name.replace("/", "_")
-    with open(
-        os.path.join("results", f"blimp_results_{model_name}.json"),
-        "w",
-        encoding="utf-8",
-    ) as f:
-        json.dump(model_results, f, ensure_ascii=False)
+evaluation_loop(
+    model_names=model_names,
+    dataset=all_dataset,
+    output_file_name_format=output_file_name_format,
+)

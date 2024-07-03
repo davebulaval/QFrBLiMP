@@ -6,7 +6,7 @@ from transformers import logging
 logging.set_verbosity_warning()
 
 
-def evaluation(row, tokenizer, model, device):
+def evaluation_llm(row, tokenizer, model, device):
     with torch.no_grad():
         # Correct sentence processing
         correct = row["sentence_good"]
@@ -27,4 +27,15 @@ def evaluation(row, tokenizer, model, device):
         perplexity_incorrect = torch.exp(score_incorrect).item()
 
         # The smallest perplexity = the lowest probability
+        # (True/False, True if perplexity_correct is lower than perplexity_incorrect)
         return {"minimal_pair_comparison": perplexity_correct < perplexity_incorrect}
+
+
+def evaluation(row, model):
+    correct = row["sentence_good"]
+    label = 0  # The good sentence is the first sentence. Thus, if the prediction is 0, it mean it has predicted the
+    # "good" sentence as the well written sentence.
+
+    prediction = model(correct, labels=label)
+
+    return {"minimal_pair_comparison": prediction == label}

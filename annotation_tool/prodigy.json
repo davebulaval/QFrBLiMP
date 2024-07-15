@@ -2,6 +2,7 @@
   "buttons": [
     "accept"
   ],
+  "host": "*",
   "feed_overlap": true,
   "batch_size": 10,
   "history_size": 10,

@@ -83,7 +83,7 @@ def evaluation_loop(
             accuracies = (
                 process_dataset["train"]
                 .to_pandas()
-                .groupby("subcat")["minimal_pair_comparison"]
+                .groupby("type")["minimal_pair_comparison"]
                 .mean()
                 * 100
             )
@@ -93,7 +93,7 @@ def evaluation_loop(
             }
 
             output_file_name_format = output_file_name_format.replace(
-                "_results", "_results_per_subcat"
+                "_results", "_results_per_type"
             )
             with open(
                 os.path.join("results", output_file_name_format.format(model_name)),

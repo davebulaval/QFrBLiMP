@@ -47,13 +47,13 @@ def fr_blimp(dataset: str, source: str):
     # Load the stream from a JSONL file and return a generator that yields a
     # dictionary for each example in the data.
     stream = JSONL(source)
-    stream = list(
-        (set_hashes(eg, input_keys=("grammatical", "ungrammatical")) for eg in stream)
-    )
 
-    # Randomized the stream
-    # We need to do it before add_label_options_to_stream since it return a generator
-    random.shuffle(stream)
+    def set_hash(examples):
+        stream = (
+            set_hashes(eg, input_keys=("grammatical", "ungrammatical"))
+            for eg in examples
+        )
+        return stream
 
     # Add labels to each task in stream
     stream = add_label_options_to_stream(stream)
@@ -70,7 +70,7 @@ def fr_blimp(dataset: str, source: str):
     return {
         "view_id": "blocks",
         "dataset": dataset,  # save annotations in this dataset
-        "stream": stream,
+        "stream": set_hash(stream),
         "config": {  # Additional config settings, mostly for app UI
             "exclude_by": "input",  # Hash value used to filter out already seen examples
             "blocks": blocks,

@@ -4,6 +4,7 @@
   ],
   "host": "*",
   "feed_overlap": true,
+  "force_stream_order": true,
   "batch_size": 10,
   "history_size": 10,
   "allow_work_stealing": false,
@@ -12,7 +13,7 @@
   "custom_theme": {
     "cardMaxWidth": 1500
   },
-  "total_examples_target": 297,
+  "total_examples_target": 50,
   "global_css": ".prodigy-content { text-align: left }",
   "instructions": "./instructions.html"
 }

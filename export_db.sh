@@ -1,3 +1,5 @@
+mkdir ./export
+
 python -m prodigy db-out frblimp_50_Ayman > ./export/frblimp_50_Ayman.jsonl
 python -m prodigy db-out frblimp_50_Lag > ./export/frblimp_50_Lag.jsonl
 python -m prodigy db-out frblimp_50_Anna > ./export/frblimp_50_Anna.jsonl

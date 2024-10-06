@@ -13,5 +13,5 @@ dataset.columns = (
     .split(", ")
 )
 
-with open("datastore/FrBLiMP/fr_blimp_sentences.jsonl", "w") as f:
+with open("datastore/FrBLiMP/unannotated/fr_blimp_sentences.jsonl", "w") as f:
     f.write(dataset.to_json(orient="records", lines=True, force_ascii=False))

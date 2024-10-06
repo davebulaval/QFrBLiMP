@@ -13,6 +13,6 @@ annotated_data = load_dataset(
 )
 
 annotated_data["train"].to_json(
-    os.path.join(dir_path, "fr_blimp_annotated.jsonl"),
+    os.path.join(dir_path, "merge_fr_blimp_annotated_50.jsonl"),
     force_ascii=False,
 )

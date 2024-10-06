@@ -2,7 +2,7 @@ names = [
     "Ayman",
     "Lag",
     "Anna",
-    "abdou",
+    "Abdou",
     "Emmanuelle",
     "Hili",
     "Juliette",

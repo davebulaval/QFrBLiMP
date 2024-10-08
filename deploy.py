@@ -1,8 +1,8 @@
 names = [
     "Ayman",
-    "Lag",
+    # "Lag", # Doublon de Marc
     "Anna",
-    "Abdou",
+    # "Abdou", # Doublon de Mahamadou
     "Emmanuelle",
     "Hili",
     "Juliette",

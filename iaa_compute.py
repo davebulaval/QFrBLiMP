@@ -6,7 +6,7 @@ import pandas as pd
 from datasets import load_dataset
 from prodigy_iaa.measures import calculate_agreement
 
-dir_path = os.path.join("datastore", "FrBLiMP", "annotated")
+dir_path = os.path.join("datastore", "FrBLiMP", "merge_annotated")
 
 # We use load_dataset from HG datasets library since it handle well JSONL
 annotated_data = load_dataset(
@@ -43,6 +43,7 @@ names = [
     "Elvino",
     "Chaima",
     "Marc",
+    "ground_truth",
 ]
 
 
@@ -73,6 +74,8 @@ def convert_name_to_unique_id(annotator):
         unique_id = 12
     elif "Marc" in annotator:
         unique_id = 13
+    elif "ground_truth" in annotator:
+        unique_id = 14
     else:
         raise Exception("Unknown annotator")
     return unique_id
@@ -102,7 +105,7 @@ for row in annotated_data["train"]:
         extracted_annotations.update({annotation_hash: annotation_datas})
 
     sentence_1 = row["sentence_1"]
-    sentence_2 = row["sentence_2"][0]
+    sentence_2 = row["sentence_2"]
     sentence_id_mapping.append(
         {
             "sentence_id": annotation_hash,

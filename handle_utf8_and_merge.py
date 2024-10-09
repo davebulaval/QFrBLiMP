@@ -3,16 +3,22 @@ import os
 
 from datasets import load_dataset
 
-dir_path = os.path.join("datastore", "FrBLiMP", "annotated")
+dir_path = os.path.join("datastore", "FrBLiMP")
+annotated_data_dir = os.path.join(dir_path, "annotated")
 
-files = os.listdir(dir_path)
+files = os.listdir(annotated_data_dir)
 
 annotated_data = load_dataset(
-    dir_path,
+    annotated_data_dir,
     data_files=files,
 )
 
-annotated_data["train"].to_json(
-    os.path.join(dir_path, "merge_fr_blimp_annotated_50.jsonl"),
+# We clean that the second sentence is in a list format
+annotated_data = annotated_data["train"].map(
+    lambda x: {"sentence_2": x["sentence_2"][0]}
+)
+
+annotated_data.to_json(
+    os.path.join(dir_path, "merge_annotated", "merge_fr_blimp_annotated_50.jsonl"),
     force_ascii=False,
 )

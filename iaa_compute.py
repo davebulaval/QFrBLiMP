@@ -11,7 +11,7 @@ dir_path = os.path.join("datastore", "FrBLiMP", "merge_annotated")
 # We use load_dataset from HG datasets library since it handle well JSONL
 annotated_data = load_dataset(
     dir_path,
-    data_files=["merge_fr_blimp_annotated_50.jsonl"],
+    data_files=["merge_fr_blimp_annotated_1711.jsonl"],
 )
 
 # Each annotation per annotator is a separated row
@@ -74,8 +74,10 @@ def convert_name_to_unique_id(annotator):
         unique_id = 12
     elif "Marc" in annotator:
         unique_id = 13
-    elif "ground_truth" in annotator:
+    elif "Jaouad" in annotator:
         unique_id = 14
+    elif "ground_truth" in annotator:
+        unique_id = 15
     else:
         raise Exception("Unknown annotator")
     return unique_id

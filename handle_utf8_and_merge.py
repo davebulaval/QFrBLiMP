@@ -4,7 +4,7 @@ import os
 from datasets import load_dataset
 
 dir_path = os.path.join("datastore", "FrBLiMP")
-annotated_data_dir = os.path.join(dir_path, "annotated")
+annotated_data_dir = os.path.join(dir_path, "annotated", "Part 2")
 
 files = os.listdir(annotated_data_dir)
 
@@ -19,6 +19,6 @@ annotated_data = annotated_data["train"].map(
 )
 
 annotated_data.to_json(
-    os.path.join(dir_path, "merge_annotated", "merge_fr_blimp_annotated_50.jsonl"),
+    os.path.join(dir_path, "merge_annotated", "merge_fr_blimp_annotated_1711.jsonl"),
     force_ascii=False,
 )

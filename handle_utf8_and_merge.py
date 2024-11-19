@@ -3,7 +3,7 @@ import os
 
 from datasets import load_dataset
 
-dir_path = os.path.join("datastore", "FrBLiMP")
+dir_path = os.path.join("datastore", "QFrBLiMP")
 annotated_data_dir = os.path.join(dir_path, "annotated", "Part 2")
 
 files = os.listdir(annotated_data_dir)

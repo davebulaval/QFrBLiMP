@@ -26,7 +26,7 @@ for filename in listdir:
 
         if "blimp-nl" in filename:
             nl_data.update({model_name: list(values)[0]})
-        elif "frblimp" in filename:
+        elif "QFrBLiMP" in filename:
             if "per_subcat" in filename:
                 fr_data_per_subcat.update({model_name: list(values)[0]})
             else:

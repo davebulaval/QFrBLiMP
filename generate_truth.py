@@ -3,7 +3,7 @@ import os
 from datasets import load_dataset, Dataset
 
 # Since pour annotations include the ground truth, we can take any annotators split to extract the truth
-dir_path = os.path.join("datastore", "FrBLiMP", "annotated", "Part 2")
+dir_path = os.path.join("datastore", "QFrBLiMP", "annotated", "Part 2")
 
 anna = load_dataset(
     dir_path,

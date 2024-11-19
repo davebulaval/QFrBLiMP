@@ -16,9 +16,9 @@ model_names = [
     "FacebookAI/xlm-roberta-large",
 ] + BASELINES
 
-dataset = load_dataset(os.path.join("datastore", "FrBLiMP"), data_files="complete.tsv")
+dataset = load_dataset(os.path.join("datastore", "QFrBLiMP"), data_files="complete.tsv")
 
-output_file_name_format = "frblimp_results_{}.json"
+output_file_name_format = "QFrBLiMP_results_{}.json"
 
 evaluation_loop(
     model_names=model_names,

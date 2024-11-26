@@ -11,6 +11,8 @@ model_names = [
     "meta-llama/Llama-2-7b-hf",
     "FacebookAI/xlm-roberta-base",
     "FacebookAI/xlm-roberta-large",
+    "meta-llama/Llama-3.1-8B",
+    "meta-llama/Llama-3.1-8B-Instruct",
 ] + BASELINES
 dataset = load_dataset(
     os.path.join("datastore", "BLiMP-NL"),

@@ -13,7 +13,7 @@ dir_path = os.path.join("datastore", "QFrBLiMP", "merge_annotated")
 # We use load_dataset from HG datasets library since it handle well JSONL
 annotated_data = load_dataset(
     dir_path,
-    data_files=["merge_fr_blimp_annotated_1711.jsonl"],
+    data_files=["merge_fr_blimp_annotated.jsonl"],
 )
 
 # Each annotation per annotator is a separated row

@@ -21,8 +21,8 @@ names = [
 ]
 
 truth = load_dataset(
-    os.path.join("datastore", "QFrBLiMP", "annotated", "Part 2"),
-    data_files=["ground_truth.jsonl"],
+    os.path.join("datastore", "QFrBLiMP", "annotated"),
+    data_files=["ground_truth_1711.jsonl"],
 )
 truth_all_ids = truth["train"]["id"]
 
@@ -35,7 +35,7 @@ mapping = {
 missing_annotations = {}
 for name in names:
     dir_path = os.path.join("datastore", "QFrBLiMP")
-    annotated_data_dir = os.path.join(dir_path, "annotated", "Part 2")
+    annotated_data_dir = os.path.join(dir_path, "annotated")
 
     file_name = f"fr_blimp_1711_{name}.jsonl"
 

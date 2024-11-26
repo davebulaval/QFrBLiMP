@@ -13,5 +13,7 @@ unidic_lite
 python2latex
 colorspacious
 matplotlib
+prodigy-iaa
+sqlalchemy
 
 # pip install torch==1.13.1+cu116 --extra-index-url https://download.pytorch.org/whl/cu116

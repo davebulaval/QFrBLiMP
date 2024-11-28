@@ -7,10 +7,94 @@ import torch
 from datasets import Dataset, DatasetDict
 from dotenv import dotenv_values
 
-from evaluation_tools import evaluation_llm, evaluation
+from evaluation_tools import evaluation_llm, evaluation, evaluation_llm_instruct
 from factory import model_tokenizer_factory
 
 BASELINES = ["Aléatoire", "Annotateurs"]
+
+LLMs = [
+    "gpt2",
+    "meta-llama/Llama-3-8B",
+    "meta-llama/Llama-3-8B-Instruct",
+    "meta-llama/Llama-3-70B",
+    "meta-llama/Llama-3-70B-Instruct",
+    "meta-llama/Llama-3.1-8B",
+    "meta-llama/Llama-3.1-8B-Instruct",
+    "meta-llama/Llama-3.1-70B",
+    "meta-llama/Llama-3.1-70B-Instruct",
+    "meta-llama/Llama-3.1-405B",
+    "meta-llama/Llama-3.1-405B-Instruct",
+    "meta-llama/Llama-3.2-1B",
+    "meta-llama/Llama-3.2-1B-Instruct",
+    "meta-llama/Llama-3.2-3B",
+    "meta-llama/Llama-3.2-3B-Instruct",
+    "bigscience/bloom",
+    "bigscience/bloom-560m",
+    "bigscience/bloom-1b1",
+    "bigscience/bloom-1b7",
+    "bigscience/bloom-7b1",
+    "bigscience/bloomz",
+    "bigscience/bloomz-560m",
+    "bigscience/bloomz-1b1",
+    "Qwen/Qwen2.5-0.5B",
+    "Qwen/Qwen2.5-0.5B-Instruct",
+    "Qwen/Qwen2.5-1.5B",
+    "Qwen/Qwen2.5-1.5B-Instruct",
+    "Qwen/Qwen2.5-3B",
+    "Qwen/Qwen2.5-3B-Instruct",
+    "Qwen/Qwen2.5-7B",
+    "Qwen/Qwen2.5-7B-Instruct",
+    "Qwen/Qwen2.5-14B",
+    "Qwen/Qwen2.5-14B-Instruct",
+    "Qwen/Qwen2.5-32B",
+    "Qwen/Qwen2.5-32B-Instruct",
+    "Qwen/Qwen2.5-72B",
+    "Qwen/Qwen2.5-72B-Instruct",
+    "nvidia/Hymba-1.5B-Base",
+    "nvidia/Hymba-1.5B-Instruct",
+    "HuggingFaceTB/SmolLM2-360M",
+    "HuggingFaceTB/SmolLM2-360M-Instruct",
+    "HuggingFaceTB/SmolLM2-135M",
+    "HuggingFaceTB/SmolLM2-135M-Instruct",
+    "HuggingFaceTB/SmolLM2-1.7B",
+    "HuggingFaceTB/SmolLM2-1.7B-Instruct",
+    "microsoft/Phi-3.5-mini-instruct",
+    "microsoft/Phi-3.5-MoE-instruct",
+    "microsoft/Phi-3-mini-4k-instruct",
+    "microsoft/Phi-3-mini-128K-instruct",
+    "microsoft/Phi-3-small-4k-instruct",
+    "microsoft/Phi-3-small-128K-instruct",
+    "microsoft/Phi-3-medium-4k-instruct",
+    "microsoft/Phi-3-medium-128K-instruct",
+    "allenai/OLMo-2-1124-7B",
+    "allenai/OLMo-2-1124-13B",
+    "allenai/OLMo-2-1124-7B-Instruct",
+    "allenai/OLMo-2-1124-13B-Instruct",
+    "google/gemma-2-2b",
+    "google/gemma-2-2b-it",
+    "google/gemma-2-9b",
+    "google/gemma-2-9b-it",
+    "google/gemma-2-27b",
+    "google/gemma-2-27b-it",
+    "xai-org/grok-1",
+    "mistralai/Pixtral-12B-2409",
+    "mistralai/Pixtral-Large-Instruct-2411",
+    "mistralai/Mistral-Large-Instruct-2411",
+    "mistralai/Ministral-8B-Instruct-2410",
+    "mistralai/Mistral-7B-v0.3",
+    "mistralai/Mistral-7B-Instruct-v0.3",
+    "CohereForAI/aya-expanse-8b",
+    "CohereForAI/aya-expanse-32b",
+    "CohereForAI/aya-23-8b",
+    "CohereForAI/aya-23-35b",
+    "CohereForAI/c4ai-command-r-plus",
+    "CohereForAI/c4ai-command-r-v01",
+    "google/flan-t5-small",
+    "google/flan-t5-base",
+    "google/flan-t5-large",
+    "google/flan-t5-xl",
+    "google/flan-t5-xxl",
+]
 
 
 def convert_name_to_unique_id(annotator):
@@ -50,20 +134,25 @@ def convert_name_to_unique_id(annotator):
 
 
 def filename_to_model_name(filename):
-    model_name = None
-    if "xlm-roberta-base" in filename:
-        model_name = "RoBERTa-base"
-    elif "xlm-roberta-large" in filename:
-        model_name = "RoBERTa-large"
-    elif "bert-base" in filename:
-        model_name = "BERT"
-    elif "Llama" in filename:
-        model_name = "Llama"
-    elif "camembert-base" in filename:
-        model_name = "CamemBERT-base"
-    elif "camembert-large" in filename:
-        model_name = "CamemBERT"
-    return model_name
+    return filename.split("/")[-1]
+    # model_name = None
+    # if "xlm-roberta-base" in filename:
+    #     model_name = "RoBERTa-base"
+    # elif "xlm-roberta-large" in filename:
+    #     model_name = "RoBERTa-large"
+    # elif "bert-base" in filename:
+    #     model_name = "BERT"
+    # elif "Llama" in filename:
+    #     model_name = "Llama"
+    # elif "camembert-base" in filename:
+    #     model_name = "CamemBERT-base"
+    # elif "camembert-large" in filename:
+    #     model_name = "CamemBERT"
+    #
+    # if "instruct" in filename.lower() or "-it" in filename.lower():
+    #     model_name += "-Instruct"
+    #
+    # return model_name
 
 
 secrets = dotenv_values(".env")
@@ -90,13 +179,19 @@ def evaluation_loop(
             class_to_predict=class_to_predict,
         )
 
-        if model_name != "Aléatoire":
+        if "instruct" in model_name.lower() or "-it" in model_name.lower():
+            evaluation_fn = partial(
+                evaluation_llm_instruct, tokenizer=tokenizer, model=model, device=device
+            )
+        elif model_name != "Aléatoire":
+            # Meaning a LLM or BERT model (not necessary fine-tuned)
             evaluation_fn = partial(
                 evaluation_llm, tokenizer=tokenizer, model=model, device=device
             )
         elif model_name == "Annotateurs":
             raise NotImplemented
         else:
+            # Meaning the "Aléatoire" model
             evaluation_fn = partial(evaluation, model=model)
 
         process_dataset = dataset.map(evaluation_fn)

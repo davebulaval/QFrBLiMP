@@ -1,7 +1,7 @@
 from datasets import load_dataset, concatenate_datasets, DatasetDict
 from transformers import logging
 
-from tools import evaluation_loop, BASELINES
+from tools import evaluation_loop, BASELINES, LLMs
 
 logging.set_verbosity_warning()
 
@@ -75,15 +75,15 @@ names = [
     "wh_vs_that_with_gap_long_distance",
 ]
 
-model_names = [
-    "gpt2",
-    "google-bert/bert-base-uncased",
-    "meta-llama/Llama-2-7b-hf",
-    "FacebookAI/xlm-roberta-base",
-    "FacebookAI/xlm-roberta-large",
-    "meta-llama/Llama-3.1-8B",
-    "meta-llama/Llama-3.1-8B-Instruct",
-] + BASELINES
+model_names = (
+    [
+        "google-bert/bert-base-uncased",
+        "FacebookAI/xlm-roberta-base",
+        "FacebookAI/xlm-roberta-large",
+    ]
+    + LLMs
+    + BASELINES
+)
 
 all_dataset = DatasetDict(
     {

@@ -7,7 +7,7 @@ dir_path = os.path.join("datastore", "QFrBLiMP", "annotated")
 
 anna = load_dataset(
     dir_path,
-    data_files=["fr_blimp_50_Chaima.jsonl"],
+    data_files=["fr_blimp_50_Anna.jsonl"],
 )["train"]
 
 anna_df = anna.to_pandas()
@@ -31,7 +31,7 @@ Dataset.from_pandas(anna_df).to_json(
 
 anna = load_dataset(
     dir_path,
-    data_files=["fr_blimp_1711_Chaima.jsonl"],
+    data_files=["fr_blimp_1711_Anna.jsonl"],
 )["train"]
 
 anna_df = anna.to_pandas()

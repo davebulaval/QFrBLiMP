@@ -123,7 +123,7 @@ def filename_to_model_name(filename):
     # return model_name
 
 
-secrets = dotenv_values("./evaluations/.env")
+secrets = dotenv_values(".env")
 
 huggingface_token = secrets["huggingface_token"]
 

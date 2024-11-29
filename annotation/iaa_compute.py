@@ -6,7 +6,7 @@ import pandas as pd
 from datasets import load_dataset
 from prodigy_iaa.measures import calculate_agreement
 
-from evaluations.tools import convert_name_to_unique_id
+from annotation.annotation_tools import convert_name_to_unique_id
 
 dir_path = os.path.join("../datastore", "QFrBLiMP", "merge_annotated")
 

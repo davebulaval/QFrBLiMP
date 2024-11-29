@@ -8,7 +8,7 @@ from transformers import (
 )
 from transformers import logging
 
-from evaluations.baseline_models import RandomClassBaselineModel
+from baseline_models import RandomClassBaselineModel
 
 logging.set_verbosity_warning()
 

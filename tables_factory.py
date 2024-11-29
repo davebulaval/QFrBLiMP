@@ -5,7 +5,7 @@ from statistics import mean
 
 from python2latex import Document, Table
 
-from tools import filename_to_model_name
+from evaluations.tools import filename_to_model_name
 
 root = "results"
 saving_dir = "figs"

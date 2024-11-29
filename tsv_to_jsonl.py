@@ -2,7 +2,7 @@ import os
 
 from datasets import load_dataset
 
-dataset = load_dataset(os.path.join("datastore", "QFrBLiMP"), data_files="complete.tsv")
+dataset = load_dataset(os.path.join("datastore", "QFrBLiMP"), data_files="dataset.tsv")
 
 dataset = dataset["train"].to_pandas()
 
@@ -13,5 +13,5 @@ dataset.columns = (
     .split(", ")
 )
 
-with open("datastore/QFrBLiMP/unannotated/fr_blimp_1711_sentences.jsonl", "w") as f:
+with open("datastore/QFrBLiMP/unannotated/fr_blimp_sentences.jsonl", "w") as f:
     f.write(dataset.to_json(orient="records", lines=True, force_ascii=False))

@@ -19,21 +19,21 @@ def model_tokenizer_factory(
     if "gpt" in model_name:
         model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
         tokenizer = GPT2TokenizerFast.from_pretrained(model_name)
-    elif "llama" in model_name.lower():
-        model = AutoModelForCausalLM.from_pretrained(
-            model_name,
-            token=token,
-            low_cpu_mem_usage=True,
-            quantization_config=BitsAndBytesConfig(load_in_8bit=True),
-        )
+    elif "bert" in model_name.lower():
+        # BERT based model (along with RoBERTa).
+        model = AutoModelForMaskedLM.from_pretrained(model_name)
         model.eval()
-        tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
     elif "aléatoire" in model_name.lower():
         model = RandomClassBaselineModel(seed=seed)
         tokenizer = None
     else:
-        model = AutoModelForMaskedLM.from_pretrained(model_name).to(device)
+        model = AutoModelForCausalLM.from_pretrained(
+            model_name,
+            token=token,
+            quantization_config=BitsAndBytesConfig(load_in_8bit=True),
+        )
         model.eval()
-        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
 
     return model, tokenizer

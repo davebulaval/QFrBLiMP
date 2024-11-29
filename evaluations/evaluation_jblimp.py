@@ -24,5 +24,5 @@ output_file_name = "jblimp_results.json"
 evaluation_loop(
     model_names=model_names,
     dataset=dataset,
-    output_file_name_format=output_file_name,
+    output_file_name=output_file_name,
 )

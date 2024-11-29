@@ -20,10 +20,10 @@ dataset = load_dataset(
     data_files="blimp-nl.jsonl",
 )
 
-output_file_name_format = "blimp-nl_results_{}.json"
+output_file_name = "blimp-nl_results.json"
 
 evaluation_loop(
     model_names=model_names,
     dataset=dataset,
-    output_file_name_format=output_file_name_format,
+    output_file_name=output_file_name,
 )

@@ -93,10 +93,10 @@ all_dataset = DatasetDict(
     }
 )
 
-output_file_name_format = "blimp_results_{}.json"
+output_file_name = "blimp_results.json"
 
 evaluation_loop(
     model_names=model_names,
     dataset=all_dataset,
-    output_file_name_format=output_file_name_format,
+    output_file_name=output_file_name,
 )

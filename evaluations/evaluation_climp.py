@@ -17,10 +17,10 @@ model_names = (
 
 dataset = load_dataset("../datastore/CLiMP", data_files=["climp.jsonl"])
 
-output_file_name_format = "climp_results_{}.json"
+output_file_name = "climp_results.json"
 
 evaluation_loop(
     model_names=model_names,
     dataset=dataset,
-    output_file_name_format=output_file_name_format,
+    output_file_name=output_file_name,
 )

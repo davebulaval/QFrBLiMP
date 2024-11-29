@@ -23,11 +23,11 @@ dataset = load_dataset(
     os.path.join("../datastore", "QFrBLiMP"), data_files="complete.tsv"
 )
 
-output_file_name_format = "QFrBLiMP_results_{}.json"
+output_file_name = "QFrBLiMP_results.json"
 
 evaluation_loop(
     model_names=model_names,
     dataset=dataset,
-    output_file_name_format=output_file_name_format,
+    output_file_name=output_file_name,
     compute_subcat=True,
 )

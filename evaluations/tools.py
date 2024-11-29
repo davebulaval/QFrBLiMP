@@ -133,11 +133,12 @@ device = torch.device("cuda")
 def evaluation_loop(
     model_names: List,
     dataset: Union[Dataset, DatasetDict],
-    output_file_name_format: str,
+    output_file_name: str,
     compute_subcat: bool = False,
     seed: int = 42,
     class_to_predict: int = 0,
 ):
+    model_results = {}
     for model_name in model_names:
         model, tokenizer = model_tokenizer_factory(
             model_name=model_name,
@@ -171,16 +172,7 @@ def evaluation_loop(
             sum(minimal_pair_comparison) / len(minimal_pair_comparison) * 100, 2
         )
 
-        model_results = {"accuracy": accuracy}
-
-        os.makedirs("../results", exist_ok=True)
-        model_name = model_name.replace("/", "_")
-        with open(
-            os.path.join("../results", output_file_name_format.format(model_name)),
-            "w",
-            encoding="utf-8",
-        ) as f:
-            json.dump(model_results, f, ensure_ascii=False)
+        payload = {"accuracy": accuracy}
 
         if compute_subcat:
             accuracies = (
@@ -195,12 +187,16 @@ def evaluation_loop(
                 "accuracies": {key: value for key, value in accuracies.items()}
             }
 
-            output_file_name_format = output_file_name_format.replace(
-                "_results", "_results_per_type"
-            )
-            with open(
-                os.path.join("../results", output_file_name_format.format(model_name)),
-                "w",
-                encoding="utf-8",
-            ) as f:
-                json.dump(model_results_per_subcat, f, ensure_ascii=False)
+            payload.update({"accuracy_per_subcat": model_results_per_subcat})
+
+        model_results.update({model_name: payload})
+
+    results_path = os.path.join("./", "results")
+    os.makedirs(results_path, exist_ok=True)
+
+    with open(
+        os.path.join(results_path, output_file_name),
+        "w",
+        encoding="utf-8",
+    ) as f:
+        json.dump(model_results, f, ensure_ascii=False)

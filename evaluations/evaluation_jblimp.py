@@ -19,10 +19,10 @@ dataset = load_dataset("polm-stability/jblimp")
 dataset = dataset.rename_column("good_sentence", "sentence_good")
 dataset = dataset.rename_column("bad_sentence", "sentence_bad")
 
-output_file_name_format = "jblimp_results_{}.json"
+output_file_name = "jblimp_results.json"
 
 evaluation_loop(
     model_names=model_names,
     dataset=dataset,
-    output_file_name_format=output_file_name_format,
+    output_file_name_format=output_file_name,
 )

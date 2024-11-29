@@ -161,8 +161,10 @@ def evaluation_loop(
         else:
             # Meaning the "Aléatoire" model
             evaluation_fn = partial(evaluation, model=model)
-        print(f"----Doing model {model_name} -----")
-        process_dataset = dataset.map(evaluation_fn)
+
+        process_dataset = dataset.map(
+            evaluation_fn, desc=f"----Doing model {model_name} -----"
+        )
 
         minimal_pair_comparison = process_dataset["train"]["minimal_pair_comparison"]
         accuracy = round(

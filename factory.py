@@ -21,7 +21,7 @@ def model_tokenizer_factory(
         tokenizer = GPT2TokenizerFast.from_pretrained(model_name)
     elif "bert" in model_name.lower():
         # BERT based model (along with RoBERTa).
-        model = AutoModelForMaskedLM.from_pretrained(model_name)
+        model = AutoModelForMaskedLM.from_pretrained(model_name).to(device)
         model.eval()
         tokenizer = AutoTokenizer.from_pretrained(model_name)
     elif "aléatoire" in model_name.lower():

@@ -37,16 +37,6 @@ def model_tokenizer_factory(
         )
         model.eval()
         tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
-    elif "olmo" in model_name.lower():
-        bnb_configs = BitsAndBytesConfig(load_in_8bit=True, low_cpu_mem_usage=True)
-        model = AutoModelForCausalLM.from_pretrained(
-            model_name,
-            token=token,
-            quantization_config=bnb_configs,
-            trust_remote_code=True,
-        )
-        model.eval()
-        tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
     else:
         model, tokenizer = FastLanguageModel.from_pretrained(
             model_name,

@@ -18,10 +18,10 @@ BASELINES = ["Aléatoire", "Annotateurs"]
 
 LLMs = [
     "gpt2",
-    "unsloth/Meta-Llama-3-8B-bnb-4bit",
-    "unsloth/Meta-Llama-3-8B-Instruct-bnb-4bit",
-    "unsloth/Meta-Llama-3-70B-bnb-4bit",
-    "unsloth/Meta-Llama-3-70B-Instruct-bnb-4bit",
+    "unsloth/llama-3-8B-bnb-4bit",
+    "unsloth/llama-3-8B-Instruct-bnb-4bit",
+    "unsloth/llama-3-70B-bnb-4bit",
+    "unsloth/llama-3-70B-Instruct-bnb-4bit",
     "unsloth/Meta-Llama-3.1-8B-bnb-4bit",
     "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit",
     "unsloth/Meta-Llama-3.1-70B-bnb-4bit",

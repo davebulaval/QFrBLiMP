@@ -57,7 +57,6 @@ LLMs = [
     "unsloth/gemma-2-9b-it-bnb-4bit",
     "unsloth/gemma-2-27b-bnb-4bit",
     "unsloth/gemma-2-27b-it-bnb-4bit",
-    "xai-org/grok-1",
     "unsloth/Pixtral-12B-2409-bnb-4bit",
     "mistralai/Ministral-8B-Instruct-2410",
     "unsloth/Mistral-7B-v0.3-bnb-4bit",

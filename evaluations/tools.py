@@ -42,8 +42,6 @@ LLMs = [
     "unsloth/Qwen2.5-7B-Instruct-bnb-4bit",
     "unsloth/Qwen2.5-14B-bnb-4bit",
     "unsloth/Qwen2.5-14B-Instruct-bnb-4bit",
-    "nvidia/Hymba-1.5B-Base",
-    "nvidia/Hymba-1.5B-Instruct",
     "HuggingFaceTB/SmolLM2-360M",
     "HuggingFaceTB/SmolLM2-360M-Instruct",
     "HuggingFaceTB/SmolLM2-135M",

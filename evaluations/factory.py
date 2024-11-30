@@ -28,10 +28,11 @@ def model_tokenizer_factory(
         model = RandomClassBaselineModel(seed=seed)
         tokenizer = None
     else:
+        bnb_configs = BitsAndBytesConfig(load_in_4bit=True, low_cpu_mem_usage=True)
         model = AutoModelForCausalLM.from_pretrained(
             model_name,
             token=token,
-            quantization_config=BitsAndBytesConfig(load_in_8bit=True),
+            quantization_config=bnb_configs,
         )
         model.eval()
         tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)

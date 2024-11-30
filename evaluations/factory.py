@@ -27,20 +27,10 @@ def model_tokenizer_factory(
         model = RandomClassBaselineModel(seed=seed)
         tokenizer = None
     else:
-        # bnb_configs = BitsAndBytesConfig(
-        #     # load_in_4bit=True,
-        #     load_in_8bit=True,
-        #     llm_int8_enable_fp32_cpu_offload=True,
-        #     low_cpu_mem_usage=True,
-        #     attn_implementation="flash_attention_2",
-        # )
         model, tokenizer = FastLanguageModel.from_pretrained(
             model_name,
             token=token,
             load_in_4bit=True,
         )
         FastLanguageModel.for_inference(model)
-        # model.eval()
-        # tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
-
     return model, tokenizer

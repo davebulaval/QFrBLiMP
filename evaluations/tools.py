@@ -51,8 +51,6 @@ LLMs = [
     "unsloth/Phi-3.5-mini-instruct-bnb-4bit",
     "microsoft/Phi-3.5-MoE-instruct",
     "microsoft/Phi-3-mini-4k-instruct",
-    "microsoft/Phi-3-small-8k-instruct",
-    "microsoft/Phi-3-medium-4k-instruct",
     "allenai/OLMo-2-1124-7B",
     "allenai/OLMo-2-1124-13B",
     "allenai/OLMo-2-1124-7B-Instruct",

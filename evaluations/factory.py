@@ -28,7 +28,7 @@ def model_tokenizer_factory(
     elif "aléatoire" in model_name.lower():
         model = RandomClassBaselineModel(seed=seed)
         tokenizer = None
-    elif "bloom" in model_name.lower() or "MoE" in model_name.lower():
+    elif "bloom" in model_name.lower() or "moe" in model_name.lower():
         bnb_configs = BitsAndBytesConfig(load_in_8bit=True, low_cpu_mem_usage=True)
         model = AutoModelForCausalLM.from_pretrained(
             model_name,

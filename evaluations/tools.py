@@ -1,5 +1,3 @@
-import json
-import os
 from functools import partial
 from typing import List, Union
 
@@ -90,7 +88,6 @@ def filename_to_model_name(filename):
 def evaluation_loop(
     model_names: List,
     dataset: Union[Dataset, DatasetDict],
-    output_file_name: str,
     dataset_name: str,
     compute_subcat: bool = False,
     seed: int = 42,
@@ -150,9 +147,7 @@ def evaluation_loop(
             map_params = {"batched": False}
 
         process_dataset = dataset.map(
-            evaluation_fn,
-            desc=f"----Doing model {model_name} -----",
-            **map_params
+            evaluation_fn, desc=f"----Doing model {model_name} -----", **map_params
         )
 
         minimal_pair_comparison = process_dataset["train"]["minimal_pair_comparison"]
@@ -178,14 +173,6 @@ def evaluation_loop(
 
         model_results.update({"test": payload})
 
-    results_path = os.path.join("./", "results")
-    os.makedirs(results_path, exist_ok=True)
-
-    with open(
-        os.path.join(results_path, output_file_name),
-        "w",
-        encoding="utf-8",
-    ) as f:
-        json.dump(model_results, f, ensure_ascii=False)
-
-    wandb.log(model_results)
+        wandb.log(model_results)
+        # We close the run since we will start a new one in the for loop for the next model.
+        wandb.finish(exit_code=0)

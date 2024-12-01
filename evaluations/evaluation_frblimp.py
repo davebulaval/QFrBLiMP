@@ -28,7 +28,6 @@ output_file_name = "QFrBLiMP_results.json"
 evaluation_loop(
     model_names=model_names,
     dataset=dataset,
-    output_file_name=output_file_name,
     compute_subcat=True,
     dataset_name="frblimp",
 )

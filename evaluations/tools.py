@@ -154,7 +154,9 @@ def evaluation_loop(
             map_params = {"batched": False}
 
         process_dataset = dataset.map(
-            evaluation_fn, desc=f"----Doing model {model_name} -----", **map_params
+            evaluation_fn,
+            desc=f"----Doing model {model_name} for {lang}-----",
+            **map_params,
         )
 
         minimal_pair_comparison = process_dataset["train"]["minimal_pair_comparison"]

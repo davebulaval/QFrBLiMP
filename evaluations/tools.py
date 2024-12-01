@@ -63,7 +63,6 @@ LLMs = [
     "CohereForAI/aya-expanse-8b",
     "CohereForAI/aya-23-8b",
     "CohereForAI/c4ai-command-r-plus",
-    "CohereForAI/c4ai-command-r-v01",
     "google/flan-t5-small",
     "google/flan-t5-base",
     "google/flan-t5-large",

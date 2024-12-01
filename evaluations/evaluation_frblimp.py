@@ -20,7 +20,7 @@ model_names = (
 )
 
 dataset = load_dataset(
-    os.path.join("../datastore", "QFrBLiMP"), data_files="complete.tsv"
+    os.path.join("../datastore", "QFrBLiMP"), data_files="dataset.tsv"
 )
 
 output_file_name = "QFrBLiMP_results.json"

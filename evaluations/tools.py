@@ -1,3 +1,4 @@
+import os
 from functools import partial
 from typing import List, Union
 
@@ -79,6 +80,9 @@ secrets = dotenv_values(".env")
 huggingface_token = secrets["huggingface_token"]
 
 device = torch.device("cuda")
+
+# To make Wandb silent
+os.environ["WANDB_SILENT"] = "true"
 
 
 def filename_to_model_name(filename):

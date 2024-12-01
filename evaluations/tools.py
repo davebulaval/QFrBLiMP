@@ -134,23 +134,25 @@ def evaluation_loop(
                 model=model,
                 device=device,
             )
+            map_params = {"batched": True, "batch_size": batch_size}
         elif model_name != "Aléatoire":
             # Meaning a LLM or BERT model (not necessary fine-tuned)
             # For all language model, we evaluate them using their probability
             evaluation_fn = partial(
                 evaluation_llm, tokenizer=tokenizer, model=model, device=device
             )
+            map_params = {"batched": False}
         elif model_name == "Annotateurs":
             raise NotImplemented
         else:
             # Meaning the "Aléatoire" model
             evaluation_fn = partial(evaluation, model=model)
+            map_params = {"batched": False}
 
         process_dataset = dataset.map(
             evaluation_fn,
             desc=f"----Doing model {model_name} -----",
-            batched=True,
-            batch_size=batch_size,
+            **map_params
         )
 
         minimal_pair_comparison = process_dataset["train"]["minimal_pair_comparison"]

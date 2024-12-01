@@ -94,6 +94,7 @@ def evaluation_loop(
     dataset_name: str,
     compute_subcat: bool = False,
     seed: int = 42,
+    batch_size: int = 128,
 ):
     config_default_payload = {
         "dataset_name": dataset_name,
@@ -108,17 +109,23 @@ def evaluation_loop(
 
         wandb.init(project="minimal_pair_analysis")
         wandb.config.update({"model_name": model_name, **config_default_payload})
-        wandb.run.name = f"{model_name}"
+        clean_model_name = model_name.split("/")[-1]
+        wandb.run.name = f"{clean_model_name}"
 
         model, tokenizer = model_tokenizer_factory(
-            model_name=model_name,
+            # To clean model name when we have applied a '_prompting' to it.
+            model_name=(
+                model_name
+                if "_prompting" not in model_name
+                else model_name.replace("_prompting", "")
+            ),
             device=device,
             token=huggingface_token,
             seed=seed,
             class_to_predict=class_to_predict,
         )
 
-        if "_prompting" in model_name.lower():
+        if "_prompting" in model_name:
             # For LLM, we also evaluate them using prompt engineering
             # Thus, we exclude model BERT LM.
             evaluation_fn = partial(
@@ -140,7 +147,10 @@ def evaluation_loop(
             evaluation_fn = partial(evaluation, model=model)
 
         process_dataset = dataset.map(
-            evaluation_fn, desc=f"----Doing model {model_name} -----"
+            evaluation_fn,
+            desc=f"----Doing model {model_name} -----",
+            batched=True,
+            batch_size=batch_size,
         )
 
         minimal_pair_comparison = process_dataset["train"]["minimal_pair_comparison"]
@@ -151,21 +161,20 @@ def evaluation_loop(
         payload = {"accuracy": accuracy}
 
         if compute_subcat:
-            accuracies = (
+            accuracies = round(
                 process_dataset["train"]
                 .to_pandas()
                 .groupby("type")["minimal_pair_comparison"]
                 .mean()
-                * 100
+                * 100,
+                2,
             )
 
-            model_results_per_subcat = {
-                "accuracies": {key: value for key, value in accuracies.items()}
-            }
+            model_results_per_subcat = {key: value for key, value in accuracies.items()}
 
             payload.update({"accuracy_per_subcat": model_results_per_subcat})
 
-        model_results.update({model_name: payload})
+        model_results.update({"test": payload})
 
     results_path = os.path.join("./", "results")
     os.makedirs(results_path, exist_ok=True)

@@ -1,5 +1,6 @@
 # REF: https://huggingface.co/spaces/zoebat20/BLiMP/blob/main/app.py
 import random
+import re
 
 import torch
 from transformers import logging
@@ -8,32 +9,69 @@ logging.set_verbosity_warning()
 
 max_length = 2056
 
-prompt = """Here are two English sentences: 1) {} 2) {}. Which sentence is a better English sentence? Respond with either 1 or 2 as your answer. 
-            Answer:
-        """
+prompt = (
+    "Here are two English sentences: 1) {} 2) {} Which sentence is a better English sentence? "
+    "ONLY respond with EITHER the number '1' or the number '2' as your answer. DO NOT RESPONSE ANY OTHER NUMBER THAN '1' or '2'."
+    "No yapping. Answer: "
+)
+
+regex = r"Answer: ([1|2])"
 
 
-def evaluation_llm_prompting(row, tokenizer, model, device):
+def evaluation_llm_prompting(rows, tokenizer, model, device):
     with torch.no_grad():
         # Correct sentence processing
-        grammatical = row["sentence_good"]
-        ungrammatical = row["sentence_bad"]
+        grammatical = rows["sentence_good"]
+        ungrammatical = rows["sentence_bad"]
 
         # We sample the sentence to limit the risk of logical pattern inference by the LLM.
-        choices = [grammatical, ungrammatical]
-        sentence_1 = random.choice(choices)
-        sentence_2 = [choice for choice in choices if choice != sentence_1]
+        choices = random.choices([1, 2], k=len(grammatical))
+        sentences_1 = [
+            grammatical if choice == "1" else ungrammatical
+            for grammatical, ungrammatical, choice in zip(
+                grammatical, ungrammatical, choices
+            )
+        ]
+        sentences_2 = [
+            ungrammatical if choice == "2" else grammatical
+            for grammatical, ungrammatical, choice in zip(
+                grammatical, ungrammatical, choices
+            )
+        ]
 
-        prompt.format(sentence_1, sentence_2)
+        formated_prompts = [
+            prompt.format(sentence_1, sentence_2)
+            for sentence_1, sentence_2 in zip(sentences_1, sentences_2)
+        ]
 
-        prompt_tokenized = tokenizer(
-            prompt, return_tensors="pt", truncation=True, max_length=max_length
-        )["input_ids"].to(device)
-        out_prompt = model(prompt_tokenized, labels=prompt_tokenized.clone())
+        input_ids = tokenizer(
+            formated_prompts,
+            return_tensors="pt",
+            truncation=True,
+            max_length=max_length,
+            padding=True,
+        ).input_ids.to(device)
 
-        # extract the answers
-        answer = out_prompt[0].argmax().item()
-        return {"minimal_pair_comparison": answer}
+        outputs = model.generate(input_ids, max_new_tokens=1)
+        decoded_batch_response = tokenizer.batch_decode(
+            outputs, skip_special_tokens=True
+        )
+
+        # Extract the answers
+        answers = []
+        for sentence in decoded_batch_response:
+            try:
+                answer = re.findall(regex, sentence)[0]
+                answers.append(answer)
+            except IndexError:
+                # Case where the model did not respond anything relevant.
+                answers.append("-1")
+
+        return {
+            "minimal_pair_comparison": [
+                int(answer) == truth for answer, truth in zip(answers, choices)
+            ]
+        }
 
 
 def evaluation_llm(row, tokenizer, model, device):

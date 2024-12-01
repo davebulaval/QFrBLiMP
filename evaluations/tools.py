@@ -64,7 +64,6 @@ llms = [
     "unsloth/Mistral-7B-Instruct-v0.3-bnb-4bit",
     "CohereForAI/aya-expanse-8b",
     "CohereForAI/aya-23-8b",
-    "CohereForAI/c4ai-command-r-plus",
     "google/flan-t5-small",
     "google/flan-t5-base",
     "google/flan-t5-large",

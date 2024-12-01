@@ -13,7 +13,7 @@ prompt = """Here are two English sentences: 1) {} 2) {}. Which sentence is a bet
         """
 
 
-def evaluation_llm_instruct(row, tokenizer, model, device):
+def evaluation_llm_prompting(row, tokenizer, model, device):
     with torch.no_grad():
         # Correct sentence processing
         grammatical = row["sentence_good"]

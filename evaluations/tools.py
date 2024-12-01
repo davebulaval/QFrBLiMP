@@ -4,11 +4,12 @@ from functools import partial
 from typing import List, Union
 
 import torch
+import wandb
 from datasets import Dataset, DatasetDict
 from dotenv import dotenv_values
 
 from evaluation_tools import (
-    evaluation_llm_instruct,
+    evaluation_llm_prompting,
     evaluation,
     evaluation_llm,
 )
@@ -16,7 +17,8 @@ from factory import model_tokenizer_factory
 
 BASELINES = ["Aléatoire", "Annotateurs"]
 
-LLMs = [
+# All LLM we want to evaluate
+llms = [
     "gpt2",
     "unsloth/llama-3-8B-bnb-4bit",
     "unsloth/llama-3-8B-Instruct-bnb-4bit",
@@ -70,28 +72,10 @@ LLMs = [
     "google/flan-t5-xxl",
 ]
 
+# We evaluate all LLm in a prompting setup
+llms_prompting = [llm + "_prompting" for llm in llms]
 
-def filename_to_model_name(filename):
-    return filename.split("/")[-1]
-    # model_name = None
-    # if "xlm-roberta-base" in filename:
-    #     model_name = "RoBERTa-base"
-    # elif "xlm-roberta-large" in filename:
-    #     model_name = "RoBERTa-large"
-    # elif "bert-base" in filename:
-    #     model_name = "BERT"
-    # elif "Llama" in filename:
-    #     model_name = "Llama"
-    # elif "camembert-base" in filename:
-    #     model_name = "CamemBERT-base"
-    # elif "camembert-large" in filename:
-    #     model_name = "CamemBERT"
-    #
-    # if "instruct" in filename.lower() or "-it" in filename.lower():
-    #     model_name += "-Instruct"
-    #
-    # return model_name
-
+LLMs = llms + llms_prompting
 
 secrets = dotenv_values(".env")
 
@@ -100,16 +84,33 @@ huggingface_token = secrets["huggingface_token"]
 device = torch.device("cuda")
 
 
+def filename_to_model_name(filename):
+    return filename.split("/")[-1]
+
+
 def evaluation_loop(
     model_names: List,
     dataset: Union[Dataset, DatasetDict],
     output_file_name: str,
+    dataset_name: str,
     compute_subcat: bool = False,
     seed: int = 42,
-    class_to_predict: int = 0,
 ):
+    config_default_payload = {
+        "dataset_name": dataset_name,
+        "compute_subcat_bool": compute_subcat,
+        "seed": seed,
+    }
+
     model_results = {}
+    # The class to predict, i.e. the label.
+    class_to_predict = 0
     for model_name in model_names:
+
+        wandb.init(project="minimal_pair_analysis")
+        wandb.config.update({"model_name": model_name, **config_default_payload})
+        wandb.run.name = f"{model_name}"
+
         model, tokenizer = model_tokenizer_factory(
             model_name=model_name,
             device=device,
@@ -118,12 +119,18 @@ def evaluation_loop(
             class_to_predict=class_to_predict,
         )
 
-        if "instruct" in model_name.lower() or "-it" in model_name.lower():
+        if "_prompting" in model_name.lower():
+            # For LLM, we also evaluate them using prompt engineering
+            # Thus, we exclude model BERT LM.
             evaluation_fn = partial(
-                evaluation_llm_instruct, tokenizer=tokenizer, model=model, device=device
+                evaluation_llm_prompting,
+                tokenizer=tokenizer,
+                model=model,
+                device=device,
             )
         elif model_name != "Aléatoire":
             # Meaning a LLM or BERT model (not necessary fine-tuned)
+            # For all language model, we evaluate them using their probability
             evaluation_fn = partial(
                 evaluation_llm, tokenizer=tokenizer, model=model, device=device
             )
@@ -170,3 +177,5 @@ def evaluation_loop(
         encoding="utf-8",
     ) as f:
         json.dump(model_results, f, ensure_ascii=False)
+
+    wandb.log(model_results)

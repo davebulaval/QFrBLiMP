@@ -99,4 +99,5 @@ evaluation_loop(
     model_names=model_names,
     dataset=all_dataset,
     output_file_name=output_file_name,
+    dataset_name="blimp",
 )

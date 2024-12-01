@@ -25,4 +25,5 @@ evaluation_loop(
     model_names=model_names,
     dataset=dataset,
     output_file_name=output_file_name,
+    dataset_name="jblimp",
 )

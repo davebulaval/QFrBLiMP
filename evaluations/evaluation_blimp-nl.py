@@ -23,7 +23,5 @@ dataset = load_dataset(
 output_file_name = "blimp-nl_results.json"
 
 evaluation_loop(
-    model_names=model_names,
-    dataset=dataset,
-    dataset_name="blimp-nl",
+    model_names=model_names, dataset=dataset, dataset_name="blimp-nl", lang="nl"
 )

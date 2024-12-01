@@ -22,7 +22,5 @@ dataset = dataset.rename_column("bad_sentence", "sentence_bad")
 output_file_name = "jblimp_results.json"
 
 evaluation_loop(
-    model_names=model_names,
-    dataset=dataset,
-    dataset_name="jblimp",
+    model_names=model_names, dataset=dataset, dataset_name="jblimp", lang="ja"
 )

@@ -96,7 +96,5 @@ all_dataset = DatasetDict(
 output_file_name = "blimp_results.json"
 
 evaluation_loop(
-    model_names=model_names,
-    dataset=all_dataset,
-    dataset_name="blimp",
+    model_names=model_names, dataset=all_dataset, dataset_name="blimp", lang="en"
 )

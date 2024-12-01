@@ -93,6 +93,7 @@ def evaluation_loop(
     model_names: List,
     dataset: Union[Dataset, DatasetDict],
     dataset_name: str,
+    lang: str,
     compute_subcat: bool = False,
     seed: int = 42,
     batch_size: int = 128,
@@ -108,8 +109,10 @@ def evaluation_loop(
     class_to_predict = 0
     for model_name in model_names:
 
-        wandb.init(project="minimal_pair_analysis")
-        wandb.config.update({"model_name": model_name, **config_default_payload})
+        wandb.init(
+            project=f"minimal_pair_analysis_{lang}",
+            config={"model_name": model_name, **config_default_payload},
+        )
         clean_model_name = model_name.split("/")[-1]
         wandb.run.name = f"{clean_model_name}"
 

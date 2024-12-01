@@ -30,4 +30,5 @@ evaluation_loop(
     dataset=dataset,
     compute_subcat=True,
     dataset_name="frblimp",
+    lang="fr",
 )

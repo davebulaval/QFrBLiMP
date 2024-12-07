@@ -5,6 +5,7 @@ from transformers import (
     GPT2TokenizerFast,
     BitsAndBytesConfig,
     AutoModelForCausalLM,
+    AutoModelForSeq2SeqLM,
 )
 from transformers import logging
 from unsloth import FastLanguageModel
@@ -27,11 +28,7 @@ def model_tokenizer_factory(
     elif "aléatoire" in model_name.lower():
         model = RandomClassBaselineModel(seed=seed)
         tokenizer = None
-    elif (
-        "bloom" in model_name.lower()
-        or "moe" in model_name.lower()
-        or "flan" in model_name.lower()
-    ):
+    elif "bloom" in model_name.lower() or "moe" in model_name.lower():
         bnb_configs = BitsAndBytesConfig(load_in_8bit=True, low_cpu_mem_usage=True)
         model = AutoModelForCausalLM.from_pretrained(
             model_name,
@@ -40,6 +37,15 @@ def model_tokenizer_factory(
         )
         model.eval()
         tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
+    elif "flan" in model_name.lower():
+        bnb_configs = BitsAndBytesConfig(load_in_8bit=True, low_cpu_mem_usage=True)
+        model = AutoModelForSeq2SeqLM.from_pretrained(
+            model_name,
+            token=token,
+            quantization_config=bnb_configs,
+        )
+        model.eval()
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
     else:
         model, tokenizer = FastLanguageModel.from_pretrained(
             model_name,

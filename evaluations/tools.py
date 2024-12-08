@@ -12,7 +12,7 @@ from evaluation_tools import (
     evaluation,
     evaluation_llm,
 )
-from evaluations.memory_cleanup import cleanup_memory
+from memory_cleanup import cleanup_memory
 from factory import model_tokenizer_factory
 
 BASELINES = ["Aléatoire", "Annotateurs"]

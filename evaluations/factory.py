@@ -20,6 +20,7 @@ def model_tokenizer_factory(
     if "gpt" in model_name:
         model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
         tokenizer = GPT2TokenizerFast.from_pretrained(model_name)
+        tokenizer.add_special_tokens({"pad_token": "[PAD]"})
     elif "bert" in model_name.lower():
         # BERT based model (along with RoBERTa).
         model = AutoModelForMaskedLM.from_pretrained(model_name).to(device)

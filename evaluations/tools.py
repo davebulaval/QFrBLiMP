@@ -12,6 +12,7 @@ from evaluation_tools import (
     evaluation,
     evaluation_llm,
 )
+from evaluations.memory_cleanup import cleanup_memory
 from factory import model_tokenizer_factory
 
 BASELINES = ["Aléatoire", "Annotateurs"]
@@ -185,3 +186,5 @@ def evaluation_loop(
         wandb.log(model_results)
         # We close the run since we will start a new one in the for loop for the next model.
         wandb.finish(exit_code=0)
+
+        cleanup_memory(model=model, tokenizer=tokenizer)

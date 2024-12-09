@@ -1,4 +1,4 @@
-id	grammatical	ungrammatical	category	type	subcat	annotator_1	annotator_3	annotator_5	annotator_6	annotator_7	annotator_8	annotator_9	annotator_10	annotator_11	annotator_12	annotator_13	annotator_14	annotator_15
+id	sentence_good	sentence_bad	category	type	subcat	annotator_1	annotator_3	annotator_5	annotator_6	annotator_7	annotator_8	annotator_9	annotator_10	annotator_11	annotator_12	annotator_13	annotator_14	annotator_15
 1	« Mais madame, vous m’aviez dit que je ne pouvais pas compter sur vous! »	« Mais madame, vous m’aviez dit que je pouvais pas compter sur vous! »	syntax	7		1	1	1	1	1	1	1	1	1	1	1	1	1
 2	« Merci de m’avoir aidé à déménager. — De rien! »	« Merci pour m’avoir aidé à déménager. — De rien! »	semantic	13	42.0	1	1	1	1	0	1	1	1	1	1	1	1	1
 3	À cette époque, c’était considéré comme des mœurs dissolues.	À cette époque, c’était considéré comme des mœurs dissolue.	morphology	11	11.0	1	1	1	1	1	1	1	1	1	1	1	1	1

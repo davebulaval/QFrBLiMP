@@ -3,7 +3,7 @@ import os.path
 from datasets import load_dataset
 from transformers import logging
 
-from tools import evaluation_loop, BASELINES, LLMs
+from tools import evaluation_loop, LLMs, BASELINES_FR
 
 logging.set_verbosity_warning()
 
@@ -16,11 +16,11 @@ model_names = (
         "FacebookAI/xlm-roberta-large",
     ]
     + LLMs
-    + BASELINES
+    + BASELINES_FR
 )
 
 dataset = load_dataset(
-    os.path.join("../datastore", "QFrBLiMP"), data_files="dataset.tsv", sep="\t"
+    os.path.join("../datastore", "QFrBLiMP"), data_files="annotations.tsv", sep="\t"
 )
 
 output_file_name = "QFrBLiMP_results.json"

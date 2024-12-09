@@ -9,13 +9,15 @@ from dotenv import dotenv_values
 
 from evaluation_tools import (
     evaluation_llm_prompting,
-    evaluation,
+    evaluation_random,
     evaluation_llm,
+    evaluation_annotators,
 )
-from memory_cleanup import cleanup_memory
 from factory import model_tokenizer_factory
+from memory_cleanup import cleanup_memory
 
-BASELINES = ["Aléatoire", "Annotateurs"]
+BASELINES = ["Aléatoire"]
+BASELINES_FR = BASELINES + ["Annotateurs"]
 
 # All LLM we want to evaluate
 llms = [
@@ -140,7 +142,7 @@ def evaluation_loop(
                 device=device,
             )
             map_params = {"batched": True, "batch_size": batch_size}
-        elif model_name != "Aléatoire":
+        elif model_name not in BASELINES_FR:
             # Meaning a LLM or BERT model (not necessary fine-tuned)
             # For all language model, we evaluate them using their probability
             evaluation_fn = partial(
@@ -148,10 +150,11 @@ def evaluation_loop(
             )
             map_params = {"batched": False}
         elif model_name == "Annotateurs":
-            raise NotImplemented
+            evaluation_fn = partial(evaluation_annotators, model=model)
+            map_params = {"batched": False}
         else:
             # Meaning the "Aléatoire" model
-            evaluation_fn = partial(evaluation, model=model)
+            evaluation_fn = partial(evaluation_random, model=model)
             map_params = {"batched": False}
 
         process_dataset = dataset.map(

@@ -8,8 +8,9 @@ from transformers import (
     AutoModelForSeq2SeqLM,
 )
 from transformers import logging
+
 from unsloth import FastLanguageModel
-from baseline_models import RandomClassBaselineModel
+from baseline_models import RandomClassBaselineModel, MajorityVoteModel
 
 logging.set_verbosity_warning()
 
@@ -31,6 +32,9 @@ def model_tokenizer_factory(
         tokenizer = AutoTokenizer.from_pretrained(model_name)
     elif "aléatoire" in model_name.lower():
         model = RandomClassBaselineModel(seed=seed)
+        tokenizer = None
+    elif "annotateurs" in model_name.lower():
+        model = MajorityVoteModel()
         tokenizer = None
     elif "bloom" in model_name.lower() or "moe" in model_name.lower():
         bnb_configs = BitsAndBytesConfig(load_in_8bit=True, low_cpu_mem_usage=True)

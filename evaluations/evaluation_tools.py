@@ -99,11 +99,23 @@ def evaluation_llm(row, tokenizer, model, device):
         return {"minimal_pair_comparison": perplexity_correct < perplexity_incorrect}
 
 
-def evaluation(row, model):
+def evaluation_random(row, model):
     correct = row["sentence_good"]
-    label = 0  # The good sentence is the first sentence. Thus, if the prediction is 0, it mean it has predicted the
-    # "good" sentence as the well written sentence.
+    label = 1  # The good sentence is the unitary label (i.e. 1) sentence.
 
     prediction = model(correct, labels=label)
+
+    return {"minimal_pair_comparison": prediction == label}
+
+
+def evaluation_annotators(row, model):
+    votes = [value for key, value in row.items() if "annotator" in key]
+
+    # Since the last annotator is a "ground truth",
+    # we remove this annotation and use it as the label.
+    votes = votes[:-1]
+    label = votes[-1]
+
+    prediction = model(votes=votes, labels=label)
 
     return {"minimal_pair_comparison": prediction == label}

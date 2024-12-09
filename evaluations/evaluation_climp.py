@@ -20,5 +20,9 @@ dataset = load_dataset("../datastore/CLiMP", data_files=["climp.jsonl"])
 output_file_name = "climp_results.json"
 
 evaluation_loop(
-    model_names=model_names, dataset=dataset, dataset_name="cblimp", lang="zh"
+    model_names=model_names,
+    dataset=dataset,
+    dataset_name="cblimp",
+    lang="zh",
+    batch_size=56,
 )

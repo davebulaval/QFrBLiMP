@@ -31,4 +31,5 @@ evaluation_loop(
     compute_subcat=True,
     dataset_name="frblimp",
     lang="fr",
+    batch_size=56,
 )

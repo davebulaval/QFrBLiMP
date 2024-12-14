@@ -3,8 +3,8 @@ import json
 import torch
 from dotenv import dotenv_values
 
-from evaluations.factory import model_tokenizer_factory
-from evaluations.tools import LLMs, BASELINES
+from factory import model_tokenizer_factory
+from tools import LLMs, BASELINES
 
 model_names = (
     [

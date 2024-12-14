@@ -129,7 +129,6 @@ def evaluation_loop(
             device=device,
             token=huggingface_token,
             seed=seed,
-            class_to_predict=class_to_predict,
         )
 
         if "_prompting" in model_name:

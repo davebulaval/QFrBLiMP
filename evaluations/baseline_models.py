@@ -4,7 +4,6 @@ import numpy as np
 
 
 class BaselineModel:
-    @property
     def num_parameters(self):
         return 0
 

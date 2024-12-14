@@ -29,8 +29,6 @@ huggingface_token = secrets["huggingface_token"]
 
 device = torch.device("cuda")
 
-# To make Wandb silent
-
 models_size = {}
 for model_name in tqdm(model_names):
     model, _ = model_tokenizer_factory(

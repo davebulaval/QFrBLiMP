@@ -2,6 +2,7 @@ import json
 
 import torch
 from dotenv import dotenv_values
+from tqdm import tqdm
 
 from factory import model_tokenizer_factory
 from tools import LLMs, BASELINES
@@ -31,7 +32,7 @@ device = torch.device("cuda")
 # To make Wandb silent
 
 models_size = {}
-for model_name in model_names:
+for model_name in tqdm(model_names):
     model, _ = model_tokenizer_factory(
         # To clean model name when we have applied a '_prompting' to it.
         model_name=(

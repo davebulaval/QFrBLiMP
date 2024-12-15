@@ -78,6 +78,7 @@ names = [
 model_names = (
     [
         "google-bert/bert-base-uncased",
+        "google-bert/bert-large-uncased",
         "FacebookAI/xlm-roberta-base",
         "FacebookAI/xlm-roberta-large",
     ]

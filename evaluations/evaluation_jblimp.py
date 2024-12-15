@@ -8,6 +8,7 @@ logging.set_verbosity_warning()
 model_names = (
     [
         "tohoku-nlp/bert-base-japanese-v3",
+        "tohoku-nlp/bert-large-japanese-v2",
         "FacebookAI/xlm-roberta-base",
         "FacebookAI/xlm-roberta-large",
     ]

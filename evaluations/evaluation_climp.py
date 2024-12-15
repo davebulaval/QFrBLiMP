@@ -24,5 +24,4 @@ evaluation_loop(
     dataset=dataset,
     dataset_name="cblimp",
     lang="zh",
-    batch_size=56,
 )

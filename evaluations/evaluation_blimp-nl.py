@@ -27,5 +27,4 @@ evaluation_loop(
     dataset=dataset,
     dataset_name="blimp-nl",
     lang="nl",
-    batch_size=56,
 )

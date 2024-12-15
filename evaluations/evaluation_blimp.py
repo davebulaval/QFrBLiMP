@@ -101,5 +101,4 @@ evaluation_loop(
     dataset=all_dataset,
     dataset_name="blimp",
     lang="en",
-    batch_size=56,
 )

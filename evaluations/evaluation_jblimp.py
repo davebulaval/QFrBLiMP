@@ -27,5 +27,4 @@ evaluation_loop(
     dataset=dataset,
     dataset_name="jblimp",
     lang="ja",
-    batch_size=56,
 )

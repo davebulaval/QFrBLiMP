@@ -59,8 +59,6 @@ llms = [
     "unsloth/gemma-2-2b-it-bnb-4bit",
     "unsloth/gemma-2-9b-bnb-4bit",
     "unsloth/gemma-2-9b-it-bnb-4bit",
-    "unsloth/gemma-2-27b-bnb-4bit",
-    "unsloth/gemma-2-27b-it-bnb-4bit",
     "mistralai/Ministral-8B-Instruct-2410",
     "unsloth/Mistral-7B-v0.3-bnb-4bit",
     "unsloth/Mistral-7B-Instruct-v0.3-bnb-4bit",
@@ -99,7 +97,6 @@ def evaluation_loop(
     lang: str,
     compute_subcat: bool = False,
     seed: int = 42,
-    batch_size: int = 128,
 ):
     config_default_payload = {
         "dataset_name": dataset_name,
@@ -108,9 +105,8 @@ def evaluation_loop(
     }
 
     model_results = {}
-    # The class to predict, i.e. the label.
-    class_to_predict = 0
     for model_name in model_names:
+        batch_size = 1024
 
         wandb.init(
             project=f"minimal_pair_analysis_{lang}",
@@ -130,6 +126,9 @@ def evaluation_loop(
             token=huggingface_token,
             seed=seed,
         )
+
+        if model.num_parameters() > 5000000000:
+            batch_size /= 2
 
         if "_prompting" in model_name:
             # For LLM, we also evaluate them using prompt engineering
@@ -156,11 +155,19 @@ def evaluation_loop(
             evaluation_fn = partial(evaluation_random, model=model)
             map_params = {"batched": False}
 
-        process_dataset = dataset.map(
-            evaluation_fn,
-            desc=f"----Doing model {model_name} for {lang}-----",
-            **map_params,
-        )
+        try:
+            process_dataset = dataset.map(
+                evaluation_fn,
+                desc=f"----Doing model {model_name} for {lang}-----",
+                **map_params,
+            )
+        except RuntimeError:
+            map_params.update({"batch_size": batch_size / 2})
+            process_dataset = dataset.map(
+                evaluation_fn,
+                desc=f"----Doing model {model_name} for {lang}-----",
+                **map_params,
+            )
 
         minimal_pair_comparison = process_dataset["train"]["minimal_pair_comparison"]
         accuracy = round(

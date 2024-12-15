@@ -70,6 +70,10 @@ def evaluation_llm_prompting(rows, tokenizer, model, device):
                     # We test if it is a possible int
                     answer = int(sentence)
                     answers.append(answer)
+                except TypeError:
+                    # Case the response is a float
+                    answer = float(sentence)
+                    answers.append(answer)
                 except ValueError:
                     # Case where the model did not respond anything relevant.
                     answers.append("-1")

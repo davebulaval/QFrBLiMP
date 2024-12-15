@@ -99,7 +99,11 @@ def evaluation_llm(row, tokenizer, model, device):
         # Incorrect sentence processing
         incorrect = row["sentence_bad"]
         incorrect_tokenized = tokenizer(
-            incorrect, return_tensors="pt", truncation=True, max_length=max_length
+            incorrect,
+            return_tensors="pt",
+            truncation=True,
+            max_length=max_length,
+            padding=True,
         )["input_ids"].to(device)
         out_incorrect = model(incorrect_tokenized, labels=incorrect_tokenized.clone())
         score_incorrect = out_incorrect["loss"]

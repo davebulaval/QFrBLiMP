@@ -90,7 +90,6 @@ def evaluation_llm(row, tokenizer, model, device):
             return_tensors="pt",
             truncation=True,
             max_length=max_length,
-            padding=True,
         )["input_ids"].to(device)
         out_correct = model(correct_tokenized, labels=correct_tokenized.clone())
         score_correct = out_correct["loss"]
@@ -103,7 +102,6 @@ def evaluation_llm(row, tokenizer, model, device):
             return_tensors="pt",
             truncation=True,
             max_length=max_length,
-            padding=True,
         )["input_ids"].to(device)
         out_incorrect = model(incorrect_tokenized, labels=incorrect_tokenized.clone())
         score_incorrect = out_incorrect["loss"]

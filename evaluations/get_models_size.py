@@ -5,7 +5,7 @@ from dotenv import dotenv_values
 from tqdm import tqdm
 
 from factory import model_tokenizer_factory
-from tools import LLMs, BASELINES
+from tools import LLMs, BASELINES_FR
 
 model_names = (
     [
@@ -20,7 +20,7 @@ model_names = (
         "tohoku-nlp/bert-base-japanese-v3",
     ]
     + LLMs
-    + BASELINES
+    + BASELINES_FR
 )
 
 secrets = dotenv_values(".env")
@@ -46,5 +46,5 @@ for model_name in tqdm(model_names):
 
     models_size[model_name] = num_params
 
-with open("models_size.json", "w") as file:
-    json.dump(models_size, file)
+with open("models_size.json", "w", encoding="utf-8") as file:
+    json.dump(models_size, file, ensure_ascii=False)

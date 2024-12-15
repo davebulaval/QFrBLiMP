@@ -11,7 +11,7 @@ max_length = 2056
 
 prompt = (
     "Here are two English sentences: 1) {} 2) {} Which sentence is a better English sentence? "
-    "ONLY respond with EITHER the number '1' or the number '2' as your answer. "
+    "ONLY respond in ENGLISH with EITHER the number '1' or the number '2' as your answer. "
     "DO NOT RESPONSE ANY OTHER NUMBER THAN '1' or '2'."
     "NO YAPPING. Answer: "
 )

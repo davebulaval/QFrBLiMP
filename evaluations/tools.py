@@ -128,7 +128,8 @@ def evaluation_loop(
         )
 
         if model.num_parameters() > 5000000000:
-            batch_size /= 2
+            # We use // to keep it as an integer
+            batch_size //= 2
 
         if "_prompting" in model_name:
             # For LLM, we also evaluate them using prompt engineering

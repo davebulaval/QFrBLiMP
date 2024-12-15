@@ -11,8 +11,9 @@ max_length = 2056
 
 prompt = (
     "Here are two English sentences: 1) {} 2) {} Which sentence is a better English sentence? "
-    "ONLY respond with EITHER the number '1' or the number '2' as your answer. DO NOT RESPONSE ANY OTHER NUMBER THAN '1' or '2'."
-    "No yapping. Answer: "
+    "ONLY respond with EITHER the number '1' or the number '2' as your answer. "
+    "DO NOT RESPONSE ANY OTHER NUMBER THAN '1' or '2'."
+    "NO YAPPING. Answer: "
 )
 
 regex = r"Answer: ([1|2])"
@@ -64,8 +65,14 @@ def evaluation_llm_prompting(rows, tokenizer, model, device):
                 answer = re.findall(regex, sentence)[0]
                 answers.append(answer)
             except IndexError:
-                # Case where the model did not respond anything relevant.
-                answers.append("-1")
+                # Case for direct response is a direct "1" or "2" (e.g. flan).
+                try:
+                    # We test if it is a possible int
+                    answer = int(sentence)
+                    answers.append(answer)
+                except ValueError:
+                    # Case where the model did not respond anything relevant.
+                    answers.append("-1")
 
         return {
             "minimal_pair_comparison": [

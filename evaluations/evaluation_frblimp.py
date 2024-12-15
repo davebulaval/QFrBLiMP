@@ -16,8 +16,7 @@ model_names = (
         "FacebookAI/xlm-roberta-large",
         "jpacifico/Chocolatine-14B-Instruct-DPO-v1.2",
         "jpacifico/Chocolatine-14B-Instruct-DPO-v1.2",
-        "jpacifico/French-Alpaca-Llama3-8B-Instruct-v1.0"
-
+        "jpacifico/French-Alpaca-Llama3-8B-Instruct-v1.0",
     ]
     + LLMs
     + BASELINES_FR

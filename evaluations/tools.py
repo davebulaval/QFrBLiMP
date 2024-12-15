@@ -106,7 +106,7 @@ def evaluation_loop(
 
     model_results = {}
     for model_name in model_names:
-        batch_size = 1024
+        batch_size = 2048
 
         wandb.init(
             project=f"minimal_pair_analysis_{lang}",

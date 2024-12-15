@@ -106,7 +106,7 @@ def evaluation_loop(
 
     model_results = {}
     for model_name in model_names:
-        batch_size = 2048
+        batch_size = 128
 
         wandb.init(
             project=f"minimal_pair_analysis_{lang}",
@@ -146,7 +146,7 @@ def evaluation_loop(
             evaluation_fn = partial(
                 evaluation_llm, tokenizer=tokenizer, model=model, device=device
             )
-            map_params = {"batched": False}
+            map_params = {"batched": False, "batch_size": batch_size}
         elif model_name == "Annotateurs":
             evaluation_fn = partial(evaluation_annotators, model=model)
             map_params = {"batched": False}

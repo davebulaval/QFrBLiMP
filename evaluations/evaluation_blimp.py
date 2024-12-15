@@ -3,6 +3,10 @@ from transformers import logging
 
 from tools import evaluation_loop, BASELINES, LLMs
 
+import os
+
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+
 logging.set_verbosity_warning()
 
 names = [

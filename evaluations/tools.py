@@ -53,7 +53,6 @@ llms = [
     "HuggingFaceTB/SmolLM2-1.7B",
     "HuggingFaceTB/SmolLM2-1.7B-Instruct",
     "unsloth/Phi-3.5-mini-instruct-bnb-4bit",
-    "microsoft/Phi-3.5-MoE-instruct",
     "microsoft/Phi-3-mini-4k-instruct",
     "unsloth/gemma-2-2b-bnb-4bit",
     "unsloth/gemma-2-2b-it-bnb-4bit",

@@ -162,7 +162,7 @@ def evaluation_loop(
                 desc=f"----Doing model {model_name} for {lang}-----",
                 **map_params,
             )
-        except RuntimeError:
+        except torch.OutOfMemoryError:
             map_params.update({"batch_size": batch_size / 2})
             process_dataset = dataset.map(
                 evaluation_fn,

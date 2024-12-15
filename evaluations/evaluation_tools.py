@@ -86,7 +86,11 @@ def evaluation_llm(row, tokenizer, model, device):
         # Correct sentence processing
         correct = row["sentence_good"]
         correct_tokenized = tokenizer(
-            correct, return_tensors="pt", truncation=True, max_length=max_length
+            correct,
+            return_tensors="pt",
+            truncation=True,
+            max_length=max_length,
+            padding=True,
         )["input_ids"].to(device)
         out_correct = model(correct_tokenized, labels=correct_tokenized.clone())
         score_correct = out_correct["loss"]

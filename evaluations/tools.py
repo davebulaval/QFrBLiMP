@@ -146,7 +146,7 @@ def evaluation_loop(
             evaluation_fn = partial(
                 evaluation_llm, tokenizer=tokenizer, model=model, device=device
             )
-            map_params = {"batched": False, "batch_size": batch_size}
+            map_params = {"batched": True, "batch_size": batch_size}
         elif model_name == "Annotateurs":
             evaluation_fn = partial(evaluation_annotators, model=model)
             map_params = {"batched": False}

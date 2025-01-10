@@ -113,7 +113,12 @@ def evaluation_llm(row, tokenizer, model, device):
 
         # The smallest perplexity = the lowest probability
         # (True/False, True if perplexity_correct is lower than perplexity_incorrect)
-        return {"minimal_pair_comparison": perplexity_correct < perplexity_incorrect}
+        # We use 1-0 to replace bool to simplify analysis later.
+        return {
+            "minimal_pair_comparison": (
+                1 if perplexity_correct < perplexity_incorrect else 0
+            )
+        }
 
 
 def evaluation_random(row, model):

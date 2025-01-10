@@ -190,6 +190,15 @@ def evaluation_loop(
 
             payload.update({"accuracy_per_subcat": model_results_per_subcat})
 
+        os.makedirs("predictions", exist_ok=True)
+        output_dir = os.path.join("predictions", lang)
+        os.makedirs(output_dir, exist_ok=True)
+        process_dataset["train"].to_csv(
+            os.path.join(output_dir, f"{model_name.replace('/', '_')}_predictions.tsv"),
+            index=False,
+            sep="\t",
+        )
+
         model_results.update({"test": payload})
 
         wandb.log(model_results)

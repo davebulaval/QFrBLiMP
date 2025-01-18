@@ -103,6 +103,8 @@ def evaluation_loop(
         "seed": seed,
     }
 
+    predictions = {}
+
     model_results = {}
     for model_name in model_names:
         batch_size = 128
@@ -190,6 +192,14 @@ def evaluation_loop(
 
             payload.update({"accuracy_per_subcat": model_results_per_subcat})
 
+        predictions.update(
+            {
+                model_name.replace("/", "_"): list(
+                    process_dataset["train"]["minimal_pair_comparison"]
+                )
+            }
+        )
+
         os.makedirs("predictions", exist_ok=True)
         output_dir = os.path.join("predictions", lang)
         os.makedirs(output_dir, exist_ok=True)
@@ -206,3 +216,9 @@ def evaluation_loop(
         wandb.finish(exit_code=0)
 
         cleanup_memory(model=model, tokenizer=tokenizer)
+
+    dataset.from_dict(predictions).to_csv(
+        os.path.join(output_dir, f"{lang}_all_predictions.tsv"),
+        index=False,
+        sep="\t",
+    )

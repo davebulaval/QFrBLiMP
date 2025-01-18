@@ -63,6 +63,7 @@ def model_tokenizer_factory(model_name, device, token, seed: int = 42):
             model_name,
             token=token,
             load_in_4bit=True,
+            low_cpu_mem_usage=True,
         )
         FastLanguageModel.for_inference(model)
     return model, tokenizer

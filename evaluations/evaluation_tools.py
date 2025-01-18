@@ -99,7 +99,7 @@ def evaluation_llm(row, tokenizer, model, device):
         )["input_ids"].to(device)
         out_correct = model(correct_tokenized, labels=correct_tokenized.clone())
         score_correct = out_correct["loss"]
-        perplexity_correct = torch.exp(score_correct).item()
+        perplexity_correct = torch.exp(score_correct).cpu().item()
 
         # Incorrect sentence processing
         incorrect = row["sentence_bad"]
@@ -111,7 +111,7 @@ def evaluation_llm(row, tokenizer, model, device):
         )["input_ids"].to(device)
         out_incorrect = model(incorrect_tokenized, labels=incorrect_tokenized.clone())
         score_incorrect = out_incorrect["loss"]
-        perplexity_incorrect = torch.exp(score_incorrect).item()
+        perplexity_incorrect = torch.exp(score_incorrect).cpu().item()
 
         # The smallest perplexity = the lowest probability
         # (True/False, True if perplexity_correct is lower than perplexity_incorrect)

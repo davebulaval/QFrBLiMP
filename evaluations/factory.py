@@ -39,6 +39,7 @@ def model_tokenizer_factory(model_name, device, token, seed: int = 42):
         or "moe" in model_name.lower()
         or "chocolatine" in model_name.lower()
         or "alpaca" in model_name.lower()
+        or "mixtral" in model_name.lower()
     ):
         bnb_configs = BitsAndBytesConfig(load_in_8bit=True, low_cpu_mem_usage=True)
         model = AutoModelForCausalLM.from_pretrained(

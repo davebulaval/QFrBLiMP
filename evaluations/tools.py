@@ -217,7 +217,7 @@ def evaluation_loop(
 
         cleanup_memory(model=model, tokenizer=tokenizer)
 
-    dataset.from_dict(predictions).to_csv(
+    dataset["train"].from_dict(predictions).to_csv(
         os.path.join(output_dir, f"{lang}_all_predictions.tsv"),
         index=False,
         sep="\t",

@@ -79,8 +79,10 @@ def evaluation_llm_prompting(rows, tokenizer, model, device):
                     answers.append("-1")
 
         return {
+            # We use 1-0 to replace bool to simplify analysis later.
             "minimal_pair_comparison": [
-                int(answer) == truth for answer, truth in zip(answers, choices)
+                1 if int(answer) == truth else 0
+                for answer, truth in zip(answers, choices)
             ]
         }
 
@@ -127,7 +129,8 @@ def evaluation_random(row, model):
 
     prediction = model(correct, labels=label)
 
-    return {"minimal_pair_comparison": prediction == label}
+    # We use 1-0 to replace bool to simplify analysis later.
+    return {"minimal_pair_comparison": 1 if prediction == label else 0}
 
 
 def evaluation_annotators(row, model):
@@ -140,4 +143,5 @@ def evaluation_annotators(row, model):
 
     prediction = model(votes=votes, labels=label)
 
-    return {"minimal_pair_comparison": prediction == label}
+    # We use 1-0 to replace bool to simplify analysis later.
+    return {"minimal_pair_comparison": 1 if prediction == label else 0}

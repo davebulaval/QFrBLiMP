@@ -1,10 +1,9 @@
 import os
+import subprocess
 
-from datasets import load_dataset
 from transformers import logging
 
 from models import LLMs, BASELINES_FR
-from tools import evaluation_loop
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
@@ -26,18 +25,11 @@ model_names = (
     + BASELINES_FR
 )
 
-dataset = load_dataset(
-    os.path.join("../datastore", "QFrBLiMP"), data_files="annotations.tsv", sep="\t"
-)
-
-output_file_name = "QFrBLiMP_results.json"
-
-
 for model_name in model_names:
-    evaluation_loop(
-        model_name=model_name,
-        dataset=dataset,
-        compute_subcat=True,
-        dataset_name="frblimp",
-        lang="fr",
+    lang = "fr"
+    compute_subcat = True
+
+    subprocess.run(
+        f"python3 evaluate.py {model_name} {lang} --compute_subcat {compute_subcat}",
+        shell=True,
     )

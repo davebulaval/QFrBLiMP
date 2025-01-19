@@ -1,11 +1,9 @@
-import os.path
+import os
+import subprocess
 
-from datasets import load_dataset
 from transformers import logging
 
-from tools import evaluation_loop, BASELINES, LLMs
-
-import os
+from models import LLMs, BASELINES
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
@@ -19,16 +17,12 @@ model_names = (
     + LLMs
     + BASELINES
 )
-dataset = load_dataset(
-    os.path.join("../datastore", "BLiMP-NL"),
-    data_files="blimp-nl.jsonl",
-)
 
-output_file_name = "blimp-nl_results.json"
+for model_name in model_names:
+    lang = "nl"
+    compute_subcat = False
 
-evaluation_loop(
-    model_names=model_names,
-    dataset=dataset,
-    dataset_name="blimp-nl",
-    lang="nl",
-)
+    subprocess.run(
+        f"python3 evaluate.py {model_name} {lang} --compute_subcat {compute_subcat}",
+        shell=True,
+    )

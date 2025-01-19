@@ -4,8 +4,8 @@ import torch
 from dotenv import dotenv_values
 from tqdm import tqdm
 
-from factory import model_tokenizer_factory
-from tools import LLMs, BASELINES_FR
+from models import LLMs, BASELINES_FR
+from model_tokenizer_factory import model_tokenizer_factory
 
 model_names = (
     [

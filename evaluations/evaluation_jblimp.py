@@ -1,9 +1,9 @@
-from datasets import load_dataset
+import os
+import subprocess
+
 from transformers import logging
 
-from tools import evaluation_loop, BASELINES, LLMs
-
-import os
+from models import LLMs, BASELINES
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
@@ -20,15 +20,11 @@ model_names = (
     + BASELINES
 )
 
-dataset = load_dataset("polm-stability/jblimp")
-dataset = dataset.rename_column("good_sentence", "sentence_good")
-dataset = dataset.rename_column("bad_sentence", "sentence_bad")
+for model_name in model_names:
+    lang = "ja"
+    compute_subcat = False
 
-output_file_name = "jblimp_results.json"
-
-evaluation_loop(
-    model_names=model_names,
-    dataset=dataset,
-    dataset_name="jblimp",
-    lang="ja",
-)
+    subprocess.run(
+        f"python3 evaluate.py {model_name} {lang} --compute_subcat {compute_subcat}",
+        shell=True,
+    )

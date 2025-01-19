@@ -3,7 +3,7 @@ import gc
 import torch
 
 
-def cleanup_memory(model=None, tokenizer=None):
+def cleanup_memory(model=None, tokenizer=None, dataloader=None):
     print("Cleaning up memory...")
     # Since we call this as a subprocess in a shell, the cleanup of all the memory usage on the GPU
     # is not as usual. Some memory usage is kept on the GPU and at some poit we get a out-of-memory.
@@ -14,6 +14,9 @@ def cleanup_memory(model=None, tokenizer=None):
 
     if tokenizer is not None:
         del tokenizer
+
+    if dataloader is not None:
+        del dataloader
 
     gc.collect()  # To clean up the object and memory.
     torch.cuda.empty_cache()  # PyTorch thing to release the mem usage.

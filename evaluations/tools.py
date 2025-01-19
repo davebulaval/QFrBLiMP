@@ -95,8 +95,6 @@ def evaluation_loop(
             batched=False,
         )
 
-        cleanup_memory(model=model, tokenizer=tokenizer)
-
         minimal_pair_comparison = process_dataset["train"]["minimal_pair_comparison"]
         accuracy = round(
             sum(minimal_pair_comparison) / len(minimal_pair_comparison) * 100, 2
@@ -132,3 +130,5 @@ def evaluation_loop(
         wandb.log(model_results)
         # We close the run since we will start a new one in the for loop for the next model.
         wandb.finish(exit_code=0)
+
+        cleanup_memory(model=model, tokenizer=tokenizer, dataloader=process_dataset)

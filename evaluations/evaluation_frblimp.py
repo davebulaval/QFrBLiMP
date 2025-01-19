@@ -1,11 +1,8 @@
-import os
 import subprocess
 
 from transformers import logging
 
 from models import LLMs, BASELINES_FR
-
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 logging.set_verbosity_warning()
 
@@ -28,7 +25,6 @@ lang = "fr"
 compute_subcat = True
 device_id = "0"
 for model_name in model_names:
-
     subprocess.run(
         f"python3 evaluate.py {model_name} {lang} --compute_subcat {compute_subcat} --device_id {device_id}",
         shell=True,

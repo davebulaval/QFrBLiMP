@@ -1,11 +1,9 @@
-import os.path
+import os
 
 from datasets import load_dataset
 from transformers import logging
 
 from tools import evaluation_loop, LLMs, BASELINES_FR
-
-import os
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 

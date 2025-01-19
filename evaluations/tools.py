@@ -123,8 +123,6 @@ def evaluation_loop(
     model_results = {}
     with torch.no_grad():
         for model_name in model_names:
-            batch_size = 128
-
             wandb.init(
                 project=f"minimal_pair_analysis_{lang}",
                 config={"model_name": model_name, **config_default_payload},
@@ -144,10 +142,6 @@ def evaluation_loop(
                 seed=seed,
             )
 
-            if model.num_parameters() > 5000000000:
-                # We use // to keep it as an integer
-                batch_size //= 2
-
             if "_prompting" in model_name:
                 # For LLM, we also evaluate them using prompt engineering
                 # Thus, we exclude model BERT LM.
@@ -157,35 +151,23 @@ def evaluation_loop(
                     model=model,
                     device=device,
                 )
-                map_params = {"batched": True, "batch_size": batch_size}
             elif model_name not in BASELINES_FR:
                 # Meaning a LLM or BERT model (not necessary fine-tuned)
                 # For all language model, we evaluate them using their probability
                 evaluation_fn = partial(
                     evaluation_llm, tokenizer=tokenizer, model=model, device=device
                 )
-                map_params = {"batched": False}
             elif model_name == "Annotateurs":
                 evaluation_fn = partial(evaluation_annotators, model=model)
-                map_params = {"batched": False}
             else:
                 # Meaning the "Aléatoire" model
                 evaluation_fn = partial(evaluation_random, model=model)
-                map_params = {"batched": False}
 
-            try:
-                process_dataset = dataset.map(
-                    evaluation_fn,
-                    desc=f"----Doing model {model_name} for {lang}-----",
-                    **map_params,
-                )
-            except torch.OutOfMemoryError:
-                map_params.update({"batch_size": batch_size / 2})
-                process_dataset = dataset.map(
-                    evaluation_fn,
-                    desc=f"----Doing model {model_name} for {lang}-----",
-                    **map_params,
-                )
+            process_dataset = dataset.map(
+                evaluation_fn,
+                desc=f"----Doing model {model_name} for {lang}-----",
+                batched=False,
+            )
 
             minimal_pair_comparison = process_dataset["train"][
                 "minimal_pair_comparison"
@@ -237,6 +219,7 @@ def evaluation_loop(
             # We close the run since we will start a new one in the for loop for the next model.
             wandb.finish(exit_code=0)
 
+            del process_dataset
             cleanup_memory(model=model, tokenizer=tokenizer)
 
     dataset["train"].from_dict(predictions).to_csv(

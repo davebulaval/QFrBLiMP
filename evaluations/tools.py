@@ -123,6 +123,7 @@ def evaluation_loop(
     model_results = {}
     with torch.no_grad():
         for model_name in model_names:
+            print(f"------Evaluating {model_name}------")
             wandb.init(
                 project=f"minimal_pair_analysis_{lang}",
                 config={"model_name": model_name, **config_default_payload},
@@ -168,6 +169,8 @@ def evaluation_loop(
                 desc=f"----Doing model {model_name} for {lang}-----",
                 batched=False,
             )
+
+            cleanup_memory(model=model, tokenizer=tokenizer)
 
             minimal_pair_comparison = process_dataset["train"][
                 "minimal_pair_comparison"
@@ -218,9 +221,6 @@ def evaluation_loop(
             wandb.log(model_results)
             # We close the run since we will start a new one in the for loop for the next model.
             wandb.finish(exit_code=0)
-
-            del process_dataset
-            cleanup_memory(model=model, tokenizer=tokenizer)
 
     dataset["train"].from_dict(predictions).to_csv(
         os.path.join(output_dir, f"{lang}_all_predictions.tsv"),

@@ -152,10 +152,8 @@ def evaluation_llm_prompting(rows, tokenizer, model, device):
 
         return {
             # We use 1-0 to replace bool to simplify analysis later.
-            "minimal_pair_comparison": [
-                1 if int(answer) == truth else 0
-                for answer, truth in zip(answers, choices)
-            ]
+            "minimal_pair_comparison": 1 if int(answer) == truth else 0
+            for answer, truth in zip(answers, choices)
         }
 
 

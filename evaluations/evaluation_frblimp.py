@@ -3,7 +3,7 @@ import os
 from datasets import load_dataset
 from transformers import logging
 
-from evaluations.models import LLMs, BASELINES_FR
+from models import LLMs, BASELINES_FR
 from tools import evaluation_loop
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"

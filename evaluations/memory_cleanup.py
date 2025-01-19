@@ -1,4 +1,5 @@
 import gc
+from time import sleep
 
 import torch
 
@@ -9,14 +10,14 @@ def cleanup_memory(model=None, tokenizer=None, dataloader=None):
     # is not as usual. Some memory usage is kept on the GPU and at some poit we get a out-of-memory.
     # The following code attempts to clean up the memory usage.
     # To release GPU usage on Python side.
-    if model is not None:
-        del model
-
-    if tokenizer is not None:
-        del tokenizer
 
     if dataloader is not None:
         del dataloader
+    if tokenizer is not None:
+        del tokenizer
+    if model is not None:
+        del model
 
     gc.collect()  # To clean up the object and memory.
     torch.cuda.empty_cache()  # PyTorch thing to release the mem usage.
+    sleep(10)

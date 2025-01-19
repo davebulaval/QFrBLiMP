@@ -20,11 +20,12 @@ model_names = (
     + BASELINES
 )
 
+lang = "ja"
+compute_subcat = False
+device_id = "0"
 for model_name in model_names:
-    lang = "ja"
-    compute_subcat = False
 
     subprocess.run(
-        f"python3 evaluate.py {model_name} {lang} --compute_subcat {compute_subcat}",
+        f"python3 evaluate.py {model_name} {lang} --compute_subcat {compute_subcat} --device_id {device_id}",
         shell=True,
     )

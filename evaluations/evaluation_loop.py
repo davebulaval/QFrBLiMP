@@ -16,16 +16,8 @@ from evaluation_tools import (
 from model_tokenizer_factory import model_tokenizer_factory
 from models import BASELINES_FR
 
-secrets = dotenv_values(".env")
-
-huggingface_token = secrets["huggingface_token"]
-
-device = torch.device("cuda")
-
 # To make Wandb silent
 os.environ["WANDB_SILENT"] = "true"
-
-seed = 42
 
 
 def evaluation_loop(
@@ -34,7 +26,17 @@ def evaluation_loop(
     dataset_name: str,
     lang: str,
     compute_subcat: bool = False,
+    device_id: str = "0",
 ):
+    seed = 42
+
+    secrets = dotenv_values(".env")
+
+    huggingface_token = secrets["huggingface_token"]
+
+    os.environ["CUDA_VISIBLE_DEVICES"] = device_id
+    device = torch.device("cuda")
+
     config_default_payload = {
         "dataset_name": dataset_name,
         "compute_subcat_bool": compute_subcat,

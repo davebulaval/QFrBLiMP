@@ -16,7 +16,10 @@ model_names = (
         "jpacifico/Chocolatine-14B-Instruct-DPO-v1.2",
         "jpacifico/Chocolatine-14B-Instruct-DPO-v1.2",
         "jpacifico/French-Alpaca-Llama3-8B-Instruct-v1.0",
+        "OpenLLM-France/Lucie-7B",
+        "OpenLLM-France/Lucie-7B-Instruct",
         "OpenLLM-France/Lucie-7B-Instruct-human-data",
+        "OpenLLM-France/Claire-7B-FR-Instruct-0.1",
     ]
     + LLMs
     + BASELINES_FR

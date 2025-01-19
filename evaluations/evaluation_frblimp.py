@@ -29,8 +29,3 @@ for model_name in model_names:
         f"python3 evaluate.py {model_name} {lang} --compute_subcat {compute_subcat} --device_id {device_id}",
         shell=True,
     )
-
-    # if device_id == "0":
-    #     device_id = "1"
-    # else:
-    #     device_id = "0"

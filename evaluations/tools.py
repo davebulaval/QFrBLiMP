@@ -13,7 +13,7 @@ from evaluation_tools import (
     evaluation_llm,
     evaluation_annotators,
 )
-from evaluations.models import BASELINES_FR
+from models import BASELINES_FR
 from factory import model_tokenizer_factory
 from memory_cleanup import cleanup_memory
 

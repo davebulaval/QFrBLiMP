@@ -3,7 +3,8 @@ import os
 from datasets import load_dataset
 from transformers import logging
 
-from tools import evaluation_loop, LLMs, BASELINES_FR
+from evaluations.models import LLMs, BASELINES_FR
+from tools import evaluation_loop
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
@@ -31,10 +32,12 @@ dataset = load_dataset(
 
 output_file_name = "QFrBLiMP_results.json"
 
-evaluation_loop(
-    model_names=model_names,
-    dataset=dataset,
-    compute_subcat=True,
-    dataset_name="frblimp",
-    lang="fr",
-)
+
+for model_name in model_names:
+    evaluation_loop(
+        model_name=model_name,
+        dataset=dataset,
+        compute_subcat=True,
+        dataset_name="frblimp",
+        lang="fr",
+    )

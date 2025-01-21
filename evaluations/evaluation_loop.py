@@ -46,12 +46,13 @@ def evaluation_loop(
     model_results = {}
     with torch.no_grad():
         print(f"------Evaluating {model_name}------")
+        clean_model_name = model_name.split("/")[-1]
+
         wandb.init(
             project=f"minimal_pair_analysis_{lang}",
             config={"model_name": model_name, **config_default_payload},
+            name=clean_model_name,
         )
-        clean_model_name = model_name.split("/")[-1]
-        wandb.run.name = f"{clean_model_name}"
 
         model, tokenizer = model_tokenizer_factory(
             # To clean model name when we have applied a '_prompting' to it.
@@ -127,5 +128,3 @@ def evaluation_loop(
         wandb.log(model_results)
         # We close the run since we will start a new one in the for loop for the next model.
         wandb.finish(exit_code=0)
-
-        # cleanup_memory(model=model, tokenizer=tokenizer, dataloader=process_dataset)

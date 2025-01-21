@@ -53,7 +53,7 @@ llms = [
     "mistralai/Ministral-8B-Instruct-2410",
     "unsloth/Mistral-7B-v0.3-bnb-4bit",
     "unsloth/Mistral-7B-Instruct-v0.3-bnb-4bit",
-    "unsloth/Pixtral-12B-2409-unsloth-bnb-4bit",
+    "mistralai/Pixtral-12B-2409",
     "unsloth/Mistral-Small-Instruct-2409-bnb-4bit",
     "unsloth/Mistral-Nemo-Instruct-2407-bnb-4bit",
     "mistralai/Mixtral-8x7B-Instruct-v0.1",

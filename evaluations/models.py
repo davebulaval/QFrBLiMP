@@ -55,8 +55,6 @@ llms = [
     "unsloth/Mistral-7B-Instruct-v0.3-bnb-4bit",
     "unsloth/Mistral-Small-Instruct-2409-bnb-4bit",
     "unsloth/Mistral-Nemo-Instruct-2407-bnb-4bit",
-    "mistralai/Mixtral-8x7B-Instruct-v0.1",
-    "mistralai/Mixtral-8x7B-v0.1",
     "CohereForAI/aya-expanse-8b",
     "CohereForAI/aya-23-8b",
     "google/flan-t5-small",

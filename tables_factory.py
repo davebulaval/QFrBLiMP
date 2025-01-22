@@ -14,9 +14,7 @@ listdir = os.listdir(root)
 with open(os.path.join("datastore", "models_size.json"), "r") as file:
     models_size = json.load(file)
 
-# langs = ["nl", "en", "zh", "fr", "ja"]
-
-langs = ["nl", "zh", "fr", "ja"]
+langs = ["nl", "en", "zh", "fr", "ja"]
 
 api = wandb.Api()
 

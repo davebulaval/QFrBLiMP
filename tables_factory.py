@@ -111,5 +111,8 @@ for lang in langs:
     run_df.to_csv(os.path.join("results", f"result_{lang}.tsv"), index=False, sep="\t")
     if lang == "fr":
         run_df[run_df["accuracy"].ge(annotators_accuracy_value)]["model_name"].to_csv(
-            os.path.join("results", f"better_than_human_{lang}.tsv"), index=False, sep="\t")
+            os.path.join("results", f"better_than_human_{lang}.tsv"),
+            index=False,
+            sep="\t",
+        )
     fig.write_html(os.path.join("results", f"minimal_pair_analysis_{lang}.html"))

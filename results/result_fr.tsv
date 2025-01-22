@@ -56,8 +56,8 @@ accuracy	model_name	model_size
 84.95	unsloth/gemma-2-2b-it-bnb-4bit	2614341888.0
 88.36	unsloth/gemma-2-9b-bnb-4bit	9241705984.0
 86.77	unsloth/gemma-2-9b-it-bnb-4bit	9241705984.0
-89.1	unsloth/gemma-2-27b-bnb-4bit	27227128320.0
-86.54	unsloth/gemma-2-27b-it-bnb-4bit	27227128320.0
+89.1	unsloth/gemma-2-27b-bnb-4bit	
+86.54	unsloth/gemma-2-27b-it-bnb-4bit	
 87.96	mistralai/Ministral-8B-Instruct-2410	8019808256.0
 85.86	unsloth/Mistral-7B-v0.3-bnb-4bit	7248023552.0
 86.54	unsloth/Mistral-7B-Instruct-v0.3-bnb-4bit	7248023552.0
@@ -117,8 +117,8 @@ accuracy	model_name	model_size
 5.28	unsloth/gemma-2-2b-it-bnb-4bit_prompting	2614341888.0
 51.11	unsloth/gemma-2-9b-bnb-4bit_prompting	9241705984.0
 49.86	unsloth/gemma-2-9b-it-bnb-4bit_prompting	9241705984.0
-49.35	unsloth/gemma-2-27b-bnb-4bit_prompting	27227128320.0
-49.57	unsloth/gemma-2-27b-it-bnb-4bit_prompting	27227128320.0
+49.35	unsloth/gemma-2-27b-bnb-4bit_prompting	
+49.57	unsloth/gemma-2-27b-it-bnb-4bit_prompting	
 50.71	mistralai/Ministral-8B-Instruct-2410_prompting	8019808256.0
 50.09	unsloth/Mistral-7B-v0.3-bnb-4bit_prompting	7248023552.0
 49.01	unsloth/Mistral-7B-Instruct-v0.3-bnb-4bit_prompting	7248023552.0

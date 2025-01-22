@@ -4,22 +4,22 @@ accuracy	model_name	model_size
 61.56	dbmdz/bert-base-french-europeana-cased	110650880.0
 50.94	FacebookAI/xlm-roberta-base	278295186.0
 72.69	FacebookAI/xlm-roberta-large	560142482.0
-88.02	jpacifico/Chocolatine-14B-Instruct-DPO-v1.2	
-88.02	jpacifico/Chocolatine-14B-Instruct-DPO-v1.2	
-87.05	jpacifico/French-Alpaca-Llama3-8B-Instruct-v1.0	
-90.01	OpenLLM-France/Lucie-7B	
-87.34	OpenLLM-France/Lucie-7B-Instruct	
-83.02	OpenLLM-France/Lucie-7B-Instruct-human-data	
-89.32	OpenLLM-France/Claire-7B-FR-Instruct-0.1	
+88.02	jpacifico/Chocolatine-14B-Instruct-DPO-v1.2	13960238080.0
+88.02	jpacifico/Chocolatine-14B-Instruct-DPO-v1.2	13960238080.0
+87.05	jpacifico/French-Alpaca-Llama3-8B-Instruct-v1.0	8030261248.0
+90.01	OpenLLM-France/Lucie-7B	6706958336.0
+87.34	OpenLLM-France/Lucie-7B-Instruct	6706958336.0
+83.02	OpenLLM-France/Lucie-7B-Instruct-human-data	6706958336.0
+89.32	OpenLLM-France/Claire-7B-FR-Instruct-0.1	6921720704.0
 58.6	gpt2	124439808.0
 89.1	unsloth/llama-3-8B-bnb-4bit	8030261248.0
 88.47	unsloth/llama-3-8B-Instruct-bnb-4bit	8030261248.0
-88.25	unsloth/llama-3-70b-bnb-4bit	
-87.68	unsloth/llama-3-70b-Instruct-bnb-4bit	
+88.25	unsloth/llama-3-70b-bnb-4bit	70553706496.0
+87.68	unsloth/llama-3-70b-Instruct-bnb-4bit	70553706496.0
 87.85	unsloth/Meta-Llama-3.1-8B-bnb-4bit	8030261248.0
 88.7	unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit	8030261248.0
-89.44	unsloth/Meta-Llama-3.1-70B	
-88.64	unsloth/Meta-Llama-3.1-70B-Instruct	
+89.44	unsloth/Meta-Llama-3.1-70B	70553706496.0
+88.64	unsloth/Meta-Llama-3.1-70B-Instruct	70553706496.0
 85.12	unsloth/Llama-3.2-1B-bnb-4bit	1235814400.0
 82.85	unsloth/Llama-3.2-1B-Instruct-bnb-4bit	1235814400.0
 88.02	unsloth/Llama-3.2-3B-bnb-4bit	3212749824.0
@@ -40,10 +40,10 @@ accuracy	model_name	model_size
 89.32	unsloth/Qwen2.5-7B-Instruct-bnb-4bit	7615616512.0
 88.93	unsloth/Qwen2.5-14B-bnb-4bit	14770033664.0
 89.1	unsloth/Qwen2.5-14B-Instruct-bnb-4bit	14770033664.0
-90.29	unsloth/Qwen2.5-32B-bnb-4bit	
-90.23	unsloth/Qwen2.5-32B-Instruct-bnb-4bit	
-89.72	unsloth/Qwen2.5-72B-Instruct-bnb-4bit	
-90.52	unsloth/Qwen2.5-72B-bnb-4bit	
+90.29	unsloth/Qwen2.5-32B-bnb-4bit	32763876352.0
+90.23	unsloth/Qwen2.5-32B-Instruct-bnb-4bit	32763876352.0
+89.72	unsloth/Qwen2.5-72B-Instruct-bnb-4bit	72706203648.0
+90.52	unsloth/Qwen2.5-72B-bnb-4bit	72706203648.0
 72.35	HuggingFaceTB/SmolLM2-360M	361821120.0
 70.53	HuggingFaceTB/SmolLM2-360M-Instruct	361821120.0
 67.75	HuggingFaceTB/SmolLM2-135M	134515008.0
@@ -56,13 +56,13 @@ accuracy	model_name	model_size
 84.95	unsloth/gemma-2-2b-it-bnb-4bit	2614341888.0
 88.36	unsloth/gemma-2-9b-bnb-4bit	9241705984.0
 86.77	unsloth/gemma-2-9b-it-bnb-4bit	9241705984.0
-89.1	unsloth/gemma-2-27b-bnb-4bit	
-86.54	unsloth/gemma-2-27b-it-bnb-4bit	
+89.1	unsloth/gemma-2-27b-bnb-4bit	27227128320.0
+86.54	unsloth/gemma-2-27b-it-bnb-4bit	27227128320.0
 87.96	mistralai/Ministral-8B-Instruct-2410	8019808256.0
 85.86	unsloth/Mistral-7B-v0.3-bnb-4bit	7248023552.0
 86.54	unsloth/Mistral-7B-Instruct-v0.3-bnb-4bit	7248023552.0
-88.7	unsloth/Mistral-Small-Instruct-2409-bnb-4bit	
-88.25	unsloth/Mistral-Nemo-Instruct-2407-bnb-4bit	
+88.7	unsloth/Mistral-Small-Instruct-2409-bnb-4bit	22247282688.0
+88.25	unsloth/Mistral-Nemo-Instruct-2407-bnb-4bit	12247782400.0
 89.04	mistralai/Mixtral-8x7B-Instruct-v0.1	
 88.02	mistralai/Mixtral-8x7B-v0.1	
 78.71	CohereForAI/aya-expanse-8b	8028033024.0
@@ -75,12 +75,12 @@ accuracy	model_name	model_size
 0.0	gpt2_prompting	124439808.0
 53.15	unsloth/llama-3-8B-bnb-4bit_prompting	8030261248.0
 49.35	unsloth/llama-3-8B-Instruct-bnb-4bit_prompting	8030261248.0
-48.55	unsloth/llama-3-70b-bnb-4bit_prompting	
-49.57	unsloth/llama-3-70b-Instruct-bnb-4bit_prompting	
+48.55	unsloth/llama-3-70b-bnb-4bit_prompting	70553706496.0
+49.57	unsloth/llama-3-70b-Instruct-bnb-4bit_prompting	70553706496.0
 50.71	unsloth/Meta-Llama-3.1-8B-bnb-4bit_prompting	8030261248.0
 49.35	unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit_prompting	8030261248.0
-50.31	unsloth/Meta-Llama-3.1-70B_prompting	
-49.91	unsloth/Meta-Llama-3.1-70B-Instruct_prompting	
+50.31	unsloth/Meta-Llama-3.1-70B_prompting	70553706496.0
+49.91	unsloth/Meta-Llama-3.1-70B-Instruct_prompting	70553706496.0
 51.5	unsloth/Llama-3.2-1B-bnb-4bit_prompting	1235814400.0
 50.14	unsloth/Llama-3.2-1B-Instruct-bnb-4bit_prompting	1235814400.0
 50.43	unsloth/Llama-3.2-3B-bnb-4bit_prompting	3212749824.0
@@ -101,10 +101,10 @@ accuracy	model_name	model_size
 46.96	unsloth/Qwen2.5-7B-Instruct-bnb-4bit_prompting	7615616512.0
 48.95	unsloth/Qwen2.5-14B-bnb-4bit_prompting	14770033664.0
 49.63	unsloth/Qwen2.5-14B-Instruct-bnb-4bit_prompting	14770033664.0
-48.38	unsloth/Qwen2.5-32B-bnb-4bit_prompting	
-51.28	unsloth/Qwen2.5-32B-Instruct-bnb-4bit_prompting	
-49.12	unsloth/Qwen2.5-72B-Instruct-bnb-4bit_prompting	
-50.65	unsloth/Qwen2.5-72B-bnb-4bit_prompting	
+48.38	unsloth/Qwen2.5-32B-bnb-4bit_prompting	32763876352.0
+51.28	unsloth/Qwen2.5-32B-Instruct-bnb-4bit_prompting	32763876352.0
+49.12	unsloth/Qwen2.5-72B-Instruct-bnb-4bit_prompting	72706203648.0
+50.65	unsloth/Qwen2.5-72B-bnb-4bit_prompting	72706203648.0
 50.54	HuggingFaceTB/SmolLM2-360M_prompting	361821120.0
 50.65	HuggingFaceTB/SmolLM2-360M-Instruct_prompting	361821120.0
 51.56	HuggingFaceTB/SmolLM2-135M_prompting	134515008.0
@@ -117,13 +117,13 @@ accuracy	model_name	model_size
 5.28	unsloth/gemma-2-2b-it-bnb-4bit_prompting	2614341888.0
 51.11	unsloth/gemma-2-9b-bnb-4bit_prompting	9241705984.0
 49.86	unsloth/gemma-2-9b-it-bnb-4bit_prompting	9241705984.0
-49.35	unsloth/gemma-2-27b-bnb-4bit_prompting	
-49.57	unsloth/gemma-2-27b-it-bnb-4bit_prompting	
+49.35	unsloth/gemma-2-27b-bnb-4bit_prompting	27227128320.0
+49.57	unsloth/gemma-2-27b-it-bnb-4bit_prompting	27227128320.0
 50.71	mistralai/Ministral-8B-Instruct-2410_prompting	8019808256.0
 50.09	unsloth/Mistral-7B-v0.3-bnb-4bit_prompting	7248023552.0
 49.01	unsloth/Mistral-7B-Instruct-v0.3-bnb-4bit_prompting	7248023552.0
-49.46	unsloth/Mistral-Small-Instruct-2409-bnb-4bit_prompting	
-50.31	unsloth/Mistral-Nemo-Instruct-2407-bnb-4bit_prompting	
+49.46	unsloth/Mistral-Small-Instruct-2409-bnb-4bit_prompting	22247282688.0
+50.31	unsloth/Mistral-Nemo-Instruct-2407-bnb-4bit_prompting	12247782400.0
 50.94	CohereForAI/aya-expanse-8b_prompting	8028033024.0
 50.65	CohereForAI/aya-23-8b_prompting	8028033024.0
 48.04	google/flan-t5-small_prompting	76961152.0

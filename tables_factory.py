@@ -14,7 +14,9 @@ listdir = os.listdir(root)
 with open(os.path.join("datastore", "models_size.json"), "r") as file:
     models_size = json.load(file)
 
-langs = ["nl", "en", "zh", "fr", "ja"]
+# langs = ["nl", "en", "zh", "fr", "ja"]
+
+langs = ["nl", "zh", "fr", "ja"]
 
 api = wandb.Api()
 
@@ -100,9 +102,14 @@ for lang in langs:
             line_color="green",
         )
 
+        print(annotators_accuracy_value)
+
     fig.show(renderer="browser")
 
     run_df.drop(["color"], axis=1, inplace=True)
 
     run_df.to_csv(os.path.join("results", f"result_{lang}.tsv"), index=False, sep="\t")
+    if lang == "fr":
+        run_df[run_df["accuracy"].ge(annotators_accuracy_value)]["model_name"].to_csv(
+            os.path.join("results", f"better_than_human_{lang}.tsv"), index=False, sep="\t")
     fig.write_html(os.path.join("results", f"minimal_pair_analysis_{lang}.html"))

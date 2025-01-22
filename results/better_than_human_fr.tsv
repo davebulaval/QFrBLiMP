@@ -1,0 +1,15 @@
+model_name
+OpenLLM-France/Lucie-7B
+OpenLLM-France/Claire-7B-FR-Instruct-0.1
+unsloth/llama-3-8B-bnb-4bit
+unsloth/Meta-Llama-3.1-70B
+unsloth/Qwen2.5-7B-bnb-4bit
+unsloth/Qwen2.5-7B-Instruct-bnb-4bit
+unsloth/Qwen2.5-14B-bnb-4bit
+unsloth/Qwen2.5-14B-Instruct-bnb-4bit
+unsloth/Qwen2.5-32B-bnb-4bit
+unsloth/Qwen2.5-32B-Instruct-bnb-4bit
+unsloth/Qwen2.5-72B-Instruct-bnb-4bit
+unsloth/Qwen2.5-72B-bnb-4bit
+unsloth/gemma-2-27b-bnb-4bit
+mistralai/Mixtral-8x7B-Instruct-v0.1

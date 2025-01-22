@@ -1,11 +1,8 @@
-import json
+import subprocess
 
-import torch
-from dotenv import dotenv_values
 from tqdm import tqdm
 
 from models import LLMs, BASELINES_FR
-from model_tokenizer_factory import model_tokenizer_factory
 
 model_names = (
     [
@@ -32,28 +29,8 @@ model_names = (
     + BASELINES_FR
 )
 
-secrets = dotenv_values(".env")
-
-huggingface_token = secrets["huggingface_token"]
-
-device = torch.device("cuda")
-
-models_size = {}
 for model_name in tqdm(model_names):
-    model, _ = model_tokenizer_factory(
-        # To clean model name when we have applied a '_prompting' to it.
-        model_name=(
-            model_name
-            if "_prompting" not in model_name
-            else model_name.replace("_prompting", "")
-        ),
-        device=device,
-        token=huggingface_token,
+    subprocess.run(
+        f"python3 evaluate.py {model_name}",
+        shell=True,
     )
-
-    num_params = model.num_parameters()
-
-    models_size[model_name] = num_params
-
-with open("models_size.json", "w", encoding="utf-8") as file:
-    json.dump(models_size, file, ensure_ascii=False)

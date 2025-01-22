@@ -4,10 +4,6 @@ import json
 from model_size import model_size
 
 if __name__ == "__main__":
-    # We create a new model JSON file to write the number of params.
-    with open("models_size.json", "w", encoding="utf-8") as file:
-        json.dump({}, file, ensure_ascii=False)
-
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "model_name",

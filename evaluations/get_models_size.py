@@ -1,3 +1,4 @@
+import json
 import subprocess
 
 from tqdm import tqdm
@@ -28,6 +29,10 @@ model_names = (
     + LLMs
     + BASELINES_FR
 )
+
+# We create a new model JSON file to write the number of params.
+with open("models_size.json", "w", encoding="utf-8") as file:
+    json.dump({}, file, ensure_ascii=False)
 
 for model_name in tqdm(model_names):
     subprocess.run(

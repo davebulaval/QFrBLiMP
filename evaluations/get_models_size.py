@@ -31,6 +31,6 @@ model_names = (
 
 for model_name in tqdm(model_names):
     subprocess.run(
-        f"python3 evaluate.py {model_name}",
+        f"python3 get_model_size.py {model_name}",
         shell=True,
     )

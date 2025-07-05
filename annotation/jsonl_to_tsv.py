@@ -6,7 +6,7 @@ from sqlalchemy.util import OrderedDict
 
 from annotation.annotation_tools import convert_name_to_unique_id
 
-root_dir = os.path.join("../datastore", "QFrBLiMP")
+root_dir = os.path.join("./datastore", "QFrBLiMP")
 dir_path = os.path.join(root_dir, "merge_annotated")
 
 # We use load_dataset from HG datasets library since it handle well JSONL

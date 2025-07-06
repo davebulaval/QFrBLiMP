@@ -2,6 +2,7 @@ import os
 import random
 
 import pandas as pd
+from datasets import load_dataset, DatasetDict
 from tqdm import tqdm
 
 dataset_path = os.path.join("datastore", "QFrBLiMP", "annotations.tsv")
@@ -48,6 +49,49 @@ for row in tqdm(qfrblimp.iterrows(), total=len(qfrblimp)):
 
         qfrblimp.loc[row[0]] = row[1]
 
-
 with open("datastore/QFrBLiMP/qfrblimp.jsonl", "w") as f:
     f.write(qfrblimp.to_json(orient="records", lines=True, force_ascii=False))
+
+qfrblimp = load_dataset(
+    "json", data_dir="datastore/QFrBLiMP", data_files="qfrblimp.jsonl", split="train"
+)
+qfrblimp = qfrblimp.class_encode_column("label")
+
+# 60-10-30 train-test ratio
+# 30% for test
+trainvalid_test = qfrblimp.train_test_split(
+    test_size=0.3, shuffle=True, seed=seed, stratify_by_column="label"
+)
+# Split the train in 60-10
+train_valid = trainvalid_test["train"].train_test_split(
+    test_size=0.1, shuffle=True, seed=seed, stratify_by_column="label"
+)
+
+train_test_valid_dataset = DatasetDict(
+    {
+        "train": train_valid["train"],
+        "dev": train_valid["test"],
+        "test": trainvalid_test["test"],
+    }
+)
+
+with open("datastore/QFrBLiMP/qfrblimp_train.jsonl", "w") as f:
+    f.write(
+        train_test_valid_dataset["train"]
+        .to_pandas()
+        .to_json(orient="records", lines=True, force_ascii=False)
+    )
+
+with open("datastore/QFrBLiMP/qfrblimp_dev.jsonl", "w") as f:
+    f.write(
+        train_test_valid_dataset["dev"]
+        .to_pandas()
+        .to_json(orient="records", lines=True, force_ascii=False)
+    )
+
+with open("datastore/QFrBLiMP/qfrblimp_test.jsonl", "w") as f:
+    f.write(
+        train_test_valid_dataset["test"]
+        .to_pandas()
+        .to_json(orient="records", lines=True, force_ascii=False)
+    )

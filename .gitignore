@@ -178,3 +178,5 @@ proprietary_dependencies/
 
 *.pem
 *.zip
+
+.env

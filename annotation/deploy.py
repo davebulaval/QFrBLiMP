@@ -24,7 +24,7 @@ for name, port in zip(names, ports):
 
     call = (
         f"PRODIGY_PORT={port} python -m prodigy fr_blimp {db_name} "
-        f"../datastore/FrBLiMP/unannotated/fr_blimp_{dataset_size}_sentences.jsonl -F recipe.py"
+        f"../datastore/QFrBLiMP/unannotated/fr_blimp_{dataset_size}_sentences.jsonl -F recipe.py"
     )
 
     url = f"http://15.157.58.162:{port}/?session={name}"

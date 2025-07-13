@@ -14,7 +14,7 @@ model_names = (
         "FacebookAI/xlm-roberta-base",
         "FacebookAI/xlm-roberta-large",
         "jpacifico/Chocolatine-14B-Instruct-DPO-v1.2",
-        "jpacifico/Chocolatine-14B-Instruct-DPO-v1.2",
+        "jpacifico/Chocolatine-2-14B-Instruct-v2.0.3",
         "jpacifico/French-Alpaca-Llama3-8B-Instruct-v1.0",
         "OpenLLM-France/Lucie-7B",
         "OpenLLM-France/Lucie-7B-Instruct",

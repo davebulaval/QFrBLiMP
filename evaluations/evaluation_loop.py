@@ -7,11 +7,10 @@ import wandb
 from datasets import Dataset, DatasetDict
 from dotenv import dotenv_values
 
-from evaluation_tools import (
-    evaluation_llm_prompting,
-    evaluation_random,
+from evaluations.evaluation_tools import (
     evaluation_llm,
     evaluation_annotators,
+    evaluation_random,
 )
 from model_tokenizer_factory import model_tokenizer_factory
 from models import BASELINES_FR
@@ -66,16 +65,7 @@ def evaluation_loop(
             seed=seed,
         )
 
-        if "_prompting" in model_name:
-            # For LLM, we also evaluate them using prompt engineering
-            # Thus, we exclude model BERT LM.
-            evaluation_fn = partial(
-                evaluation_llm_prompting,
-                tokenizer=tokenizer,
-                model=model,
-                device=device,
-            )
-        elif model_name not in BASELINES_FR:
+        if model_name not in BASELINES_FR:
             # Meaning a LLM or BERT model (not necessary fine-tuned)
             # For all language model, we evaluate them using their probability
             evaluation_fn = partial(

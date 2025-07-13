@@ -1,8 +1,10 @@
 import argparse
+import os
+
+from datasets import load_dataset
 
 from evaluation_loop import evaluation_loop
-from evaluation_tools import dataset_factory
-from tools import bool_parse
+from evaluations.tools import bool_parse
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -10,11 +12,6 @@ if __name__ == "__main__":
         "model_name",
         type=str,
         help="Model name to process the evaluation loop on.",
-    )
-    parser.add_argument(
-        "lang",
-        type=str,
-        help="Lang to process the evaluation loop on.",
     )
 
     parser.add_argument(
@@ -34,17 +31,20 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     model_name = args.model_name
-    lang = args.lang
     compute_subcat = args.compute_subcat
     device_id = args.device_id
 
-    dataset, dataset_name = dataset_factory(lang=lang)
+    dataset = load_dataset(
+        "json",
+        data_dir=os.path.join("datastore", "QFrBLiMP"),
+        data_files=["qfrblimp.jsonl"],
+    )
 
     evaluation_loop(
         model_name=model_name,
         dataset=dataset,
-        dataset_name=dataset_name,
-        lang=lang,
+        dataset_name="qfrcola",
+        lang="fr",
         compute_subcat=compute_subcat,
         device_id=device_id,
     )

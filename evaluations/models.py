@@ -86,7 +86,4 @@ new = [
     "unsloth/reka-flash-3-unsloth-bnb-4bit",
 ]
 
-# We evaluate all LLm in a prompting setup
-llms_prompting = [llm + "_prompting" for llm in llms]
-
-LLMs = llms + llms_prompting + new
+LLMs = llms + new

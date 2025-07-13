@@ -24,11 +24,10 @@ model_names = (
     + LLMs
     + BASELINES_FR
 )
-lang = "fr"
 compute_subcat = True
 device_id = "0"
 for model_name in model_names:
     subprocess.run(
-        f"python3 evaluate.py {model_name} {lang} --compute_subcat {compute_subcat} --device_id {device_id}",
+        f"python3 evaluate.py {model_name} --compute_subcat {compute_subcat} --device_id {device_id}",
         shell=True,
     )

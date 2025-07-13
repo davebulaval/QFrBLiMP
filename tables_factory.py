@@ -4,7 +4,6 @@ import os
 import numpy as np
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objects as go
 import wandb
 
 root = "results"
@@ -13,7 +12,6 @@ listdir = os.listdir(root)
 
 with open(os.path.join("datastore", "models_size.json"), "r") as file:
     models_size = json.load(file)
-
 
 langs = ["fr"]
 
@@ -26,25 +24,91 @@ for lang in langs:
     accuracies, model_names, model_sizes = [], [], []
     for run in runs:
         if run.state == "finished":
-            accuracies.append(
-                [
-                    v.get("accuracy")
-                    for k, v in run.summary._json_dict.items()
-                    if not k.startswith("_")
-                ][0]
-            )
-
             model_name = [v for k, v in run.config.items() if k == "model_name"][0]
-            model_names.append(model_name)
+            if "_prompting" not in model_name:
+                accuracies.append(
+                    [
+                        v.get("accuracy")
+                        for k, v in run.summary._json_dict.items()
+                        if not k.startswith("_")
+                    ][0]
+                )
 
-            model_size = models_size.get(model_name)
+                model_names.append(model_name)
 
-            model_sizes.append(model_size)
+                model_size = models_size.get(model_name)
+
+                model_sizes.append(model_size)
 
     run_df = pd.DataFrame(
         {"accuracy": accuracies, "model_name": model_names, "model_size": model_sizes}
     )
 
+    def format_numbers(num: int, max_fraction_digits: int = 1):
+        digits = f"{num:,}"
+        comma = digits.count(",")
+        seperates = {
+            "1": "K",
+            "2": "M",
+            "3": "B",
+            "4": "T",
+            "5": "Q",
+            "6": "S",
+            "7": "O",
+            "8": "N",
+        }
+        seperate = seperates.get(str(comma), "N/A")
+        if seperate == "N/A":
+            return digits
+        second = digits.split(",")[1]
+        if max_fraction_digits and (p := second[:max_fraction_digits]) != "0":
+            return f'{digits[:digits.find(",")]}.{p}{seperate}'
+        else:
+            return f'{digits[:digits.find(",")]}{seperate}'
+
+    llm_stats = run_df[["model_name", "model_size"]]
+
+    for idx, row in llm_stats.iterrows():
+        model_name_clean = (
+            row["model_name"]
+            .split("/")[-1]
+            .capitalize()
+            .replace("bert", "BERT")
+            .replace("Bert", "BERT")
+            .replace("gpt", "GPT")
+            .replace("french", "French")
+            .replace("-unsloth-bnb-4bit", "")
+            .replace("Gpt", "GPT")
+            .replace("-bnb-4bit", "")
+            .replace("instruct", "it")
+            .replace("Xlm", "XLM")
+            .replace("Flan-t5", "FLAN-T5")
+            .replace("Deepseek", "DeepSeek")
+            .replace("llama", "Llama")
+            .replace("alpaca", "Alpaca")
+            .replace("Qwq", "QwQ")
+            .replace("Smollm", "SmolLM")
+        )
+        model_weights_clean = format_numbers(row["model_size"])
+
+        llm_stats.loc[idx] = {
+            "model_name": model_name_clean,
+            "model_size": model_weights_clean,
+        }
+    llm_stats["source"] = ""
+
+    llm_stats = llm_stats.sort_values(
+        by=["model_name"],
+        ascending=True,
+    )
+    llm_stats = llm_stats[["model_name", "source", "model_size"]]
+    print(
+        llm_stats.to_latex(
+            columns=["model_name", "source", "model_size"],
+            column_format="llc",
+            index=False,
+        )
+    )
     random_accuracy_value = list(
         run_df["accuracy"][run_df["model_name"] == "Aléatoire"]
     )[0]

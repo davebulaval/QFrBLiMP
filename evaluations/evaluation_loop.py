@@ -7,7 +7,7 @@ import wandb
 from datasets import Dataset, DatasetDict
 from dotenv import dotenv_values
 
-from evaluations.evaluation_tools import (
+from evaluation_tools import (
     evaluation_llm,
     evaluation_annotators,
     evaluation_random,

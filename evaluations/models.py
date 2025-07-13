@@ -68,7 +68,25 @@ llms = [
     "google/flan-t5-xxl",
 ]
 
+new = [
+    "unsloth/phi-4-unsloth-bnb-4bit",
+    "prithivMLmods/Deepthink-Reasoning-7B",
+    "prithivMLmods/Deepthink-Reasoning-14B",
+    "simplescaling/s1.1-32B",
+    "unsloth/granite-3.2-8b-instruct-bnb-4bit",
+    "unsloth/QwQ-32B-unsloth-bnb-4bit",
+    "unsloth/OLMo-2-0325-32B-Instruct-bnb-4bit",
+    "unsloth/OLMo-2-0325-32B-Instruct-unsloth-bnb-4bit",
+    "allenai/OLMo-2-1124-13B-Instruct",
+    "allenai/OLMo-2-1124-13B",
+    "allenai/OLMo-2-1124-7B-Instruct",
+    "allenai/OLMo-2-1124-7B",
+    "unsloth/Mixtral-8x7B-Instruct-v0.1-unsloth-bnb-4bit",
+    "unsloth/Mixtral-8x7B-v0.1-unsloth-bnb-4bit",
+    "unsloth/reka-flash-3-unsloth-bnb-4bit",
+]
+
 # We evaluate all LLm in a prompting setup
 llms_prompting = [llm + "_prompting" for llm in llms]
 
-LLMs = llms + llms_prompting
+LLMs = llms + llms_prompting + new

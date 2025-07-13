@@ -4,7 +4,7 @@ import os
 from datasets import load_dataset
 
 from evaluation_loop import evaluation_loop
-from evaluations.tools import bool_parse
+from tools import bool_parse
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

@@ -49,7 +49,7 @@ for row in tqdm(qfrblimp.iterrows(), total=len(qfrblimp)):
 
         qfrblimp.loc[row[0]] = row[1]
 
-with open("QFrBLiMP/qfrblimp.jsonl", "w") as f:
+with open("QFrBLiMP/release/qfrblimp.jsonl", "w") as f:
     f.write(qfrblimp.to_json(orient="records", lines=True, force_ascii=False))
 
 qfrblimp = load_dataset(
@@ -75,21 +75,21 @@ train_test_valid_dataset = DatasetDict(
     }
 )
 
-with open("QFrBLiMP/qfrblimp_train.jsonl", "w") as f:
+with open("QFrBLiMP/release/qfrblimp_train.jsonl", "w") as f:
     f.write(
         train_test_valid_dataset["train"]
         .to_pandas()
         .to_json(orient="records", lines=True, force_ascii=False)
     )
 
-with open("QFrBLiMP/qfrblimp_dev.jsonl", "w") as f:
+with open("QFrBLiMP/release/qfrblimp_dev.jsonl", "w") as f:
     f.write(
         train_test_valid_dataset["dev"]
         .to_pandas()
         .to_json(orient="records", lines=True, force_ascii=False)
     )
 
-with open("QFrBLiMP/qfrblimp_test.jsonl", "w") as f:
+with open("QFrBLiMP/release/qfrblimp_test.jsonl", "w") as f:
     f.write(
         train_test_valid_dataset["test"]
         .to_pandas()

@@ -35,9 +35,10 @@ if __name__ == "__main__":
     device_id = args.device_id
 
     dataset = load_dataset(
-        "json",
+        "csv",
         data_dir=os.path.join("..", "datastore", "QFrBLiMP"),
-        data_files=["qfrblimp.jsonl"],
+        data_files=["human_llm_annotations.tsv"],
+        sep="\t",
     )
 
     evaluation_loop(

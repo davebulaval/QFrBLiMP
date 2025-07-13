@@ -36,7 +36,7 @@ if __name__ == "__main__":
 
     dataset = load_dataset(
         "json",
-        data_dir=os.path.join("datastore", "QFrBLiMP"),
+        data_dir=os.path.join("..", "datastore", "QFrBLiMP"),
         data_files=["qfrblimp.jsonl"],
     )
 

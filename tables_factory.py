@@ -5,6 +5,7 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 import wandb
+import tikzplotly
 
 root = "results"
 saving_dir = "figs"
@@ -21,7 +22,8 @@ for lang in langs:
     # Project is specified by <entity/project-name>
     runs = api.runs(f"davebulaval/minimal_pair_analysis_{lang}")
 
-    accuracies, model_names, model_sizes = [], [], []
+    accuracies, accuracies_subcat, model_names, model_sizes = [], [], [], []
+    model_names_clean = []
     for run in runs:
         if run.state == "finished":
             model_name = [v for k, v in run.config.items() if k == "model_name"][0]
@@ -34,14 +36,89 @@ for lang in langs:
                     ][0]
                 )
 
+                accuracies_subcat.append(
+                    [
+                        v.get("accuracy_per_subcat")
+                        for k, v in run.summary._json_dict.items()
+                        if not k.startswith("_")
+                    ][0]
+                )
+
                 model_names.append(model_name)
+                model_name_clean = (
+                    r"\texttt{"
+                    + model_name.split("/")[-1]
+                    .capitalize()
+                    .replace("bert", "BERT")
+                    .replace("Bert", "BERT")
+                    .replace("gpt", "GPT")
+                    .replace("french", "French")
+                    .replace("-unsloth-bnb-4bit", "")
+                    .replace("Gpt", "GPT")
+                    .replace("-bnb-4bit", "")
+                    .replace("instruct", "it")
+                    .replace("Xlm", "XLM")
+                    .replace("Flan-t5", "FLAN-T5")
+                    .replace("Deepseek", "DeepSeek")
+                    .replace("llama", "Llama")
+                    .replace("alpaca", "Alpaca")
+                    .replace("Qwq", "QwQ")
+                    .replace("Smollm", "SmolLM")
+                    + r"}"
+                )
+                model_names_clean.append(model_name_clean)
 
                 model_size = models_size.get(model_name)
 
                 model_sizes.append(model_size)
 
+    human_ref = accuracies_subcat[74]
+    formatted_accuracies_subcat = {str(key): [] for key in range(1, 21)}
+    formatted_accuracies_subcat_diff = {str(key): [] for key in range(1, 21)}
+    for row in accuracies_subcat:
+        for key, value in sorted(list(row.items())):
+            content = formatted_accuracies_subcat.get(key)
+            content.append(value)
+
+            human_ref_value = human_ref.get(key)
+
+            content_2 = formatted_accuracies_subcat_diff.get(key)
+            content_2.append(value - human_ref_value)
+
     run_df = pd.DataFrame(
         {"accuracy": accuracies, "model_name": model_names, "model_size": model_sizes}
+    )
+
+    run_df_2 = pd.DataFrame(
+        {"model_name": model_names_clean, **formatted_accuracies_subcat}
+    )
+
+    run_df_2 = run_df_2.sort_values(
+        by=["model_name"],
+        ascending=True,
+    )
+    print(
+        run_df_2.to_latex(
+            column_format="lc",
+            index=False,
+            float_format="%.2f",
+        )
+    )
+
+    run_df_3 = pd.DataFrame(
+        {"model_name": model_names_clean, **formatted_accuracies_subcat_diff}
+    )
+
+    run_df_3 = run_df_3.sort_values(
+        by=["model_name"],
+        ascending=True,
+    )
+    print(
+        run_df_3.to_latex(
+            column_format="lc",
+            index=False,
+            float_format="%.2f",
+        )
     )
 
     def format_numbers(num: int, max_fraction_digits: int = 1):
@@ -70,7 +147,8 @@ for lang in langs:
 
     for idx, row in llm_stats.iterrows():
         model_name_clean = (
-            row["model_name"]
+            r"\texttt{"
+            + row["model_name"]
             .split("/")[-1]
             .capitalize()
             .replace("bert", "BERT")
@@ -88,6 +166,7 @@ for lang in langs:
             .replace("alpaca", "Alpaca")
             .replace("Qwq", "QwQ")
             .replace("Smollm", "SmolLM")
+            + r"}"
         )
         model_weights_clean = format_numbers(row["model_size"])
 
@@ -139,43 +218,41 @@ for lang in langs:
         log_x=True,
         hover_name="model_name",
     ).update_layout(
-        title=dict(
-            text=f"{lang.upper()} minimal pair log-scaled X axis and log-transformed fit",
-            font=dict(size=24, color="#000000"),
-            y=1,
-            x=0.5,
-            xanchor="center",
-            yanchor="top",
-        ),
         xaxis_title="Model size",
         yaxis_title="Accuracy",
         showlegend=False,
     )
 
-    # fig.update_layout(yaxis_range=[25, 90])
+    fig.update_layout(yaxis_range=[45, 95])
+    print(min(run_df["model_size"]))
+    print(max(run_df["model_size"]))
 
-    fig.add_hline(
-        y=random_accuracy_value, line_width=1, line_dash="dash", line_color="red"
+    fig = fig.add_hline(
+        y=random_accuracy_value,
+        line_width=10,
+        line_dash="dash",
+        line_color="red",
+        opacity=1,
     )
-    if lang == "fr":
-        fig.add_hline(
-            y=annotators_accuracy_value,
-            line_width=1,
-            line_dash="dash",
-            line_color="green",
-        )
+    fig = fig.add_hline(
+        y=annotators_accuracy_value,
+        line_width=2,
+        line_dash="dash",
+        line_color="green",
+        opacity=1,
+    )
+    print(random_accuracy_value)
+    print(annotators_accuracy_value)
 
-        print(annotators_accuracy_value)
+    # fig.show(renderer="browser")
+    tikzplotly.save("fig.tex", fig)
 
-    fig.show(renderer="browser")
-
+    fig.write_html(os.path.join("results", f"minimal_pair_analysis_{lang}.html"))
     run_df.drop(["color"], axis=1, inplace=True)
 
     run_df.to_csv(os.path.join("results", f"result_{lang}.tsv"), index=False, sep="\t")
-    if lang == "fr":
-        run_df[run_df["accuracy"].ge(annotators_accuracy_value)]["model_name"].to_csv(
-            os.path.join("results", f"better_than_human_{lang}.tsv"),
-            index=False,
-            sep="\t",
-        )
-    fig.write_html(os.path.join("results", f"minimal_pair_analysis_{lang}.html"))
+    run_df[run_df["accuracy"].ge(annotators_accuracy_value)]["model_name"].to_csv(
+        os.path.join("results", f"better_than_human_{lang}.tsv"),
+        index=False,
+        sep="\t",
+    )

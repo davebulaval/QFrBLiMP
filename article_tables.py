@@ -8,9 +8,9 @@ data = load_dataset(
     data_files=["qfrblimp.jsonl"],
 )
 
-print("a")
-
 data["train"].to_csv("men_colise.csv", index=False)
+
+data["train"].to_pandas().groupby("type").describe()
 
 data_split = load_dataset(
     "json",

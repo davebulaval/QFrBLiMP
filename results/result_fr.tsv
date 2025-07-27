@@ -4,22 +4,22 @@ accuracy	model_name	model_size
 61.56	dbmdz/bert-base-french-europeana-cased	110650880.0
 50.94	FacebookAI/xlm-roberta-base	278295186.0
 72.69	FacebookAI/xlm-roberta-large	560142482.0
-88.02	jpacifico/Chocolatine-14B-Instruct-DPO-v1.2	13960238080.0
-88.02	jpacifico/Chocolatine-14B-Instruct-DPO-v1.2	13960238080.0
-87.05	jpacifico/French-Alpaca-Llama3-8B-Instruct-v1.0	8030261248.0
-90.01	OpenLLM-France/Lucie-7B	6706958336.0
-87.34	OpenLLM-France/Lucie-7B-Instruct	6706958336.0
-83.02	OpenLLM-France/Lucie-7B-Instruct-human-data	6706958336.0
-89.32	OpenLLM-France/Claire-7B-FR-Instruct-0.1	6921720704.0
+88.02	jpacifico/Chocolatine-14B-Instruct-DPO-v1.2	14770033664.0
+88.02	jpacifico/Chocolatine-14B-Instruct-DPO-v1.2	14770033664.0
+87.05	jpacifico/French-Alpaca-Llama3-8B-Instruct-v1.0	
+90.01	OpenLLM-France/Lucie-7B	
+87.34	OpenLLM-France/Lucie-7B-Instruct	
+83.02	OpenLLM-France/Lucie-7B-Instruct-human-data	
+89.32	OpenLLM-France/Claire-7B-FR-Instruct-0.1	
 58.6	gpt2	124439808.0
 89.1	unsloth/llama-3-8B-bnb-4bit	8030261248.0
 88.47	unsloth/llama-3-8B-Instruct-bnb-4bit	8030261248.0
-88.25	unsloth/llama-3-70b-bnb-4bit	70553706496.0
-87.68	unsloth/llama-3-70b-Instruct-bnb-4bit	70553706496.0
+88.25	unsloth/llama-3-70b-bnb-4bit	
+87.68	unsloth/llama-3-70b-Instruct-bnb-4bit	
 87.85	unsloth/Meta-Llama-3.1-8B-bnb-4bit	8030261248.0
 88.7	unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit	8030261248.0
-89.44	unsloth/Meta-Llama-3.1-70B	70553706496.0
-88.64	unsloth/Meta-Llama-3.1-70B-Instruct	70553706496.0
+89.44	unsloth/Meta-Llama-3.1-70B	
+88.64	unsloth/Meta-Llama-3.1-70B-Instruct	
 85.12	unsloth/Llama-3.2-1B-bnb-4bit	1235814400.0
 82.85	unsloth/Llama-3.2-1B-Instruct-bnb-4bit	1235814400.0
 88.02	unsloth/Llama-3.2-3B-bnb-4bit	3212749824.0
@@ -40,10 +40,10 @@ accuracy	model_name	model_size
 89.32	unsloth/Qwen2.5-7B-Instruct-bnb-4bit	7615616512.0
 88.93	unsloth/Qwen2.5-14B-bnb-4bit	14770033664.0
 89.1	unsloth/Qwen2.5-14B-Instruct-bnb-4bit	14770033664.0
-90.29	unsloth/Qwen2.5-32B-bnb-4bit	32763876352.0
-90.23	unsloth/Qwen2.5-32B-Instruct-bnb-4bit	32763876352.0
-89.72	unsloth/Qwen2.5-72B-Instruct-bnb-4bit	72706203648.0
-90.52	unsloth/Qwen2.5-72B-bnb-4bit	72706203648.0
+90.29	unsloth/Qwen2.5-32B-bnb-4bit	
+90.23	unsloth/Qwen2.5-32B-Instruct-bnb-4bit	
+89.72	unsloth/Qwen2.5-72B-Instruct-bnb-4bit	
+90.52	unsloth/Qwen2.5-72B-bnb-4bit	
 72.35	HuggingFaceTB/SmolLM2-360M	361821120.0
 70.53	HuggingFaceTB/SmolLM2-360M-Instruct	361821120.0
 67.75	HuggingFaceTB/SmolLM2-135M	134515008.0
@@ -56,13 +56,13 @@ accuracy	model_name	model_size
 84.95	unsloth/gemma-2-2b-it-bnb-4bit	2614341888.0
 88.36	unsloth/gemma-2-9b-bnb-4bit	9241705984.0
 86.77	unsloth/gemma-2-9b-it-bnb-4bit	9241705984.0
-89.1	unsloth/gemma-2-27b-bnb-4bit	27227128320.0
-86.54	unsloth/gemma-2-27b-it-bnb-4bit	27227128320.0
+89.1	unsloth/gemma-2-27b-bnb-4bit	
+86.54	unsloth/gemma-2-27b-it-bnb-4bit	
 87.96	mistralai/Ministral-8B-Instruct-2410	8019808256.0
 85.86	unsloth/Mistral-7B-v0.3-bnb-4bit	7248023552.0
 86.54	unsloth/Mistral-7B-Instruct-v0.3-bnb-4bit	7248023552.0
-88.7	unsloth/Mistral-Small-Instruct-2409-bnb-4bit	22247282688.0
-88.25	unsloth/Mistral-Nemo-Instruct-2407-bnb-4bit	12247782400.0
+88.7	unsloth/Mistral-Small-Instruct-2409-bnb-4bit	
+88.25	unsloth/Mistral-Nemo-Instruct-2407-bnb-4bit	
 89.04	mistralai/Mixtral-8x7B-Instruct-v0.1	
 88.02	mistralai/Mixtral-8x7B-v0.1	
 78.71	CohereForAI/aya-expanse-8b	8028033024.0
@@ -76,11 +76,12 @@ accuracy	model_name	model_size
 83.25	unsloth/DeepSeek-R1-Distill-Llama-8B-bnb-4bit	
 87.68	unsloth/DeepSeek-R1-Distill-Qwen-14B-unsloth-bnb-4bit	
 87.96	unsloth/DeepSeek-R1-Distill-Qwen-32B-bnb-4bit	
-89.89	unsloth/phi-4-unsloth-bnb-4bit	14659507200.0
-88.98	prithivMLmods/Deepthink-Reasoning-7B	7615616512.0
-88.64	prithivMLmods/Deepthink-Reasoning-14B	14770033664.0
-89.84	simplescaling/s1.1-32B	32763876352.0
-89.61	unsloth/QwQ-32B-unsloth-bnb-4bit	32763876352.0
-89.1	unsloth/Mixtral-8x7B-Instruct-v0.1-unsloth-bnb-4bit	46702792704.0
-89.49	unsloth/Mixtral-8x7B-v0.1-unsloth-bnb-4bit	46702792704.0
+89.89	unsloth/phi-4-unsloth-bnb-4bit	
+88.98	prithivMLmods/Deepthink-Reasoning-7B	
+88.64	prithivMLmods/Deepthink-Reasoning-14B	
+89.84	simplescaling/s1.1-32B	
+89.61	unsloth/QwQ-32B-unsloth-bnb-4bit	
+89.1	unsloth/Mixtral-8x7B-Instruct-v0.1-unsloth-bnb-4bit	
+89.49	unsloth/Mixtral-8x7B-v0.1-unsloth-bnb-4bit	
 86.88	unsloth/reka-flash-3-unsloth-bnb-4bit	
+88.59	jpacifico/Chocolatine-2-14B-Instruct-v2.0.3	14870033664.0

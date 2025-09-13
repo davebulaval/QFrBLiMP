@@ -52,7 +52,7 @@ def model_tokenizer_factory(model_name, device, token, seed: int = 42):
         tokenizer = AutoTokenizer.from_pretrained(model_name, token=token)
         if "mixtral" in model_name.lower():
             tokenizer.pad_token = tokenizer.eos_token
-    elif "flan" in model_name.lower():
+    elif "flan" in model_name.lower() or "lucie" in model_name.lower():
         bnb_configs = BitsAndBytesConfig(load_in_8bit=True, low_cpu_mem_usage=True)
         model = AutoModelForSeq2SeqLM.from_pretrained(
             model_name,

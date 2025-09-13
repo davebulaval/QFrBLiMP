@@ -24,10 +24,10 @@ model_names = (
     + LLMs
     + BASELINES_FR
 )
-compute_subcat = True
+compute_subcat = False
 device_id = "0"
 for model_name in model_names:
     subprocess.run(
-        f"python3 evaluate.py {model_name} {'qfrblimp'} --compute_subcat {compute_subcat} --device_id {device_id}",
+        f"python3 evaluate.py {model_name} {'multiblimp'} --compute_subcat {compute_subcat} --device_id {device_id}",
         shell=True,
     )

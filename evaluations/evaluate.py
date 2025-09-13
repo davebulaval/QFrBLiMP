@@ -15,6 +15,12 @@ if __name__ == "__main__":
     )
 
     parser.add_argument(
+        "corpus",
+        type=str,
+        help="Corpus to use.",
+    )
+
+    parser.add_argument(
         "--compute_subcat",
         type=bool_parse,
         default=True,
@@ -34,18 +40,27 @@ if __name__ == "__main__":
     compute_subcat = args.compute_subcat
     device_id = args.device_id
 
-    dataset = load_dataset(
-        "csv",
-        data_dir=os.path.join("..", "datastore", "QFrBLiMP"),
-        data_files=["human_llm_annotations.tsv"],
-        sep="\t",
-    )
+    if args.corpus == "qfrblimp":
+        dataset = load_dataset(
+            "csv",
+            data_dir=os.path.join("..", "datastore", "QFrBLiMP"),
+            data_files=["human_llm_annotations.tsv"],
+            sep="\t",
+        )
+    elif args.corpus == "multiblimp":
+        dataset = load_dataset(
+            "json",
+            data_dir=os.path.join("..", "datastore", "MultiBLiMP"),
+            data_files=["multiblimp.jsonl"],
+        )
+    else:
+        raise ValueError(f"Unknown corpus: {args.corpus}")
 
     evaluation_loop(
         model_name=model_name,
         dataset=dataset,
         dataset_name="qfrcola",
-        lang="fr",
+        lang=args.corpus,
         compute_subcat=compute_subcat,
         device_id=device_id,
     )

@@ -66,6 +66,9 @@ llms = [
     "google/flan-t5-large",
     "google/flan-t5-xl",
     "google/flan-t5-xxl",
+    "OpenLLM-France/Lucie-7B",
+    "OpenLLM-France/Lucie-7B-Instruct-v1.1",
+    "OpenLLM-France/Lucie-7B-Instruct-human-data",
 ]
 
 new = [

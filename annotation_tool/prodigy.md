@@ -3,7 +3,7 @@
 Here is the command to self-host Prodigy
 
 ```shell
-python -m prodigy fr_blimp frblimp_annotations ../datastore/FrBLiMP/fr_blimp_sentences.jsonl -F recipe.py 
+python -m prodigy fr_blimp frblimp_annotations ../datastore/QFrBLiMP/unannotated/fr_blimp_50_sentences.jsonl -F recipe.py 
 ```
 
 Output the annotation:

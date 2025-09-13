@@ -17,7 +17,7 @@ model_names = (
         "jpacifico/Chocolatine-2-14B-Instruct-v2.0.3",
         "jpacifico/French-Alpaca-Llama3-8B-Instruct-v1.0",
         "OpenLLM-France/Lucie-7B",
-        "OpenLLM-France/Lucie-7B-Instruct",
+        "OpenLLM-France/Lucie-7B-Instruct-v1.1",
         "OpenLLM-France/Lucie-7B-Instruct-human-data",
         "OpenLLM-France/Claire-7B-FR-Instruct-0.1",
     ]

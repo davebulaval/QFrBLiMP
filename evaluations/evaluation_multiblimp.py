@@ -2,7 +2,7 @@ import subprocess
 
 from transformers import logging
 
-from models import LLMs, BASELINES_FR
+from models import LLMs, BASELINES
 
 logging.set_verbosity_warning()
 
@@ -22,7 +22,7 @@ model_names = (
         "OpenLLM-France/Claire-7B-FR-Instruct-0.1",
     ]
     + LLMs
-    + BASELINES_FR
+    + BASELINES
 )
 compute_subcat = False
 device_id = "0"

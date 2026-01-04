@@ -59,7 +59,7 @@ if __name__ == "__main__":
     evaluation_loop(
         model_name=model_name,
         dataset=dataset,
-        dataset_name="qfrcola",
+        dataset_name=args.corpus,
         lang=args.corpus,
         compute_subcat=compute_subcat,
         device_id=device_id,

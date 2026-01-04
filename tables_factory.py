@@ -291,8 +291,8 @@ run_df[run_df["accuracy"].ge(annotators_accuracy_value)]["model_name"].to_csv(
 
 fig = px.scatter(
     run_df,
-    x="accuracy",
-    y="accuracies_2",
+    x="accuracies_2",
+    y="accuracy",
     hover_name="model_name",
 ).update_layout(
     xaxis_title="MultiBLiMP",

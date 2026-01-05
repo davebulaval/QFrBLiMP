@@ -102,5 +102,5 @@ If you use QFrBLiMP in your research, please cite our paper:
 
 ## License
 
-The QFrBLiMP dataset is released under the **CC BY-NC 4.0** license.
+The QFrBLiMP dataset is released under the **CC BY-NC-SA 4.0** license.
 The source sentences were extracted from the *Banque de dépannage linguistique* (BDL) with authorization.

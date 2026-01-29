@@ -14,7 +14,7 @@ To provide a robust baseline, each pair was annotated by 12 native Quebec-French
 
 <img width="254" height="59" alt="image" src="https://github.com/user-attachments/assets/ecb64f60-fd6e-4bd4-9a45-354db7afa7d3" />
 
-Available on [HuggingFace](https://huggingface.co/datasets/davebulaval/qfrblimp).
+Available on [HuggingFace](https://huggingface.co/datasets/graalul/qfrblimp).
 
 * **Language:** Quebec-French (Fr-Qc).
 * **Total Pairs:** 1,761.
